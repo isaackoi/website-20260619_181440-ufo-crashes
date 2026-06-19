@@ -28,8 +28,8 @@ endnotes_mode: 'auto'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
-baseurl: ""
-url: "https://ufo-crashes.branchoria.com"
+baseurl: "/website-20260619_181440-ufo-crashes"
+url: "https://isaackoi.github.io"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
