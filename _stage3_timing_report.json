@@ -1,0 +1,3403 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 34085.9815,
+  "average_page_seconds": 161.5449,
+  "phase_totals_seconds": {
+    "preparation": 33832.2739,
+    "media_svg": 97.516,
+    "content_assembly": 83.3365,
+    "youtube": 46.6658,
+    "monetization": 18.0469,
+    "quality_write": 8.144
+  },
+  "slowest_pages": [
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 326.4673,
+      "phases": {
+        "preparation": 325.7226,
+        "media_svg": 0.0922,
+        "youtube": 0.0115,
+        "content_assembly": 0.5334,
+        "monetization": 0.0591,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 307.8457,
+      "phases": {
+        "preparation": 307.0905,
+        "media_svg": 0.1001,
+        "youtube": 0.0121,
+        "content_assembly": 0.5183,
+        "monetization": 0.0707,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 298.6328,
+      "phases": {
+        "preparation": 297.8115,
+        "media_svg": 0.1533,
+        "youtube": 0.0181,
+        "content_assembly": 0.5097,
+        "monetization": 0.0886,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 294.2696,
+      "phases": {
+        "preparation": 293.5425,
+        "media_svg": 0.0703,
+        "youtube": 0.0247,
+        "content_assembly": 0.5242,
+        "monetization": 0.0579,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 289.2555,
+      "phases": {
+        "preparation": 288.4921,
+        "media_svg": 0.1232,
+        "youtube": 0.0119,
+        "content_assembly": 0.491,
+        "monetization": 0.0867,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 282.6162,
+      "phases": {
+        "preparation": 281.8315,
+        "media_svg": 0.1451,
+        "youtube": 0.0173,
+        "content_assembly": 0.5118,
+        "monetization": 0.061,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 279.8614,
+      "phases": {
+        "preparation": 277.9501,
+        "media_svg": 0.0763,
+        "youtube": 1.2438,
+        "content_assembly": 0.4776,
+        "monetization": 0.0633,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 278.7109,
+      "phases": {
+        "preparation": 275.708,
+        "media_svg": 0.1699,
+        "youtube": 0.9992,
+        "content_assembly": 0.5242,
+        "monetization": 1.2546,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 278.5263,
+      "phases": {
+        "preparation": 277.8266,
+        "media_svg": 0.0906,
+        "youtube": 0.02,
+        "content_assembly": 0.4897,
+        "monetization": 0.0548,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 275.4995,
+      "phases": {
+        "preparation": 274.7554,
+        "media_svg": 0.076,
+        "youtube": 0.0203,
+        "content_assembly": 0.5171,
+        "monetization": 0.0806,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 271.2504,
+      "phases": {
+        "preparation": 270.4071,
+        "media_svg": 0.1378,
+        "youtube": 0.0146,
+        "content_assembly": 0.5739,
+        "monetization": 0.0645,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 266.8065,
+      "phases": {
+        "preparation": 265.4783,
+        "media_svg": 0.076,
+        "youtube": 0.013,
+        "content_assembly": 0.4939,
+        "monetization": 0.6975,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 264.6884,
+      "phases": {
+        "preparation": 232.6423,
+        "media_svg": 0.1369,
+        "youtube": 29.8728,
+        "content_assembly": 0.511,
+        "monetization": 1.4835,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 261.7762,
+      "phases": {
+        "preparation": 261.088,
+        "media_svg": 0.0735,
+        "youtube": 0.0189,
+        "content_assembly": 0.4853,
+        "monetization": 0.0599,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 260.998,
+      "phases": {
+        "preparation": 260.009,
+        "media_svg": 0.1793,
+        "youtube": 0.0115,
+        "content_assembly": 0.6678,
+        "monetization": 0.0826,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 260.2375,
+      "phases": {
+        "preparation": 259.4764,
+        "media_svg": 0.1418,
+        "youtube": 0.012,
+        "content_assembly": 0.5057,
+        "monetization": 0.058,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.8442,
+      "phases": {
+        "preparation": 240.0799,
+        "media_svg": 0.1252,
+        "youtube": 0.0134,
+        "content_assembly": 0.5115,
+        "monetization": 0.0629,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 239.244,
+      "phases": {
+        "preparation": 234.0162,
+        "media_svg": 0.3546,
+        "youtube": 4.3978,
+        "content_assembly": 0.3778,
+        "monetization": 0.0584,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 230.7421,
+      "phases": {
+        "preparation": 229.9621,
+        "media_svg": 0.0835,
+        "youtube": 0.0232,
+        "content_assembly": 0.5533,
+        "monetization": 0.0765,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_crash_site_proof_cha_900d31",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 229.4758,
+      "phases": {
+        "preparation": 228.1242,
+        "media_svg": 0.8389,
+        "youtube": 0.0225,
+        "content_assembly": 0.39,
+        "monetization": 0.0641,
+        "quality_write": 0.0361
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "UFO_crashes_6e52fb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 264.6884,
+      "phases": {
+        "preparation": 232.6423,
+        "media_svg": 0.1369,
+        "youtube": 29.8728,
+        "content_assembly": 0.511,
+        "monetization": 1.4835,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 278.7109,
+      "phases": {
+        "preparation": 275.708,
+        "media_svg": 0.1699,
+        "youtube": 0.9992,
+        "content_assembly": 0.5242,
+        "monetization": 1.2546,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 179.2858,
+      "phases": {
+        "preparation": 178.6357,
+        "media_svg": 0.0902,
+        "youtube": 0.01,
+        "content_assembly": 0.4558,
+        "monetization": 0.0512,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 298.6328,
+      "phases": {
+        "preparation": 297.8115,
+        "media_svg": 0.1533,
+        "youtube": 0.0181,
+        "content_assembly": 0.5097,
+        "monetization": 0.0886,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 260.998,
+      "phases": {
+        "preparation": 260.009,
+        "media_svg": 0.1793,
+        "youtube": 0.0115,
+        "content_assembly": 0.6678,
+        "monetization": 0.0826,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 143.3091,
+      "phases": {
+        "preparation": 142.6785,
+        "media_svg": 0.0759,
+        "youtube": 0.012,
+        "content_assembly": 0.4515,
+        "monetization": 0.0498,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 140.7802,
+      "phases": {
+        "preparation": 140.1236,
+        "media_svg": 0.0912,
+        "youtube": 0.0147,
+        "content_assembly": 0.4407,
+        "monetization": 0.0527,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 266.8065,
+      "phases": {
+        "preparation": 265.4783,
+        "media_svg": 0.076,
+        "youtube": 0.013,
+        "content_assembly": 0.4939,
+        "monetization": 0.6975,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 175.6775,
+      "phases": {
+        "preparation": 175.0115,
+        "media_svg": 0.0732,
+        "youtube": 0.0144,
+        "content_assembly": 0.4634,
+        "monetization": 0.0681,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 240.8442,
+      "phases": {
+        "preparation": 240.0799,
+        "media_svg": 0.1252,
+        "youtube": 0.0134,
+        "content_assembly": 0.5115,
+        "monetization": 0.0629,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 212.1526,
+      "phases": {
+        "preparation": 211.4662,
+        "media_svg": 0.082,
+        "youtube": 0.011,
+        "content_assembly": 0.4731,
+        "monetization": 0.0707,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 158.1282,
+      "phases": {
+        "preparation": 157.416,
+        "media_svg": 0.1008,
+        "youtube": 0.0092,
+        "content_assembly": 0.4844,
+        "monetization": 0.0629,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 275.4995,
+      "phases": {
+        "preparation": 274.7554,
+        "media_svg": 0.076,
+        "youtube": 0.0203,
+        "content_assembly": 0.5171,
+        "monetization": 0.0806,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 307.8457,
+      "phases": {
+        "preparation": 307.0905,
+        "media_svg": 0.1001,
+        "youtube": 0.0121,
+        "content_assembly": 0.5183,
+        "monetization": 0.0707,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 294.2696,
+      "phases": {
+        "preparation": 293.5425,
+        "media_svg": 0.0703,
+        "youtube": 0.0247,
+        "content_assembly": 0.5242,
+        "monetization": 0.0579,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 169.2603,
+      "phases": {
+        "preparation": 168.598,
+        "media_svg": 0.089,
+        "youtube": 0.0175,
+        "content_assembly": 0.4633,
+        "monetization": 0.0438,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 134.6464,
+      "phases": {
+        "preparation": 133.8568,
+        "media_svg": 0.1405,
+        "youtube": 0.0318,
+        "content_assembly": 0.4668,
+        "monetization": 0.0885,
+        "quality_write": 0.062
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 261.7762,
+      "phases": {
+        "preparation": 261.088,
+        "media_svg": 0.0735,
+        "youtube": 0.0189,
+        "content_assembly": 0.4853,
+        "monetization": 0.0599,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 326.4673,
+      "phases": {
+        "preparation": 325.7226,
+        "media_svg": 0.0922,
+        "youtube": 0.0115,
+        "content_assembly": 0.5334,
+        "monetization": 0.0591,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 279.8614,
+      "phases": {
+        "preparation": 277.9501,
+        "media_svg": 0.0763,
+        "youtube": 1.2438,
+        "content_assembly": 0.4776,
+        "monetization": 0.0633,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 195.2981,
+      "phases": {
+        "preparation": 194.6039,
+        "media_svg": 0.0794,
+        "youtube": 0.0165,
+        "content_assembly": 0.4839,
+        "monetization": 0.0481,
+        "quality_write": 0.0664
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 186.9098,
+      "phases": {
+        "preparation": 186.1543,
+        "media_svg": 0.1354,
+        "youtube": 0.0144,
+        "content_assembly": 0.4651,
+        "monetization": 0.0937,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 218.6107,
+      "phases": {
+        "preparation": 217.8076,
+        "media_svg": 0.1735,
+        "youtube": 0.0263,
+        "content_assembly": 0.4731,
+        "monetization": 0.0726,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 289.2555,
+      "phases": {
+        "preparation": 288.4921,
+        "media_svg": 0.1232,
+        "youtube": 0.0119,
+        "content_assembly": 0.491,
+        "monetization": 0.0867,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 174.6633,
+      "phases": {
+        "preparation": 173.9979,
+        "media_svg": 0.0787,
+        "youtube": 0.0108,
+        "content_assembly": 0.4757,
+        "monetization": 0.053,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 230.7421,
+      "phases": {
+        "preparation": 229.9621,
+        "media_svg": 0.0835,
+        "youtube": 0.0232,
+        "content_assembly": 0.5533,
+        "monetization": 0.0765,
+        "quality_write": 0.0436
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 271.2504,
+      "phases": {
+        "preparation": 270.4071,
+        "media_svg": 0.1378,
+        "youtube": 0.0146,
+        "content_assembly": 0.5739,
+        "monetization": 0.0645,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 260.2375,
+      "phases": {
+        "preparation": 259.4764,
+        "media_svg": 0.1418,
+        "youtube": 0.012,
+        "content_assembly": 0.5057,
+        "monetization": 0.058,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 282.6162,
+      "phases": {
+        "preparation": 281.8315,
+        "media_svg": 0.1451,
+        "youtube": 0.0173,
+        "content_assembly": 0.5118,
+        "monetization": 0.061,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 278.5263,
+      "phases": {
+        "preparation": 277.8266,
+        "media_svg": 0.0906,
+        "youtube": 0.02,
+        "content_assembly": 0.4897,
+        "monetization": 0.0548,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 205.2839,
+      "phases": {
+        "preparation": 204.6282,
+        "media_svg": 0.0754,
+        "youtube": 0.0145,
+        "content_assembly": 0.4745,
+        "monetization": 0.0463,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_mogul_flight_4_dbac42",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 61.3162,
+      "phases": {
+        "preparation": 60.5364,
+        "media_svg": 0.3531,
+        "youtube": 0.0126,
+        "content_assembly": 0.3396,
+        "monetization": 0.0447,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 64.5983,
+      "phases": {
+        "preparation": 63.8336,
+        "media_svg": 0.3475,
+        "youtube": 0.0114,
+        "content_assembly": 0.3328,
+        "monetization": 0.0438,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_shag_harbour_memory_b2222f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.8676,
+      "phases": {
+        "preparation": 137.5393,
+        "media_svg": 0.8395,
+        "youtube": 0.0106,
+        "content_assembly": 0.386,
+        "monetization": 0.0578,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_evidence_vs_legend_69f64d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 123.806,
+      "phases": {
+        "preparation": 122.9982,
+        "media_svg": 0.3841,
+        "youtube": 0.0111,
+        "content_assembly": 0.3345,
+        "monetization": 0.0446,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_naval_diver_search_fb9a3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 67.7013,
+      "phases": {
+        "preparation": 66.9178,
+        "media_svg": 0.3598,
+        "youtube": 0.0107,
+        "content_assembly": 0.3281,
+        "monetization": 0.0556,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.4814,
+      "phases": {
+        "preparation": 160.6402,
+        "media_svg": 0.3674,
+        "youtube": 0.0139,
+        "content_assembly": 0.3709,
+        "monetization": 0.0527,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_unknown_not_alien_00f7fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.7979,
+      "phases": {
+        "preparation": 189.917,
+        "media_svg": 0.3447,
+        "youtube": 0.0142,
+        "content_assembly": 0.4089,
+        "monetization": 0.069,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_cold_war_trust_gap_a1feaf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.6644,
+      "phases": {
+        "preparation": 138.3246,
+        "media_svg": 0.8606,
+        "youtube": 0.0123,
+        "content_assembly": 0.3726,
+        "monetization": 0.061,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_blm_alleged_skip_sit_2d8e70",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.1737,
+      "phases": {
+        "preparation": 116.881,
+        "media_svg": 0.8192,
+        "youtube": 0.0105,
+        "content_assembly": 0.3684,
+        "monetization": 0.0594,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_kecksburg_space_acor_770fe3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.9711,
+      "phases": {
+        "preparation": 112.7034,
+        "media_svg": 0.8136,
+        "youtube": 0.0149,
+        "content_assembly": 0.3438,
+        "monetization": 0.0613,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_crash_site_proof_cha_900d31",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 229.4758,
+      "phases": {
+        "preparation": 228.1242,
+        "media_svg": 0.8389,
+        "youtube": 0.0225,
+        "content_assembly": 0.39,
+        "monetization": 0.0641,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_missing_records_susp_31662d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.4893,
+      "phases": {
+        "preparation": 165.2064,
+        "media_svg": 0.7747,
+        "youtube": 0.0146,
+        "content_assembly": 0.3922,
+        "monetization": 0.0667,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_sites_7788de_roswell_places_memor_cee978",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 173.5143,
+      "phases": {
+        "preparation": 172.2889,
+        "media_svg": 0.7394,
+        "youtube": 0.0094,
+        "content_assembly": 0.3723,
+        "monetization": 0.0673,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 94.7835,
+      "phases": {
+        "preparation": 94.0079,
+        "media_svg": 0.3381,
+        "youtube": 0.0114,
+        "content_assembly": 0.3495,
+        "monetization": 0.0455,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_ramey_photos_debris_be408b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.2089,
+      "phases": {
+        "preparation": 102.4087,
+        "media_svg": 0.3436,
+        "youtube": 0.013,
+        "content_assembly": 0.3626,
+        "monetization": 0.0484,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_alien_bodies_memory_6a8e1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.1663,
+      "phases": {
+        "preparation": 143.8561,
+        "media_svg": 0.8262,
+        "youtube": 0.0118,
+        "content_assembly": 0.3659,
+        "monetization": 0.072,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_harbour_rescue_searc_886b94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 94.9301,
+      "phases": {
+        "preparation": 94.0858,
+        "media_svg": 0.3397,
+        "youtube": 0.0128,
+        "content_assembly": 0.3895,
+        "monetization": 0.0523,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 91.6146,
+      "phases": {
+        "preparation": 90.7687,
+        "media_svg": 0.3466,
+        "youtube": 0.0127,
+        "content_assembly": 0.3547,
+        "monetization": 0.0457,
+        "quality_write": 0.0862
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_kecksburg_secrecy_na_8e0516",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 144.7896,
+      "phases": {
+        "preparation": 143.4217,
+        "media_svg": 0.8355,
+        "youtube": 0.0131,
+        "content_assembly": 0.4054,
+        "monetization": 0.0751,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_missing_records_susp_87219d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.3183,
+      "phases": {
+        "preparation": 201.9765,
+        "media_svg": 0.8199,
+        "youtube": 0.0122,
+        "content_assembly": 0.4063,
+        "monetization": 0.0662,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_roswell_legend_growt_77633e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.6911,
+      "phases": {
+        "preparation": 115.2128,
+        "media_svg": 0.8251,
+        "youtube": 0.8289,
+        "content_assembly": 0.3655,
+        "monetization": 1.4253,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_shag_harbour_myth_gr_4cfe34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.9851,
+      "phases": {
+        "preparation": 153.6932,
+        "media_svg": 0.8234,
+        "youtube": 0.0183,
+        "content_assembly": 0.3551,
+        "monetization": 0.0601,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_story_growth_5f6019_source_monitoring_uf_7a45d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.2842,
+      "phases": {
+        "preparation": 148.9812,
+        "media_svg": 0.8133,
+        "youtube": 0.0172,
+        "content_assembly": 0.3683,
+        "monetization": 0.0645,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_dennis_nurse_gap_274977",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.1578,
+      "phases": {
+        "preparation": 118.3655,
+        "media_svg": 0.3587,
+        "youtube": 0.0136,
+        "content_assembly": 0.3427,
+        "monetization": 0.0448,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_rules_c308a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.1156,
+      "phases": {
+        "preparation": 202.1318,
+        "media_svg": 0.462,
+        "youtube": 0.0192,
+        "content_assembly": 0.4131,
+        "monetization": 0.0533,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_debris_fields_bbfcf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 204.0934,
+      "phases": {
+        "preparation": 203.2826,
+        "media_svg": 0.3445,
+        "youtube": 0.0111,
+        "content_assembly": 0.3623,
+        "monetization": 0.0524,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_mogul_secrecy_114000",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.7619,
+      "phases": {
+        "preparation": 174.899,
+        "media_svg": 0.3491,
+        "youtube": 0.0141,
+        "content_assembly": 0.3898,
+        "monetization": 0.0689,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_air_defense_reportin_ce9694",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.3256,
+      "phases": {
+        "preparation": 151.7545,
+        "media_svg": 0.8302,
+        "youtube": 1.2582,
+        "content_assembly": 0.3844,
+        "monetization": 0.0595,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.7078,
+      "phases": {
+        "preparation": 150.4396,
+        "media_svg": 0.7999,
+        "youtube": 0.014,
+        "content_assembly": 0.3603,
+        "monetization": 0.0595,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.92,
+      "phases": {
+        "preparation": 134.5896,
+        "media_svg": 0.7983,
+        "youtube": 0.0131,
+        "content_assembly": 0.4108,
+        "monetization": 0.0599,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.1623,
+      "phases": {
+        "preparation": 139.8432,
+        "media_svg": 0.8162,
+        "youtube": 0.017,
+        "content_assembly": 0.3928,
+        "monetization": 0.0594,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_cold_war_tech_6ee382_nuclear_detection_ge_49f1fa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.4378,
+      "phases": {
+        "preparation": 146.1897,
+        "media_svg": 0.7865,
+        "youtube": 0.0162,
+        "content_assembly": 0.3515,
+        "monetization": 0.0601,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_nasa_foia_search_653ae1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.262,
+      "phases": {
+        "preparation": 128.4915,
+        "media_svg": 0.3393,
+        "youtube": 0.0112,
+        "content_assembly": 0.3397,
+        "monetization": 0.0464,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_evaluate_ufo_debris_5ad550",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 229.1945,
+      "phases": {
+        "preparation": 228.36,
+        "media_svg": 0.342,
+        "youtube": 0.0134,
+        "content_assembly": 0.3832,
+        "monetization": 0.0601,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_mogul_cover_story_68f116",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.0413,
+      "phases": {
+        "preparation": 149.2159,
+        "media_svg": 0.3529,
+        "youtube": 0.0165,
+        "content_assembly": 0.3777,
+        "monetization": 0.0437,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.0988,
+      "phases": {
+        "preparation": 122.769,
+        "media_svg": 0.8378,
+        "youtube": 0.0125,
+        "content_assembly": 0.366,
+        "monetization": 0.0792,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.701,
+      "phases": {
+        "preparation": 115.9031,
+        "media_svg": 0.3447,
+        "youtube": 0.0203,
+        "content_assembly": 0.3575,
+        "monetization": 0.0444,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_shag_harbour_police_7927b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.5682,
+      "phases": {
+        "preparation": 150.1817,
+        "media_svg": 0.918,
+        "youtube": 0.0086,
+        "content_assembly": 0.3828,
+        "monetization": 0.0438,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_mogul_nuclear_detect_00c6f5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 84.8895,
+      "phases": {
+        "preparation": 84.0095,
+        "media_svg": 0.4358,
+        "youtube": 0.0139,
+        "content_assembly": 0.3527,
+        "monetization": 0.0438,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_mogul_remaining_doub_a0a9d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 93.8438,
+      "phases": {
+        "preparation": 93.0239,
+        "media_svg": 0.3705,
+        "youtube": 0.0138,
+        "content_assembly": 0.35,
+        "monetization": 0.0544,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 91.6243,
+      "phases": {
+        "preparation": 90.8543,
+        "media_svg": 0.3443,
+        "youtube": 0.0089,
+        "content_assembly": 0.3399,
+        "monetization": 0.045,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_gao_roswell_records_66b628",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 85.675,
+      "phases": {
+        "preparation": 84.8871,
+        "media_svg": 0.3429,
+        "youtube": 0.0112,
+        "content_assembly": 0.3459,
+        "monetization": 0.0539,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_flying_disc_94f224",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 99.0308,
+      "phases": {
+        "preparation": 98.2219,
+        "media_svg": 0.344,
+        "youtube": 0.0096,
+        "content_assembly": 0.3385,
+        "monetization": 0.0787,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 123.6319,
+      "phases": {
+        "preparation": 122.8137,
+        "media_svg": 0.3674,
+        "youtube": 0.0154,
+        "content_assembly": 0.3461,
+        "monetization": 0.0563,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_aaro_offworld_claims_cf0846",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 215.7281,
+      "phases": {
+        "preparation": 214.8944,
+        "media_svg": 0.3314,
+        "youtube": 0.0123,
+        "content_assembly": 0.3854,
+        "monetization": 0.0625,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_debris_false_certain_01dace",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.0108,
+      "phases": {
+        "preparation": 121.1779,
+        "media_svg": 0.3413,
+        "youtube": 0.0167,
+        "content_assembly": 0.3787,
+        "monetization": 0.0618,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_roswell_balloon_lege_beed11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.7244,
+      "phases": {
+        "preparation": 138.907,
+        "media_svg": 0.3407,
+        "youtube": 0.0153,
+        "content_assembly": 0.363,
+        "monetization": 0.0571,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_aurora_cemetery_lege_1acb6e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.9729,
+      "phases": {
+        "preparation": 132.1644,
+        "media_svg": 0.351,
+        "youtube": 0.0124,
+        "content_assembly": 0.3655,
+        "monetization": 0.0443,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_autopsy_film_lore_de21ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.1057,
+      "phases": {
+        "preparation": 169.2811,
+        "media_svg": 0.3382,
+        "youtube": 0.0145,
+        "content_assembly": 0.395,
+        "monetization": 0.0427,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_aurora_hoax_boosteri_d634b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 86.7883,
+      "phases": {
+        "preparation": 85.9967,
+        "media_svg": 0.3506,
+        "youtube": 0.0124,
+        "content_assembly": 0.351,
+        "monetization": 0.0451,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_aurora_martian_pilot_a48e43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 107.9827,
+      "phases": {
+        "preparation": 107.1961,
+        "media_svg": 0.3419,
+        "youtube": 0.0119,
+        "content_assembly": 0.354,
+        "monetization": 0.0449,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_dallas_news_story_au_79f6b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 89.0568,
+      "phases": {
+        "preparation": 88.2675,
+        "media_svg": 0.3574,
+        "youtube": 0.0119,
+        "content_assembly": 0.3429,
+        "monetization": 0.0447,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.2731,
+      "phases": {
+        "preparation": 102.4973,
+        "media_svg": 0.339,
+        "youtube": 0.0122,
+        "content_assembly": 0.3504,
+        "monetization": 0.0422,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aurora_airship_d1e639_pre_roswell_crash_fo_b60f48",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 102.7051,
+      "phases": {
+        "preparation": 101.9123,
+        "media_svg": 0.3424,
+        "youtube": 0.0107,
+        "content_assembly": 0.3631,
+        "monetization": 0.0435,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_ubatuba_provenance_b0ff03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.5282,
+      "phases": {
+        "preparation": 134.7175,
+        "media_svg": 0.3464,
+        "youtube": 0.0132,
+        "content_assembly": 0.3565,
+        "monetization": 0.0607,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.981,
+      "phases": {
+        "preparation": 116.1565,
+        "media_svg": 0.3501,
+        "youtube": 0.0166,
+        "content_assembly": 0.3625,
+        "monetization": 0.0619,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance_fa_ae406c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 222.1393,
+      "phases": {
+        "preparation": 221.3051,
+        "media_svg": 0.337,
+        "youtube": 0.0117,
+        "content_assembly": 0.3862,
+        "monetization": 0.0621,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_roswell_debris_recor_4dc78d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.9027,
+      "phases": {
+        "preparation": 139.0629,
+        "media_svg": 0.354,
+        "youtube": 0.0093,
+        "content_assembly": 0.3746,
+        "monetization": 0.0672,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.4587,
+      "phases": {
+        "preparation": 136.6249,
+        "media_svg": 0.3489,
+        "youtube": 0.0088,
+        "content_assembly": 0.379,
+        "monetization": 0.0632,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_debris_testing_7087d2_ubatuba_magnesium_pr_6c35de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.8004,
+      "phases": {
+        "preparation": 139.9891,
+        "media_svg": 0.3486,
+        "youtube": 0.0147,
+        "content_assembly": 0.3539,
+        "monetization": 0.0598,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_no_records_replies_532276",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 201.4688,
+      "phases": {
+        "preparation": 200.6173,
+        "media_svg": 0.3438,
+        "youtube": 0.0116,
+        "content_assembly": 0.4008,
+        "monetization": 0.0583,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_first_call_crash_cla_0e986f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.2993,
+      "phases": {
+        "preparation": 123.0183,
+        "media_svg": 0.8235,
+        "youtube": 0.0127,
+        "content_assembly": 0.351,
+        "monetization": 0.0613,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_kecksburg_cordon_cla_0bc522",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 123.0956,
+      "phases": {
+        "preparation": 121.6908,
+        "media_svg": 0.7853,
+        "youtube": 0.0107,
+        "content_assembly": 0.4985,
+        "monetization": 0.0655,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_missing_aircraft_che_7e5f94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.3706,
+      "phases": {
+        "preparation": 116.0613,
+        "media_svg": 0.8416,
+        "youtube": 0.015,
+        "content_assembly": 0.3563,
+        "monetization": 0.0619,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_project_mogul_explan_2128c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 94.6001,
+      "phases": {
+        "preparation": 93.7878,
+        "media_svg": 0.3598,
+        "youtube": 0.0116,
+        "content_assembly": 0.3518,
+        "monetization": 0.0573,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_police_reports_7983df_police_reports_scien_e4cf89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.3314,
+      "phases": {
+        "preparation": 137.086,
+        "media_svg": 0.7887,
+        "youtube": 0.0163,
+        "content_assembly": 0.3635,
+        "monetization": 0.0439,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_alien_body_c_7fa6f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 99.1787,
+      "phases": {
+        "preparation": 98.3832,
+        "media_svg": 0.3463,
+        "youtube": 0.0103,
+        "content_assembly": 0.3514,
+        "monetization": 0.0563,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 92.8402,
+      "phases": {
+        "preparation": 92.0627,
+        "media_svg": 0.3428,
+        "youtube": 0.0104,
+        "content_assembly": 0.3393,
+        "monetization": 0.0537,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 96.0848,
+      "phases": {
+        "preparation": 95.3052,
+        "media_svg": 0.3387,
+        "youtube": 0.0115,
+        "content_assembly": 0.344,
+        "monetization": 0.054,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_body_evidence_test_3ec8ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 193.6192,
+      "phases": {
+        "preparation": 192.786,
+        "media_svg": 0.3375,
+        "youtube": 0.0183,
+        "content_assembly": 0.3826,
+        "monetization": 0.0611,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_roswell_custody_gap_18fa07",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.2017,
+      "phases": {
+        "preparation": 182.3488,
+        "media_svg": 0.3492,
+        "youtube": 0.0164,
+        "content_assembly": 0.3843,
+        "monetization": 0.0679,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_foia_exemptions_ufo_18bcfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.9183,
+      "phases": {
+        "preparation": 163.088,
+        "media_svg": 0.3556,
+        "youtube": 0.0118,
+        "content_assembly": 0.3847,
+        "monetization": 0.0434,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_acorn_object_claim_b4c11b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 120.1714,
+      "phases": {
+        "preparation": 119.3538,
+        "media_svg": 0.3707,
+        "youtube": 0.0107,
+        "content_assembly": 0.342,
+        "monetization": 0.0492,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_missing_nasa_boxes_b352df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.9004,
+      "phases": {
+        "preparation": 129.1194,
+        "media_svg": 0.3452,
+        "youtube": 0.0113,
+        "content_assembly": 0.3475,
+        "monetization": 0.0442,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_delayed_sonic_booms_814e3c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.7238,
+      "phases": {
+        "preparation": 134.8974,
+        "media_svg": 0.3547,
+        "youtube": 0.0118,
+        "content_assembly": 0.3711,
+        "monetization": 0.0563,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_crash_claim_physical_df5e11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.0793,
+      "phases": {
+        "preparation": 166.2737,
+        "media_svg": 0.3472,
+        "youtube": 0.0118,
+        "content_assembly": 0.3673,
+        "monetization": 0.0441,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_early_vs_late_witnes_cd6262",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 165.6951,
+      "phases": {
+        "preparation": 164.8681,
+        "media_svg": 0.339,
+        "youtube": 0.0172,
+        "content_assembly": 0.3823,
+        "monetization": 0.0514,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_kecksburg_missing_re_41ac90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.0745,
+      "phases": {
+        "preparation": 134.2716,
+        "media_svg": 0.3398,
+        "youtube": 0.0116,
+        "content_assembly": 0.3575,
+        "monetization": 0.0579,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.6322,
+      "phases": {
+        "preparation": 188.7801,
+        "media_svg": 0.3461,
+        "youtube": 0.0135,
+        "content_assembly": 0.3998,
+        "monetization": 0.0555,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_shag_harbour_witness_843e07",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.0393,
+      "phases": {
+        "preparation": 149.2403,
+        "media_svg": 0.3454,
+        "youtube": 0.0118,
+        "content_assembly": 0.3563,
+        "monetization": 0.0511,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_witness_reports_78ec97_varginha_civic_legen_7ee289",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 99.6285,
+      "phases": {
+        "preparation": 98.836,
+        "media_svg": 0.3386,
+        "youtube": 0.014,
+        "content_assembly": 0.3553,
+        "monetization": 0.0538,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_kona_blue_claims_d3e149",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.577,
+      "phases": {
+        "preparation": 172.3367,
+        "media_svg": 0.7682,
+        "youtube": 0.9939,
+        "content_assembly": 0.3809,
+        "monetization": 0.0602,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_ufo_rescue_logic_d103a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 168.737,
+      "phases": {
+        "preparation": 167.9278,
+        "media_svg": 0.3435,
+        "youtube": 0.0106,
+        "content_assembly": 0.3726,
+        "monetization": 0.0491,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.4136,
+      "phases": {
+        "preparation": 126.4313,
+        "media_svg": 0.4048,
+        "youtube": 0.0099,
+        "content_assembly": 0.4788,
+        "monetization": 0.0529,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_roswell_body_timing_da583b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.4244,
+      "phases": {
+        "preparation": 174.618,
+        "media_svg": 0.3471,
+        "youtube": 0.0129,
+        "content_assembly": 0.3654,
+        "monetization": 0.0463,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radar_reflectors_f94a3c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.4482,
+      "phases": {
+        "preparation": 150.6388,
+        "media_svg": 0.3504,
+        "youtube": 0.0129,
+        "content_assembly": 0.3567,
+        "monetization": 0.0552,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_layered_metal_histor_ad464d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.5841,
+      "phases": {
+        "preparation": 120.7772,
+        "media_svg": 0.3452,
+        "youtube": 0.0127,
+        "content_assembly": 0.3538,
+        "monetization": 0.0618,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_ohio_aluminum_specim_d483e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 81.6569,
+      "phases": {
+        "preparation": 80.8781,
+        "media_svg": 0.3416,
+        "youtube": 0.0121,
+        "content_assembly": 0.3327,
+        "monetization": 0.0592,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_material_contaminati_6aa145",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.0695,
+      "phases": {
+        "preparation": 171.2471,
+        "media_svg": 0.3384,
+        "youtube": 0.0081,
+        "content_assembly": 0.3773,
+        "monetization": 0.0624,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.7776,
+      "phases": {
+        "preparation": 136.9682,
+        "media_svg": 0.3441,
+        "youtube": 0.0117,
+        "content_assembly": 0.3548,
+        "monetization": 0.0632,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.1708,
+      "phases": {
+        "preparation": 182.3122,
+        "media_svg": 0.3373,
+        "youtube": 0.0284,
+        "content_assembly": 0.3935,
+        "monetization": 0.0638,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_earliest_records_62c8b3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 194.428,
+      "phases": {
+        "preparation": 193.1773,
+        "media_svg": 0.761,
+        "youtube": 0.0151,
+        "content_assembly": 0.3758,
+        "monetization": 0.0601,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_blue_book_roswell_ga_b65d23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 203.4024,
+      "phases": {
+        "preparation": 202.5901,
+        "media_svg": 0.337,
+        "youtube": 0.0148,
+        "content_assembly": 0.3774,
+        "monetization": 0.0445,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.6917,
+      "phases": {
+        "preparation": 111.1027,
+        "media_svg": 0.3334,
+        "youtube": 0.7976,
+        "content_assembly": 0.3638,
+        "monetization": 0.0576,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_kecksburg_nasa_searc_49385b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.7779,
+      "phases": {
+        "preparation": 128.9723,
+        "media_svg": 0.3249,
+        "youtube": 0.0123,
+        "content_assembly": 0.3794,
+        "monetization": 0.0554,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_chelyabinsk_meteor_l_0f9844",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.1122,
+      "phases": {
+        "preparation": 149.2902,
+        "media_svg": 0.3511,
+        "youtube": 0.0125,
+        "content_assembly": 0.3675,
+        "monetization": 0.057,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 239.244,
+      "phases": {
+        "preparation": 234.0162,
+        "media_svg": 0.3546,
+        "youtube": 4.3978,
+        "content_assembly": 0.3778,
+        "monetization": 0.0584,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_false_descent_fireba_59495d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 163.3877,
+      "phases": {
+        "preparation": 162.5786,
+        "media_svg": 0.3398,
+        "youtube": 0.0097,
+        "content_assembly": 0.3784,
+        "monetization": 0.0467,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 109.8127,
+      "phases": {
+        "preparation": 109.0243,
+        "media_svg": 0.3365,
+        "youtube": 0.0122,
+        "content_assembly": 0.3469,
+        "monetization": 0.06,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.9262,
+      "phases": {
+        "preparation": 152.0756,
+        "media_svg": 0.3403,
+        "youtube": 0.0084,
+        "content_assembly": 0.4107,
+        "monetization": 0.0561,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023_regional_witness_rep_10287c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.527,
+      "phases": {
+        "preparation": 187.7082,
+        "media_svg": 0.3393,
+        "youtube": 0.015,
+        "content_assembly": 0.3726,
+        "monetization": 0.0573,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_f117_alien_tech_conf_d171bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.083,
+      "phases": {
+        "preparation": 160.2626,
+        "media_svg": 0.3421,
+        "youtube": 0.0166,
+        "content_assembly": 0.3801,
+        "monetization": 0.0469,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_recovered_tech_not_a_5abeff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.7926,
+      "phases": {
+        "preparation": 189.9587,
+        "media_svg": 0.3463,
+        "youtube": 0.0133,
+        "content_assembly": 0.3931,
+        "monetization": 0.045,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_roswell_missing_reco_f9debd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.6801,
+      "phases": {
+        "preparation": 125.8774,
+        "media_svg": 0.3387,
+        "youtube": 0.013,
+        "content_assembly": 0.3531,
+        "monetization": 0.0429,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_sap_alien_tech_rumor_d24c1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.2958,
+      "phases": {
+        "preparation": 163.4868,
+        "media_svg": 0.3501,
+        "youtube": 0.0142,
+        "content_assembly": 0.3694,
+        "monetization": 0.0403,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_military_secrecy_9f63a4_u2_sighting_confusio_0c02d9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 181.2958,
+      "phases": {
+        "preparation": 180.4476,
+        "media_svg": 0.3572,
+        "youtube": 0.0157,
+        "content_assembly": 0.3951,
+        "monetization": 0.0442,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_aaro_reverse_enginee_25dda8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.1189,
+      "phases": {
+        "preparation": 170.4305,
+        "media_svg": 0.2272,
+        "youtube": 0.0143,
+        "content_assembly": 0.3674,
+        "monetization": 0.0411,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_blue_book_unexplaine_3bfecc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 185.3874,
+      "phases": {
+        "preparation": 183.7284,
+        "media_svg": 0.3613,
+        "youtube": 0.8178,
+        "content_assembly": 0.3914,
+        "monetization": 0.049,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_classified_program_r_6ae50c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.778,
+      "phases": {
+        "preparation": 149.9633,
+        "media_svg": 0.35,
+        "youtube": 0.0141,
+        "content_assembly": 0.3732,
+        "monetization": 0.0396,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_missing_records_cove_8120f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.635,
+      "phases": {
+        "preparation": 157.8417,
+        "media_svg": 0.3322,
+        "youtube": 0.0127,
+        "content_assembly": 0.3758,
+        "monetization": 0.0378,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_nasa_uap_data_qualit_c12aeb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 165.6256,
+      "phases": {
+        "preparation": 164.8196,
+        "media_svg": 0.3389,
+        "youtube": 0.014,
+        "content_assembly": 0.3716,
+        "monetization": 0.045,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_official_reviews_5e4bdf_sightings_vs_recover_664f3b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 177.8971,
+      "phases": {
+        "preparation": 177.0834,
+        "media_svg": 0.3424,
+        "youtube": 0.0136,
+        "content_assembly": 0.3766,
+        "monetization": 0.0441,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_debris_fields_missin_443345",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.3293,
+      "phases": {
+        "preparation": 158.0271,
+        "media_svg": 0.8354,
+        "youtube": 0.0133,
+        "content_assembly": 0.3637,
+        "monetization": 0.0459,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_foil_balsa_strange_d_346159",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.8601,
+      "phases": {
+        "preparation": 126.5435,
+        "media_svg": 0.8064,
+        "youtube": 0.0152,
+        "content_assembly": 0.4004,
+        "monetization": 0.0597,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_mogul_secrecy_debris_17e42a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.5909,
+      "phases": {
+        "preparation": 142.3241,
+        "media_svg": 0.793,
+        "youtube": 0.0152,
+        "content_assembly": 0.3639,
+        "monetization": 0.0605,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_radar_reflector_shap_8e8fa4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.5822,
+      "phases": {
+        "preparation": 137.2697,
+        "media_svg": 0.821,
+        "youtube": 0.0187,
+        "content_assembly": 0.3658,
+        "monetization": 0.0601,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.1511,
+      "phases": {
+        "preparation": 116.8568,
+        "media_svg": 0.8074,
+        "youtube": 0.0131,
+        "content_assembly": 0.3777,
+        "monetization": 0.0639,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_radar_reflectors_f94a3c_roswell_radar_target_66a717",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.9313,
+      "phases": {
+        "preparation": 165.6234,
+        "media_svg": 0.8232,
+        "youtube": 0.0124,
+        "content_assembly": 0.374,
+        "monetization": 0.0635,
+        "quality_write": 0.0349
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd_barnett_secondhand_s_cd24a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.9484,
+      "phases": {
+        "preparation": 143.0214,
+        "media_svg": 0.3956,
+        "youtube": 0.0092,
+        "content_assembly": 0.3604,
+        "monetization": 0.1278,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.454,
+      "phases": {
+        "preparation": 170.4759,
+        "media_svg": 0.3914,
+        "youtube": 0.012,
+        "content_assembly": 0.3991,
+        "monetization": 0.1339,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_misfiled_ufo_records_b00c21",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.142,
+      "phases": {
+        "preparation": 126.2225,
+        "media_svg": 0.3877,
+        "youtube": 0.0133,
+        "content_assembly": 0.3748,
+        "monetization": 0.1115,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_blue_book_roswell_ga_b65d23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.1705,
+      "phases": {
+        "preparation": 187.2227,
+        "media_svg": 0.3999,
+        "youtube": 0.014,
+        "content_assembly": 0.4116,
+        "monetization": 0.0852,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_roswell_lost_message_91a680",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.5137,
+      "phases": {
+        "preparation": 148.608,
+        "media_svg": 0.4013,
+        "youtube": 0.0122,
+        "content_assembly": 0.3829,
+        "monetization": 0.0764,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_records_schedules_uf_1eaa34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 211.4235,
+      "phases": {
+        "preparation": 210.5084,
+        "media_svg": 0.3904,
+        "youtube": 0.012,
+        "content_assembly": 0.4036,
+        "monetization": 0.0708,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147_secrecy_alien_recove_f53c55",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.999,
+      "phases": {
+        "preparation": 152.9706,
+        "media_svg": 0.4273,
+        "youtube": 0.0192,
+        "content_assembly": 0.3917,
+        "monetization": 0.1555,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ubatuba_fragments_99db42",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 120.274,
+      "phases": {
+        "preparation": 118.6154,
+        "media_svg": 0.9269,
+        "youtube": 0.0133,
+        "content_assembly": 0.4017,
+        "monetization": 0.2623,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_great_lakes_fireball_dc7473",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 114.4731,
+      "phases": {
+        "preparation": 113.5576,
+        "media_svg": 0.4158,
+        "youtube": 0.0131,
+        "content_assembly": 0.3595,
+        "monetization": 0.0863,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.5822,
+      "phases": {
+        "preparation": 134.7151,
+        "media_svg": 0.3864,
+        "youtube": 0.0108,
+        "content_assembly": 0.3654,
+        "monetization": 0.0702,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_kecksburg_records_79f489_space_debris_records_0e2f9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 93.0703,
+      "phases": {
+        "preparation": 92.2355,
+        "media_svg": 0.3943,
+        "youtube": 0.0105,
+        "content_assembly": 0.3476,
+        "monetization": 0.0509,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_kona_blue_programme_f031f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 138.155,
+      "phases": {
+        "preparation": 135.9454,
+        "media_svg": 0.8762,
+        "youtube": 0.7936,
+        "content_assembly": 0.3733,
+        "monetization": 0.1315,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_aaro_evidence_test_ca57b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.8167,
+      "phases": {
+        "preparation": 183.3495,
+        "media_svg": 0.8716,
+        "youtube": 0.0107,
+        "content_assembly": 0.4141,
+        "monetization": 0.131,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_search_vs_recovery_614bb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 200.1672,
+      "phases": {
+        "preparation": 198.7421,
+        "media_svg": 0.8789,
+        "youtube": 0.023,
+        "content_assembly": 0.3841,
+        "monetization": 0.104,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_aaro_verifiable_cras_1afe50",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 194.228,
+      "phases": {
+        "preparation": 192.8086,
+        "media_svg": 0.844,
+        "youtube": 0.016,
+        "content_assembly": 0.4091,
+        "monetization": 0.1102,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_calibrated_sensors_c_5379f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 181.0563,
+      "phases": {
+        "preparation": 179.7329,
+        "media_svg": 0.8147,
+        "youtube": 0.0146,
+        "content_assembly": 0.3903,
+        "monetization": 0.0669,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.2747,
+      "phases": {
+        "preparation": 137.8911,
+        "media_svg": 0.8775,
+        "youtube": 0.0113,
+        "content_assembly": 0.3732,
+        "monetization": 0.0885,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_crash_material_custo_caa6c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 227.3571,
+      "phases": {
+        "preparation": 225.8997,
+        "media_svg": 0.8619,
+        "youtube": 0.0154,
+        "content_assembly": 0.4234,
+        "monetization": 0.0905,
+        "quality_write": 0.0663
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_ordinary_baseline_co_d8dd05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.3984,
+      "phases": {
+        "preparation": 138.0957,
+        "media_svg": 0.7969,
+        "youtube": 0.0147,
+        "content_assembly": 0.3909,
+        "monetization": 0.0662,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_missing_metadata_deb_27650f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.5695,
+      "phases": {
+        "preparation": 189.2015,
+        "media_svg": 0.871,
+        "youtube": 0.0118,
+        "content_assembly": 0.3845,
+        "monetization": 0.0626,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_circular_reporting_c_7b801d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.2662,
+      "phases": {
+        "preparation": 167.8748,
+        "media_svg": 0.8592,
+        "youtube": 0.0114,
+        "content_assembly": 0.3978,
+        "monetization": 0.0808,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_grusch_missing_proof_26b97f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 193.4524,
+      "phases": {
+        "preparation": 192.104,
+        "media_svg": 0.824,
+        "youtube": 0.0167,
+        "content_assembly": 0.3989,
+        "monetization": 0.0716,
+        "quality_write": 0.0371
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_misidentified_secret_a8a7c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 185.0865,
+      "phases": {
+        "preparation": 183.6608,
+        "media_svg": 0.8709,
+        "youtube": 0.014,
+        "content_assembly": 0.4284,
+        "monetization": 0.0752,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_retrieval_paper_trai_5e270e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 182.9723,
+      "phases": {
+        "preparation": 181.6234,
+        "media_svg": 0.8344,
+        "youtube": 0.0159,
+        "content_assembly": 0.3943,
+        "monetization": 0.069,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_grusch_evidence_gap_d529d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.6689,
+      "phases": {
+        "preparation": 145.2765,
+        "media_svg": 0.8614,
+        "youtube": 0.0124,
+        "content_assembly": 0.383,
+        "monetization": 0.0995,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_retrieval_programs_3a2036_uap_records_oversigh_183dad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 219.2266,
+      "phases": {
+        "preparation": 217.836,
+        "media_svg": 0.8696,
+        "youtube": 0.01,
+        "content_assembly": 0.3946,
+        "monetization": 0.0772,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.4571,
+      "phases": {
+        "preparation": 127.5315,
+        "media_svg": 0.3958,
+        "youtube": 0.0223,
+        "content_assembly": 0.3645,
+        "monetization": 0.1089,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.8503,
+      "phases": {
+        "preparation": 157.4796,
+        "media_svg": 0.7973,
+        "youtube": 1.0892,
+        "content_assembly": 0.3796,
+        "monetization": 0.0698,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_early_records_crash_8c1210",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 143.8024,
+      "phases": {
+        "preparation": 142.4885,
+        "media_svg": 0.8321,
+        "youtube": 0.0155,
+        "content_assembly": 0.3685,
+        "monetization": 0.0625,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ufo_debris_chain_of_8b9d71",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 177.8446,
+      "phases": {
+        "preparation": 176.4576,
+        "media_svg": 0.875,
+        "youtube": 0.0136,
+        "content_assembly": 0.3918,
+        "monetization": 0.0704,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_shag_harbour_search_66819d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.2696,
+      "phases": {
+        "preparation": 120.8891,
+        "media_svg": 0.8925,
+        "youtube": 0.013,
+        "content_assembly": 0.3828,
+        "monetization": 0.0564,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_aircraft_accounting_abe3e4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.7651,
+      "phases": {
+        "preparation": 150.8463,
+        "media_svg": 0.3818,
+        "youtube": 0.0095,
+        "content_assembly": 0.3803,
+        "monetization": 0.0911,
+        "quality_write": 0.056
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 176.9891,
+      "phases": {
+        "preparation": 175.6234,
+        "media_svg": 0.8346,
+        "youtube": 0.0131,
+        "content_assembly": 0.3985,
+        "monetization": 0.0838,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_secure_reporting_rou_fc230c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 174.9537,
+      "phases": {
+        "preparation": 173.6419,
+        "media_svg": 0.7882,
+        "youtube": 0.016,
+        "content_assembly": 0.3815,
+        "monetization": 0.0883,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_uap_records_collecti_736606",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 190.143,
+      "phases": {
+        "preparation": 188.0087,
+        "media_svg": 0.8423,
+        "youtube": 0.7952,
+        "content_assembly": 0.3899,
+        "monetization": 0.0671,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_air_crash_memory_loo_d0b258",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.1808,
+      "phases": {
+        "preparation": 169.2613,
+        "media_svg": 0.3874,
+        "youtube": 0.0156,
+        "content_assembly": 0.4018,
+        "monetization": 0.0676,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_missing_aircraft_che_7e5f94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.4696,
+      "phases": {
+        "preparation": 118.6053,
+        "media_svg": 0.3874,
+        "youtube": 0.015,
+        "content_assembly": 0.3817,
+        "monetization": 0.0463,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_witness_geometry_wat_9d0f22",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 154.1372,
+      "phases": {
+        "preparation": 153.1949,
+        "media_svg": 0.4392,
+        "youtube": 0.0211,
+        "content_assembly": 0.3949,
+        "monetization": 0.0516,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 156.8631,
+      "phases": {
+        "preparation": 155.9843,
+        "media_svg": 0.3822,
+        "youtube": 0.0226,
+        "content_assembly": 0.372,
+        "monetization": 0.0623,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_aurora_cemetery_lege_1acb6e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.525,
+      "phases": {
+        "preparation": 124.5599,
+        "media_svg": 0.3989,
+        "youtube": 0.0169,
+        "content_assembly": 0.4235,
+        "monetization": 0.0925,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_kecksburg_space_acor_770fe3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 137.1054,
+      "phases": {
+        "preparation": 136.2229,
+        "media_svg": 0.3721,
+        "youtube": 0.0179,
+        "content_assembly": 0.3839,
+        "monetization": 0.0694,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_official_explanation_69d908",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 162.5705,
+      "phases": {
+        "preparation": 161.6659,
+        "media_svg": 0.4015,
+        "youtube": 0.0123,
+        "content_assembly": 0.4011,
+        "monetization": 0.0501,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_roswell_festival_tou_8639c4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.1962,
+      "phases": {
+        "preparation": 140.3222,
+        "media_svg": 0.3898,
+        "youtube": 0.0135,
+        "content_assembly": 0.3697,
+        "monetization": 0.0663,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_shag_harbour_heritag_c3fd0f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.436,
+      "phases": {
+        "preparation": 124.5065,
+        "media_svg": 0.4084,
+        "youtube": 0.0125,
+        "content_assembly": 0.4182,
+        "monetization": 0.0536,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.1597,
+      "phases": {
+        "preparation": 115.3125,
+        "media_svg": 0.3897,
+        "youtube": 0.0103,
+        "content_assembly": 0.3635,
+        "monetization": 0.0511,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_aguadilla_video_cras_fd5baa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 133.467,
+      "phases": {
+        "preparation": 132.0004,
+        "media_svg": 0.968,
+        "youtube": 0.0128,
+        "content_assembly": 0.3756,
+        "monetization": 0.0643,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_meteors_reentries_fa_ab0e4f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.4117,
+      "phases": {
+        "preparation": 182.9469,
+        "media_svg": 0.9356,
+        "youtube": 0.0145,
+        "content_assembly": 0.3956,
+        "monetization": 0.0822,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.0398,
+      "phases": {
+        "preparation": 190.6285,
+        "media_svg": 0.8794,
+        "youtube": 0.0187,
+        "content_assembly": 0.4048,
+        "monetization": 0.073,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_debris_chain_custody_cfde79",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.6004,
+      "phases": {
+        "preparation": 125.264,
+        "media_svg": 0.8521,
+        "youtube": 0.0143,
+        "content_assembly": 0.3662,
+        "monetization": 0.0717,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ordinary_cause_check_22ce7e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 200.4796,
+      "phases": {
+        "preparation": 199.0922,
+        "media_svg": 0.8789,
+        "youtube": 0.014,
+        "content_assembly": 0.3955,
+        "monetization": 0.0617,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_unidentified_not_ali_83ba62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.2937,
+      "phases": {
+        "preparation": 190.9083,
+        "media_svg": 0.886,
+        "youtube": 0.0134,
+        "content_assembly": 0.3997,
+        "monetization": 0.0503,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_impact_site_evidence_5f7a51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 149.3416,
+      "phases": {
+        "preparation": 148.3864,
+        "media_svg": 0.3886,
+        "youtube": 0.0169,
+        "content_assembly": 0.426,
+        "monetization": 0.09,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_crash_debris_chain_c_5b4b0a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 202.6518,
+      "phases": {
+        "preparation": 201.7295,
+        "media_svg": 0.422,
+        "youtube": 0.014,
+        "content_assembly": 0.3799,
+        "monetization": 0.0717,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_roswell_missing_proo_431820",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.972,
+      "phases": {
+        "preparation": 153.1163,
+        "media_svg": 0.3898,
+        "youtube": 0.0159,
+        "content_assembly": 0.3658,
+        "monetization": 0.05,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 206.4743,
+      "phases": {
+        "preparation": 205.5418,
+        "media_svg": 0.4056,
+        "youtube": 0.0127,
+        "content_assembly": 0.4205,
+        "monetization": 0.0546,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_unusual_metal_limits_a53d3d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.4905,
+      "phases": {
+        "preparation": 187.5256,
+        "media_svg": 0.4094,
+        "youtube": 0.0191,
+        "content_assembly": 0.4245,
+        "monetization": 0.0731,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_kecksburg_search_dis_583443",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.7264,
+      "phases": {
+        "preparation": 103.8341,
+        "media_svg": 0.4108,
+        "youtube": 0.0129,
+        "content_assembly": 0.3667,
+        "monetization": 0.0692,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_whistleblower_eviden_d5fa44",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 227.284,
+      "phases": {
+        "preparation": 226.3613,
+        "media_svg": 0.4152,
+        "youtube": 0.0119,
+        "content_assembly": 0.3983,
+        "monetization": 0.0608,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_search_trails_change_58b773",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.4131,
+      "phases": {
+        "preparation": 139.5025,
+        "media_svg": 0.4052,
+        "youtube": 0.0151,
+        "content_assembly": 0.3947,
+        "monetization": 0.0606,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_roswell_archival_sea_84c449",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 178.8157,
+      "phases": {
+        "preparation": 177.9093,
+        "media_svg": 0.4075,
+        "youtube": 0.0114,
+        "content_assembly": 0.3927,
+        "monetization": 0.0461,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_shag_aircraft_checks_d03559",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.65,
+      "phases": {
+        "preparation": 102.7699,
+        "media_svg": 0.4098,
+        "youtube": 0.0152,
+        "content_assembly": 0.3759,
+        "monetization": 0.0466,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_underwater_ufo_searc_1dc4f5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.1838,
+      "phases": {
+        "preparation": 127.3147,
+        "media_svg": 0.3819,
+        "youtube": 0.0128,
+        "content_assembly": 0.3888,
+        "monetization": 0.0532,
+        "quality_write": 0.0324
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 17076.22,
+    "rebuilt_pages_per_minute": 0.7414,
+    "queued_rebuild_pages_per_minute": 0.7414,
+    "apparent_page_work_speedup": 1.9961,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "23996": {
+          "pages": 105,
+          "successes": 105,
+          "failures": 0,
+          "total_worker_seconds": 17073.2791,
+          "max_worker_seconds": 326.5101,
+          "last_base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_underwater_ufo_searc_1dc4f5"
+        },
+        "26172": {
+          "pages": 106,
+          "successes": 106,
+          "failures": 0,
+          "total_worker_seconds": 17021.5021,
+          "max_worker_seconds": 298.6755,
+          "last_base_name": "UFO_crashes_6e52fb_search_rescue_record_10893f_shag_aircraft_checks_d03559"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23996,
+          "worker_duration_seconds": 326.5101,
+          "total_seconds": 326.4673,
+          "worker_started_at_utc": "2026-06-19T12:57:14.067899Z",
+          "worker_finished_at_utc": "2026-06-19T13:02:40.535280Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23996,
+          "worker_duration_seconds": 307.8899,
+          "total_seconds": 307.8457,
+          "worker_started_at_utc": "2026-06-19T12:47:02.163251Z",
+          "worker_finished_at_utc": "2026-06-19T12:52:10.008949Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_story_growth_5f6019",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 298.6755,
+          "total_seconds": 298.6328,
+          "worker_started_at_utc": "2026-06-19T12:28:52.462824Z",
+          "worker_finished_at_utc": "2026-06-19T12:33:51.095689Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 294.3287,
+          "total_seconds": 294.2696,
+          "worker_started_at_utc": "2026-06-19T12:49:38.793961Z",
+          "worker_finished_at_utc": "2026-06-19T12:54:33.063561Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 289.3014,
+          "total_seconds": 289.2555,
+          "worker_started_at_utc": "2026-06-19T13:06:41.823644Z",
+          "worker_finished_at_utc": "2026-06-19T13:11:31.079205Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23996,
+          "worker_duration_seconds": 282.6607,
+          "total_seconds": 282.6162,
+          "worker_started_at_utc": "2026-06-19T13:17:00.603301Z",
+          "worker_finished_at_utc": "2026-06-19T13:21:43.219510Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_destroyed_records_19b147",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 279.9217,
+          "total_seconds": 279.8614,
+          "worker_started_at_utc": "2026-06-19T12:58:54.947569Z",
+          "worker_finished_at_utc": "2026-06-19T13:03:34.809010Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_crash_sites_7788de",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 278.7514,
+          "total_seconds": 278.7109,
+          "worker_started_at_utc": "2026-06-19T12:24:13.710466Z",
+          "worker_finished_at_utc": "2026-06-19T12:28:52.421385Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 278.5682,
+          "total_seconds": 278.5263,
+          "worker_started_at_utc": "2026-06-19T13:19:42.191600Z",
+          "worker_finished_at_utc": "2026-06-19T13:24:20.717984Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26172,
+          "worker_duration_seconds": 275.5449,
+          "total_seconds": 275.4995,
+          "worker_started_at_utc": "2026-06-19T12:45:03.247416Z",
+          "worker_finished_at_utc": "2026-06-19T12:49:38.746938Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

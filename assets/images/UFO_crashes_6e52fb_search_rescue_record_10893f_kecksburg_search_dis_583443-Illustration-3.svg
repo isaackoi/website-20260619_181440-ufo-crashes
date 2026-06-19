@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #93c5fd;
+    --accent-2: #86efac;
+    --accent-3: #fcd34d;
+    --accent-4: #f9a8d4;
+    --accent-5: #c4b5fd;
+    --accent-6: #a5f3fc;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #93c5fd;
+    --accent-2: #86efac;
+    --accent-3: #fcd34d;
+    --accent-4: #f9a8d4;
+    --accent-5: #c4b5fd;
+    --accent-6: #a5f3fc;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #3b82f6;
+    --accent-2: #22c55e;
+    --accent-3: #f59e0b;
+    --accent-4: #ec4899;
+    --accent-5: #8b5cf6;
+    --accent-6: #06b6d4;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="95.0" y2="95.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg8201d238-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="svg8201d238-core-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent-1)" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="var(--accent-1)" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg8201d238-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg8201d238-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg8201d238-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg8201d238-geode-cavity-glow" cx="48%" cy="50%" r="34%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.34"/>
+      <stop offset="58%" stop-color="var(--accent-2)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svg8201d238-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg8201d238-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg8201d238-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg8201d238-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg8201d238-universal-edge-vignette)" opacity="0.62"/>
+  <rect id="TITLE_FRAME" x="134" y="30" width="1652" height="70" fill="none"/>
+  <text id="TITLE" x="960.0" y="59" font-size="48" font-weight="700" fill="#f1f5f9" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Kecksburg Mystery Core Elements</tspan>
+  </text>
+  <g id="DIAGRAM_MAIN">
+    <ellipse id="GEODE_CAST_SHADOW" cx="970" cy="830" rx="330" ry="54" fill="var(--primary-text)" opacity="0.06"/>
+    <polygon points="1329.365607907473,590.0 1273.1799599989595,740.8195198546559 1155.3026032894898,834.9017183672936 1023.3803905662265,867.687634818802 888.625959298386,902.7101043844532 778.0265995981124,818.1874266135815 729.8674247744904,700.8260071894198 737.783670042235,590.0 648.2189947270696,439.8541812342605 709.8324607708777,276.2998280360022 880.8643548035036,243.2840844280828 1012.4720460339722,360.104945281902 1053.612262324886,472.6139359257163 1175.5070317732368,486.21728332346146" fill="var(--background)" stroke="var(--primary-text)" stroke-width="4" stroke-opacity="0.3"/>
+    <polygon points="1329.365607907473,590.0 1273.1799599989595,740.8195198546559 1227.0127834971343,718.5865794293695 1276.9584554769426,590.0" fill="var(--accent-1)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1273.1799599989595,740.8195198546559 1155.3026032894898,834.9017183672936 1122.5211643726343,793.7950941540444 1227.0127834971343,718.5865794293695" fill="var(--accent-2)" fill-opacity="0.14" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1155.3026032894898,834.9017183672936 1023.3803905662265,867.687634818802 1014.2706016482189,827.7750417321942 1122.5211643726343,793.7950941540444" fill="var(--accent-3)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1023.3803905662265,867.687634818802 888.625959298386,902.7101043844532 897.9549703193385,861.8370365086728 1014.2706016482189,827.7750417321942" fill="var(--accent-4)" fill-opacity="0.20" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="888.625959298386,902.7101043844532 778.0265995981124,818.1874266135815 811.4764694693029,776.2426164951299 897.9549703193385,861.8370365086728" fill="var(--accent-5)" fill-opacity="0.12" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="778.0265995981124,818.1874266135815 729.8674247744904,700.8260071894198 758.8766385561854,686.8559061205939 811.4764694693029,776.2426164951299" fill="var(--accent-6)" fill-opacity="0.11" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="729.8674247744904,700.8260071894198 737.783670042235,590.0 767.1533316361352,590.0 758.8766385561854,686.8559061205939" fill="var(--accent-1)" fill-opacity="0.12" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="737.783670042235,590.0 648.2189947270696,439.8541812342605 697.8647317436248,463.7623081134269 767.1533316361352,590.0" fill="var(--accent-2)" fill-opacity="0.23" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="648.2189947270696,439.8541812342605 709.8324607708777,276.2998280360022 751.6536920232186,328.7419932986575 697.8647317436248,463.7623081134269" fill="var(--accent-3)" fill-opacity="0.26" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="709.8324607708777,276.2998280360022 880.8643548035036,243.2840844280828 890.6999119860883,286.37647604569446 751.6536920232186,328.7419932986575" fill="var(--accent-4)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="880.8643548035036,243.2840844280828 1012.4720460339722,360.104945281902 1003.8740164401745,397.7753742690661 890.6999119860883,286.37647604569446" fill="var(--accent-5)" fill-opacity="0.11" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1012.4720460339722,360.104945281902 1053.612262324886,472.6139359257163 1034.492046707812,496.58992795708616 1003.8740164401745,397.7753742690661" fill="var(--accent-6)" fill-opacity="0.18" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1053.612262324886,472.6139359257163 1175.5070317732368,486.21728332346146 1135.9140572190925,505.28425495182967 1034.492046707812,496.58992795708616" fill="var(--accent-1)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1175.5070317732368,486.21728332346146 1329.365607907473,590.0 1276.9584554769426,590.0 1135.9140572190925,505.28425495182967" fill="var(--accent-2)" fill-opacity="0.21" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1276.9584554769426,590.0 1227.0127834971343,718.5865794293695 1181.0950505003243,696.4737646649249 1225.5058128621804,590.0" fill="var(--accent-2)" fill-opacity="0.44" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1227.0127834971343,718.5865794293695 1122.5211643726343,793.7950941540444 1100.541649227624,766.2336539211447 1181.0950505003243,696.4737646649249" fill="var(--accent-3)" fill-opacity="0.42" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1122.5211643726343,793.7950941540444 1014.2706016482189,827.7750417321942 1005.3886760310498,788.8607829964254 1100.541649227624,766.2336539211447" fill="var(--accent-4)" fill-opacity="0.25" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1014.2706016482189,827.7750417321942 897.9549703193385,861.8370365086728 909.8769413339511,809.6034686204025 1005.3886760310498,788.8607829964254" fill="var(--accent-5)" fill-opacity="0.39" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="897.9549703193385,861.8370365086728 811.4764694693029,776.2426164951299 826.7189626398839,757.1291346121267 909.8769413339511,809.6034686204025" fill="var(--accent-6)" fill-opacity="0.39" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="811.4764694693029,776.2426164951299 758.8766385561854,686.8559061205939 801.0959322352562,666.5241658607722 826.7189626398839,757.1291346121267" fill="var(--accent-1)" fill-opacity="0.36" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="758.8766385561854,686.8559061205939 767.1533316361352,590.0 803.4077564040999,590.0 801.0959322352562,666.5241658607722" fill="var(--accent-2)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="767.1533316361352,590.0 697.8647317436248,463.7623081134269 735.8176293602728,482.0394603158053 803.4077564040999,590.0" fill="var(--accent-3)" fill-opacity="0.38" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="697.8647317436248,463.7623081134269 751.6536920232186,328.7419932986575 783.4048054012558,368.5566301513479 735.8176293602728,482.0394603158053" fill="var(--accent-4)" fill-opacity="0.27" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="751.6536920232186,328.7419932986575 890.6999119860883,286.37647604569446 902.9953012169406,340.246096036823 783.4048054012558,368.5566301513479" fill="var(--accent-5)" fill-opacity="0.34" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="890.6999119860883,286.37647604569446 1003.8740164401745,397.7753742690661 997.0746816559017,427.5652063877722 902.9953012169406,340.246096036823" fill="var(--accent-6)" fill-opacity="0.34" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1003.8740164401745,397.7753742690661 1034.492046707812,496.58992795708616 1028.0795526999707,504.630941108419 997.0746816559017,427.5652063877722" fill="var(--accent-1)" fill-opacity="0.44" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1034.492046707812,496.58992795708616 1135.9140572190925,505.28425495182967 1102.670960423533,521.2932866191331 1028.0795526999707,504.630941108419" fill="var(--accent-2)" fill-opacity="0.43" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1135.9140572190925,505.28425495182967 1276.9584554769426,590.0 1225.5058128621804,590.0 1102.670960423533,521.2932866191331" fill="var(--accent-3)" fill-opacity="0.30" stroke="var(--primary-text)" stroke-width="1.5" stroke-opacity="0.2"/>
+    <polygon points="1225.5058128621804,590.0 1181.0950505003243,696.4737646649249 1128.453880239427,671.1231131629511 1157.709049862141,590.0" fill="var(--accent-3)" fill-opacity="0.50" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1181.0950505003243,696.4737646649249 1100.541649227624,766.2336539211447 1062.1765234682725,718.1253078694763 1128.453880239427,671.1231131629511" fill="var(--accent-4)" fill-opacity="0.44" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1100.541649227624,766.2336539211447 1005.3886760310498,788.8607829964254 993.670022380853,737.5180066848212 1062.1765234682725,718.1253078694763" fill="var(--accent-5)" fill-opacity="0.58" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1005.3886760310498,788.8607829964254 909.8769413339511,809.6034686204025 922.519988305612,754.2106605436671 993.670022380853,737.5180066848212" fill="var(--accent-6)" fill-opacity="0.57" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="909.8769413339511,809.6034686204025 826.7189626398839,757.1291346121267 862.6832536630477,712.0313400969203 922.519988305612,754.2106605436671" fill="var(--accent-1)" fill-opacity="0.46" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="826.7189626398839,757.1291346121267 801.0959322352562,666.5241658607722 830.9821344231524,652.1317294345314 862.6832536630477,712.0313400969203" fill="var(--accent-2)" fill-opacity="0.53" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="801.0959322352562,666.5241658607722 803.4077564040999,590.0 840.4843749438276,590.0 830.9821344231524,652.1317294345314" fill="var(--accent-3)" fill-opacity="0.52" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="803.4077564040999,590.0 735.8176293602728,482.0394603158053 790.859705241666,508.5463270267623 840.4843749438276,590.0" fill="var(--accent-4)" fill-opacity="0.43" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="735.8176293602728,482.0394603158053 783.4048054012558,368.5566301513479 826.0302415004955,422.00723639537057 790.859705241666,508.5463270267623" fill="var(--accent-5)" fill-opacity="0.55" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="783.4048054012558,368.5566301513479 902.9953012169406,340.246096036823 917.5124413953304,403.8498429442799 826.0302415004955,422.00723639537057" fill="var(--accent-6)" fill-opacity="0.51" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="902.9953012169406,340.246096036823 997.0746816559017,427.5652063877722 990.8029210521667,455.043584994183 917.5124413953304,403.8498429442799" fill="var(--accent-1)" fill-opacity="0.56" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="997.0746816559017,427.5652063877722 1028.0795526999707,504.630941108419 1013.3327153389969,523.1228902650425 990.8029210521667,455.043584994183" fill="var(--accent-2)" fill-opacity="0.51" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1028.0795526999707,504.630941108419 1102.670960423533,521.2932866191331 1080.495340247857,531.9725024520548 1013.3327153389969,523.1228902650425" fill="var(--accent-3)" fill-opacity="0.40" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1102.670960423533,521.2932866191331 1225.5058128621804,590.0 1157.709049862141,590.0 1080.495340247857,531.9725024520548" fill="var(--accent-4)" fill-opacity="0.46" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1157.709049862141,590.0 1128.453880239427,671.1231131629511 1089.4007062346923,652.316095778397 1101.1690161269512,590.0" fill="var(--accent-4)" fill-opacity="0.55" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1128.453880239427,671.1231131629511 1062.1765234682725,718.1253078694763 1033.9237390663855,682.6974368009744 1089.4007062346923,652.316095778397" fill="var(--accent-5)" fill-opacity="0.74" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1062.1765234682725,718.1253078694763 993.670022380853,737.5180066848212 984.8156824728219,698.7246088376788 1033.9237390663855,682.6974368009744" fill="var(--accent-6)" fill-opacity="0.73" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="993.670022380853,737.5180066848212 922.519988305612,754.2106605436671 929.2717998558128,724.629041317789 984.8156824728219,698.7246088376788" fill="var(--accent-1)" fill-opacity="0.72" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="922.519988305612,754.2106605436671 862.6832536630477,712.0313400969203 885.464871388611,683.4640950412704 929.2717998558128,724.629041317789" fill="var(--accent-2)" fill-opacity="0.61" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="862.6832536630477,712.0313400969203 830.9821344231524,652.1317294345314 866.9207709862766,634.8245942311825 885.464871388611,683.4640950412704" fill="var(--accent-3)" fill-opacity="0.56" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="830.9821344231524,652.1317294345314 840.4843749438276,590.0 867.4211829970965,590.0 866.9207709862766,634.8245942311825" fill="var(--accent-4)" fill-opacity="0.73" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="840.4843749438276,590.0 790.859705241666,508.5463270267623 829.1096197629961,526.9665150317924 867.4211829970965,590.0" fill="var(--accent-5)" fill-opacity="0.74" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="790.859705241666,508.5463270267623 826.0302415004955,422.00723639537057 856.4913217050912,460.204222814296 829.1096197629961,526.9665150317924" fill="var(--accent-6)" fill-opacity="0.57" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="826.0302415004955,422.00723639537057 917.5124413953304,403.8498429442799 929.5515914430777,456.5968057212666 856.4913217050912,460.204222814296" fill="var(--accent-1)" fill-opacity="0.65" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="917.5124413953304,403.8498429442799 990.8029210521667,455.043584994183 978.9064685991008,507.1653487591812 929.5515914430777,456.5968057212666" fill="var(--accent-2)" fill-opacity="0.56" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="990.8029210521667,455.043584994183 1013.3327153389969,523.1228902650425 995.1436420799689,545.931266710705 978.9064685991008,507.1653487591812" fill="var(--accent-3)" fill-opacity="0.70" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1013.3327153389969,523.1228902650425 1080.495340247857,531.9725024520548 1042.0176479086513,550.5023824729012 995.1436420799689,545.931266710705" fill="var(--accent-4)" fill-opacity="0.70" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1080.495340247857,531.9725024520548 1157.709049862141,590.0 1101.1690161269512,590.0 1042.0176479086513,550.5023824729012" fill="var(--accent-5)" fill-opacity="0.58" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1101.1690161269512,590.0 1089.4007062346923,652.316095778397 1046.2759472778887,631.5483064226077 1046.5610588485947,590.0" fill="var(--accent-5)" fill-opacity="0.80" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1089.4007062346923,652.316095778397 1033.9237390663855,682.6974368009744 1013.5188783594822,657.1105507789854 1046.2759472778887,631.5483064226077" fill="var(--accent-6)" fill-opacity="0.81" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1033.9237390663855,682.6974368009744 984.8156824728219,698.7246088376788 975.0203366206069,655.8083945696155 1013.5188783594822,657.1105507789854" fill="var(--accent-1)" fill-opacity="0.75" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="984.8156824728219,698.7246088376788 929.2717998558128,724.629041317789 941.4647226851097,671.2083559646786 975.0203366206069,655.8083945696155" fill="var(--accent-2)" fill-opacity="0.87" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="929.2717998558128,724.629041317789 885.464871388611,683.4640950412704 915.8080988060893,645.4148913430731 941.4647226851097,671.2083559646786" fill="var(--accent-3)" fill-opacity="0.78" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="885.464871388611,683.4640950412704 866.9207709862766,634.8245942311825 894.9969667412183,621.3038109629309 915.8080988060893,645.4148913430731" fill="var(--accent-4)" fill-opacity="0.74" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="866.9207709862766,634.8245942311825 867.4211829970965,590.0 905.2688804588108,590.0 894.9969667412183,621.3038109629309" fill="var(--accent-5)" fill-opacity="0.81" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="867.4211829970965,590.0 829.1096197629961,526.9665150317924 886.2914616860005,554.5038387585756 905.2688804588108,590.0" fill="var(--accent-6)" fill-opacity="0.85" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="829.1096197629961,526.9665150317924 856.4913217050912,460.204222814296 900.617618493206,515.5368488345252 886.2914616860005,554.5038387585756" fill="var(--accent-1)" fill-opacity="0.74" stroke="var(--accent-1)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="856.4913217050912,460.204222814296 929.5515914430777,456.5968057212666 939.9429748102931,502.1244309687372 900.617618493206,515.5368488345252" fill="var(--accent-2)" fill-opacity="0.76" stroke="var(--accent-2)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="929.5515914430777,456.5968057212666 978.9064685991008,507.1653487591812 972.0621123312841,537.1524328854825 939.9429748102931,502.1244309687372" fill="var(--accent-3)" fill-opacity="0.90" stroke="var(--accent-3)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="978.9064685991008,507.1653487591812 995.1436420799689,545.931266710705 984.4578356269114,559.3308441787791 972.0621123312841,537.1524328854825" fill="var(--accent-4)" fill-opacity="0.83" stroke="var(--accent-4)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="995.1436420799689,545.931266710705 1042.0176479086513,550.5023824729012 1021.0452786046092,560.602143225986 984.4578356269114,559.3308441787791" fill="var(--accent-5)" fill-opacity="0.79" stroke="var(--accent-5)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <polygon points="1042.0176479086513,550.5023824729012 1101.1690161269512,590.0 1046.5610588485947,590.0 1021.0452786046092,560.602143225986" fill="var(--accent-6)" fill-opacity="0.80" stroke="var(--accent-6)" stroke-width="1.5" stroke-opacity="0.8"/>
+    <ellipse id="GEODE_CAVITY_GLOW" cx="988" cy="594" rx="156" ry="122" fill="url(#svg8201d238-geode-cavity-glow)" opacity="0.94"/>
+    <polygon points="1046.5610588485947,590.0 1046.2759472778887,631.5483064226077 1013.5188783594822,657.1105507789854 975.0203366206069,655.8083945696155 941.4647226851097,671.2083559646786 915.8080988060893,645.4148913430731 894.9969667412183,621.3038109629309 905.2688804588108,590.0 886.2914616860005,554.5038387585756 900.617618493206,515.5368488345252 939.9429748102931,502.1244309687372 972.0621123312841,537.1524328854825 984.4578356269114,559.3308441787791 1021.0452786046092,560.602143225986" fill="url(#svg8201d238-core-glow)" stroke="var(--accent-1)" stroke-width="3"/>
+    <!-- Geometry for Node 1 -->
+    <path id="ITEM_1_CONN" d="M 700.8769975405189 767.2755838705459 L 600.8769975405189 767.2755838705459 L 300 844.089113027766" fill="transparent" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_1_DOT" cx="700.8769975405189" cy="767.2755838705459" r="8" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3"/>
+    <g transform="translate(300, 844.089113027766)">
+      <circle id="ITEM_1_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3"/>
+      <circle id="ITEM_1_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_1_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_1_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-1)" fill-opacity="0.22"/>
+      <g id="ITEM_1_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-8.844067796610172,-8.844067796610172) scale(2.820338983050848)" vector-effect="non-scaling-stroke" stroke-width="2.31" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <ellipse cx="12" cy="5" rx="9" ry="3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <path d="M3 5V19A9 3 0 0 0 21 19V5" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <path d="M3 12A9 3 0 0 0 21 12" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_1_HEAD_FRAME" x="10" y="784.089113027766" width="230" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="8" y="834.089113027766" width="240" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="-10" y="770.089113027766" width="276" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-1)" stroke-width="2"/>
+    <text id="ITEM_1_HEAD" x="10.0" y="784.089113027766" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-1)" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="10.0" dy="28.25px">Local Testimony</tspan>
+    </text>
+    <text id="ITEM_1_BODY" x="8.0" y="834.089113027766" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="8.0" dy="20.88px">Convergent</tspan>
+      <tspan x="8.0" dy="29.90px">descriptions of an</tspan>
+      <tspan x="8.0" dy="29.90px">acorn-shaped</tspan>
+      <tspan x="8.0" dy="29.90px">metallic object</tspan>
+    </text>
+    <!-- Geometry for Node 2 -->
+    <path id="ITEM_2_CONN" d="M 701.4440744647688 590.0 L 601.4440744647688 590.0 L 300 590.0" fill="transparent" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_2_DOT" cx="701.4440744647688" cy="590.0" r="8" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3"/>
+    <g transform="translate(300, 590.0)">
+      <circle id="ITEM_2_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3"/>
+      <circle id="ITEM_2_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_2_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_2_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-2)" fill-opacity="0.22"/>
+      <g id="ITEM_2_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-8.844067796610176,-8.844067796610172) scale(2.820338983050848)" vector-effect="non-scaling-stroke" stroke-width="2.31" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <path d="M12 8v4" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+          <path d="M12 16h.01" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_2_HEAD_FRAME" x="10" y="530.0" width="230" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="8" y="580.0" width="240" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="-10" y="516" width="276" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-2)" stroke-width="2"/>
+    <text id="ITEM_2_HEAD" x="10.0" y="530.0" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-2)" text-anchor="start" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 27px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="27">
+      <tspan x="10.0" dy="26.08px">Military Presence</tspan>
+    </text>
+    <text id="ITEM_2_BODY" x="8.0" y="580.0" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="8.0" dy="26.86px">Rapid deployment</tspan>
+      <tspan x="8.0" dy="29.90px">of personnel to</tspan>
+      <tspan x="8.0" dy="29.90px">the wooded ravine</tspan>
+    </text>
+    <!-- Geometry for Node 3 -->
+    <path id="ITEM_3_CONN" d="M 792.3321748791592 475.292269260235 L 692.3321748791592 475.292269260235 L 300 335.9108869722341" fill="transparent" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_3_DOT" cx="792.3321748791592" cy="475.292269260235" r="8" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3"/>
+    <g transform="translate(300, 335.9108869722341)">
+      <circle id="ITEM_3_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3"/>
+      <circle id="ITEM_3_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_3_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_3_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-3)" fill-opacity="0.22"/>
+      <g id="ITEM_3_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.65714285714286,-10.65714285714286) scale(2.2285714285714286)">
+          <path d="M2 30H6.0317L15.977 27.2248L25.9222 30H30V9.3C30 8.03 28.97 7 27.7 7H4.3C3.03 7 2 8.03 2 9.3V30Z" fill="#9B9B9B"/>
+          <path d="M27 14H26C25.45 14 25 13.55 25 13V12C25 11.45 25.45 11 26 11H27C27.55 11 28 11.45 28 12V13C28 13.56 27.55 14 27 14ZM28 18V17C28 16.45 27.55 16 27 16H26C25.45 16 25 16.45 25 17V18C25 18.55 25.45 19 26 19H27C27.55 19 28 18.56 28 18ZM28 23V22C28 21.45 27.55 21 27 21H26C25.45 21 25 21.45 25 22V23C25 23.55 25.45 24 26 24H27C27.55 24 28 23.56 28 23Z" fill="#83CBFF"/>
+          <path d="M7 22V23C7 23.55 6.55 24 6 24H5C4.45 24 4 23.55 4 23V22C4 21.45 4.45 21 5 21H6C6.55 21 7 21.45 7 22ZM6 11H5C4.45 11 4 11.45 4 12V13C4 13.55 4.45 14 5 14H6C6.55 14 7 13.55 7 13V12C7 11.45 6.55 11 6 11ZM6 16H5C4.45 16 4 16.45 4 17V18C4 18.55 4.45 19 5 19H6C6.55 19 7 18.55 7 18V17C7 16.45 6.55 16 6 16Z" fill="#83CBFF"/>
+          <path d="M26 30H18.9867L15.9711 28.2702L12.9556 30H6V4.46C6 3.1 7.1 2 8.46 2H23.54C24.9 2 26 3.1 26 4.46V30Z" fill="#D3D3D3"/>
+          <path d="M19 30H13V26.25C13 25.56 13.56 25 14.25 25H17.75C18.44 25 19.01 25.56 19.01 26.26V30H19Z" fill="#1C1C1C"/>
+          <path d="M14.5 18H11.5C11.23 18 11 17.78 11 17.5V15.49C11 15.22 11.22 14.99 11.5 14.99H14.51C14.78 14.99 15.01 15.21 15.01 15.49V17.5C15 17.78 14.78 18 14.5 18ZM21 17.51V15.5C21 15.23 20.78 15 20.5 15H17.5C17.23 15 17 15.22 17 15.5V17.51C17 17.78 17.22 18.01 17.5 18.01H20.51C20.78 18 21 17.78 21 17.51ZM15 22.51V20.5C15 20.23 14.78 20 14.5 20H11.5C11.23 20 11 20.22 11 20.5V22.51C11 22.78 11.22 23.01 11.5 23.01H14.51C14.78 23 15 22.78 15 22.51ZM21 22.51V20.5C21 20.23 20.78 20 20.5 20H17.5C17.23 20 17 20.22 17 20.5V22.51C17 22.78 17.22 23.01 17.5 23.01H20.51C20.78 23 21 22.78 21 22.51ZM15 7.50999V5.5C15 5.23 14.78 5 14.5 5H11.5C11.23 5 11 5.22 11 5.5V7.50999C11 7.77999 11.22 8.00999 11.5 8.00999H14.51C14.78 7.99999 15 7.77999 15 7.50999ZM21 7.50999V5.5C21 5.23 20.78 5 20.5 5H17.5C17.23 5 17 5.22 17 5.5V7.50999C17 7.77999 17.22 8.00999 17.5 8.00999H20.51C20.78 7.99999 21 7.77999 21 7.50999ZM15 12.51V10.5C15 10.23 14.78 10 14.5 10H11.5C11.23 10 11 10.22 11 10.5V12.51C11 12.78 11.22 13.01 11.5 13.01H14.51C14.78 13 15 12.78 15 12.51ZM21 12.51V10.5C21 10.23 20.78 10 20.5 10H17.5C17.23 10 17 10.22 17 10.5V12.51C17 12.78 17.22 13.01 17.5 13.01H20.51C20.78 13 21 12.78 21 12.51Z" fill="#83CBFF"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_3_HEAD_FRAME" x="10" y="275.9108869722341" width="230" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="8" y="325.9108869722341" width="240" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="-10" y="261.9108869722341" width="276" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-3)" stroke-width="2"/>
+    <text id="ITEM_3_HEAD" x="10.0" y="275.9108869722341" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-3)" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="10.0" dy="28.25px">NASA Archives</tspan>
+    </text>
+    <text id="ITEM_3_BODY" x="8.0" y="325.9108869722341" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="start" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="8.0" dy="20.88px">Decades of</tspan>
+      <tspan x="8.0" dy="29.90px">litigation to</tspan>
+      <tspan x="8.0" dy="29.90px">uncover hidden</tspan>
+      <tspan x="8.0" dy="29.90px">agency data</tspan>
+    </text>
+    <!-- Geometry for Node 4 -->
+    <path id="ITEM_4_CONN" d="M 1096.0833015878948 532.4649029051379 L 1196.0833015878948 532.4649029051379 L 1620 414.7617459611073" fill="transparent" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_4_DOT" cx="1096.0833015878948" cy="532.4649029051379" r="8" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3"/>
+    <g transform="translate(1620, 414.7617459611073)">
+      <circle id="ITEM_4_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3"/>
+      <circle id="ITEM_4_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_4_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_4_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-4)" fill-opacity="0.22"/>
+      <g id="ITEM_4_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-9.427586206896557,-9.427586206896555) scale(2.8689655172413797)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path d="M20.9752 12.1852L20.2361 12.0574L20.2361 12.0574L20.9752 12.1852ZM20.2696 16.265L19.5306 16.1371L19.5306 16.1371L20.2696 16.265ZM6.93777 20.4771L6.19056 20.5417L6.19056 20.5417L6.93777 20.4771ZM6.12561 11.0844L6.87282 11.0198L6.87282 11.0198L6.12561 11.0844ZM13.995 5.22142L14.7351 5.34269L14.7351 5.34269L13.995 5.22142ZM13.3323 9.26598L14.0724 9.38725L14.0724 9.38725L13.3323 9.26598ZM6.69814 9.67749L6.20855 9.10933L6.20855 9.10933L6.69814 9.67749ZM8.13688 8.43769L8.62647 9.00585L8.62647 9.00585L8.13688 8.43769ZM10.5181 4.78374L9.79208 4.59542L9.79208 4.59542L10.5181 4.78374ZM10.9938 2.94989L11.7197 3.13821L11.7197 3.13821L10.9938 2.94989ZM12.6676 2.06435L12.4382 2.77841L12.4382 2.77841L12.6676 2.06435ZM12.8126 2.11093L13.042 1.39687L13.042 1.39687L12.8126 2.11093ZM9.86195 6.46262L10.5235 6.81599L10.5235 6.81599L9.86195 6.46262ZM13.9047 3.24752L13.1787 3.43584L13.1787 3.43584L13.9047 3.24752ZM11.6742 2.13239L11.3486 1.45675L11.3486 1.45675L11.6742 2.13239ZM3.9716 21.4707L3.22439 21.5353L3.22439 21.5353L3.9716 21.4707ZM3 10.2342L3.74721 10.1696C3.71261 9.76945 3.36893 9.46758 2.96767 9.4849C2.5664 9.50221 2.25 9.83256 2.25 10.2342L3 10.2342ZM20.2361 12.0574L19.5306 16.1371L21.0087 16.3928L21.7142 12.313L20.2361 12.0574ZM13.245 21.25H8.59635V22.75H13.245V21.25ZM7.68498 20.4125L6.87282 11.0198L5.3784 11.149L6.19056 20.5417L7.68498 20.4125ZM19.5306 16.1371C19.0238 19.0677 16.3813 21.25 13.245 21.25V22.75C17.0712 22.75 20.3708 20.081 21.0087 16.3928L19.5306 16.1371ZM13.2548 5.10015L12.5921 9.14472L14.0724 9.38725L14.7351 5.34269L13.2548 5.10015ZM7.18773 10.2456L8.62647 9.00585L7.64729 7.86954L6.20855 9.10933L7.18773 10.2456ZM11.244 4.97206L11.7197 3.13821L10.2678 2.76157L9.79208 4.59542L11.244 4.97206ZM12.4382 2.77841L12.5832 2.82498L13.042 1.39687L12.897 1.3503L12.4382 2.77841ZM10.5235 6.81599C10.8354 6.23198 11.0777 5.61339 11.244 4.97206L9.79208 4.59542C9.65573 5.12107 9.45699 5.62893 9.20042 6.10924L10.5235 6.81599ZM12.5832 2.82498C12.8896 2.92342 13.1072 3.16009 13.1787 3.43584L14.6307 3.05921C14.4252 2.26719 13.819 1.64648 13.042 1.39687L12.5832 2.82498ZM11.7197 3.13821C11.7548 3.0032 11.8523 2.87913 11.9998 2.80804L11.3486 1.45675C10.8166 1.71309 10.417 2.18627 10.2678 2.76157L11.7197 3.13821ZM11.9998 2.80804C12.1345 2.74311 12.2931 2.73181 12.4382 2.77841L12.897 1.3503C12.3873 1.18655 11.8312 1.2242 11.3486 1.45675L11.9998 2.80804ZM14.1537 10.9842H19.3348V9.4842H14.1537V10.9842ZM4.71881 21.4061L3.74721 10.1696L2.25279 10.2988L3.22439 21.5353L4.71881 21.4061ZM3.75 21.5127V10.2342H2.25V21.5127H3.75ZM3.22439 21.5353C3.2112 21.3828 3.33146 21.25 3.48671 21.25V22.75C4.21268 22.75 4.78122 22.1279 4.71881 21.4061L3.22439 21.5353ZM14.7351 5.34269C14.8596 4.58256 14.8241 3.80477 14.6307 3.0592L13.1787 3.43584C13.3197 3.97923 13.3456 4.54613 13.2548 5.10016L14.7351 5.34269ZM8.59635 21.25C8.12244 21.25 7.72601 20.887 7.68498 20.4125L6.19056 20.5417C6.29852 21.7902 7.3427 22.75 8.59635 22.75V21.25ZM8.62647 9.00585C9.30632 8.42 10.0392 7.72267 10.5235 6.81599L9.20042 6.10924C8.85404 6.75767 8.3025 7.30493 7.64729 7.86954L8.62647 9.00585ZM21.7142 12.313C21.9695 10.8365 20.8341 9.4842 19.3348 9.4842V10.9842C19.9014 10.9842 20.3332 11.4959 20.2361 12.0574L21.7142 12.313ZM3.48671 21.25C3.63292 21.25 3.75 21.3684 3.75 21.5127H2.25C2.25 22.1953 2.80289 22.75 3.48671 22.75V21.25ZM12.5921 9.14471C12.4344 10.1076 13.1766 10.9842 14.1537 10.9842V9.4842C14.1038 9.4842 14.0639 9.43901 14.0724 9.38725L12.5921 9.14471ZM6.87282 11.0198C6.8474 10.7258 6.96475 10.4378 7.18773 10.2456L6.20855 9.10933C5.62022 9.61631 5.31149 10.3753 5.3784 11.149L6.87282 11.0198Z" fill="#f1f5f9" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_4_HEAD_FRAME" x="1320" y="354.7617459611073" width="280" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="1280" y="404.7617459611073" width="320" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="1262" y="340.7617459611073" width="356" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-4)" stroke-width="2"/>
+    <text id="ITEM_4_HEAD" x="1600.0" y="354.7617459611073" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-4)" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1600.0" dy="28.25px">Trajectory Data</tspan>
+    </text>
+    <text id="ITEM_4_BODY" x="1600.0" y="404.7617459611073" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="end" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1600.0" dy="26.86px">Astronomical studies</tspan>
+      <tspan x="1600.0" dy="29.90px">placing impact far</tspan>
+      <tspan x="1600.0" dy="29.90px">from Kecksburg</tspan>
+    </text>
+    <!-- Geometry for Node 5 -->
+    <path id="ITEM_5_CONN" d="M 1300.2082539697371 733.8377427371552 L 1400.2082539697371 733.8377427371552 L 1620 765.2382540388927" fill="transparent" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="6 4" opacity="0.8" stroke-opacity="1.0"/>
+    <circle id="ITEM_5_DOT" cx="1300.2082539697371" cy="733.8377427371552" r="8" fill="var(--background)" stroke="var(--accent-5)" stroke-width="3"/>
+    <g transform="translate(1620, 765.2382540388927)">
+      <circle id="ITEM_5_BORDER" cx="0" cy="0" r="37" fill="var(--background)" stroke="var(--accent-5)" stroke-width="3"/>
+      <circle id="ITEM_5_STROKE" cx="0" cy="0" r="45" fill="transparent" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" stroke-opacity="1.0"/>
+      <circle id="ITEM_5_PAD" cx="0.00" cy="0.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+      <circle id="ITEM_5_PAD_INNER" cx="0.00" cy="0.00" r="31.20" fill="var(--accent-5)" fill-opacity="0.22"/>
+      <g id="ITEM_5_ICON" transform="translate(-25, -25)" data-icon-size="50" stroke-dasharray="6 4">
+        <g transform="translate(-10.65714285714286,-11.771428571428572) scale(2.2285714285714286)">
+          <path d="M22.5247 17.94C26.6502 17.94 29.9947 14.5956 29.9947 10.47C29.9947 6.34443 26.6502 3 22.5247 3C18.3991 3 15.0547 6.34443 15.0547 10.47C15.0547 14.5956 18.3991 17.94 22.5247 17.94Z" fill="#533566"/>
+          <path d="M2.64445 29.2101C1.81445 28.3301 1.78446 26.9601 2.56446 26.0401L15.1045 11.3401L21.2145 17.8201L5.80445 29.4801C4.84445 30.2101 3.47445 30.0901 2.64445 29.2101Z" fill="#9B9B9B"/>
+          <path d="M18.9958 4.00515L28.9358 14.5552C29.5958 15.2552 29.5658 16.3552 28.8658 17.0051C28.1658 17.6651 27.0758 17.6352 26.4158 16.9352L16.4758 6.38515C15.8158 5.68515 15.8458 4.59517 16.5458 3.93517C17.2458 3.27517 18.3358 3.30515 18.9958 4.00515ZM15.4146 18.5302C15.4146 19.342 14.7565 20.0002 13.9446 20.0002C13.1328 20.0002 12.4746 19.342 12.4746 18.5302C12.4746 17.7183 13.1328 17.0602 13.9446 17.0602C14.7565 17.0602 15.4146 17.7183 15.4146 18.5302Z" fill="#BEBEBE"/>
+        </g>
+      </g>
+    </g>
+    <rect id="ITEM_5_HEAD_FRAME" x="1320" y="705.2382540388927" width="280" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_BODY_FRAME" x="1280" y="755.2382540388927" width="320" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_5_TEXT_BG" x="1262" y="691.2382540388927" width="356" height="202" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--accent-5)" stroke-width="2"/>
+    <text id="ITEM_5_HEAD" x="1600.0" y="705.2382540388927" font-family="var(--font-heading)" font-size="24" font-weight="bold" fill="var(--accent-5)" text-anchor="end" data-bg-id="ITEM_5_TEXT_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1600.0" dy="28.25px">Public Interest</tspan>
+    </text>
+    <text id="ITEM_5_BODY" x="1600.0" y="755.2382540388927" font-family="var(--font-body)" font-size="18" fill="var(--primary-text)" text-anchor="end" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1600.0" dy="32.84px">Enduring mystery fuels</tspan>
+      <tspan x="1600.0" dy="29.90px">ongoing UFO crash debates</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-19T17:09:25.639205Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1562,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 7.4,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "title": "Evidence",
+        "permalink": "/evidence/",
+        "inline_inbound_count": 185
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_early_records_crash_8c1210",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 128
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "title": "Aircraft",
+        "permalink": "/aircraft/",
+        "inline_inbound_count": 101
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2",
+        "title": "Wreckage",
+        "permalink": "/wreckage/",
+        "inline_inbound_count": 78
+      },
+      {
+        "basename": "UFO_crashes_6e52fb",
+        "title": "Did Any UFO Crash Really Happen?",
+        "permalink": "/ufo-crashes/",
+        "inline_inbound_count": 64
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_unidentified_not_ali_83ba62",
+        "title": "Unidentified",
+        "permalink": "/unidentified/",
+        "inline_inbound_count": 61
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "title": "Custody",
+        "permalink": "/custody/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "title": "Bodies",
+        "permalink": "/bodies/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "title": "Balloons",
+        "permalink": "/balloons/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_search_vs_recovery_614bb3",
+        "title": "Searches",
+        "permalink": "/searches/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "title": "AARO",
+        "permalink": "/aaro/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance_fa_ae406c",
+        "title": "Provenance",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_official_reviews_5e4bdf_missing_records_cove_8120f0",
+        "title": "Missing Records",
+        "permalink": "/missing-records/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radar_reflectors_f94a3c",
+        "title": "Reflectors",
+        "permalink": "/reflectors/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_kecksburg_records_79f489_great_lakes_fireball_dc7473",
+        "title": "Fireball",
+        "permalink": "/fireball/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "title": "Retrieval Claims",
+        "permalink": "/retrieval-claims/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99_official_explanation_69d908",
+        "title": "Afterlife",
+        "permalink": "/afterlife/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "title": "Crash Sites",
+        "permalink": "/crash-sites/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_witness_reports_78ec97_early_vs_late_witnes_cd6262",
+        "title": "Timing",
+        "permalink": "/timing/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_retrieval_programs_3a2036_retrieval_paper_trai_5e270e",
+        "title": "Paper Trail",
+        "permalink": "/paper-trail/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "title": "Official Reviews",
+        "permalink": "/official-reviews/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337",
+        "title": "No Wreckage",
+        "permalink": "/no-wreckage/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1",
+        "title": "Recovery Signs",
+        "permalink": "/recovery-signs/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "title": "Tourism",
+        "permalink": "/tourism/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_kecksburg_records_79f489_space_debris_records_0e2f9e",
+        "title": "Space Debris",
+        "permalink": "/space-debris/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_calibrated_sensors_c_5379f9",
+        "title": "Sensors",
+        "permalink": "/sensors/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_physical_evidence_st_c7139f_impact_site_evidence_5f7a51",
+        "title": "Impact site",
+        "permalink": "/impact-site/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9",
+        "title": "Crash Reports",
+        "permalink": "/crash-reports/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f_earliest_records_62c8b3",
+        "title": "Earliest Records",
+        "permalink": "/earliest-records/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "title": "Aurora",
+        "permalink": "/aurora/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "title": "Missing Files",
+        "permalink": "/missing-files/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4",
+        "title": "No Missing Plane",
+        "permalink": "/no-missing-plane/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "title": "FOIA",
+        "permalink": "/foia/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c_missing_metadata_deb_27650f",
+        "title": "Metadata Gaps",
+        "permalink": "/metadata-gaps/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_ufo_not_alien_6480d8_debris_false_certain_01dace",
+        "title": "Debris Claims",
+        "permalink": "/debris-claims/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_witness_reports_78ec97_crash_claim_physical_df5e11",
+        "title": "Physical Traces",
+        "permalink": "/physical-traces/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d",
+        "title": "Terrestrial metal",
+        "permalink": "/terrestrial-metal/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_no_records_replies_532276",
+        "title": "No Records",
+        "permalink": "/no-records/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_police_reports_7983df",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb",
+        "to": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_police_reports_7983df",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_blm_alleged_skip_sit_2d8e70",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_crash_site_proof_cha_900d31",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_kecksburg_space_acor_770fe3",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_missing_records_susp_31662d",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_roswell_places_memor_cee978",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de_shag_harbour_memory_b2222f",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "to": "UFO_crashes_6e52fb",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_police_reports_7983df",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_evidence_vs_legend_69f64d",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_harbour_rescue_searc_886b94",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_naval_diver_search_fb9a3a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "to": "UFO_crashes_6e52fb",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_police_reports_7983df",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_alien_bodies_memory_6a8e1a",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_kecksburg_secrecy_na_8e0516",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_missing_records_susp_87219d",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_roswell_legend_growt_77633e",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_shag_harbour_myth_gr_4cfe34",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019_source_monitoring_uf_7a45d6",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "to": "UFO_crashes_6e52fb",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_military_secrecy_9f63a4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_nasa_uap_standards_787a4c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_official_reviews_5e4bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_physical_evidence_st_c7139f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_police_reports_7983df",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_radar_reflectors_f94a3c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_retrieval_programs_3a2036",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_roswell_debris_feff4f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_search_rescue_record_10893f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_shag_harbour_75703f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_story_growth_5f6019",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_ufo_not_alien_6480d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_witness_reports_78ec97",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_air_defense_reportin_ce9694",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_cold_war_trust_gap_a1feaf",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_index",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382_nuclear_detection_ge_49f1fa",
+        "type": "child"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "to": "UFO_crashes_6e52fb",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb",
+        "type": "parent"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_aircraft_accident_al_c21b37",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_alien_body_claims_816ffd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_aurora_airship_d1e639",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_balloon_misidentific_7c5cdb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_cold_war_tech_6ee382",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_crash_folklore_touri_50ae99",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_crash_sites_7788de",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_crashes_vs_sightings_102ba4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_debris_testing_7087d2",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_destroyed_records_19b147",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_evaluate_crash_claim_69323f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_foia_ufo_crashes_9ba906",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_kecksburg_records_79f489",
+        "type": "sibling"
+      },
+      {
+        "from": "UFO_crashes_6e52fb_project_mogul_01e984",
+        "to": "UFO_crashes_6e52fb_meteor_fireballs_f0c023",
+        "type": "sibling"
+      }
+    ]
+  }
+}
