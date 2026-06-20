@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/UFO_crashes_6e52fb-overview-social.jpg
+  preview_image: /assets/images/UFO_crashes_6e52fb-overview-social.jpg
+image: /assets/images/UFO_crashes_6e52fb-overview-social.jpg
 site_image_description: A rural crash scene with scattered metallic debris, police vehicles, searchlights, and distant hills under a dark sky.
 ---
 
