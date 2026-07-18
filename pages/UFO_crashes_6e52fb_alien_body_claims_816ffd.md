@@ -448,17 +448,17 @@ image: /assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd-overview-socia
 
 ## Introduction
 
-Alien body claims are the point where UFO crash stories move from unusual debris to extraordinary biological evidence. In the best-known cases, especially Roswell, the body stories did not appear with the earliest debris reports in 1947; they developed later through books, interviews, secondhand testimony, alleged deathbed statements, autopsy legends and popular media. That timing matters. A crash site with non-human bodies should, in principle, leave the strongest possible evidence: photographs with provenance, medical records, tissue samples, [chain-of-custody]({{ 'custody/' | relative_url }}) documentation, named recovery personnel and independently testable biological material. Instead, the public record is dominated by late recollections, contradictory locations, missing or anonymous witnesses, and stories that often borrow motifs from earlier crashed-saucer folklore. [Official reviews]({{ 'official-reviews/' | relative_url }}) have not found records of recovered alien bodies, while NASA and the Pentagon’s UAP office have repeatedly stressed the absence of conclusive or verifiable evidence for extraterrestrial beings or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+Alien body claims are the point where UFO crash stories move from unusual debris to extraordinary biological evidence. In the best-known cases, especially Roswell, the body stories did not appear with the earliest debris reports in 1947; they developed later through books, interviews, secondhand testimony, alleged deathbed statements, autopsy legends and popular media. That timing matters. A crash site with non-human bodies should, in principle, leave the strongest possible evidence: photographs with provenance, medical records, tissue samples, [chain-of-custody]({{ 'custody/' | relative_url }}) documentation, named recovery personnel and independently testable biological material. Instead, the public record is dominated by late recollections, contradictory locations, missing or anonymous witnesses, and stories that often borrow motifs from earlier crashed-saucer folklore. [Official reviews]({{ 'official-reviews/' | relative_url }}) have not found records of recovered alien bodies, while NASA and the Pentagon’s UAP office have repeatedly stressed the absence of conclusive or verifiable evidence for extraterrestrial beings or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd-overview.webp" | relative_url }}" alt="Overview image for Bodies" loading="eager" decoding="sync" fetchpriority="high">
 ## Roswell Began With Debris, Not Bodies
 
-The original Roswell incident was a debris story. In July 1947, personnel from Roswell Army Air Field announced that they had recovered a “flying disc”, then the explanation quickly shifted to a balloon-like object. Later official reviews argued that the recovered material most likely came from Project Mogul, a classified balloon programme intended to detect Soviet nuclear tests, and the 1994 Air Force report stated that its research found [no records]({{ 'no-records/' | relative_url }}) of recovered “alien” bodies or extraterrestrial materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+The original Roswell incident was a debris story. In July 1947, personnel from Roswell Army Air Field announced that they had recovered a “flying disc”, then the explanation quickly shifted to a balloon-like object. Later official reviews argued that the recovered material most likely came from Project Mogul, a classified balloon programme intended to detect Soviet nuclear tests, and the 1994 Air Force report stated that its research found [no records]({{ 'no-records/' | relative_url }}) of recovered “alien” bodies or extraterrestrial materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
 That distinction is crucial because the body claims are often remembered as if they were part of the first wave of Roswell reporting. They were not. The early public controversy centred on wreckage: foil-like material, sticks, rubber, radar targets, [balloons]({{ 'balloons/' | relative_url }}), press statements and the military’s changing explanation. The alien-body layer became prominent decades later, after Roswell had been revived as a UFO mystery and woven into a wider culture of government-cover-up stories.
 
-The most influential turning point was the 1980 book *The Roswell Incident* by Charles Berlitz and William Moore, with research involvement by Stanton Friedman. It helped transform Roswell from a confusing debris recovery into a crash-and-retrieval legend. One of its most important additions was the secondhand account of Grady “Barney” Barnett, who was said to have seen a crashed craft and small non-human bodies on the Plains of San Agustin, roughly 150 miles from the original Foster ranch debris site. Time’s 1997 account of the controversy noted that this body story came through people who said Barnett had told them the tale; Barnett himself was dead by the time the story became part of Roswell lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?</span></span></span>
+The most influential turning point was the 1980 book *The Roswell Incident* by Charles Berlitz and William Moore, with research involvement by Stanton Friedman. It helped transform Roswell from a confusing debris recovery into a crash-and-retrieval legend. One of its most important additions was the secondhand account of Grady “Barney” Barnett, who was said to have seen a crashed craft and small non-human bodies on the Plains of San Agustin, roughly 150 miles from the original Foster ranch debris site. Time’s 1997 account of the controversy noted that this body story came through people who said Barnett had told them the tale; Barnett himself was dead by the time the story became part of Roswell lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[TIME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">DID ALIENS REALLY LAND?</span><span class="citation-popover-snippet">DID ALIENS REALLY LAND?</span></span></span>
 
 This is one reason Roswell is both the central template and the central warning for UFO crash narratives. The better-documented core is a recovery of unusual debris under conditions of military secrecy. The more spectacular biological claims are later, more fragmented and much harder to verify.
 
@@ -468,11 +468,11 @@ Alien body claims usually enter crash narratives through a small number of recur
 
 **Secondhand testimony** is the most common route. The Barnett story is the classic Roswell example: people reported what a deceased acquaintance allegedly told them. That does not automatically make the story false, but it creates obvious problems. Memory, retelling, embellishment and selective quotation become hard to separate from the original claim.
 
-**Late witness interviews** are another route. Former mortician Glenn Dennis became one of the most famous Roswell body witnesses after claiming that Roswell base personnel had asked him about small caskets and body preservation, and that a nurse had described an alien autopsy. The difficulty is that the most dramatic part of the account depended on a nurse whose identity Dennis did not reliably establish; later discussion of his testimony included serious doubts about the name he had supplied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
+**Late witness interviews** are another route. Former mortician Glenn Dennis became one of the most famous Roswell body witnesses after claiming that Roswell base personnel had asked him about small caskets and body preservation, and that a nurse had described an alien autopsy. The difficulty is that the most dramatic part of the account depended on a nurse whose identity Dennis did not reliably establish; later discussion of his testimony included serious doubts about the name he had supplied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Glenn Dennis</span><span class="citation-popover-snippet">Glenn Dennis</span></span></span>
 
 **Deathbed or sealed statements** also recur in Roswell body lore. These can feel compelling because they are framed as last chances to reveal a secret. Yet they are hard to test. They usually appear long after the alleged event, often after the story has become culturally famous, and they cannot be cross-examined against contemporary logs, photographs, medical records or physical remains.
 
-**Folklore migration** is the quieter mechanism. Motifs from one crashed-saucer story appear in another: small bodies, military cordons, sealed hangars, autopsies, unusual metals, strange symbols and anonymous insiders. Roswell body claims were not developing in a vacuum. Earlier crashed-saucer tales, including the Aztec hoax, had already established the idea that the US government had recovered dead occupants from a saucer crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
+**Folklore migration** is the quieter mechanism. Motifs from one crashed-saucer story appear in another: small bodies, military cordons, sealed hangars, autopsies, unusual metals, strange symbols and anonymous insiders. Roswell body claims were not developing in a vacuum. Earlier crashed-saucer tales, including the Aztec hoax, had already established the idea that the US government had recovered dead occupants from a saucer crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd-Illustration-1-dark.svg" | relative_url }}" alt="Bodies illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -480,17 +480,17 @@ Alien body claims usually enter crash narratives through a small number of recur
 
 Roswell did not invent the alien-corpse motif. Long before Roswell became the dominant crash story, American folklore had already linked mysterious airships, crashes and dead non-human pilots.
 
-The Aurora, Texas, legend is an early example. Local history describes an 1897 tale in which an “airship” supposedly struck a windmill, leaving the disfigured remains of an alien creature later buried in the town cemetery. The City of Aurora presents the story as a local legend rather than verified evidence, but its structure is familiar: a crash, a body, a burial and a small community becoming part of UFO tourism and folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
+The Aurora, Texas, legend is an early example. Local history describes an 1897 tale in which an “airship” supposedly struck a windmill, leaving the disfigured remains of an alien creature later buried in the town cemetery. The City of Aurora presents the story as a local legend rather than verified evidence, but its structure is familiar: a crash, a body, a burial and a small community becoming part of UFO tourism and folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
-The Aztec, New Mexico, story is more directly relevant to post-war crash narratives. Journalist Frank Scully promoted claims in 1949 and 1950 that a saucer had crashed near Aztec in 1948 and that humanoid bodies had been recovered. The story was later exposed as a hoax connected to Silas Newton and Leo Gebauer, who used supposed alien technology claims in a fraud scheme. Yet the Aztec tale mattered because it placed a complete crash-retrieval package into circulation before the modern Roswell body narrative matured: landed saucer, dead occupants, secret military recovery and hidden technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
+The Aztec, New Mexico, story is more directly relevant to post-war crash narratives. Journalist Frank Scully promoted claims in 1949 and 1950 that a saucer had crashed near Aztec in 1948 and that humanoid bodies had been recovered. The story was later exposed as a hoax connected to Silas Newton and Leo Gebauer, who used supposed alien technology claims in a fraud scheme. Yet the Aztec tale mattered because it placed a complete crash-retrieval package into circulation before the modern Roswell body narrative matured: landed saucer, dead occupants, secret military recovery and hidden technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">Aztec crashed saucer hoax</span></span></span>
 
 This historical sequence changes how Roswell body claims should be read. They did not emerge into an empty field. They entered a storytelling environment where dead alien crews were already part of crashed-saucer mythology. That does not prove that every later witness borrowed consciously from earlier tales, but it raises the evidential bar. Investigators have to ask whether a claim is supported by independent records or whether it is repeating a narrative pattern that already existed.
 
 ## Autopsy Legends Made Bodies Feel Visible
 
-The most famous visual “evidence” for alien bodies was not a recovered biological specimen but a media event: the 1995 alien autopsy film associated with Ray Santilli and Gary Shoefield. The film was presented as showing the dissection of a being recovered after the Roswell crash, and it gained huge international attention in the 1990s. Later accounts reported that Santilli admitted the footage had been staged, while still claiming it was a reconstruction of damaged original material. Time summarised the episode as a hoax that captivated audiences before being exposed, with sculptor John Humphreys among those connected to the fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span></span></span>
+The most famous visual “evidence” for alien bodies was not a recovered biological specimen but a media event: the 1995 alien autopsy film associated with Ray Santilli and Gary Shoefield. The film was presented as showing the dissection of a being recovered after the Roswell crash, and it gained huge international attention in the 1990s. Later accounts reported that Santilli admitted the footage had been staged, while still claiming it was a reconstruction of damaged original material. Time summarised the episode as a hoax that captivated audiences before being exposed, with sculptor John Humphreys among those connected to the fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span><span class="citation-popover-snippet">How an Alien Autopsy Hoax Captured the World&#x27;s Imagination for a Decade</span></span></span>
 
-Recent coverage has kept the episode alive because it illustrates how a biological claim can spread when it looks like documentary footage. The Guardian’s 2026 review of *The Alien Autopsy Scandal* described the film as a faked video that claimed to show an extraterrestrial from the 1947 Roswell crash and later became a case study in media gullibility, performance and belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Alien Autopsy Scandal review</span><span class="citation-popover-snippet">Key figures Ray Santilli and Gary Shoefield, London music entrepreneurs, claimed they had bought original footage from a retired US milit...</span></span></span>
+Recent coverage has kept the episode alive because it illustrates how a biological claim can spread when it looks like documentary footage. The Guardian’s 2026 review of *The Alien Autopsy Scandal* described the film as a faked video that claimed to show an extraterrestrial from the 1947 Roswell crash and later became a case study in media gullibility, performance and belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Alien Autopsy Scandal review</span><span class="citation-popover-snippet">Key figures Ray Santilli and Gary Shoefield, London music entrepreneurs, claimed they had bought original footage from a retired US milit...</span></span></span>
 
 The autopsy film mattered less because it persuaded experts and more because it gave the body legend a visual grammar. It showed viewers what a secret alien autopsy was supposed to look like: grainy monochrome film, masked medical staff, a small humanoid body, clinical cutting, missing context and an implied military archive. Even after exposure, that imagery continued to shape how many people imagined Roswell.
 
@@ -517,7 +517,7 @@ The strongest body claims tend to fail on several recurring points:
 
 </div>
 
-The US Air Force’s 1997 *Roswell Report: Case Closed* offered one official explanation for why some later “body” memories could have arisen without requiring deliberate fabrication. It argued that accounts of alien bodies were likely conflated memories of later high-altitude balloon and parachute-test programmes using anthropomorphic dummies, as well as memories of real military accidents involving injured or killed personnel. The report’s central point was temporal: events from later years may have been compressed into the July 1947 Roswell story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">AFD 101027 030</span></span></span>
+The US Air Force’s 1997 *Roswell Report: Case Closed* offered one official explanation for why some later “body” memories could have arisen without requiring deliberate fabrication. It argued that accounts of alien bodies were likely conflated memories of later high-altitude balloon and parachute-test programmes using anthropomorphic dummies, as well as memories of real military accidents involving injured or killed personnel. The report’s central point was temporal: events from later years may have been compressed into the July 1947 Roswell story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">AFD 101027 030</span></span></span>
 
 That explanation is contested by some UFO researchers, especially because the dummy tests occurred after 1947. But it addresses a real problem in oral history: people can accurately remember strange-looking recoveries, military vehicles, stretchers or sealed containers while misdating or reinterpreting them after a famous story supplies a framework. The key question is not whether witnesses are sincere. It is whether their testimony can be anchored to the right date, place, object and records.
 
@@ -541,7 +541,7 @@ That raises the evidential standard dramatically. A persuasive biological case w
 
 </div>
 
-Modern UAP discussions reinforce this point. NASA’s 2023 independent study team reported no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and emphasised that the field needs higher-quality data rather than sensational inference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The Department of Defense’s All-domain Anomaly Resolution Office has also stated that it has found no verifiable evidence that the US government or private industry has had access to extraterrestrial technology, and no verifiable evidence that any UAP sighting represented extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span>
+Modern UAP discussions reinforce this point. NASA’s 2023 independent study team reported no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and emphasised that the field needs higher-quality data rather than sensational inference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The Department of Defense’s All-domain Anomaly Resolution Office has also stated that it has found no verifiable evidence that the US government or private industry has had access to extraterrestrial technology, and no verifiable evidence that any UAP sighting represented extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">dod report discounts sightings of extraterrestrial technology</span></span></span>
 
 Those statements do not prove that every crash story is false. They do show why “bodies were recovered” cannot be treated as just another witness detail. It is the most extraordinary claim in the crash genre, and it requires the most decisive proof.
 
@@ -579,194 +579,194 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did Alien Body Claims Come From?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did Alien Body Claims Come From?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly examines how Roswell stories evolved from debris reports into later alien-body narratives and myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how Roswell stories evolved from debris reports into later alien-body narratives and myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Philip Corso</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day After Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3Q-hG8YQyWcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Day After Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
+</h4>
+<p class="fr-book-author">By Philip Corso</p>
         
-        <p class="fr-book-desc">Contains influential claims about recovered alien technology and bodies that shaped later crash-retrieval lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains influential claims about recovered alien technology and bodies that shaped later crash-retrieval lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+After+Roswell+by+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony and body-recovery claims, making it highly relevant to the origins and development of those stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony and body-recovery claims, making it highly relevant to the origins and development of those stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Essential for understanding where many modern alien-body and crash-retrieval claims entered popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential for understanding where many modern alien-body and crash-retrieval claims entered popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+After+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day After Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP"><img src="{{ '/assets/images/marketplace-covers/97add21e72eecbe0be99.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP"><img src="{{ '/assets/images/marketplace-covers/97add21e72eecbe0be99.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS"><img src="{{ '/assets/images/marketplace-covers/fdc12669f852a22450a4.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA ALIEN WEYLAND-YUTANI 2 X BUILDING BETTER WORLDS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="bodies-where-did-alien-body-claims-come-from-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -782,7 +782,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -802,7 +802,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -834,7 +834,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -886,7 +886,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -931,7 +931,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -972,259 +972,259 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: content.time.com  
    Title: DID ALIENS REALLY LAND?  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-2%2C00.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Glenn Dennis  
-   Link: <a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glenn_Dennis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glenn_Dennis</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Aztec crashed [saucer hoax](&#123;&#123; 'saucer-hoax/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: auroratexas.gov  
    Title: History | Aurora, TX  
-   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
+   Link:<a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
    Title: How an Alien Autopsy Hoax Captured the World's Imagination for a Decade  
-   Link: <a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
+   Link:<a href="https://time.com/4376871/alien-autopsy-hoax-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4376871/alien-autopsy-hoax-history/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Alien Autopsy (1995 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Santilli Film  
-   Link: <a href="https://de.wikipedia.org/wiki/Santilli-Film" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Santilli-Film</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Santilli-Film" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Santilli-Film</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: The Roswell Incident (1980 book)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Roswell_Incident_%281980_book%29</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: NASA [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
+   Link:<a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: time.com  
    Title: autopsy or fraud topsy  
-   Link: <a href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6728224/autopsy-or-fraud-topsy/</a>  
+   Link:<a href="https://time.com/archive/6728224/autopsy-or-fraud-topsy/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6728224/autopsy-or-fraud-topsy/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: content.time.com  
    Title: 0,33009,986565 3,00  
-   Link: <a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
+   Link:<a href="https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/subscriber/article/0%2C33009%2C986565-3%2C00.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: The Guardian The Alien Autopsy Scandal review  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key figures Ray Santilli and Gary Shoefield, London music entrepreneurs, claimed they had bought original footage from a retired US milit...</p></details>
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key figures Ray Santilli and Gary Shoefield, London music entrepreneurs, claimed they had bought original footage from a retired US milit...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: all good the alien autopsy scandal sky documentaries  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries</a>  
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/06/all-good-the-alien-autopsy-scandal-sky-documentaries</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: archive where no mannequin has been before 1997  
-   Link: <a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
+   Link:<a href="https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2010/jun/25/archive-where-no-mannequin-has-been-before-1997</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: pentagon ufo report hiding aliens  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fi2rd8/serious_roswell_affidavits_clear_evidence_of_a/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/8551825" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8551825</a>  
+   Link:<a href="https://www.goodreads.com/book/show/8551825" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8551825</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: williampbarrett.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.williampbarrett.com/CrossRos/" target="_blank" rel="noopener noreferrer nofollow">https://www.williampbarrett.com/CrossRos/</a>  
+   Link:<a href="https://www.williampbarrett.com/CrossRos/" target="_blank" rel="noopener noreferrer nofollow">https://www.williampbarrett.com/CrossRos/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: unsolved.com  
-   Link: <a href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/roswell/</a>  
+   Link:<a href="https://unsolved.com/gallery/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/roswell/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ripleys.com  
    Title: alien autopsy  
-   Link: <a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
+   Link:<a href="https://www.ripleys.com/stories/alien-autopsy" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/alien-autopsy</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: kids.britannica.com  
    Title: Roswell Incident  
-   Link: <a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Roswell-Incident/313285" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Roswell-Incident/313285</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: skepdic.com  
-   Link: <a href="https://skepdic.com/aztec.html" target="_blank" rel="noopener noreferrer nofollow">https://skepdic.com/aztec.html</a>  
+   Link:<a href="https://skepdic.com/aztec.html" target="_blank" rel="noopener noreferrer nofollow">https://skepdic.com/aztec.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/Scully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Scully.html</a>  
+   Link:<a href="https://www.debunker.com/Scully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Scully.html</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History  
-   Link: <a href="http://www.youtube.com/watch?v=x4-hGxSJhjI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x4-hGxSJhjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report crash dummies anthropomorphic dummies explained &#x27;Non-human&#x27; remains found at UFO [crash sites](&amp;#123;&amp;#123; &#x27;crash-sites/&#x27; | relative_url &amp;#125;&amp;#125;) - whistleblower Channel 4 News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=x4-hGxSJhjI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x4-hGxSJhjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report crash dummies anthropomorphic dummies explained &#x27;Non-human&#x27; remains found at UFO [crash sites](&amp;#123;&amp;#123; &#x27;crash-sites/&#x27; | relative_url &amp;#125;&amp;#125;) - whistleblower Channel 4 News...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=H4AxRTzASxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=H4AxRTzASxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MfFx24lLiI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MfFx24lLiI4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MfFx24lLiI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="http://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rih9-80p0Ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed by James McAndrew read by Aaron Bennett | Full Audio Book...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=odUSnDgU-oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=odUSnDgU-oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/</a>  
+   Link:<a href="https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/a-pentagon-report-said-they-found-no-evidence-the-government-had-interactions-wi/852973763533284/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-nearly-22-minute-video-titled-the-roswell-incident-has-been-quietly-uploaded-t/810399368033749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-nearly-22-minute-video-titled-the-roswell-incident-has-been-quietly-uploaded-t/810399368033749/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-nearly-22-minute-video-titled-the-roswell-incident-has-been-quietly-uploaded-t/810399368033749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-nearly-22-minute-video-titled-the-roswell-incident-has-been-quietly-uploaded-t/810399368033749/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Behind-Flying-Saucers-Frank-Scully-ebook/dp/B00OEM62AC" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Behind-Flying-Saucers-Frank-Scully-ebook/dp/B00OEM62AC</a>  
+   Link:<a href="https://www.amazon.co.uk/Behind-Flying-Saucers-Frank-Scully-ebook/dp/B00OEM62AC" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Behind-Flying-Saucers-Frank-Scully-ebook/dp/B00OEM62AC</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2536066149901818/posts/2927851864056576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2536066149901818/posts/2927851864056576/</a>  
+   Link:<a href="https://www.facebook.com/groups/2536066149901818/posts/2927851864056576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2536066149901818/posts/2927851864056576/</a>  

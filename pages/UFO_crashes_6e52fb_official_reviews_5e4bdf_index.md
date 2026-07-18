@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-official-reviews/
 description: Focused pages that expand on Official Reviews.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_official_reviews_5e4bdf
 parent_title: Official Reviews
@@ -16,7 +16,7 @@ parent_permalink: /official-reviews/
 
 # Explore Topics in Official Reviews
 
-The following pages expand on the main **[Official Reviews]({{ '/official-reviews/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Official Reviews]({{ '/official-reviews/' | relative_url }})** page and cover its key branches in.
 
 - [Reverse Claims]({{ '/reverse-claims/' | relative_url }})
 - [Blue Book]({{ '/blue-book-18dd30/' | relative_url }})

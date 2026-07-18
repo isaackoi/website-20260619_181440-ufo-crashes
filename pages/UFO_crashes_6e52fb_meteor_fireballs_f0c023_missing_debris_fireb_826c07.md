@@ -284,7 +284,7 @@ Many UFO crash stories begin with a dramatic [fireball]({{ 'fireball/' | relativ
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-1-dark.svg" | relative_url }}" alt="No Debris illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every fireball should leave a crater. In fact, many [meteors]({{ 'meteors/' | relative_url }}) burn up completely before reaching the ground. The key question is whether the reported observations match what would normally be expected from a genuine meteorite fall. The absence of recoverable evidence is often the dividing line between a documented fall and a lasting crash legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
+This does not mean every fireball should leave a crater. In fact, many [meteors]({{ 'meteors/' | relative_url }}) burn up completely before reaching the ground. The key question is whether the reported observations match what would normally be expected from a genuine meteorite fall. The absence of recoverable evidence is often the dividing line between a documented fall and a lasting crash legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
 
 ## What Debris Would Change the Story?
 
@@ -299,13 +299,13 @@ Investigators look for:
 * A mapped strewn field, the area where fragments are scattered after atmospheric breakup.
 * Fresh impact marks on soil, roofs, ice, vegetation, or buildings.
 * Radar, camera, seismic, or infrasound data consistent with surviving material.
-* A documented recovery chain showing where and when fragments were found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES+2The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
+* A documented recovery chain showing where and when fragments were found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
 
 </div>
 
-The importance of physical recovery can be seen in well-documented meteorite falls. After the 2021 Winchcombe fireball in the United Kingdom, camera networks quickly reconstructed the trajectory and narrowed the predicted fall area, allowing meteorites to be recovered and scientifically analysed. The recovered material transformed the event from a witness report into a confirmed meteorite fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-snippet">Geoscience WorldEnding 30 Years of Hurt: the Winchcombe Meteorite Fall3 Feb 2022 — Preliminary triangulation and strewn field for the Win...</span></span></span>
+The importance of physical recovery can be seen in well-documented meteorite falls. After the 2021 Winchcombe fireball in the United Kingdom, camera networks quickly reconstructed the trajectory and narrowed the predicted fall area, allowing meteorites to be recovered and scientifically analysed. The recovered material transformed the event from a witness report into a confirmed meteorite fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.geoscienceworld.org">[Geoscience World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.geoscienceworld.org</span><span class="citation-popover-snippet">Geoscience WorldEnding 30 Years of Hurt: the Winchcombe Meteorite Fall3 Feb 2022 — Preliminary triangulation and strewn field for the Win...</span></span></span>
 
-Likewise, the 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) event generated enormous public attention, but investigators did not stop at eyewitness accounts. Scientists collected fragments from the region, analysed recovered samples, and eventually retrieved a large meteorite mass from Lake Chebarkul. The existence of physical material settled the question of what had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chelyabinsk_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chelyabinsk meteorite</span><span class="citation-popover-snippet">Chelyabinsk meteorite</span></span></span>
+Likewise, the 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) event generated enormous public attention, but investigators did not stop at eyewitness accounts. Scientists collected fragments from the region, analysed recovered samples, and eventually retrieved a large meteorite mass from Lake Chebarkul. The existence of physical material settled the question of what had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chelyabinsk_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chelyabinsk meteorite</span><span class="citation-popover-snippet">Chelyabinsk meteorite</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PWdya32j0d8" title="Fireball flies across the sky and causes sonic boom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer">Fireball flies across the sky and causes sonic boom</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 467.0K &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PWdya32j0d8">Open on YouTube</a></p></div></div></div>
@@ -314,14 +314,14 @@ Likewise, the 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) event gene
 
 A lack of debris is not automatically suspicious. Many bright meteors never produce recoverable meteorites.
 
-Most incoming meteoroids lose the vast majority of their mass while travelling through the atmosphere. A brilliant fireball can be created by an object that ultimately vaporises almost completely. Even when some material survives, fragments may be tiny, widely scattered, or land in inaccessible terrain, water, forests, or urban areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
+Most incoming meteoroids lose the vast majority of their mass while travelling through the atmosphere. A brilliant fireball can be created by an object that ultimately vaporises almost completely. Even when some material survives, fragments may be tiny, widely scattered, or land in inaccessible terrain, water, forests, or urban areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
 
 This creates an important distinction:
 
 * **A fireball sighting alone** does not imply a ground impact.
 * **A meteorite fall claim** implies that material survived and should, in principle, be recoverable.
 
-NASA's meteorite-fall modelling shows that only a fraction of an incoming object's mass may survive as findable fragments, and those fragments can be spread across a large area. Even when meteorites do reach the ground, recovery can be difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
+NASA's meteorite-fall modelling shows that only a fraction of an incoming object's mass may survive as findable fragments, and those fragments can be spread across a large area. Even when meteorites do reach the ground, recovery can be difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
 
 Because of this, investigators do not treat "no meteorite found" as proof that nothing fell. Instead, they ask whether the reported crash narrative predicts evidence that should reasonably exist. If witnesses insist that a large object struck nearby, created a major impact, or left [wreckage]({{ 'wreckage/' | relative_url }}), the continued absence of such evidence becomes increasingly significant.
 
@@ -331,11 +331,11 @@ Because of this, investigators do not treat "no meteorite found" as proof that n
 
 The strongest meteorite cases typically become stronger after the initial sighting. The weakest crash stories usually move in the opposite direction.
 
-When a promising fireball is recorded, researchers combine eyewitness reports, camera footage, radar observations, acoustic detections, and atmospheric models to estimate where fragments might land. Search teams then inspect the predicted area. If material is recovered, the case gains credibility. If repeated [searches]({{ 'searches/' | relative_url }}) find nothing, confidence in a nearby impact usually declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent bodies, while accurate strew...</span></span></span>
+When a promising fireball is recorded, researchers combine eyewitness reports, camera footage, radar observations, acoustic detections, and atmospheric models to estimate where fragments might land. Search teams then inspect the predicted area. If material is recovered, the case gains credibility. If repeated [searches]({{ 'searches/' | relative_url }}) find nothing, confidence in a nearby impact usually declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukfall.org.uk">[The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukfall.org.uk</span><span class="citation-popover-snippet">The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent bodies, while accurate strew...</span></span></span>
 
 A common pattern in UFO crash stories is that the reported impact zone shifts over time. Early accounts may place the object behind a local hill, in a nearby field, or beyond a visible treeline. Daylight inspections reveal no crater, debris, burn marks, or damaged vegetation. The supposed crash location then becomes more uncertain, eventually resting on witness conviction rather than physical evidence.
 
-This pattern differs sharply from documented meteorite recoveries. Recent fireball events in places such as Ohio, Texas, and Australia have led scientists to calculate predicted fall zones and organise targeted searches specifically because surviving fragments are expected to leave recoverable traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkyc.com">[WKYC+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkyc.com</span><span class="citation-popover-snippet">Meteorite fragments found in Medina CountyMar 18, 2026 — WADSWORTH, Ohio — Pieces of a meteorite have now been confirmed in Northeast...</span></span></span>
+This pattern differs sharply from documented meteorite recoveries. Recent fireball events in places such as Ohio, Texas, and Australia have led scientists to calculate predicted fall zones and organise targeted searches specifically because surviving fragments are expected to leave recoverable traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkyc.com">[wkyc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkyc.com</span><span class="citation-popover-snippet">Meteorite fragments found in Medina CountyMar 18, 2026 — WADSWORTH, Ohio — Pieces of a meteorite have now been confirmed in Northeast...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n1TL_jaVijY" title="Russia: huge chunk of Chelyabinsk meteor recovered from lake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n1TL_jaVijY" target="_blank" rel="noopener noreferrer">Russia: huge chunk of Chelyabinsk meteor recovered from lake</a></p><p class="youtube-embed-meta">Channel: euronews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n1TL_jaVijY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n1TL_jaVijY">Open on YouTube</a></p></div></div></div>
@@ -344,11 +344,11 @@ This pattern differs sharply from documented meteorite recoveries. Recent fireba
 
 One reason crash legends persist is that a meteor can create dramatic effects without actually striking the ground as a large object.
 
-An airburst occurs when a meteoroid breaks apart explosively in the atmosphere. Witnesses may see a flash, hear delayed booms, feel vibrations, or observe shattered windows. These effects can strongly suggest an impact even when no large body reaches the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[Lawrence Livermore National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">high fidelity simulation offers insight 2013 chelyabinsk meteor</span><span class="citation-popover-snippet">Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</span></span></span>
+An airburst occurs when a meteoroid breaks apart explosively in the atmosphere. Witnesses may see a flash, hear delayed booms, feel vibrations, or observe shattered windows. These effects can strongly suggest an impact even when no large body reaches the surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[Lawrence Livermore National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">high fidelity simulation offers insight 2013 chelyabinsk meteor</span><span class="citation-popover-snippet">Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</span></span></span>
 
-The Chelyabinsk meteor remains the clearest example. Thousands of people experienced a shock wave and widespread damage, yet the main event was an atmospheric explosion rather than a conventional crash. Although meteorite fragments were eventually recovered, the dramatic public reaction demonstrates how easily an airburst can be interpreted as a nearby impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[Lawrence Livermore National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">high fidelity simulation offers insight 2013 chelyabinsk meteor</span><span class="citation-popover-snippet">Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</span></span></span>
+The Chelyabinsk meteor remains the clearest example. Thousands of people experienced a shock wave and widespread damage, yet the main event was an atmospheric explosion rather than a conventional crash. Although meteorite fragments were eventually recovered, the dramatic public reaction demonstrates how easily an airburst can be interpreted as a nearby impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[Lawrence Livermore National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">high fidelity simulation offers insight 2013 chelyabinsk meteor</span><span class="citation-popover-snippet">Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</span></span></span>
 
-Historically, the 1908 Tunguska event has also fuelled debate because the explosion flattened vast areas of forest while leaving no straightforward impact crater. The unusual combination of powerful effects and limited recoverable material helped generate decades of speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icq.eps.harvard.edu">[ICQ Harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icq.eps.harvard.edu</span><span class="citation-popover-title">ICQ Harvard Interesting meteorite falls</span><span class="citation-popover-snippet">ICQ HarvardInteresting meteorite falls - International Comet QuarterlyWhile no meteorite has been found, the famous Tunguska fireball air...</span></span></span>
+Historically, the 1908 Tunguska event has also fuelled debate because the explosion flattened vast areas of forest while leaving no straightforward impact crater. The unusual combination of powerful effects and limited recoverable material helped generate decades of speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icq.eps.harvard.edu">[ICQ Harvard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icq.eps.harvard.edu</span><span class="citation-popover-title">ICQ Harvard Interesting meteorite falls</span><span class="citation-popover-snippet">ICQ HarvardInteresting meteorite falls - International Comet QuarterlyWhile no meteorite has been found, the famous Tunguska fireball air...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-3-dark.svg" | relative_url }}" alt="No Debris illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_missing_debris_fireb_826c07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,201 +371,201 @@ Investigators generally become sceptical when a claim includes:
 
 A genuine meteorite fall does not guarantee recovery, but a claimed crash should generate expectations that can be tested. If an object was large enough to convince observers that a vehicle or craft had come down nearby, there should usually be some corresponding evidence trail.
 
-For that reason, one of the simplest questions in any fireball-linked UFO crash story remains one of the most powerful: after the daylight search, what was actually found? When the answer is consistently “nothing”, the crash narrative becomes harder to sustain, while the explanation of a distant atmospheric fireball becomes increasingly plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ARES+2The UK Fireball Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
+For that reason, one of the simplest questions in any fireball-linked UFO crash story remains one of the most powerful: after the daylight search, what was actually found? When the answer is consistently “nothing”, the crash narrative becomes harder to sustain, while the explanation of a distant atmospheric fireball becomes increasingly plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-title">meteorite falls</span><span class="citation-popover-snippet">Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKqNptxxHz0" title="Recovering the Winchcombe meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKqNptxxHz0" target="_blank" rel="noopener noreferrer">Recovering the Winchcombe meteorite</a></p><p class="youtube-embed-meta">Channel: University of Glasgow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKqNptxxHz0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKqNptxxHz0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Is the Crash Site Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Is the Crash Site Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Explains what physical evidence real falls leave behind.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains what physical evidence real falls leave behind.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
-        </h4>
-        <p class="fr-book-author">By John S. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain Of Iron And Ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5ruAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rain Of Iron And Ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain Of Iron And Ice">Rain Of Iron And Ice</a>
+</h4>
+<p class="fr-book-author">By John S. Lewis</p>
         
-        <p class="fr-book-desc">Demonstrates how real impact evidence is documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how real impact evidence is documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice+by+John+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Death from the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HoVwCIIspWIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Death from the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the Skies!">Death from the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Philip Plait, Ph.D.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Death from the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HoVwCIIspWIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Death from the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the Skies!">Death from the Skies!</a>
+</h4>
+<p class="fr-book-author">By Philip Plait, Ph.D.</p>
         
-        <p class="fr-book-desc">Provides context for expected outcomes of atmospheric entries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for expected outcomes of atmospheric entries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Death+from+the+Skies%21+by+Philip+Plait%2C+Ph.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based reasoning when debris is absent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based reasoning when debris is absent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain Of Iron And Ice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Death+from+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Death from the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+Of+Iron+And+Ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain Of Iron And Ice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Death+from+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Death from the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz"><img src="{{ '/assets/images/marketplace-covers/78bc57bca1379283a9b7.jpg' | relative_url }}" alt="Listing image for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz"><img src="{{ '/assets/images/marketplace-covers/78bc57bca1379283a9b7.jpg' | relative_url }}" alt="Listing image for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="no-debris-where-is-the-crash-site-evidence-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,125 +771,125 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANote that data are not provided in real-time and not all fireballs are reported. A blank (empty) field in the table indicates...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASANote that data are not provided in real-time and not all fireballs are reported. A blank (empty) field in the table indicates...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Chelyabinsk meteorite  
-   Link: <a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteorite</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wkyc.com  
-   Link: <a href="https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911" target="_blank" rel="noopener noreferrer nofollow">https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fragments found in Medina CountyMar 18, 2026 — WADSWORTH, Ohio — Pieces of a meteorite have now been confirmed in Northeast...</p></details>
+   Link:<a href="https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911" target="_blank" rel="noopener noreferrer nofollow">https://www.wkyc.com/article/tech/science/cosmic-discovery-meteorite-fragments-found-medina-county/95-712916e0-7a08-4471-9c5a-576ac721a911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite fragments found in Medina CountyMar 18, 2026 — WADSWORTH, Ohio — Pieces of a meteorite have now been confirmed in Northeast...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, estimated at 1 ton in mass (about 1,000 kg), disintegrated approximately 29 miles above the city and may have dropped small m...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/rare-daytime-fireball-may-have-dropped-meteorites-on-texas-heres-where-to-find-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, estimated at 1 ton in mass (about 1,000 kg), disintegrated approximately 29 miles above the city and may have dropped small m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: icq.eps.harvard.edu  
    Title: ICQ Harvard Interesting meteorite falls  
-   Link: <a href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.icq.eps.harvard.edu/meteorites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICQ HarvardInteresting meteorite falls - International Comet QuarterlyWhile no meteorite has been found, the famous Tunguska fireball air...</p></details>
+   Link:<a href="https://www.icq.eps.harvard.edu/meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.icq.eps.harvard.edu/meteorites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICQ HarvardInteresting meteorite falls - International Comet QuarterlyWhile no meteorite has been found, the famous Tunguska fireball air...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsMeteorite fall from a daytime fireball seen over eastern Maine on 08 April 2023.... This is recorded as American Me...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsMeteorite fall from a daytime fireball seen over eastern Maine on 08 April 2023.... This is recorded as American Me...</p></details>
    Published: April 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Chelyabinsk meteor  
-   Link: <a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chelyabinsk meteorThe explosion generated a bright flash, producing a hot cloud of dust and gas that penetrated to 26 kilometres (16 m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chelyabinsk meteorThe explosion generated a bright flash, producing a hot cloud of dust and gas that penetrated to 26 kilometres (16 m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), while accurate strew...</p></details>
+   Link:<a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), while accurate strew...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubs.geoscienceworld.org  
-   Link: <a href="https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience WorldEnding 30 Years of Hurt: the Winchcombe Meteorite Fall3 Feb 2022 — Preliminary triangulation and strewn field for the Win...</p></details>
+   Link:<a href="https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/msa/elements/article/17/5/363/611048/Ending-30-Years-of-Hurt-the-Winchcombe-Meteorite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geoscience WorldEnding 30 Years of Hurt: the Winchcombe Meteorite Fall3 Feb 2022 — Preliminary triangulation and strewn field for the Win...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: chelyabinsk meteor russians lake  
-   Link: <a href="https://www.theguardian.com/world/2013/oct/16/chelyabinsk-meteor-russians-lake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/16/chelyabinsk-meteor-russians-lake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of Chelyabinsk meteor recovered from Chebarkul lake17 Oct 2013 — Russian scientists have recovered a giant chunk of the Chelyabinsk...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/oct/16/chelyabinsk-meteor-russians-lake" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/16/chelyabinsk-meteor-russians-lake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part of Chelyabinsk meteor recovered from Chebarkul lake17 Oct 2013 — Russian scientists have recovered a giant chunk of the Chelyabinsk...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: llnl.gov  
    Title: high fidelity simulation offers insight 2013 chelyabinsk meteor  
-   Link: <a href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</p></details>
+   Link:<a href="https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/article/49571/high-fidelity-simulation-offers-insight-2013-chelyabinsk-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence Livermore National LaboratoryHigh-fidelity simulation offers insight into 2013 Chelyabinsk...Mar 9, 2023 — The resulting meteor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/video/2013/oct/17/chelyabinsk-meteorite-lake-chebarkul-russia-ural-mountains-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2013/oct/17/chelyabinsk-meteorite-lake-chebarkul-russia-ural-mountains-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists will test the rock to confirm whether it is...</p></details>
+   Link:<a href="https://www.theguardian.com/science/video/2013/oct/17/chelyabinsk-meteorite-lake-chebarkul-russia-ural-mountains-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2013/oct/17/chelyabinsk-meteorite-lake-chebarkul-russia-ural-mountains-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists will test the rock to confirm whether it is...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about &#x27;fireball season&#x27; as the number of...Mar 30, 2026 — But peak &quot;fireball season&quot; typically runs from February through A...</p></details>
+   Link:<a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about &#x27;fireball season&#x27; as the number of...Mar 30, 2026 — But peak &quot;fireball season&quot; typically runs from February through A...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsHow fast are meteorites traveling when they reach the ground? Meteoroids enter the earth&#x27;s atmosphere...</p></details>
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsHow fast are meteorites traveling when they reach the ground? Meteoroids enter the earth&#x27;s atmosphere...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and rel...</p></details>
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and rel...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: heraldsun.com.au  
-   Link: <a href="https://www.heraldsun.com.au/news/victoria/meteorite-falls-between-ballarat-and-bendigo/[news-story" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldsun.com.au/news/victoria/meteorite-falls-between-ballarat-and-bendigo/[news-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rachel Kirby, planetary geologist at Monash University and lead meteorite geochemist for the Desert Fireball Network, said the exact loca...</p></details>
+   Link:<a href="https://www.heraldsun.com.au/news/victoria/meteorite-falls-between-ballarat-and-bendigo/[news-story" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldsun.com.au/news/victoria/meteorite-falls-between-ballarat-and-bendigo/[news-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rachel Kirby, planetary geologist at Monash University and lead meteorite geochemist for the Desert Fireball Network, said the exact loca...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MarkJweather/posts/jackpot-more-fragment-finds-again-this-morning-in-medina-co-ohio-the-american-me/26241285818854697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MarkJweather/posts/jackpot-more-fragment-finds-again-this-morning-in-medina-co-ohio-the-american-me/26241285818854697/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JACKPOT! MORE FRAGMENT FINDS again this morning...Officials from the American Meteor Society also confirmed 2 other 5 gram fragments wer...</p></details>
+   Link:<a href="https://www.facebook.com/MarkJweather/posts/jackpot-more-fragment-finds-again-this-morning-in-medina-co-ohio-the-american-me/26241285818854697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MarkJweather/posts/jackpot-more-fragment-finds-again-this-morning-in-medina-co-ohio-the-american-me/26241285818854697/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JACKPOT! MORE FRAGMENT FINDS again this morning...Officials from the American Meteor Society also confirmed 2 other 5 gram fragments wer...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/videos?video_id=21225" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=21225</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
+   Link:<a href="https://www.amsmeteors.org/videos?video_id=21225" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=21225</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/videos?video_id=22128" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22128</a>  
+   Link:<a href="https://www.amsmeteors.org/videos?video_id=22128" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos?video_id=22128</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWdya32j0d8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball flies across the sky and causes sonic boomA &#x27;daytime fireball&#x27; was caught on video in the sky over South Carolina – causing a so...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWdya32j0d8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball flies across the sky and causes sonic boomA &#x27;daytime fireball&#x27; was caught on video in the sky over South Carolina – causing a so...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=n1TL_jaVijY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n1TL_jaVijY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia: huge chunk of Chelyabinsk meteor recovered from lakeDivers have retrieved an enormous fragment of the meteor that exploded over R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n1TL_jaVijY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n1TL_jaVijY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia: huge chunk of Chelyabinsk meteor recovered from lakeDivers have retrieved an enormous fragment of the meteor that exploded over R...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: watchers.news  
    Title: possible huge meteorite fragment recovered from russian fireball  
-   Link: <a href="https://watchers.news/2013/10/17/possible-huge-meteorite-fragment-recovered-from-russian-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2013/10/17/possible-huge-meteorite-fragment-recovered-from-russian-fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest chunk of Chelyabinsk meteorite found under Lake...Oct 17, 2013 — Scientists and divers working at Lake Chebarkul in the Urals ha...</p></details>
+   Link:<a href="https://watchers.news/2013/10/17/possible-huge-meteorite-fragment-recovered-from-russian-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2013/10/17/possible-huge-meteorite-fragment-recovered-from-russian-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest chunk of Chelyabinsk meteorite found under Lake...Oct 17, 2013 — Scientists and divers working at Lake Chebarkul in the Urals ha...</p></details>

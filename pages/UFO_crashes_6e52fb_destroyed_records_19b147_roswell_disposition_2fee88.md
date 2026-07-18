@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_dispos
 
 ## Introduction
 
-One of the most persistent issues in the Roswell [records]({{ 'records/' | relative_url }}) debate is not simply that relevant military files were destroyed. The more significant problem is that the surviving paperwork does not adequately explain the destruction itself. When investigators traced the archival history of Roswell Army Air Field records, they found disposition paperwork showing that important record series had been destroyed, yet the form failed to document who authorised the action, when it occurred, or under what records-management authority it was carried out. That gap transformed a routine archival question into a continuing source of suspicion. The controversy is therefore less about missing documents alone and more about the missing chain of accountability behind their disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+One of the most persistent issues in the Roswell [records]({{ 'records/' | relative_url }}) debate is not simply that relevant military files were destroyed. The more significant problem is that the surviving paperwork does not adequately explain the destruction itself. When investigators traced the archival history of Roswell Army Air Field records, they found disposition paperwork showing that important record series had been destroyed, yet the form failed to document who authorised the action, when it occurred, or under what records-management authority it was carried out. That gap transformed a routine archival question into a continuing source of suspicion. The controversy is therefore less about missing documents alone and more about the missing chain of accountability behind their disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-1-dark.svg" | relative_url }}" alt="Disposition Trail illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,15 +291,15 @@ In government records management, a disposition form exists to create a traceabl
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* What records were involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+* What records were involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 * Why they were eligible for destruction.
-* Which authority approved the action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Hidden UFO Records &#124; Point of ContactAccording to this official, the document disposition form did not properly indicate the authorit...</span></span></span>
+* Which authority approved the action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Hidden UFO Records &#124; Point of ContactAccording to this official, the document disposition form did not properly indicate the authorit...</span></span></span>
 * When the action occurred.
 * Which office carried it out.
 
 </div>
 
-The purpose of such paperwork is not merely administrative. It creates a [chain of custody]({{ 'custody/' | relative_url }}) for information. Even when the underlying records no longer exist, investigators can still reconstruct how and why they disappeared. In historical investigations, that audit trail often becomes almost as important as the records themselves because it allows researchers to distinguish ordinary disposal from irregular conduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</span></span></span>
+The purpose of such paperwork is not merely administrative. It creates a [chain of custody]({{ 'custody/' | relative_url }}) for information. Even when the underlying records no longer exist, investigators can still reconstruct how and why they disappeared. In historical investigations, that audit trail often becomes almost as important as the records themselves because it allows researchers to distinguish ordinary disposal from irregular conduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</span></span></span>
 
 For controversial events, traceability matters especially because records are often interpreted through competing narratives. A complete disposition trail allows investigators to test claims rather than speculate about them.
 
@@ -308,7 +308,7 @@ For controversial events, traceability matters especially because records are of
 
 ## What the Roswell destruction record lacked
 
-The problem identified during the 1995 Government Accountability Office (GAO) investigation was unusually specific. Investigators discovered that some Roswell Army Air Field administrative records covering March 1945 through December 1949 and outgoing message files covering October 1946 through December 1949 had been destroyed. However, the disposition documentation failed to identify key details that should have accompanied the destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+The problem identified during the 1995 Government Accountability Office (GAO) investigation was unusually specific. Investigators discovered that some Roswell Army Air Field administrative records covering March 1945 through December 1949 and outgoing message files covering October 1946 through December 1949 had been destroyed. However, the disposition documentation failed to identify key details that should have accompanied the destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
 The GAO stated that the document disposition form did not indicate:
 
@@ -317,21 +317,21 @@ The GAO stated that the document disposition form did not indicate:
 
 * What organisation or individual destroyed the records.
 * When the destruction occurred.
-* Under what authority the destruction was performed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+* Under what authority the destruction was performed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
 </div>
 
-Those omissions are the core of the Roswell destruction problem. Had the form shown that the records were destroyed under a standard retention schedule at a known date by a specific office, the issue would largely have become one of unfortunate archival loss. Instead, investigators encountered a disposal record that documented destruction while leaving major questions about the destruction unanswered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+Those omissions are the core of the Roswell destruction problem. Had the form shown that the records were destroyed under a standard retention schedule at a known date by a specific office, the issue would largely have become one of unfortunate archival loss. Instead, investigators encountered a disposal record that documented destruction while leaving major questions about the destruction unanswered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
-This distinction is important. The controversy does not arise because nobody can imagine a legitimate reason for records to be destroyed. Government agencies routinely dispose of vast quantities of records under approved retention schedules. The controversy arises because the surviving paperwork does not demonstrate that process in a verifiable way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What about the Roswell documents?</span><span class="citation-popover-snippet">Weren&#x27;t they...July 25, 2022 — The opposite it true, they are destroyed by default unless the category they are in has permanent retenti...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
+This distinction is important. The controversy does not arise because nobody can imagine a legitimate reason for records to be destroyed. Government agencies routinely dispose of vast quantities of records under approved retention schedules. The controversy arises because the surviving paperwork does not demonstrate that process in a verifiable way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What about the Roswell documents?</span><span class="citation-popover-snippet">Weren&#x27;t they...July 25, 2022 — The opposite it true, they are destroyed by default unless the category they are in has permanent retenti...</span><span class="citation-popover-meta">Published: July 25, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-2-dark.svg" | relative_url }}" alt="Disposition Trail illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why outgoing messages attracted attention
 
-Among the destroyed materials, the outgoing message files have attracted particular interest because they could have documented communications sent from Roswell to higher headquarters during and after the July 1947 incident. Those messages would not necessarily have contained extraordinary information, but they represented a potentially valuable contemporaneous record of what officers were reporting in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn our search for records concerning the Roswell crash, we learned th...</span></span></span>
+Among the destroyed materials, the outgoing message files have attracted particular interest because they could have documented communications sent from Roswell to higher headquarters during and after the July 1947 incident. Those messages would not necessarily have contained extraordinary information, but they represented a potentially valuable contemporaneous record of what officers were reporting in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn our search for records concerning the Roswell crash, we learned th...</span></span></span>
 
-Because those files no longer exist, researchers cannot determine whether they contained routine administrative traffic, discussions of balloon debris, references to classified military projects, or something else entirely. The destruction therefore creates an evidential blind spot. What it does not do is reveal the content of the [missing records]({{ 'missing-records/' | relative_url }}). The absence of the files limits certainty in every direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
+Because those files no longer exist, researchers cannot determine whether they contained routine administrative traffic, discussions of balloon debris, references to classified military projects, or something else entirely. The destruction therefore creates an evidential blind spot. What it does not do is reveal the content of the [missing records]({{ 'missing-records/' | relative_url }}). The absence of the files limits certainty in every direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrLVpWBxHRA" title="Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer">Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 343.3K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrLVpWBxHRA">Open on YouTube</a></p></div></div></div>
@@ -351,213 +351,213 @@ A missing audit trail creates three separate possibilities:
 
 </div>
 
-The surviving disposition form cannot distinguish decisively among those possibilities because the very information needed to make that determination is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+The surviving disposition form cannot distinguish decisively among those possibilities because the very information needed to make that determination is absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
-This is why historians and records specialists focus on documentation quality rather than jumping directly to conclusions about hidden UFO evidence. The strongest finding supported by the record is that accountability for the destruction was inadequately documented. Any claim about what the destroyed files contained goes beyond the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
+This is why historians and records specialists focus on documentation quality rather than jumping directly to conclusions about hidden UFO evidence. The strongest finding supported by the record is that accountability for the destruction was inadequately documented. Any claim about what the destroyed files contained goes beyond the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 ## The gap that fuels continuing suspicion
 
-The enduring power of the Roswell destruction issue comes from a simple fact: investigators found evidence that records once existed and evidence that they were later destroyed, but they could not fully reconstruct the destruction process itself. That leaves a permanent uncertainty in the historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+The enduring power of the Roswell destruction issue comes from a simple fact: investigators found evidence that records once existed and evidence that they were later destroyed, but they could not fully reconstruct the destruction process itself. That leaves a permanent uncertainty in the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
-For sceptics, the episode demonstrates the imperfections of archival systems and the dangers of drawing conclusions from missing documents. For believers, the incomplete disposition trail raises questions about whether potentially important records disappeared without adequate oversight. Both sides ultimately return to the same underlying fact: the paperwork explaining the destruction was itself incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">This means the military cannot explain who destroyed the records, or why.&quot;.Read more...</span></span></span>
+For sceptics, the episode demonstrates the imperfections of archival systems and the dangers of drawing conclusions from missing documents. For believers, the incomplete disposition trail raises questions about whether potentially important records disappeared without adequate oversight. Both sides ultimately return to the same underlying fact: the paperwork explaining the destruction was itself incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">This means the military cannot explain who destroyed the records, or why.&quot;.Read more...</span></span></span>
 
-The Roswell destruction problem therefore remains less a mystery about what was found in New Mexico and more a lesson in records management. The crucial gap is not merely that files vanished. It is that the surviving disposition record cannot fully explain how, when, or by whom they vanished, leaving a traceability failure that continues to shape debates over Roswell decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
+The Roswell destruction problem therefore remains less a mystery about what was found in New Mexico and more a lesson in records management. The crucial gap is not merely that files vanished. It is that the surviving disposition record cannot fully explain how, when, or by whom they vanished, leaving a traceability failure that continues to shape debates over Roswell decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-3-dark.svg" | relative_url }}" alt="Disposition Trail illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_destroyed_records_19b147_roswell_disposition_2fee88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Paperwork Gap Behind Roswell Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Paperwork Gap Behind Roswell Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Archives and Manuscripts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0dmAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Archives and Manuscripts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Archives and Manuscripts">Understanding Archives and Manuscripts</a>
-        </h4>
-        <p class="fr-book-author">By James M. O&#x27;Toole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Archives and Manuscripts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0dmAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Archives and Manuscripts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Archives and Manuscripts">Understanding Archives and Manuscripts</a>
+</h4>
+<p class="fr-book-author">By James M. O&#x27;Toole</p>
         
-        <p class="fr-book-desc">Explains documentation and accountability processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains documentation and accountability processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts+by+James+M.+O%27Toole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Foundational source behind the controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational source behind the controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Discusses evidence, records and witness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence, records and witness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps assess claims built on documentary gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps assess claims built on documentary gaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Archives and Manuscripts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Archives+and+Manuscripts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Archives and Manuscripts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert"><img src="{{ '/assets/images/marketplace-covers/6d7e0b37e5962b560034.jpg' | relative_url }}" alt="Listing image for Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert"><img src="{{ '/assets/images/marketplace-covers/6d7e0b37e5962b560034.jpg' | relative_url }}" alt="Listing image for Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell: The Complete Collection DVD (2005) Shiri Appleby, Trilling (DIR) cert</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive."><img src="{{ '/assets/images/marketplace-covers/dbc1eb297ed025c7f1f4.jpg' | relative_url }}" alt="Listing image for Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive."><img src="{{ '/assets/images/marketplace-covers/dbc1eb297ed025c7f1f4.jpg' | relative_url }}" alt="Listing image for Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Authentic WWII 1944 USAAF Roswell 201 Flight Officer Restricted Orders Archive.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell collectible" data-ebay-reference="disposition-trail-the-paperwork-gap-behind-roswell-suspicion-ufo-crashes-roswell-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,125 +763,125 @@ The Roswell destruction problem therefore remains less a mystery about what was 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — The document disposition form does not indicate what organization or person destroyed the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/411.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the General Accounting office [GAO]In the Catalog, you can find descriptions of our holdings and access elect...</p></details>
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/groups/411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/411.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords of the General Accounting office [GAO]In the Catalog, you can find descriptions of our holdings and access elect...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn our search for records concerning the Roswell crash, we learned th...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashIn our search for records concerning the Roswell crash, we learned th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: What about the Roswell documents?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weren&#x27;t they...July 25, 2022 — The opposite it true, they are destroyed by default unless the category they are in has permanent retenti...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weren&#x27;t they...July 25, 2022 — The opposite it true, they are destroyed by default unless the category they are in has permanent retenti...</p></details>
    Published: July 25, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswel...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswel...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means the military cannot explain who destroyed the records, or why.&quot;.Read more...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This means the military cannot explain who destroyed the records, or why.&quot;.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden UFO Records | Point of ContactAccording to this official, the document disposition form did not properly indicate the authorit...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-hidden-ufo-records-39edd7d83625</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden UFO Records | Point of ContactAccording to this official, the document disposition form did not properly indicate the authorit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Although some of the records concerning Roswell activities...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Although some of the records concerning Roswell activities...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: legistorm.com  
-   Link: <a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>records covering activities of the Roswell Army Air Field had been destroyed. GAO did locate two 1947 records that mentioned the crash--a...</p></details>
+   Link:<a href="https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/25725/Results_of_a_Search_for_Records_Concerning_the_1947_Crash_Near_Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>records covering activities of the Roswell Army Air Field had been destroyed. GAO did locate two 1947 records that mentioned the crash--a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — In our search for records concerning the Roswell crash, we learned that some government records covering RAA.F activ...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records13 Jul 2021 — In our search for records concerning the Roswell crash, we learned that some government records covering RAA.F activ...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: deseret.com  
    Title: ufo documents destroyed unjustifiably lawmaker says  
-   Link: <a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Key military documents on the so-called Roswell Incident, cited by...</p></details>
+   Link:<a href="https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1995/7/30/19185015/ufo-documents-destroyed-unjustifiably-lawmaker-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`UFO&#x27; DOCUMENTS DESTROYED UNJUSTIFIABLY...30 Jul 1995 — Key military documents on the so-called Roswell Incident, cited by...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Air Force Research Regarding the &quot;Roswell...22 May 2017 — (a) The Air Force had no authority to compel other agencies to review their...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf?ver=2017-05-22-113514-370</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Air Force Research Regarding the &quot;Roswell...22 May 2017 — (a) The Air Force had no authority to compel other agencies to review their...</p></details>
    Published: May 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dafhistory.af.mil  
    Title: mil The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by Representative Steven H. Schiff...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nsa.gov  
    Title: Uploaded On: 7/13  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-[FOIA" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-[FOIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...Schiff, House of Representatives - Government Records - Results of a Search for Re...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-[FOIA" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-[FOIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of Air Force Research Regarding the &quot;Roswell...Schiff, House of Representatives - Government Records - Results of a Search for Re...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — The &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT(a) The Air Force had no authority to compel other agencies to review their records;. (b) The Air Force would have no way...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT(a) The Air Force had no authority to compel other agencies to review their records;. (b) The Air Force would have no way...</p></details>

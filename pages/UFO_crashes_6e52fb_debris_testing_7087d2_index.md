@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-debris-testing/
 description: Focused pages that expand on Debris Tests.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_debris_testing_7087d2
 parent_title: Debris Tests
@@ -16,7 +16,7 @@ parent_permalink: /debris-tests/
 
 # Explore Topics in Debris Tests
 
-The following pages expand on the main **[Debris Tests]({{ '/debris-tests/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Debris Tests]({{ '/debris-tests/' | relative_url }})** page and cover its key branches in.
 
 - [Provenance]({{ '/provenance/' | relative_url }})
 - [Evaluation]({{ '/evaluation/' | relative_url }})

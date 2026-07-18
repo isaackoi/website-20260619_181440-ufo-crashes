@@ -282,13 +282,13 @@ The key issue is not simply secrecy. It is the combination of secrecy, partial k
 
 ## How Compartmented Access Works
 
-Special Access Programs are designed to protect particularly sensitive military, intelligence and technology projects. Unlike ordinary classified programmes, access is restricted to a small group of authorised individuals who have both the necessary clearance and a demonstrated need to know. Some programmes are publicly acknowledged while their details remain secret; others are unacknowledged and known only to a limited circle of officials and oversight [bodies]({{ 'bodies/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
+Special Access Programs are designed to protect particularly sensitive military, intelligence and technology projects. Unlike ordinary classified programmes, access is restricted to a small group of authorised individuals who have both the necessary clearance and a demonstrated need to know. Some programmes are publicly acknowledged while their details remain secret; others are unacknowledged and known only to a limited circle of officials and oversight [bodies]({{ 'bodies/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
 This structure creates deliberate information barriers. A scientist may understand a component without knowing the larger mission. A military officer may supervise operations without seeing technical details. Contractors working on related systems may never meet one another. Such compartmentalisation is considered a security feature because it limits espionage risks and protects sensitive capabilities.
 
 For UFO-related speculation, however, the same structure can create confusion. If multiple people encounter unusual technology from different angles, none may possess enough context to explain it fully. Over time, disconnected observations can be assembled into a narrative that appears larger and more mysterious than the underlying programme.
 
-The history of classified aviation provides many examples. During the Cold War, observers frequently reported unusual objects that were later linked to secret aircraft or reconnaissance projects. The observers were often accurately describing something unusual; what they lacked was access to the classified explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
+The history of classified aviation provides many examples. During the Cold War, observers frequently reported unusual objects that were later linked to secret aircraft or reconnaissance projects. The observers were often accurately describing something unusual; what they lacked was access to the classified explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYNupwcaxNo" title="Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer">Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 44.8K &middot; Uploaded: April 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYNupwcaxNo">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ The most persistent alien-technology claims often emerge not from complete evide
 
 Imagine a situation in which an individual hears that a facility stores unusual materials, another learns that a project is heavily compartmented, and a third knows that a senior official cannot discuss certain activities. None of those facts independently demonstrates the existence of extraterrestrial technology. Yet when combined through informal conversations, media reports or whistleblower networks, they can appear to support a much more dramatic conclusion.
 
-Researchers studying UFO narratives have repeatedly encountered this pattern. [AARO]({{ 'aaro/' | relative_url }}), the US Department of Defense office responsible for investigating [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena, concluded that many claims about hidden reverse-engineering programmes were built on misunderstandings, second-hand accounts or what it described as circular reporting among individuals who reinforced one another's beliefs without providing independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Marcello Catalano]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">more...</span></span></span>
+Researchers studying UFO narratives have repeatedly encountered this pattern. [AARO]({{ 'aaro/' | relative_url }}), the US Department of Defense office responsible for investigating [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena, concluded that many claims about hidden reverse-engineering programmes were built on misunderstandings, second-hand accounts or what it described as circular reporting among individuals who reinforced one another's beliefs without providing independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">more...</span></span></span>
 
 This does not necessarily mean witnesses were dishonest. People can sincerely report what they heard or observed while still lacking critical context. In highly compartmented environments, confidence can exceed knowledge because participants assume that missing information must exist somewhere else within the system.
 
@@ -320,11 +320,11 @@ Once that cycle begins, ordinary indicators of classification can be interpreted
 
 One of the most revealing recent examples is the proposed programme known as KONA BLUE.
 
-According to AARO's 2024 historical review, KONA BLUE was a proposed Prospective Special Access Program that supporters hoped would investigate and potentially manage alleged recovered non-human technology. The proposal emerged from individuals who genuinely believed the US government was concealing exotic materials and advanced craft. However, investigators found that the programme was never approved and that its advocates failed to provide empirical evidence supporting the underlying claims. U.S. Department of War+3Wikisource+3AARO <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — One named program was a UAP-related Prospective Special Acc...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
+According to AARO's 2024 historical review, KONA BLUE was a proposed Prospective Special Access Program that supporters hoped would investigate and potentially manage alleged recovered non-human technology. The proposal emerged from individuals who genuinely believed the US government was concealing exotic materials and advanced craft. However, investigators found that the programme was never approved and that its advocates failed to provide empirical evidence supporting the underlying claims. U.S. Department of War+3Wikisource+3AARO<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — One named program was a UAP-related Prospective Special Acc...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
 
 The significance of KONA BLUE is not that it uncovered alien technology. Rather, it demonstrates how belief in hidden technology can develop within communities already familiar with classified programmes.
 
-Some supporters reportedly hoped that creating the programme would bring alleged hidden activities into a structure subject to clearer oversight and governance. In other words, they believed secret programmes existed and wanted a formal mechanism to investigate them. AARO's review found no evidence that the alleged recovered extraterrestrial technology actually existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidin...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Some supporters reportedly hoped that creating the programme would bring alleged hidden activities into a structure subject to clearer oversight and governance. In other words, they believed secret programmes existed and wanted a formal mechanism to investigate them. AARO's review found no evidence that the alleged recovered extraterrestrial technology actually existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidin...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 This distinction is important. A person can sincerely believe that a hidden programme exists without possessing evidence that it does. The existence of a proposal to study alleged alien technology does not establish the existence of alien technology itself.
 
@@ -341,9 +341,9 @@ This creates a recurring interpretive problem. When an observer encounters somet
 1. A genuinely unknown phenomenon.
 2. A human technology whose details remain classified.
 
-The second explanation is frequently underestimated because secrecy hides the relevant context. AARO's historical review concluded that some UFO reports were linked to previously undisclosed aerospace and defence activities rather than extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
+The second explanation is frequently underestimated because secrecy hides the relevant context. AARO's historical review concluded that some UFO reports were linked to previously undisclosed aerospace and defence activities rather than extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
 
-In several documented cases, stories about extraordinary materials or vehicles later resolved into accounts involving classified aircraft. One example highlighted in the AARO review involved a claim that a military officer had touched extraterrestrial technology. Investigators reported that the officer instead described contact with an F-117 stealth aircraft, an advanced system whose unusual appearance and secrecy could easily generate misunderstandings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
+In several documented cases, stories about extraordinary materials or vehicles later resolved into accounts involving classified aircraft. One example highlighted in the AARO review involved a claim that a military officer had touched extraterrestrial technology. Investigators reported that the officer instead described contact with an F-117 stealth aircraft, an advanced system whose unusual appearance and secrecy could easily generate misunderstandings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Zit-08rtkE" title="World-changing confession: Doctor describes studying live alien | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer">World-changing confession: Doctor describes studying live alien | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.5M &middot; Uploaded: November 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Zit-08rtkE">Open on YouTube</a></p></div></div></div>
@@ -367,7 +367,7 @@ Evidence capable of breaking that loop would need to move beyond testimony and s
 
 </div>
 
-AARO's historical review stated that it found no empirical evidence that the US government or private industry possessed extraterrestrial technology and no evidence supporting alleged reverse-engineering programmes described to investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">more...</span></span></span>
+AARO's historical review stated that it found no empirical evidence that the US government or private industry possessed extraterrestrial technology and no evidence supporting alleged reverse-engineering programmes described to investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">more...</span></span></span>
 
 That conclusion does not eliminate every future possibility. It does, however, highlight the difference between evidence of secrecy and evidence of alien technology. Special Access Programs can obscure information, generate rumours and foster suspicion. What they do not automatically provide is proof that the hidden subject is extraterrestrial.
 
@@ -379,197 +379,197 @@ From a governance perspective, black programmes create a genuine transparency ch
 
 This tension helps explain why UFO crash stories persist. Secret programmes are real. Restricted access is real. Advanced technology is real. What remains contested is whether those facts point to hidden human systems or hidden non-human ones.
 
-The strongest historical evidence so far suggests that compartmentalisation itself can generate mistaken alien-tech claims. People encounter fragments of secret activity, lack access to the full picture, and build explanations that seem to fit the available clues. In that environment, the architecture of secrecy can resemble the architecture of a cover-up, even when the underlying technology originates entirely on Earth. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
+The strongest historical evidence so far suggests that compartmentalisation itself can generate mistaken alien-tech claims. People encounter fragments of secret activity, lack access to the full picture, and build explanations that seem to fit the available clues. In that environment, the architecture of secrecy can resemble the architecture of a cover-up, even when the underlying technology originates entirely on Earth. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Black Programs Create Alien Rumors?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Black Programs Create Alien Rumors?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible UFO reports while highlighting the difficulty of separating classified activity from unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible UFO reports while highlighting the difficulty of separating classified activity from unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly explores how secret aerospace and defense projects can generate myths, speculation and alien narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how secret aerospace and defense projects can generate myths, speculation and alien narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for how compartmented research programs operate and why secrecy can distort public understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how compartmented research programs operate and why secrecy can distort public understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OI9cDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OI9cDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Shows how genuinely advanced but classified aerospace programs can appear extraordinary to outsiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how genuinely advanced but classified aerospace programs can appear extraordinary to outsiders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="black-programs-can-black-programs-create-alien-rumors-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The strongest historical evidence so far suggests that compartmentalisation itse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The strongest historical evidence so far suggests that compartmentalisation itse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The strongest historical evidence so far suggests that compartmentalisation itse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The strongest historical evidence so far suggests that compartmentalisation itse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The strongest historical evidence so far suggests that compartmentalisation itse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,135 +775,135 @@ The strongest historical evidence so far suggests that compartmentalisation itse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Special access program  
-   Link: <a href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Special_access_program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Special_access_program</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... spacecraft and extraterrestrial biological remains, that it opera...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...Mar 8, 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...Mar 8, 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — One named program was a UAP-related Prospective Special Acc...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — One named program was a UAP-related Prospective Special Acc...</p></details>
    Published: May 4, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Program (AAWSAP)/Advanced Aerospace Threat...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Program (AAWSAP)/Advanced Aerospace Threat...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidin...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidin...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1... Aliens Observing Material Test a Likely...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1... Aliens Observing Material Test a Likely...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
    Published: May 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue&quot;, to reverse engineer any extraterrestrial craft that came into its possession.... &quot;US once considered a program to reverse-enginee...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue&quot;, to reverse engineer any extraterrestrial craft that came into its possession.... &quot;US once considered a program to reverse-enginee...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAliens Observing Material Test a Likely Misunderstanding of an Au...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAliens Observing Material Test a Likely Misunderstanding of an Au...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Report on the Historical Record of US Government...What information has been gathered via face-to-face interviews with whistleblo...</p></details>
+   Link:<a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Report on the Historical Record of US Government...What information has been gathered via face-to-face interviews with whistleblo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fedcas.com  
-   Link: <a href="https://www.fedcas.com/wp-content/uploads/2023/03/DSS-Glossary_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fedcas.com/wp-content/uploads/2023/03/DSS-Glossary_Handbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENSE SECURITY SERVICEA Special Access Program established primarily to protect sensitive research, development, testing, and evaluatio...</p></details>
+   Link:<a href="https://www.fedcas.com/wp-content/uploads/2023/03/DSS-Glossary_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fedcas.com/wp-content/uploads/2023/03/DSS-Glossary_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENSE SECURITY SERVICEA Special Access Program established primarily to protect sensitive research, development, testing, and evaluatio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...... AARO has not discovered any verifiable evidence of extraterrestrial beings, activ...</p></details>
+   Link:<a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...... AARO has not discovered any verifiable evidence of extraterrestrial beings, activ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 13, 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direc...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 13, 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — UAPs are some kind of natural phenomenon we don&#x27;t yet understand, like ball...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — UAPs are some kind of natural phenomenon we don&#x27;t yet understand, like ball...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nz.news.yahoo.com  
    Title: News New Zealand Did US reverse-engineer alien spacecraft?  
-   Link: <a href="https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html" target="_blank" rel="noopener noreferrer nofollow">https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The AARO reviewed more than 7,000 files from Project Blue Book and found that officials never found evidence of...</p></details>
+   Link:<a href="https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html" target="_blank" rel="noopener noreferrer nofollow">https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The AARO reviewed more than 7,000 files from Project Blue Book and found that officials never found evidence of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chaoskast/intelligence-briefing-unacknowledged-special-access-programs-pattern-of-obstruction-d7db3080be5e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chaoskast/intelligence-briefing-unacknowledged-special-access-programs-pattern-of-obstruction-d7db3080be5e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unacknowledged Special Access Program (USAP) operating outside...Read more...</p></details>
+   Link:<a href="https://medium.com/%40chaoskast/intelligence-briefing-unacknowledged-special-access-programs-pattern-of-obstruction-d7db3080be5e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chaoskast/intelligence-briefing-unacknowledged-special-access-programs-pattern-of-obstruction-d7db3080be5e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unacknowledged Special Access Program (USAP) operating outside...Read more...</p></details>

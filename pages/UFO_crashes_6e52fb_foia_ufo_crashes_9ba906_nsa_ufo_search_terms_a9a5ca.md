@@ -274,7 +274,7 @@ image: /assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_
 
 ## Introduction
 
-In debates about [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), researchers often look for government records that might confirm, deny, or contextualise reported recovery incidents. One of the more unusual pieces of [evidence]({{ 'evidence/' | relative_url }}) comes not from a released UFO file, but from a list of search terms published by the US National Security Agency (NSA). The agency has made available lists of UFO- and paranormal-related keywords that were used in records searches which produced no responsive documents. These lists are valuable because they reveal something about how requests were handled. At the same time, they illustrate a central limitation of transparency: a documented search that finds nothing only describes what was searched within that agency's systems, not whether an event occurred or whether records exist elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+In debates about [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), researchers often look for government records that might confirm, deny, or contextualise reported recovery incidents. One of the more unusual pieces of [evidence]({{ 'evidence/' | relative_url }}) comes not from a released UFO file, but from a list of search terms published by the US National Security Agency (NSA). The agency has made available lists of UFO- and paranormal-related keywords that were used in records searches which produced no responsive documents. These lists are valuable because they reveal something about how requests were handled. At the same time, they illustrate a central limitation of transparency: a documented search that finds nothing only describes what was searched within that agency's systems, not whether an event occurred or whether records exist elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-1-dark.svg" | relative_url }}" alt="NSA Terms illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ For readers interested in Freedom of Information battles over UFO crashes, the N
 
 ## When UFO Search Terms Find Nothing
 
-The NSA maintains a page titled “UFO and Other Paranormal Information” that specifically identifies search terms used in response to requests about UFOs and paranormal topics where no responsive material was located. The agency presents these terms as part of its [FOIA]({{ 'foia/' | relative_url }}) and transparency efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+The NSA maintains a page titled “UFO and Other Paranormal Information” that specifically identifies search terms used in response to requests about UFOs and paranormal topics where no responsive material was located. The agency presents these terms as part of its [FOIA]({{ 'foia/' | relative_url }}) and transparency efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
-This is an unusual form of disclosure. Instead of releasing [records]({{ 'records/' | relative_url }}), the agency is revealing aspects of the search process itself. For researchers, that matters because FOIA disputes often turn on whether an agency conducted an adequate search. Knowing which keywords were used can help requesters understand what was examined and can guide future requests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+This is an unusual form of disclosure. Instead of releasing [records]({{ 'records/' | relative_url }}), the agency is revealing aspects of the search process itself. For researchers, that matters because FOIA disputes often turn on whether an agency conducted an adequate search. Knowing which keywords were used can help requesters understand what was examined and can guide future requests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
-In the context of UFO crash claims, such lists may include terms associated with famous incidents, alleged recovery programmes, extraterrestrial theories, or commonly used UFO vocabulary. The significance is procedural rather than evidentiary. The list documents an agency search effort; it does not document the underlying reality of any UFO event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+In the context of UFO crash claims, such lists may include terms associated with famous incidents, alleged recovery programmes, extraterrestrial theories, or commonly used UFO vocabulary. The significance is procedural rather than evidentiary. The list documents an agency search effort; it does not document the underlying reality of any UFO event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j5ob3xQRltI" title="UFO files: Congressional hearings, crash reports &amp; intelligence revelations | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j5ob3xQRltI" target="_blank" rel="noopener noreferrer">UFO files: Congressional hearings, crash reports &amp; intelligence revelations | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 77.1K &middot; Uploaded: March 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j5ob3xQRltI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j5ob3xQRltI">Open on YouTube</a></p></div></div></div>
@@ -295,11 +295,11 @@ In the context of UFO crash claims, such lists may include terms associated with
 
 A published search-term list can provide several useful insights.
 
-**First, it shows what the agency understood the request to mean.** If a requester asks broadly about UFO crashes, investigators inside the agency must decide which words, names, acronyms, and subjects are likely to retrieve relevant records. The disclosed terms offer a glimpse into that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+**First, it shows what the agency understood the request to mean.** If a requester asks broadly about UFO crashes, investigators inside the agency must decide which words, names, acronyms, and subjects are likely to retrieve relevant records. The disclosed terms offer a glimpse into that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
-**Second, it creates a record of search methodology.** FOIA litigation frequently focuses on whether a search was reasonable. A transparent list of keywords can help outside observers evaluate that question. If obvious terms are missing, requesters may argue that the search was incomplete. If the list is broad and detailed, it may strengthen the agency's position that it conducted a serious review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency* Memorandum and Order</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</span></span></span>
+**Second, it creates a record of search methodology.** FOIA litigation frequently focuses on whether a search was reasonable. A transparent list of keywords can help outside observers evaluate that question. If obvious terms are missing, requesters may argue that the search was incomplete. If the list is broad and detailed, it may strengthen the agency's position that it conducted a serious review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency* Memorandum and Order</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</span></span></span>
 
-**Third, it narrows certain possibilities.** If an NSA search for specified UFO-related terms produced no responsive records, that is evidence that those particular terms did not locate retrievable records in the searched systems. That finding may not be dramatic, but it is still information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+**Third, it narrows certain possibilities.** If an NSA search for specified UFO-related terms produced no responsive records, that is evidence that those particular terms did not locate retrievable records in the searched systems. That finding may not be dramatic, but it is still information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
 For researchers trying to map government holdings, procedural evidence like this can be surprisingly valuable because it identifies where [searches]({{ 'searches/' | relative_url }}) have already been attempted and what they failed to uncover.
 
@@ -311,9 +311,9 @@ A common mistake is to assume that a no-hit search for a UFO-related term is equ
 
 The relationship between search terms and historical events is much weaker than that.
 
-An alleged crash incident might never have been described using the keyword that a modern researcher expects. A document could use operational language, code words, technical descriptions, intelligence reporting terminology, or unrelated filing categories. Records might also exist under different agency authorities, different classification systems, or different record groups entirely. A search for a famous UFO label may therefore miss records that discuss the same event using different language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+An alleged crash incident might never have been described using the keyword that a modern researcher expects. A document could use operational language, code words, technical descriptions, intelligence reporting terminology, or unrelated filing categories. Records might also exist under different agency authorities, different classification systems, or different record groups entirely. A search for a famous UFO label may therefore miss records that discuss the same event using different language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
-This distinction is especially important for intelligence agencies. The NSA's mission centres on signals intelligence and communications security rather than accident investigation. Even if a historical UFO incident generated records somewhere in government, there is no guarantee that responsive records would exist in NSA holdings, survive retention processes, or be indexed under the terms a modern requester chooses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency Helpful Links</span><span class="citation-popover-snippet">National Security AgencyHelpful Links - NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly...</span></span></span>
+This distinction is especially important for intelligence agencies. The NSA's mission centres on signals intelligence and communications security rather than accident investigation. Even if a historical UFO incident generated records somewhere in government, there is no guarantee that responsive records would exist in NSA holdings, survive retention processes, or be indexed under the terms a modern requester chooses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/Unidentified-Flying-Objects-UFOs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency Helpful Links</span><span class="citation-popover-snippet">National Security AgencyHelpful Links - NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly...</span></span></span>
 
 As a result, a no-hit keyword search answers a narrow question: whether specified searches located responsive NSA records. It does not answer the broader question of whether a UFO crash occurred.
 
@@ -326,9 +326,9 @@ The transparency value of these lists increases when readers understand their li
 
 Several interpretations should be avoided:
 
-* **A no-hit search is not proof that a claim is false.** It demonstrates only that the search did not locate responsive records within the scope examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
-* **A no-hit search is not proof of a cover-up.** Absence of responsive records can result from indexing practices, retention schedules, terminology differences, or the simple possibility that [no records]({{ 'no-records/' | relative_url }}) were created. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency* Memorandum and Order</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</span></span></span>
-* **A published keyword list is not a catalogue of all agency holdings.** It reflects specific searches conducted in response to particular requests rather than a comprehensive inventory of every relevant record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+* **A no-hit search is not proof that a claim is false.** It demonstrates only that the search did not locate responsive records within the scope examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+* **A no-hit search is not proof of a cover-up.** Absence of responsive records can result from indexing practices, retention schedules, terminology differences, or the simple possibility that [no records]({{ 'no-records/' | relative_url }}) were created.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency* Memorandum and Order</span><span class="citation-popover-snippet">Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</span></span></span>
+* **A published keyword list is not a catalogue of all agency holdings.** It reflects specific searches conducted in response to particular requests rather than a comprehensive inventory of every relevant record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
 A better approach is to treat the list as a procedural document. It tells researchers how an agency responded, not what the final truth about UFO crashes may be.
 
@@ -336,203 +336,203 @@ A better approach is to treat the list as a procedural document. It tells resear
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-3-dark.svg" | relative_url }}" alt="NSA Terms illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_nsa_ufo_search_terms_a9a5ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Broader Transparency Lesson
 
-The NSA's UFO-related transparency pages demonstrate an important principle in Freedom of Information research. Transparency is not only about released documents; it is also about understanding the boundaries of record searches. The agency has released historical UFO-related material and litigation records connected to earlier disclosure disputes, while separately publishing information about searches that found nothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency NSA FOIA</span><span class="citation-popover-snippet">National Security AgencyNSA FOIA - Declassification &amp; Transparency InitiativesNSA FOIA Reports and Releases s The Voynich Manuscript Unid...</span></span></span>
+The NSA's UFO-related transparency pages demonstrate an important principle in Freedom of Information research. Transparency is not only about released documents; it is also about understanding the boundaries of record searches. The agency has released historical UFO-related material and litigation records connected to earlier disclosure disputes, while separately publishing information about searches that found nothing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">National Security Agency NSA FOIA</span><span class="citation-popover-snippet">National Security AgencyNSA FOIA - Declassification &amp; Transparency InitiativesNSA FOIA Reports and Releases s The Voynich Manuscript Unid...</span></span></span>
 
-For UFO crash researchers, the most useful conclusion is a modest one. A transparent no-hit list can help evaluate search adequacy, refine future requests, and identify what an agency did or did not locate. What it cannot do is resolve the larger debate about alleged crash recoveries. The evidence it provides concerns the mechanics of record searching, not the underlying reality of the events being investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency+2National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
+For UFO crash researchers, the most useful conclusion is a modest one. A transparent no-hit list can help evaluate search adequacy, refine future requests, and identify what an agency did or did not locate. What it cannot do is resolve the larger debate about alleged crash recoveries. The evidence it provides concerns the mechanics of record searching, not the underlying reality of the events being investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MWM5AtR3n9o" title="The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MWM5AtR3n9o" target="_blank" rel="noopener noreferrer">The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ</a></p><p class="youtube-embed-meta">Channel: VICE News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MWM5AtR3n9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MWM5AtR3n9o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Search Terms Find Nothing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Search Terms Find Nothing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames how official records contribute to UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames how official records contribute to UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Demonstrates how search results and missing records can be overinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how search results and missing records can be overinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
-        </h4>
-        <p class="fr-book-author">By James Bamford</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Provides context on NSA records, secrecy, and information systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Puzzle Palace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcaS5hG8TiEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Puzzle Palace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Puzzle Palace">The Puzzle Palace</a>
+</h4>
+<p class="fr-book-author">By James Bamford</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Provides context on NSA records, secrecy, and information systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Puzzle+Palace+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Body of Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VqY4Wr3T5K4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Body of Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Body of Secrets">Body of Secrets</a>
-        </h4>
-        <p class="fr-book-author">By James Bamford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Body of Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VqY4Wr3T5K4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Body of Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Body of Secrets">Body of Secrets</a>
+</h4>
+<p class="fr-book-author">By James Bamford</p>
         
-        <p class="fr-book-desc">Helps readers understand intelligence agencies and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand intelligence agencies and archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Body+of+Secrets+by+James+Bamford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Puzzle+Palace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Puzzle Palace</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="nsa-terms-when-ufo-search-terms-find-nothing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,98 +738,98 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyUFO and Other Paranormal InformationList of search terms used in response to requests for information on UFOs and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: National Security Agency Helpful Links  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/[Unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyHelpful Links - NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/[Unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyHelpful Links - NSA FOIA - Frequently Requested InformationThese historical documents are PDF images of formerly...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nsa.gov  
    Title: National Security Agency* Memorandum and Order  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nsa.gov  
    Title: National Security Agency NSA FOIA  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyNSA FOIA - Declassification &amp; Transparency InitiativesNSA FOIA Reports and Releases s The Voynich Manuscript Unid...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyNSA FOIA - Declassification &amp; Transparency InitiativesNSA FOIA Reports and Releases s The Voynich Manuscript Unid...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...2 days ago — Radar tracking of unidentified flying objects; Visual sightings; Ob...</p></details>
+   Link:<a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...2 days ago — Radar tracking of unidentified flying objects; Visual sightings; Ob...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;U.F.O. Files: The Untold Story&quot;ImageGallery · Submitted FOIA Request · Annual FOIA Reports · Certain Allegations Regarding E-mail to Age...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761347/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;U.F.O. Files: The Untold Story&quot;ImageGallery · Submitted FOIA Request · Annual FOIA Reports · Certain Allegations Regarding E-mail to Age...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of /documents/ufos NCIS-UFO.pdf 2022-01-16 09:23 8.6M NCIS-USOs.pdf 2020-05-30 16:47 8.5M NSA-UFO-WeatherBalloon2012.pdf 2020...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of /documents/ufos NCIS-UFO.pdf 2022-01-16 09:23 8.6M NCIS-USOs.pdf 2020-05-30 16:47 8.5M NSA-UFO-WeatherBalloon2012.pdf 2020...</p></details>
    Published: January 16, 2022  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — The collection will be housed on WAR.GOV/UFO and additional files will...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — The collection will be housed on WAR.GOV/UFO and additional files will...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tiaw0f/nsa_releases_hundreds_of_pages_of_formerly_top/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tiaw0f/nsa_releases_hundreds_of_pages_of_formerly_top/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...NSA Releases Hundreds of Pages of Formerly Top Secret UMBRA UAP Records After Di...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tiaw0f/nsa_releases_hundreds_of_pages_of_formerly_top/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tiaw0f/nsa_releases_hundreds_of_pages_of_formerly_top/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSA Releases Hundreds of Pages of Formerly Top Secret...NSA Releases Hundreds of Pages of Formerly Top Secret UMBRA UAP Records After Di...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified object report with enhanced imagery from a PANTEX radar tower. Image showing objects in formation with trails, a crosshai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four of the videos show eyewitness footage of strange encounters, a shift from previous...Read more...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four of the videos show eyewitness footage of strange encounters, a shift from previous...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fox29.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: <a href="https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...Nov 16, 2024 — The Department of Defense said UAPs were mainly [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;), birds, dron...</p></details>
+   Link:<a href="https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...Nov 16, 2024 — The Department of Defense said UAPs were mainly [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;), birds, dron...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 9, 2018 — Many researchers and scientists have scoured government documents at the National Archives in search of proof that life ex...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 9, 2018 — Many researchers and scientists have scoured government documents at the National Archives in search of proof that life ex...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40grateful_aqua_goat_147/i-analyzed-all-161-pentagon-ufo-files-most-are-filler-a-few-are-not-fd8d05121d2b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40grateful_aqua_goat_147/i-analyzed-all-161-pentagon-ufo-files-most-are-filler-a-few-are-not-fd8d05121d2b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nsparency.” I did the math, and it just doesn&#x27;t add up.Read more...</p></details>
+   Link:<a href="https://medium.com/%40grateful_aqua_goat_147/i-analyzed-all-161-pentagon-ufo-files-most-are-filler-a-few-are-not-fd8d05121d2b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40grateful_aqua_goat_147/i-analyzed-all-161-pentagon-ufo-files-most-are-filler-a-few-are-not-fd8d05121d2b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nsparency.” I did the math, and it just doesn&#x27;t add up.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t finds no evidence of alien life.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t finds no evidence of alien life.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>

@@ -284,7 +284,7 @@ When a reported UFO crash is evaluated, the first serious question is not whethe
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ordinary_cause_check_22ce7e-Illustration-1-dark.svg" | relative_url }}" alt="Prosaic Checks illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ordinary_cause_check_22ce7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ordinary_cause_check_22ce7e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach follows the logic used in accident investigation. Investigators normally begin with the explanations that are known to occur and then eliminate them one by one. Aviation investigators, for example, systematically compare [wreckage]({{ 'wreckage/' | relative_url }}), serial numbers, flight records, debris patterns and [witness reports]({{ 'witnesses/' | relative_url }}) before considering unusual scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/3708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationAccident investigation is a systematic process whereby all of the possible...</span></span></span>
+This approach follows the logic used in accident investigation. Investigators normally begin with the explanations that are known to occur and then eliminate them one by one. Aviation investigators, for example, systematically compare [wreckage]({{ 'wreckage/' | relative_url }}), serial numbers, flight records, debris patterns and [witness reports]({{ 'witnesses/' | relative_url }}) before considering unusual scenarios.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/3708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationAccident investigation is a systematic process whereby all of the possible...</span></span></span>
 
 ## What ordinary causes should be tested first?
 
@@ -292,12 +292,12 @@ A useful crash evaluation starts by asking what objects were actually capable of
 
 The key categories are:
 
-* Weather and research balloons. * Military balloon systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</span></span></span> * Civil and military aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[timesofindia.indiatimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">As monsoon rains threaten to compromise evidence, teams are using advanced documentation techniques to meticulously catalog wreckage, inc...</span></span></span>
+* Weather and research balloons. * Military balloon systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</span></span></span> * Civil and military aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[timesofindia.indiatimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">As monsoon rains threaten to compromise evidence, teams are using advanced documentation techniques to meticulously catalog wreckage, inc...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Drones and remotely piloted vehicles.
-* Re-entering space hardware. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[unoosa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reenter ran...</span></span></span>
+* Re-entering space hardware.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[unoosa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reenter ran...</span></span></span>
 * Military exercises involving targets, parachutes or test equipment.
 * Local industrial accidents that may have been mistaken for a crash.
 
@@ -309,7 +309,7 @@ The crucial point is specificity. A witness saying "it was not a balloon" has li
 
 One reason balloon explanations are often overlooked is that many people imagine a simple rubber weather balloon. In reality, some balloon systems carry radar reflectors, sensors, transmitters, cables, foil materials and lightweight structural components.
 
-The Roswell case remains the most famous example. Subsequent investigations connected the recovered debris to Project Mogul, a classified balloon programme designed to detect Soviet nuclear tests. Mogul arrays included balloons, radar targets and reflective materials that could appear unusual to someone unfamiliar with the equipment. Contemporary government reviews identified descriptions consistent with a high-altitude balloon and radar reflector rather than an extraterrestrial vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The Roswell case remains the most famous example. Subsequent investigations connected the recovered debris to Project Mogul, a classified balloon programme designed to detect Soviet nuclear tests. Mogul arrays included balloons, radar targets and reflective materials that could appear unusual to someone unfamiliar with the equipment. Contemporary government reviews identified descriptions consistent with a high-altitude balloon and radar reflector rather than an extraterrestrial vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 Descriptions commonly reported in alleged UFO [debris fields]({{ 'debris-fields/' | relative_url }}) can often match known balloon hardware:
 
@@ -324,7 +324,7 @@ Descriptions commonly reported in alleged UFO [debris fields]({{ 'debris-fields/
 
 </div>
 
-Project Mogul's radar reflectors, for example, used reflective surfaces mounted on lightweight frames. Contemporary explanations note that the equipment looked far more complex than a standard weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[Science Friday+2muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
+Project Mogul's radar reflectors, for example, used reflective surfaces mounted on lightweight frames. Contemporary explanations note that the equipment looked far more complex than a standard weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
 
 The lesson is not that every UFO crash is a balloon. It is that investigators should compare reported debris with actual balloon technologies before concluding that the materials are beyond known engineering.
 
@@ -333,14 +333,14 @@ The lesson is not that every UFO crash is a balloon. It is that investigators sh
 
 ## Aircraft leave identifiable signatures
 
-Aircraft crashes are among the most heavily documented types of accident. Even when an aircraft is badly damaged, investigators routinely identify components through serial numbers, manufacturer markings, avionics, engines and structural fragments. NTSB procedures specifically emphasise recording part numbers, serial numbers and component positions during wreckage examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraryonline.erau.edu">[libraryonline.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraryonline.erau.edu</span><span class="citation-popover-title">NTS B Investigator&#x27;s Manual Appendix Part Number</span><span class="citation-popover-snippet">Serial Number. Position in aircraft. 6. Determine whether electronics/avionics may have recoverable memory. Recover electronics/avionics...</span></span></span>
+Aircraft crashes are among the most heavily documented types of accident. Even when an aircraft is badly damaged, investigators routinely identify components through serial numbers, manufacturer markings, avionics, engines and structural fragments. NTSB procedures specifically emphasise recording part numbers, serial numbers and component positions during wreckage examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libraryonline.erau.edu">[libraryonline.erau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libraryonline.erau.edu</span><span class="citation-popover-title">NTS B Investigator&#x27;s Manual Appendix Part Number</span><span class="citation-popover-snippet">Serial Number. Position in aircraft. 6. Determine whether electronics/avionics may have recoverable memory. Recover electronics/avionics...</span></span></span>
 
 A reported UFO crash should therefore be checked against:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Civil aviation accident databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[ntsb.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</span></span></span>
+* Civil aviation accident databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[ntsb.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</span></span></span>
 * Military flight activity in the area.
 * Air traffic records.
 * Missing-aircraft reports.
@@ -348,7 +348,7 @@ A reported UFO crash should therefore be checked against:
 
 </div>
 
-Debris-field patterns are also informative. Aircraft often scatter material over predictable distances depending on altitude, speed and breakup sequence. Investigators reconstruct events by mapping where wreckage landed and comparing those patterns with known accident models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-snippet">Flight Safety DetectivesCessna 208B Spanish Fort, AL NTSB Accident ReportMarch 19, 2025 — The amount of wreckage recovered indicates that...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+Debris-field patterns are also informative. Aircraft often scatter material over predictable distances depending on altitude, speed and breakup sequence. Investigators reconstruct events by mapping where wreckage landed and comparing those patterns with known accident models.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetydetectives.com">[Flight Safety Detectives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetydetectives.com</span><span class="citation-popover-snippet">Flight Safety DetectivesCessna 208B Spanish Fort, AL NTSB Accident ReportMarch 19, 2025 — The amount of wreckage recovered indicates that...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 A claim that wreckage is "unidentifiable" is much stronger if qualified investigators have actually attempted identification and failed, rather than if witnesses simply did not recognise the material.
 
@@ -356,7 +356,7 @@ A claim that wreckage is "unidentifiable" is much stronger if qualified investig
 
 Crash witnesses frequently describe objects as impossible, seamless or unlike known aircraft. Yet accident investigations repeatedly show that people observing a sudden, stressful event may misjudge size, speed, distance or material composition.
 
-Modern aviation investigations rely on [physical traces]({{ 'physical-traces/' | relative_url }}) rather than impressions alone. Investigators compare radar data, flight records, wreckage distribution and recovered components before drawing conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[ntsb.gov+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</span></span></span>
+Modern aviation investigations rely on [physical traces]({{ 'physical-traces/' | relative_url }}) rather than impressions alone. Investigators compare radar data, flight records, wreckage distribution and recovered components before drawing conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[ntsb.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</span></span></span>
 
 For UFO crash claims, this means that testimony should be treated as a lead to investigate, not as proof that ordinary aircraft explanations have been eliminated.
 
@@ -366,7 +366,7 @@ For UFO crash claims, this means that testimony should be treated as a lead to i
 
 Re-entering space hardware is another frequently overlooked explanation.
 
-Rocket stages, pressure vessels, fuel tanks and other spacecraft components sometimes survive atmospheric re-entry and reach the ground. Organisations such as The Aerospace Corporation maintain databases of documented re-entries and predicted descent events specifically because these incidents occur in the real world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</span></span></span>
+Rocket stages, pressure vessels, fuel tanks and other spacecraft components sometimes survive atmospheric re-entry and reach the ground. Organisations such as The Aerospace Corporation maintain databases of documented re-entries and predicted descent events specifically because these incidents occur in the real world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</span></span></span>
 
 Space debris can create features often associated with UFO stories:
 
@@ -381,7 +381,7 @@ Space debris can create features often associated with UFO stories:
 
 </div>
 
-In Western Australia, for example, investigators linked a large recovered object to debris from a Chinese rocket after examining the timing and characteristics of the re-entry. What initially appeared mysterious was eventually traced to a specific aerospace source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</span></span></span>
+In Western Australia, for example, investigators linked a large recovered object to debris from a Chinese rocket after examining the timing and characteristics of the re-entry. What initially appeared mysterious was eventually traced to a specific aerospace source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</span></span></span>
 
 When evaluating a crash claim, investigators should check:
 
@@ -417,7 +417,7 @@ Military training can place unusual objects in the sky or on the ground, includi
 
 </div>
 
-The history of Project Mogul demonstrates why classified programmes matter. A witness may correctly conclude that an object is unusual while still being wrong about its origin. The object can be unfamiliar because it belongs to a secret programme rather than because it is extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2nasw.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The history of Project Mogul demonstrates why classified programmes matter. A witness may correctly conclude that an object is unusual while still being wrong about its origin. The object can be unfamiliar because it belongs to a secret programme rather than because it is extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 Investigators should also examine local conditions:
 
@@ -443,7 +443,7 @@ A practical evaluation asks:
 4. Does the debris pattern fit the proposed explanation?
 5. Can recovered fragments be identified through markings, manufacturing methods or materials?
 
-An explanation gains credibility when it predicts details that are actually present. If a balloon explanation predicts foil, cords and radar-reflector components, and those items are recovered, that matters. If an aircraft explanation predicts identifiable engine or structural fragments and those are found, that matters. If a space-debris explanation predicts heat-damaged aerospace materials and re-entry records support the timing, that matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov+2aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Open source on lbl.gov.</span></span></span>
+An explanation gains credibility when it predicts details that are actually present. If a balloon explanation predicts foil, cords and radar-reflector components, and those items are recovered, that matters. If an aircraft explanation predicts identifiable engine or structural fragments and those are found, that matters. If a space-debris explanation predicts heat-damaged aerospace materials and re-entry records support the timing, that matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Open source on lbl.gov.</span></span></span>
 
 Conversely, a crash claim becomes more difficult to explain conventionally only when these ordinary mechanisms have been tested carefully and fail to account for the physical evidence. The elimination process—not the initial mystery—is what determines whether a UFO crash report deserves further attention.
 
@@ -452,194 +452,194 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What ordinary causes should be tested first?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What ordinary causes should be tested first?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigating reports systematically and distinguishing ordinary explanations from genuinely unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating reports systematically and distinguishing ordinary explanations from genuinely unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence evaluation, witness quality, documentation, and comparison with conventional explanations before extraordinary conclu...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence evaluation, witness quality, documentation, and comparison with conventional explanations before extraordinary conclu...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary crash claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary crash claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by a former Air Force UFO investigator and grounded in case review, identification efforts, and elimination of ordinary causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by a former Air Force UFO investigator and grounded in case review, identification efforts, and elimination of ordinary causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible"><img src="https://i.ebayimg.com/images/g/rH4AAeSwL2BpaYLd/s-l225.jpg" alt="Listing image for 2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat UFO &quot;I Wanna Leave&quot; Funny Collectible Enamel Pin"><img src="https://i.ebayimg.com/images/g/hOEAAOSwOAxkdVKn/s-l225.jpg" alt="Listing image for Cat UFO &quot;I Wanna Leave&quot; Funny Collectible Enamel Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Cat UFO &quot;I Wanna Leave&quot; Funny Collectible Enamel Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="https://i.ebayimg.com/images/g/AAUAAOSwafRoC51G/s-l225.jpg" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="prosaic-checks-what-ordinary-causes-should-be-tested-first-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO pendant Waxoffdesign Sci-Fi Block Pin Nickel Plated Zinc Custom Collectible"><img src="https://i.ebayimg.com/images/g/KjwAAeSwVJVp6YFl/s-l225.jpg" alt="Listing image for UFO pendant Waxoffdesign Sci-Fi Block Pin Nickel Plated Zinc Custom Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO pendant Waxoffdesign Sci-Fi Block Pin Nickel Plated Zinc Custom Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-ordinary-causes-should-be-tested-first-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,133 +845,133 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3708.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Aircraft Accident and Incident InvestigationAccident investigation is a systematic process whereby all of the possible...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/3708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3708.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Aircraft Accident and Incident InvestigationAccident investigation is a systematic process whereby all of the possible...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: libraryonline.erau.edu  
    Title: NTS B Investigator's Manual Appendix Part Number  
-   Link: <a href="https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf" target="_blank" rel="noopener noreferrer nofollow">https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serial Number. Position in aircraft. 6. Determine whether electronics/avionics may have recoverable memory. Recover electronics/avionics...</p></details>
+   Link:<a href="https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf" target="_blank" rel="noopener noreferrer nofollow">https://libraryonline.erau.edu/online-full-text/books-online/1181.app.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serial Number. Position in aircraft. 6. Determine whether electronics/avionics may have recoverable memory. Recover electronics/avionics...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
    Published: July 8, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntsb.gov  
-   Link: <a href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/Pages/AviationQueryv2.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</p></details>
+   Link:<a href="https://www.ntsb.gov/Pages/AviationQueryv2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/Pages/AviationQueryv2.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Aviation Investigation SearchThe NTSB aviation accident database contains civil aviation accidents and selected incidents that occur...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/cords" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/cords</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space DebrisThe CORDS Reentry Database documents objects and payloads that have reentered earth&#x27;s atmosphere since 2000. Explore the reen...</p></details>
+   Link:<a href="https://aerospace.org/cords" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/cords</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space DebrisThe CORDS Reentry Database documents objects and payloads that have reentered earth&#x27;s atmosphere since 2000. Explore the reen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a still-secret government program from the 1940s called Project Mogul...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/space-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/space-debris</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris and Space Traffic ManagementAerospace is addressing the issue of space debris and space traffic management by developing too...</p></details>
+   Link:<a href="https://aerospace.org/space-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/space-debris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris and Space Traffic ManagementAerospace is addressing the issue of space debris and space traffic management by developing too...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentThe debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencefriday.com  
    Title: the real roswell cover up spying on air  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flightsafetydetectives.com  
-   Link: <a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesCessna 208B Spanish Fort, AL NTSB Accident ReportMarch 19, 2025 — The amount of wreckage recovered indicates that...</p></details>
+   Link:<a href="https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/wp-content/uploads/2026/02/NTSB_Spanish_Fort_Unexplained_2002-10-23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety DetectivesCessna 208B Spanish Fort, AL NTSB Accident ReportMarch 19, 2025 — The amount of wreckage recovered indicates that...</p></details>
    Published: March 19, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFAA Statements on Aviation Accidents and IncidentsA preliminary FAA report will be posted, usually on the...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFAA Statements on Aviation Accidents and IncidentsA preliminary FAA report will be posted, usually on the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</p></details>
+   Link:<a href="https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/charred-piece-of-secretive-chinese-rocket-found-still-smoldering-in-the-australian-outback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 5-foot-wide wreckage, found by local miners on October 18, is suspected to be part of the rocket&#x27;s upper stage that failed to fully b...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iaff.org  
-   Link: <a href="https://www.iaff.org/wp-content/uploads/2019/05/FAA-Aircraft-Accident-and-Incident-Notification-Investigation-and-Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaff.org/wp-content/uploads/2019/05/FAA-Aircraft-Accident-and-Incident-Notification-Investigation-and-Reporting.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>order prescribes Federal Aviation Administration (FAA) procedures and responsibi...</p></details>
+   Link:<a href="https://www.iaff.org/wp-content/uploads/2019/05/FAA-Aircraft-Accident-and-Incident-Notification-Investigation-and-Reporting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaff.org/wp-content/uploads/2019/05/FAA-Aircraft-Accident-and-Incident-Notification-Investigation-and-Reporting.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>order prescribes Federal Aviation Administration (FAA) procedures and responsibi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/sites/default/files/2022-01/N265DS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/sites/default/files/2022-01/N265DS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>debris field measured 1,220 ft from the ground impact point (GIP) to the farthest located wreckage and was about 800 ft wide at the wides...</p></details>
+   Link:<a href="https://www.baaa-acro.com/sites/default/files/2022-01/N265DS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/sites/default/files/2022-01/N265DS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>debris field measured 1,220 ft from the ground impact point (GIP) to the farthest located wreckage and was about 800 ft wide at the wides...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX19Cincinnati/posts/ntsb-discovered-the-left-engines-pylon-was-still-attached-to-the-engine-when-the/1232876122206269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX19Cincinnati/posts/ntsb-discovered-the-left-engines-pylon-was-still-attached-to-the-engine-when-the/1232876122206269/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB discovered the left engine&#x27;s pylon was still attached...NTSB discovered the left engine&#x27;s pylon was still attached to the engine wh...</p></details>
+   Link:<a href="https://www.facebook.com/FOX19Cincinnati/posts/ntsb-discovered-the-left-engines-pylon-was-still-attached-to-the-engine-when-the/1232876122206269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX19Cincinnati/posts/ntsb-discovered-the-left-engines-pylon-was-still-attached-to-the-engine-when-the/1232876122206269/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB discovered the left engine&#x27;s pylon was still attached...NTSB discovered the left engine&#x27;s pylon was still attached to the engine wh...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it.... Not the debris fie...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it.... Not the debris fie...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reenter ran...</p></details>
+   Link:<a href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reenter ran...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As monsoon rains threaten to compromise evidence, teams are using advanced documentation techniques to meticulously catalog wreckage, inc...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/ahmedabad/air-accident-probe-teams-begin-dissecting-ai-171-wreckage/articleshow/121916211.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As monsoon rains threaten to compromise evidence, teams are using advanced documentation techniques to meticulously catalog wreckage, inc...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aviationdb.com  
-   Link: <a href="https://www.aviationdb.com/Aviation/AidQuery.shtm" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationdb.com/Aviation/AidQuery.shtm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Accidents and Incidents QueryContains approximately 200,000 publicly available Accident and Incident reports filed with the FAA from...</p></details>
+   Link:<a href="https://www.aviationdb.com/Aviation/AidQuery.shtm" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationdb.com/Aviation/AidQuery.shtm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Accidents and Incidents QueryContains approximately 200,000 publicly available Accident and Incident reports filed with the FAA from...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lmtonline.com  
-   Link: <a href="https://www.lmtonline.com/local/article/no-cause-identified-yet-in-laredo-jet-crash-invest-22311829.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lmtonline.com/local/article/no-cause-identified-yet-in-laredo-jet-crash-invest-22311829.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB investigator Mitchell Gallo reported that a cause for the crash has not yet been determined, despite earlier suggestions from local...</p></details>
+   Link:<a href="https://www.lmtonline.com/local/article/no-cause-identified-yet-in-laredo-jet-crash-invest-22311829.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lmtonline.com/local/article/no-cause-identified-yet-in-laredo-jet-crash-invest-22311829.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB investigator Mitchell Gallo reported that a cause for the crash has not yet been determined, despite earlier suggestions from local...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reentry.esoc.esa.int  
-   Link: <a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>esa.intESA&#x27;s re-entry predictionsIn one case a woman got struck by a piece of lightweight material which has been tentatively identified...</p></details>
+   Link:<a href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>esa.intESA&#x27;s re-entry predictionsIn one case a woman got struck by a piece of lightweight material which has been tentatively identified...</p></details>

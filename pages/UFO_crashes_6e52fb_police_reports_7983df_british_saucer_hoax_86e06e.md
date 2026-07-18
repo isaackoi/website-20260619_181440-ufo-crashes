@@ -280,24 +280,24 @@ image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_ho
 
 ## Introduction
 
-The 1967 British flying saucer hoax is one of the clearest examples of why [police reports]({{ 'police-reports/' | relative_url }}), military deployments and official concern do not automatically validate extraordinary claims. On 4 September 1967, six apparently mysterious saucers appeared across southern England. Police cordoned off sites, bomb disposal teams were summoned, RAF helicopters became involved, and government agencies examined the objects. For several hours, the response looked remarkably similar to what might follow a genuine [unidentified]({{ 'unidentified/' | relative_url }}) crash or landing. Yet the entire episode was a carefully planned student prank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+The 1967 British flying saucer hoax is one of the clearest examples of why [police reports]({{ 'police-reports/' | relative_url }}), military deployments and official concern do not automatically validate extraordinary claims. On 4 September 1967, six apparently mysterious saucers appeared across southern England. Police cordoned off sites, bomb disposal teams were summoned, RAF helicopters became involved, and government agencies examined the objects. For several hours, the response looked remarkably similar to what might follow a genuine [unidentified]({{ 'unidentified/' | relative_url }}) crash or landing. Yet the entire episode was a carefully planned student prank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-1-dark.svg" | relative_url }}" alt="Saucer Hoax illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone studying alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), the case is valuable because it demonstrates how rational authorities can react seriously to an unknown object and still end up confronting something entirely human-made. The official response was real; the alien explanation was not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+For anyone studying alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), the case is valuable because it demonstrates how rational authorities can react seriously to an unknown object and still end up confronting something entirely human-made. The official response was real; the alien explanation was not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ikruHQUtOE" title="A history of flying saucers and UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer">A history of flying saucers and UFOs</a></p><p class="youtube-embed-meta">Channel: BBC Sky at Night Magazine &middot; Views: 10.0K &middot; Uploaded: August 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ikruHQUtOE">Open on YouTube</a></p></div></div></div>
 
 ## When Police Cordons Met Fake Saucers
 
-Early on the morning of 4 September 1967, reports began arriving from multiple locations across southern England. Six silver, disc-shaped objects had appeared in public places stretching from the Thames Estuary to the Bristol Channel. The devices were positioned in a roughly straight line and looked deliberately engineered rather than improvised. Witnesses described metallic craft that emitted strange electronic sounds when disturbed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+Early on the morning of 4 September 1967, reports began arriving from multiple locations across southern England. Six silver, disc-shaped objects had appeared in public places stretching from the Thames Estuary to the Bristol Channel. The devices were positioned in a roughly straight line and looked deliberately engineered rather than improvised. Witnesses described metallic craft that emitted strange electronic sounds when disturbed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-The objects were not random junk left in fields. They had been built by apprentices from the Royal [Aircraft]({{ 'aircraft/' | relative_url }}) Establishment (RAE) at Farnborough using fibreglass construction techniques and considerable planning. Some contained electronic oscillators and speakers that produced eerie noises. Others contained a fermenting mixture designed to appear mysterious and unpleasant if investigators opened them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+The objects were not random junk left in fields. They had been built by apprentices from the Royal [Aircraft]({{ 'aircraft/' | relative_url }}) Establishment (RAE) at Farnborough using fibreglass construction techniques and considerable planning. Some contained electronic oscillators and speakers that produced eerie noises. Others contained a fermenting mixture designed to appear mysterious and unpleasant if investigators opened them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-To the first police officers arriving on scene, there was no obvious indication that the objects were harmless student creations. Faced with unexplained metallic devices found in public locations during the Cold War era, caution was the natural response. Police secured areas around the discoveries and began treating them as potentially significant objects requiring specialist examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+To the first police officers arriving on scene, there was no obvious indication that the objects were harmless student creations. Faced with unexplained metallic devices found in public locations during the Cold War era, caution was the natural response. Police secured areas around the discoveries and began treating them as potentially significant objects requiring specialist examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-The result was exactly the kind of official activity that later UFO stories often cite as [evidence]({{ 'evidence/' | relative_url }}) of something extraordinary: cordons, specialist teams, military involvement and government attention. In this case, however, those actions were triggered by uncertainty rather than proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
+The result was exactly the kind of official activity that later UFO stories often cite as [evidence]({{ 'evidence/' | relative_url }}) of something extraordinary: cordons, specialist teams, military involvement and government attention. In this case, however, those actions were triggered by uncertainty rather than proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xuaI9LaR5m4" title="Where do UFOs come from? (1967) | RetroFocus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer">Where do UFOs come from? (1967) | RetroFocus</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia) &middot; Views: 129.3K &middot; Uploaded: January 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xuaI9LaR5m4">Open on YouTube</a></p></div></div></div>
@@ -316,25 +316,25 @@ The objects had several characteristics that would naturally attract security co
 * They contained electronic components.
 * Some emitted unexplained sounds.
 * They resembled no immediately recognisable civilian equipment.
-* Britain was operating within a Cold War security environment in which unexplained devices could not simply be ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+* Britain was operating within a Cold War security environment in which unexplained devices could not simply be ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 </div>
 
-As reports accumulated, multiple agencies became involved. Army bomb disposal units were mobilised. RAF helicopters assisted investigations. The Ministry of Defence received reports, and some of the objects were transferred for technical examination. One saucer was reportedly destroyed in a controlled explosion at Chippenham, while others were sent to specialist facilities for analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+As reports accumulated, multiple agencies became involved. Army bomb disposal units were mobilised. RAF helicopters assisted investigations. The Ministry of Defence received reports, and some of the objects were transferred for technical examination. One saucer was reportedly destroyed in a controlled explosion at Chippenham, while others were sent to specialist facilities for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-The behaviour of investigators reflects standard risk management rather than belief in extraterrestrials. An unidentified object with electrical components could potentially be a hoax, an experimental device, a hazardous object or even a security threat. Until specialists examined it, authorities could not safely assume which explanation was correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
+The behaviour of investigators reflects standard risk management rather than belief in extraterrestrials. An unidentified object with electrical components could potentially be a hoax, an experimental device, a hazardous object or even a security threat. Until specialists examined it, authorities could not safely assume which explanation was correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
 
-An especially memorable moment occurred when investigators opened one of the saucers and encountered the foul-smelling mixture hidden inside. Instead of revealing alien technology, the examination produced a shower of unpleasant slime. The incident became part of the story precisely because it highlighted how seriously officials had been treating what turned out to be a prank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+An especially memorable moment occurred when investigators opened one of the saucers and encountered the foul-smelling mixture hidden inside. Instead of revealing alien technology, the examination produced a shower of unpleasant slime. The incident became part of the story precisely because it highlighted how seriously officials had been treating what turned out to be a prank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-2-dark.svg" | relative_url }}" alt="Saucer Hoax illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Hoax Unravelled
 
-The prank was organised by RAE apprentices, including Christopher Southall and Roger Palmer, as a publicity stunt connected to Rag Week charity fundraising. The creators expected attention but did not anticipate the scale of the official reaction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+The prank was organised by RAE apprentices, including Christopher Southall and Roger Palmer, as a publicity stunt connected to Rag Week charity fundraising. The creators expected attention but did not anticipate the scale of the official reaction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-The deception began to collapse when specialists examined the devices closely. Portable X-ray inspections and physical examination revealed ordinary components, including commercially available batteries. Once investigators discovered recognisably terrestrial electronics inside the saucers, the mystery rapidly evaporated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
+The deception began to collapse when specialists examined the devices closely. Portable X-ray inspections and physical examination revealed ordinary components, including commercially available batteries. Once investigators discovered recognisably terrestrial electronics inside the saucers, the mystery rapidly evaporated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
 
-The hoaxers revealed their involvement the same day. Rather than uncovering evidence of a crashed alien craft or secret technology, authorities found themselves dealing with an unusually sophisticated student joke. No major punitive action followed, and the stunt ultimately succeeded in generating publicity for the charity event it had been designed to promote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+The hoaxers revealed their involvement the same day. Rather than uncovering evidence of a crashed alien craft or secret technology, authorities found themselves dealing with an unusually sophisticated student joke. No major punitive action followed, and the stunt ultimately succeeded in generating publicity for the charity event it had been designed to promote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eNQDs35aXec" title="Unidentified Flying Objects (1967)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eNQDs35aXec" target="_blank" rel="noopener noreferrer">Unidentified Flying Objects (1967)</a></p><p class="youtube-embed-meta">Channel: British Pathé &middot; Views: 581.6K &middot; Uploaded: April 2014 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eNQDs35aXec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eNQDs35aXec">Open on YouTube</a></p></div></div></div>
@@ -343,212 +343,212 @@ The hoaxers revealed their involvement the same day. Rather than uncovering evid
 
 The enduring importance of the 1967 saucer hoax lies in what it reveals about the interpretation of official responses.
 
-A common argument in UFO crash narratives is that police cordons, military deployments or government investigations imply that authorities secretly recognised something extraordinary. The British saucer hoax demonstrates a simpler explanation: authorities often respond strongly because they do not yet know what they are dealing with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
+A common argument in UFO crash narratives is that police cordons, military deployments or government investigations imply that authorities secretly recognised something extraordinary. The British saucer hoax demonstrates a simpler explanation: authorities often respond strongly because they do not yet know what they are dealing with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
 
 Several lessons emerge from the case:
 
-**Official concern is evidence of uncertainty, not necessarily of exotic technology.** Police and military personnel are expected to investigate unexplained objects, regardless of their ultimate origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
+**Official concern is evidence of uncertainty, not necessarily of exotic technology.** Police and military personnel are expected to investigate unexplained objects, regardless of their ultimate origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien invasion hoax fooled ministry</span><span class="citation-popover-snippet">The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</span></span></span>
 
-**Cordons and specialist teams are precautionary measures.** They protect public safety and preserve evidence while facts are still unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+**Cordons and specialist teams are precautionary measures.** They protect public safety and preserve evidence while facts are still unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-**Early reports can be dramatically different from final conclusions.** On the morning of the discoveries, officials faced apparently mysterious craft. By the end of the day, investigators were dealing with exposed hoax devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+**Early reports can be dramatically different from final conclusions.** On the morning of the discoveries, officials faced apparently mysterious craft. By the end of the day, investigators were dealing with exposed hoax devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
-**The stronger the response, the more important the outcome becomes.** A large-scale investigation does not validate the initial claim; it makes the final identification even more significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineHow British College Students Convinced Authorities That...15 Nov 2024 — To raise awareness for a charity event, aspi...</span></span></span>
+**The stronger the response, the more important the outcome becomes.** A large-scale investigation does not validate the initial claim; it makes the final identification even more significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineHow British College Students Convinced Authorities That...15 Nov 2024 — To raise awareness for a charity event, aspi...</span></span></span>
 
-Within the broader history of alleged UFO crashes, the British saucer hoax stands as a cautionary example. It shows that authentic police reports, military mobilisation and government involvement can all occur without any exotic craft, hidden recovery programme or extraterrestrial explanation. The authorities' reaction was genuine. The flying saucers were not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
+Within the broader history of alleged UFO crashes, the British saucer hoax stands as a cautionary example. It shows that authentic police reports, military mobilisation and government involvement can all occur without any exotic craft, hidden recovery programme or extraterrestrial explanation. The authorities' reaction was genuine. The flying saucers were not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 British flying saucer hoax</span><span class="citation-popover-snippet">1967 British flying saucer hoax</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-3-dark.svg" | relative_url }}" alt="Saucer Hoax illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_british_saucer_hoax_86e06e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Police Cordons Met Fake Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Police Cordons Met Fake Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Illustrates the role of authorities and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the role of authorities and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful contrast between strong and weak cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful contrast between strong and weak cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how reports can be misinterpreted or reclassified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports can be misinterpreted or reclassified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why official attention is not proof of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why official attention is not proof of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="saucer-hoax-when-police-cordons-met-fake-saucers-ufo-crashes-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,101 +754,101 @@ Within the broader history of alleged UFO crashes, the British saucer hoax stand
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1967 British flying saucer hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967_British_flying_saucer_hoax</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of UFO related hoaxes  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of UFO-related hoaxes1967 flying saucer hoax in England. edit. Main article: 1967 British flying saucer hoax. In September 1967...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of UFO-related hoaxes1967 flying saucer hoax in England. edit. Main article: 1967 British flying saucer hoax. In September 1967...</p></details>
    Published: September 1967  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brightlingsea.info  
    Title: British Flying Saucer Hoax  
-   Link: <a href="https://brightlingsea.info/brightlingsea-news/local-authors-book-tells-the-story-of-the-great-british-flying-saucer-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://brightlingsea.info/brightlingsea-news/local-authors-book-tells-the-story-of-the-great-british-flying-saucer-hoax/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local author&#x27;s book tells the story of the Great British Flying...21 May 2025 — When seven flying saucers were discovered across souther...</p></details>
+   Link:<a href="https://brightlingsea.info/brightlingsea-news/local-authors-book-tells-the-story-of-the-great-british-flying-saucer-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://brightlingsea.info/brightlingsea-news/local-authors-book-tells-the-story-of-the-great-british-flying-saucer-hoax/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local author&#x27;s book tells the story of the Great British Flying...21 May 2025 — When seven flying saucers were discovered across souther...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: alien invasion hoax fooled ministry  
-   Link: <a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/mar/03/alien-invasion-hoax-fooled-ministry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAlien invasion hoax fooled MoD, archive papers reveal2 Mar 2011 — &#x27;Flying saucers&#x27; joke by aircraft engineers mobilised the m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineHow British College Students Convinced Authorities That...15 Nov 2024 — To raise awareness for a charity event, aspi...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-british-college-students-convinced-authorities-that-flying-saucers-were-invading-the-uk-180985442/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineHow British College Students Convinced Authorities That...15 Nov 2024 — To raise awareness for a charity event, aspi...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: do you know about biggleswades flying saucer hoax the hoax was unmasked exactly  
-   Link: <a href="https://www.facebook.com/61560033785587/posts/do-you-know-about-biggleswades-flying-saucer-hoax-the-hoax-was-unmasked-exactly-/122109355856334459/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61560033785587/posts/do-you-know-about-biggleswades-flying-saucer-hoax-the-hoax-was-unmasked-exactly-/122109355856334459/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you know about Biggleswade&#x27;s flying saucer hoax? 🛸👽...A 1967 student prank involving fake flying saucers on Kent&#x27;s army bomb disposal...</p></details>
+   Link:<a href="https://www.facebook.com/61560033785587/posts/do-you-know-about-biggleswades-flying-saucer-hoax-the-hoax-was-unmasked-exactly-/122109355856334459/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61560033785587/posts/do-you-know-about-biggleswades-flying-saucer-hoax-the-hoax-was-unmasked-exactly-/122109355856334459/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you know about Biggleswade&#x27;s flying saucer hoax? 🛸👽...A 1967 student prank involving fake flying saucers on Kent&#x27;s army bomb disposal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thetimes.com  
    Title: secret papers released on flying saucer incidents pbbb96jrtcb  
-   Link: <a href="https://www.thetimes.com/uk/crime/article/secret-papers-released-on-flying-saucer-incidents-pbbb96jrtcb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/crime/article/secret-papers-released-on-flying-saucer-incidents-pbbb96jrtcb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret papers released on flying saucer incidents3 Mar 2011 — His investigation was one of six on September 4, when several saucers were...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/crime/article/secret-papers-released-on-flying-saucer-incidents-pbbb96jrtcb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/crime/article/secret-papers-released-on-flying-saucer-incidents-pbbb96jrtcb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret papers released on flying saucer incidents3 Mar 2011 — His investigation was one of six on September 4, when several saucers were...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: deccanherald.com  
    Title: how fake alien invasion threat 2397915  
-   Link: <a href="https://www.deccanherald.com/world/how-fake-alien-invasion-threat-2397915" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanherald.com/world/how-fake-alien-invasion-threat-2397915</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deccan HeraldHow fake alien invasion threat fooled British Govt in 19672 May 2018 — Four police forces, bomb disposal units, the army and...</p></details>
+   Link:<a href="https://www.deccanherald.com/world/how-fake-alien-invasion-threat-2397915" target="_blank" rel="noopener noreferrer nofollow">https://www.deccanherald.com/world/how-fake-alien-invasion-threat-2397915</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deccan HeraldHow fake alien invasion threat fooled British Govt in 19672 May 2018 — Four police forces, bomb disposal units, the army and...</p></details>
    Published: May 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: uks real life version of the x files  
-   Link: <a href="https://www.cbsnews.com/news/uks-real-life-version-of-the-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/uks-real-life-version-of-the-x-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.K.&#x27;s real-life version of the &quot;X-Files&quot;3 Mar 2011 —... hoax.&quot; Over the following years, the British government logged thousands of UFO...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/uks-real-life-version-of-the-x-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/uks-real-life-version-of-the-x-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.K.&#x27;s real-life version of the &quot;X-Files&quot;3 Mar 2011 —... hoax.&quot; Over the following years, the British government logged thousands of UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spookykent.com  
    Title: great flying saucer hoax kent  
-   Link: <a href="https://www.spookykent.com/great-flying-saucer-hoax-kent/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookykent.com/great-flying-saucer-hoax-kent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Flying Saucer Hoax: How A 1967 Student Prank...19 Sept 2025 — A 1967 student prank involving fake flying saucers on Kent&#x27;s Isl...</p></details>
+   Link:<a href="https://www.spookykent.com/great-flying-saucer-hoax-kent/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookykent.com/great-flying-saucer-hoax-kent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Flying Saucer Hoax: How A 1967 Student Prank...19 Sept 2025 — A 1967 student prank involving fake flying saucers on Kent&#x27;s Isl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: narratively.com  
    Title: The Great British UFO Hoax  
-   Link: <a href="https://www.narratively.com/p/the-great-british-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.narratively.com/p/the-great-british-ufo-hoax</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Paul Brown17 Oct 2024 — The young men were student engineers from the Royal Aircraft Establishment, a Ministry of Defence college and...</p></details>
+   Link:<a href="https://www.narratively.com/p/the-great-british-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.narratively.com/p/the-great-british-ufo-hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Paul Brown17 Oct 2024 — The young men were student engineers from the Royal Aircraft Establishment, a Ministry of Defence college and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mulberryhall.medium.com  
    Title: odd this day efb8caeab15d  
-   Link: <a href="https://mulberryhall.medium.com/odd-this-day-efb8caeab15d" target="_blank" rel="noopener noreferrer nofollow">https://mulberryhall.medium.com/odd-this-day-efb8caeab15d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this day. 4 September 1967 | by Coates - MediumYes, obviously, it was a hoax, masterminded by said caller, Chris Southall, and five of hi...</p></details>
+   Link:<a href="https://mulberryhall.medium.com/odd-this-day-efb8caeab15d" target="_blank" rel="noopener noreferrer nofollow">https://mulberryhall.medium.com/odd-this-day-efb8caeab15d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this day. 4 September 1967 | by Coates - MediumYes, obviously, it was a hoax, masterminded by said caller, Chris Southall, and five of hi...</p></details>
    Published: September 1967  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: johnkeelingmedia.blog  
    Title: LANDE D!  
-   Link: <a href="https://johnkeelingmedia.blog/2025/04/13/landed-the-great-british-flying-saucer-hoax-other-extraterrestrial-spoofs/" target="_blank" rel="noopener noreferrer nofollow">https://johnkeelingmedia.blog/2025/04/13/landed-the-great-british-flying-saucer-hoax-other-extraterrestrial-spoofs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great British Flying Saucer Hoax &amp; Other...13 Apr 2025 — In 1967, a maverick group of British Students wanted to know. As apprentice...</p></details>
+   Link:<a href="https://johnkeelingmedia.blog/2025/04/13/landed-the-great-british-flying-saucer-hoax-other-extraterrestrial-spoofs/" target="_blank" rel="noopener noreferrer nofollow">https://johnkeelingmedia.blog/2025/04/13/landed-the-great-british-flying-saucer-hoax-other-extraterrestrial-spoofs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Great British Flying Saucer Hoax &amp; Other...13 Apr 2025 — In 1967, a maverick group of British Students wanted to know. As apprentice...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuaI9LaR5m4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake UFO Lecture, November 7, 2019...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xuaI9LaR5m4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuaI9LaR5m4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake UFO Lecture, November 7, 2019...</p></details>
    Published: November 7, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: A history of flying saucers and UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ikruHQUtOE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where do UFOs come from? (1967) | RetroFocus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ikruHQUtOE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where do UFOs come from? (1967) | RetroFocus...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_recor
 
 ## Introduction
 
-When people file Freedom of Information (FOI or [FOIA]({{ 'foia/' | relative_url }})) requests about an alleged UFO crash, the most common mistake is asking the government to solve the mystery. [Records]({{ 'records/' | relative_url }}) laws are designed to locate existing documents, not to answer open-ended questions. A useful request therefore focuses on records that could realistically exist: incident reports, base logs, message traffic, photographs, radar records, unit histories, recovery orders, contractor correspondence, or later investigations. Agencies are generally required to search for records that are reasonably described, but they are not required to create new records or conduct research on a requester's behalf. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov+2FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Open source on foia.gov.</span></span></span>
+When people file Freedom of Information (FOI or [FOIA]({{ 'foia/' | relative_url }})) requests about an alleged UFO crash, the most common mistake is asking the government to solve the mystery. [Records]({{ 'records/' | relative_url }}) laws are designed to locate existing documents, not to answer open-ended questions. A useful request therefore focuses on records that could realistically exist: incident reports, base logs, message traffic, photographs, radar records, unit histories, recovery orders, contractor correspondence, or later investigations. Agencies are generally required to search for records that are reasonably described, but they are not required to create new records or conduct research on a requester's behalf.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Open source on foia.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-1-dark.svg" | relative_url }}" alt="FOIA Requests illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ In the context of UFO crash claims, the quality of the request often determines 
 
 ## Why Broad UFO Requests Fail
 
-A request such as “Send me all UFO crash files” is usually too vague to guide a records search. Agencies organise records by offices, units, dates, subjects, filing systems, and record series. Requests that fail to identify those elements can be rejected as overly broad or may produce only superficial [searches]({{ 'searches/' | relative_url }}). Agencies typically require requests to reasonably describe the records sought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[Open Government+3FOIA.gov+3FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Open source on foia.gov.</span></span></span>
+A request such as “Send me all UFO crash files” is usually too vague to guide a records search. Agencies organise records by offices, units, dates, subjects, filing systems, and record series. Requests that fail to identify those elements can be rejected as overly broad or may produce only superficial [searches]({{ 'searches/' | relative_url }}). Agencies typically require requests to reasonably describe the records sought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[foia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Open source on foia.gov.</span></span></span>
 
 For example, a crash claim tied to a specific military installation in a specific month creates a far more searchable trail than a request covering decades of [unidentified]({{ 'unidentified/' | relative_url }}) phenomena. A records officer can search known repositories, operational files, correspondence systems, and archives only if the request provides enough detail to locate likely records.
 
@@ -309,7 +309,7 @@ The strongest UFO crash requests combine five elements:
 
 </div>
 
-This approach mirrors general FOIA guidance that recommends identifying names, places, time periods, document titles, and other details that help agencies locate records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfoic.org/sample-foia-request-letters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfoic.org">[NFOIC+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfoic.org</span><span class="citation-popover-snippet">Sample FOIA Request LettersReasonably describe the records and/or information you need. It helps to include names of people and plac...</span></span></span>
+This approach mirrors general FOIA guidance that recommends identifying names, places, time periods, document titles, and other details that help agencies locate records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfoic.org/sample-foia-request-letters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfoic.org">[nfoic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfoic.org</span><span class="citation-popover-snippet">Sample FOIA Request LettersReasonably describe the records and/or information you need. It helps to include names of people and plac...</span></span></span>
 
 Consider a hypothetical crash claim near an air base in July 1947. Rather than requesting “all UFO records,” a targeted request might seek:
 
@@ -347,7 +347,7 @@ The choice of keywords matters as much as the record type. Officials in earlier 
 
 </div>
 
-Using multiple historically plausible terms can prevent records from being missed because they were catalogued under language different from today's UFO vocabulary. FOIA specialists routinely recommend supplying keywords and known titles that match how records were originally created and stored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</span></span></span>
+Using multiple historically plausible terms can prevent records from being missed because they were catalogued under language different from today's UFO vocabulary. FOIA specialists routinely recommend supplying keywords and known titles that match how records were originally created and stored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ahTxgnexVjM" title="UFO research: Scientists, spies and push for disclosure | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer">UFO research: Scientists, spies and push for disclosure | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 266.4K &middot; Uploaded: February 2026 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ahTxgnexVjM">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ Using multiple historically plausible terms can prevent records from being misse
 
 A common failure point in UFO crash research is sending requests to the wrong organisation.
 
-Records laws generally apply to records held by a particular agency, not to the government as a whole. A request reaches the quickest and most effective search when it is directed to the office most likely to possess the relevant records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-title">Most federal agencies now accept FOIA requests electronically, including</span><span class="citation-popover-snippet">Freedom of Information Act: Frequently Asked Questions...The request simply must be in writing and reasonably describe the records you seek...</span></span></span>
+Records laws generally apply to records held by a particular agency, not to the government as a whole. A request reaches the quickest and most effective search when it is directed to the office most likely to possess the relevant records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-title">Most federal agencies now accept FOIA requests electronically, including</span><span class="citation-popover-snippet">Freedom of Information Act: Frequently Asked Questions...The request simply must be in writing and reasonably describe the records you seek...</span></span></span>
 
 For a crash claim, potential custodians might include:
 
@@ -365,14 +365,14 @@ For a crash claim, potential custodians might include:
 
 * Military branches involved in local operations
 * Intelligence agencies that later reviewed the incident
-* National archives holding transferred historical files <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/body/national_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[whatdotheyknow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">view and make Freedom of Information...Requests to the National Archives can be made for around 5% of the National Archives&#x27; records are...</span></span></span>
+* National archives holding transferred historical files<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whatdotheyknow.com/body/national_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[whatdotheyknow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">National Archives</span><span class="citation-popover-snippet">view and make Freedom of Information...Requests to the National Archives can be made for around 5% of the National Archives&#x27; records are...</span></span></span>
 * Civil aviation authorities
 * Law-enforcement agencies
 * Scientific or technical organisations involved in investigations
 
 </div>
 
-Before filing, researchers often examine archival catalogues, published histories, previously released documents, and declassified collections to determine which organisation actually created the records. This preliminary work can save months or years of misdirected requests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</span></span></span>
+Before filing, researchers often examine archival catalogues, published histories, previously released documents, and declassified collections to determine which organisation actually created the records. This preliminary work can save months or years of misdirected requests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-2-dark.svg" | relative_url }}" alt="FOIA Requests illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_foia_ufo_crashes_9ba906_ufo_crash_records_re_2882d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,7 +408,7 @@ The most useful follow-up question is often not “Are you sure?” but rather �
 
 This approach shifts the discussion from the UFO claim itself to the adequacy of the records search.
 
-FOIA law focuses on whether an agency conducted a reasonable search for responsive records. Understanding what was searched allows researchers to identify gaps and craft a narrower second request. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/foia-statute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Freedom of Information Act StatuteA request submitted to a federal agency asking for agency records on any topic. A FOIA request can gene...</span></span></span>
+FOIA law focuses on whether an agency conducted a reasonable search for responsive records. Understanding what was searched allows researchers to identify gaps and craft a narrower second request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/foia-statute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-snippet">Freedom of Information Act StatuteA request submitted to a federal agency asking for agency records on any topic. A FOIA request can gene...</span></span></span>
 
 For example, if an agency searched only headquarters files, a follow-up request might target field offices, operational units, or archived records. If a search used only “UFO” as a keyword, a revised request might add historical terms such as “flying disc” or “recovered debris.”
 
@@ -445,194 +445,194 @@ The strongest UFO crash requests do not ask whether extraterrestrial craft crash
 That approach does not guarantee dramatic discoveries. It does, however, maximise the chance of finding the paper trail that would exist if a significant recovery incident generated official records in the first place. The more precisely a crash claim can be translated into a search for identifiable documents, the more effectively freedom-of-information laws can test it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Good UFO Crash Records Requests Work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Good UFO Crash Records Requests Work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">A record-driven investigation of a famous crash claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A record-driven investigation of a famous crash claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates use of documented sources and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates use of documented sources and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how targeted archival research can uncover hidden programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how targeted archival research can uncover hidden programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Report: Case Closed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="foia-requests-how-good-ufo-crash-records-requests-work-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -648,7 +648,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -668,7 +668,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -700,7 +700,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -797,7 +797,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,176 +838,176 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: foia.gov  
-   Link: <a href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/how-to.html</a>  
+   Link:<a href="https://www.foia.gov/how-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/how-to.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: foia.gov  
    Title: Most federal agencies now accept FOIA requests electronically, including  
-   Link: <a href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/faq.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act: Frequently Asked Questions...The request simply must be in writing and reasonably describe the records you seek...</p></details>
+   Link:<a href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/faq.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act: Frequently Asked Questions...The request simply must be in writing and reasonably describe the records you seek...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: foia.gov  
-   Link: <a href="https://www.foia.gov/foia-statute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/foia-statute.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act StatuteA request submitted to a federal agency asking for agency records on any topic. A FOIA request can gene...</p></details>
+   Link:<a href="https://www.foia.gov/foia-statute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/foia-statute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act StatuteA request submitted to a federal agency asking for agency records on any topic. A FOIA request can gene...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nfoic.org  
-   Link: <a href="https://www.nfoic.org/sample-foia-request-letters/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfoic.org/sample-foia-request-letters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample FOIA Request LettersReasonably describe the records and/or information you need. It helps to include names of people and plac...</p></details>
+   Link:<a href="https://www.nfoic.org/sample-foia-request-letters/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfoic.org/sample-foia-request-letters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample FOIA Request LettersReasonably describe the records and/or information you need. It helps to include names of people and plac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: file foia request  
-   Link: <a href="https://www.archives.gov/research/foia/file-foia-request" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foia/file-foia-request</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Specify that you are filing a FOIA request · 2. Include your contact information: Complete name (first and last) · 3. Describe the record...</p></details>
+   Link:<a href="https://www.archives.gov/research/foia/file-foia-request" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foia/file-foia-request</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specify that you are filing a FOIA request · 2. Include your contact information: Complete name (first and last) · 3. Describe the record...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Search our records · Need help using Discovery? · Find a research guide · How to view our records · Contact us...Read more...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Search our records · Need help using Discovery? · Find a research guide · How to view our records · Contact us...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesResearch Our RecordsJan 14, 2026 — Research your ancestry, learn about our records and how to use them to research and d...</p></details>
+   Link:<a href="https://www.archives.gov/research" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesResearch Our RecordsJan 14, 2026 — Research your ancestry, learn about our records and how to use them to research and d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of InformationLearn how to submit a Freedom of Information request to The National Archives. Freedom of Information requests. Thi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of InformationLearn how to submit a Freedom of Information request to The National Archives. Freedom of Information requests. Thi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/making-a-freedom-of-information-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/making-a-freedom-of-information-request/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Please submit your FOI request to one of the below: Address. Enquiry Service, The National Archives, Kew...Read more...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/making-a-freedom-of-information-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/making-a-freedom-of-information-request/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Please submit your FOI request to one of the below: Address. Enquiry Service, The National Archives, Kew...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: access to public records  
-   Link: <a href="https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/sensitivity-reviews-on-selected-records/access-to-public-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/sensitivity-reviews-on-selected-records/access-to-public-records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Freedom of Information Act 2000 (FOIA) governs public access to public records, and these are transferred &#x27;open on transfer&#x27; unless a...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/sensitivity-reviews-on-selected-records/access-to-public-records/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/information-management/manage-information/selection-and-transfer/sensitivity-reviews-on-selected-records/access-to-public-records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Freedom of Information Act 2000 (FOIA) governs public access to public records, and these are transferred &#x27;open on transfer&#x27; unless a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: Make a Freedom of Information enquiry  
-   Link: <a href="https://www.nationalarchives.gov.uk/contact-us/make-a-freedom-of-information-enquiry/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/contact-us/make-a-freedom-of-information-enquiry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contact usUse this form to send us your Freedom of Information (FOI) request if you would like information from The National Archives, in...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/contact-us/make-a-freedom-of-information-enquiry/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/contact-us/make-a-freedom-of-information-enquiry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contact usUse this form to send us your Freedom of Information (FOI) request if you would like information from The National Archives, in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/about/our-role/transparency/freedom-of-information-requests/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/about/our-role/transparency/freedom-of-information-requests/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For each entry we show the request, whether or not it was successful...Read more...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/about/our-role/transparency/freedom-of-information-requests/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/about/our-role/transparency/freedom-of-information-requests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For each entry we show the request, whether or not it was successful...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/?page=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information requestsThis disclosure log shows Freedom of Information requests received by The National Archives for informatio...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/freedom-of-information/requests/?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/freedom-of-information/requests/?page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information requestsThis disclosure log shows Freedom of Information requests received by The National Archives for informatio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/terms-and-conditions/takedown-and-reclosure-policies/reclosure-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/terms-and-conditions/takedown-and-reclosure-policies/reclosure-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reclosure PolicyThe FOI Act ensures that even where records are marked &#x27;Access Under Review&#x27; on Discovery, members of the public can stil...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/terms-and-conditions/takedown-and-reclosure-policies/reclosure-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/terms-and-conditions/takedown-and-reclosure-policies/reclosure-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reclosure PolicyThe FOI Act ensures that even where records are marked &#x27;Access Under Review&#x27; on Discovery, members of the public can stil...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/make-a-freedom-of-information-request" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/make-a-freedom-of-information-request</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you ask for environmental...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/make-a-freedom-of-information-request" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/make-a-freedom-of-information-request</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you ask for environmental...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
    Title: Information on making a complaint about how your request was handled.Read more  
-   Link: <a href="https://www.gov.uk/government/collections/requests-for-personal-data-and-service-records" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/requests-for-personal-data-and-service-records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for personal data and service records: a detailed...9 Nov 2016 — A short guide to finding out how to get a copy of military service reco...</p></details>
+   Link:<a href="https://www.gov.uk/government/collections/requests-for-personal-data-and-service-records" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/requests-for-personal-data-and-service-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for personal data and service records: a detailed...9 Nov 2016 — A short guide to finding out how to get a copy of military service reco...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ckan.publishing.service.gov.uk  
    Title: publishing.service.gov.uk The National Archives  
-   Link: <a href="https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3" target="_blank" rel="noopener noreferrer nofollow">https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives - Publishers - data.gov.ukThe file shows the data provided by those 21 [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) that transfer 90% of the records sent to...</p></details>
+   Link:<a href="https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3" target="_blank" rel="noopener noreferrer nofollow">https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives - Publishers - data.gov.ukThe file shows the data provided by those 21 [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) that transfer 90% of the records sent to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: opengovernment.ny.gov  
    Title: Open Government Freedom of Information Law  
-   Link: <a href="https://opengovernment.ny.gov/freedom-information-law" target="_blank" rel="noopener noreferrer nofollow">https://opengovernment.ny.gov/freedom-information-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An agency may reject a request that does not &quot;reasonably describe&quot; records. If the...Read more...</p></details>
+   Link:<a href="https://opengovernment.ny.gov/freedom-information-law" target="_blank" rel="noopener noreferrer nofollow">https://opengovernment.ny.gov/freedom-information-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An agency may reject a request that does not &quot;reasonably describe&quot; records. If the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/foia/making-foia-work-you</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/foia/making-foia-work-you" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/foia/making-foia-work-you</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2) WRITE your request clearly; and be specific. 3) TARGET your request. 4) Establish and maintain CONTACT...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ico.org.uk  
    Title: the national archives  
-   Link: <a href="https://ico.org.uk/action-weve-taken/foi-regulatory-action/2023/03/the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/action-weve-taken/foi-regulatory-action/2023/03/the-national-archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Mar 2023 — These records require preserving and storing safely to archival standards. The records are closed until 115 years after...</p></details>
+   Link:<a href="https://ico.org.uk/action-weve-taken/foi-regulatory-action/2023/03/the-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/action-weve-taken/foi-regulatory-action/2023/03/the-national-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Mar 2023 — These records require preserving and storing safely to archival standards. The records are closed until 115 years after...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: whatdotheyknow.com  
    Title: National Archives  
-   Link: <a href="https://www.whatdotheyknow.com/body/national_archives" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/national_archives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>view and make Freedom of Information...Requests to the National Archives can be made for around 5% of the National Archives&#x27; records are...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/body/national_archives" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/body/national_archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>view and make Freedom of Information...Requests to the National Archives can be made for around 5% of the National Archives&#x27; records are...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeDepartment of Justice Freedom of Information Act...This Reference Guide is designed to familiarize you with the spe...</p></details>
+   Link:<a href="https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/oip/department-justice-freedom-information-act-reference-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeDepartment of Justice Freedom of Information Act...This Reference Guide is designed to familiarize you with the spe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: multimedia.journalism.berkeley.edu  
-   Link: <a href="https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/" target="_blank" rel="noopener noreferrer nofollow">https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Advanced Media InstitutePublic Records Act or FOIA RequestsThe law requires that each request must reasonably describe the recor...</p></details>
+   Link:<a href="https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/" target="_blank" rel="noopener noreferrer nofollow">https://multimedia.journalism.berkeley.edu/tutorials/public-records-act-requests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Advanced Media InstitutePublic Records Act or FOIA RequestsThe law requires that each request must reasonably describe the recor...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D8rxsWyv87M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D8rxsWyv87M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=D8rxsWyv87M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D8rxsWyv87M</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: justice.gov  
    Title: foia update foia counselor what foia request  
-   Link: <a href="https://www.justice.gov/archives/oip/blog/foia-update-foia-counselor-what-foia-request" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/blog/foia-update-foia-counselor-what-foia-request</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Update: FOIA Counselor: What is a FOIA Request?1 Jan 1980 — The spirit of FOIA requires that agencies give consideration under FOIA...</p></details>
+   Link:<a href="https://www.justice.gov/archives/oip/blog/foia-update-foia-counselor-what-foia-request" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/oip/blog/foia-update-foia-counselor-what-foia-request</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA Update: FOIA Counselor: What is a FOIA Request?1 Jan 1980 — The spirit of FOIA requires that agencies give consideration under FOIA...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-the-public/official-information/preparing-and-submitting-your-information-request/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-the-public/official-information/preparing-and-submitting-your-information-request/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It should be straightforward to find their details on the organisation&#x27;s website.Read more...</p></details>
+   Link:<a href="https://ico.org.uk/for-the-public/official-information/preparing-and-submitting-your-information-request/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-the-public/official-information/preparing-and-submitting-your-information-request/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It should be straightforward to find their details on the organisation&#x27;s website.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/advice-for-small-organisations/freedom-of-information-foi/freedom-of-information-quick-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/advice-for-small-organisations/freedom-of-information-foi/freedom-of-information-quick-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ublic authorities such as schools, councils and healthcare...Read more...</p></details>
+   Link:<a href="https://ico.org.uk/for-organisations/advice-for-small-organisations/freedom-of-information-foi/freedom-of-information-quick-guide/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/advice-for-small-organisations/freedom-of-information-foi/freedom-of-information-quick-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ublic authorities such as schools, councils and healthcare...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Freedom of Information Act (United States)  
-   Link: <a href="https://en.wikipedia.org/wiki/Freedom_of_Information_Act_%28United_States%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_Information_Act_%28United_States%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act (United States)The United States federal freedom of information law that requires the full or partial discl...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Freedom_of_Information_Act_%28United_States%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_Information_Act_%28United_States%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act (United States)The United States federal freedom of information law that requires the full or partial discl...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: workdynamics.com  
    Title: what is a foia request  
-   Link: <a href="https://www.workdynamics.com/what-is-a-foia-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.workdynamics.com/what-is-a-foia-request/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Mar 2026 — A FOIA request is a formal request submitted to a U.S. federal agency asking for access to government records. Emails. Rep...</p></details>
+   Link:<a href="https://www.workdynamics.com/what-is-a-foia-request/" target="_blank" rel="noopener noreferrer nofollow">https://www.workdynamics.com/what-is-a-foia-request/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Mar 2026 — A FOIA request is a formal request submitted to a U.S. federal agency asking for access to government records. Emails. Rep...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFO research: Scientists, spies and push for disclosure | UFO Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahTxgnexVjM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key moments at House UFO transparency hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahTxgnexVjM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key moments at House UFO transparency hearing...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: leavesfamilyhistory.co.uk  
    Title: closed records  
-   Link: <a href="https://leavesfamilyhistory.co.uk/research/closed-records/" target="_blank" rel="noopener noreferrer nofollow">https://leavesfamilyhistory.co.uk/research/closed-records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing Closed Records in Archives.7 Jul 2019 — You will need to complete a 3rd Party Access Request Form and produce a copy of the dea...</p></details>
+   Link:<a href="https://leavesfamilyhistory.co.uk/research/closed-records/" target="_blank" rel="noopener noreferrer nofollow">https://leavesfamilyhistory.co.uk/research/closed-records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accessing Closed Records in Archives.7 Jul 2019 — You will need to complete a 3rd Party Access Request Form and produce a copy of the dea...</p></details>

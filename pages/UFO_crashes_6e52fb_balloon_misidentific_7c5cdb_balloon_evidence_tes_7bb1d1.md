@@ -284,13 +284,13 @@ When a reported UFO crash is explained as a balloon recovery, the explanation sh
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Test illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach is especially important in UFO crash cases because balloon systems can leave debris that appears unusual to witnesses. High-altitude weather balloons, research balloons and military balloon trains often contain parachutes, instrument packages, cords, radar [reflectors]({{ 'reflectors/' | relative_url }}) and lightweight structural components that can look unfamiliar when scattered across a field. The question is not whether the debris looked strange, but whether its strange features can be matched to a known balloon system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</span></span></span>
+This approach is especially important in UFO crash cases because balloon systems can leave debris that appears unusual to witnesses. High-altitude weather balloons, research balloons and military balloon trains often contain parachutes, instrument packages, cords, radar [reflectors]({{ 'reflectors/' | relative_url }}) and lightweight structural components that can look unfamiliar when scattered across a field. The question is not whether the debris looked strange, but whether its strange features can be matched to a known balloon system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</span></span></span>
 
 ## The Debris Checklist for Balloon Recoveries
 
 The first test is straightforward: can the reported materials be matched to components that are actually used in balloon operations?
 
-Modern radiosonde systems typically consist of a balloon, suspension line, parachute and instrument package. After the balloon bursts at high altitude, the remaining equipment descends and may land many kilometres from the launch point. Recoveries often include torn balloon material, string or twine, a parachute and electronic instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</span></span></span>
+Modern radiosonde systems typically consist of a balloon, suspension line, parachute and instrument package. After the balloon bursts at high altitude, the remaining equipment descends and may land many kilometres from the launch point. Recoveries often include torn balloon material, string or twine, a parachute and electronic instrumentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</span></span></span>
 
 A useful debris checklist includes:
 
@@ -303,7 +303,7 @@ A useful debris checklist includes:
 
 Finding several of these elements together strengthens a balloon explanation. By contrast, reports describing heavy structural metals, propulsion systems, heat-damaged engine components or dense aerospace alloys require additional explanation because such features are not characteristic of meteorological balloon systems.
 
-The pattern of debris distribution also matters. Balloon systems are lightweight and fragile. When they descend, components may tear apart and spread across a wide area. Air Force analyses of Project Mogul noted that radar reflectors and other lightweight structures could break apart and become dispersed after ground contact while still being dragged by partially buoyant balloon material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulAfter striking the ground, the radar reflectors, constructed of very light materials for minimum weight, would tea...</span></span></span>
+The pattern of debris distribution also matters. Balloon systems are lightweight and fragile. When they descend, components may tear apart and spread across a wide area. Air Force analyses of Project Mogul noted that radar reflectors and other lightweight structures could break apart and become dispersed after ground contact while still being dragged by partially buoyant balloon material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulAfter striking the ground, the radar reflectors, constructed of very light materials for minimum weight, would tea...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-2x-Jwu43Mg" title="How to track &amp; recover a NWS weather balloon &amp; radiosonde 🎈🎈 Ham Radio DIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-2x-Jwu43Mg" target="_blank" rel="noopener noreferrer">How to track &amp; recover a NWS weather balloon &amp; radiosonde 🎈🎈 Ham Radio DIY</a></p><p class="youtube-embed-meta">Channel: Overlook Horizon &middot; Views: 37.3K &middot; Uploaded: June 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-2x-Jwu43Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-2x-Jwu43Mg">Open on YouTube</a></p></div></div></div>
@@ -312,7 +312,7 @@ The pattern of debris distribution also matters. Balloon systems are lightweight
 
 A convincing balloon explanation should not stop with material similarities. It should also demonstrate that a balloon was actually capable of reaching the recovery site.
 
-Weather agencies routinely launch radiosondes, and balloon trajectories can extend hundreds of kilometres from their launch points. National Weather Service guidance notes that a typical sounding may drift more than 300 kilometres before descent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationA typical NWS &quot;weather balloon&quot; sounding can last in excess of two hours. In that time, the...</span></span></span>
+Weather agencies routinely launch radiosondes, and balloon trajectories can extend hundreds of kilometres from their launch points. National Weather Service guidance notes that a typical sounding may drift more than 300 kilometres before descent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceRadiosonde ObservationA typical NWS &quot;weather balloon&quot; sounding can last in excess of two hours. In that time, the...</span></span></span>
 
 Testing the explanation involves three questions:
 
@@ -332,13 +332,13 @@ The strength of a balloon explanation increases substantially when a documented 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Test illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_balloon_evidence_tes_7bb1d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Roswell Became a Test Case
 
-The Roswell incident illustrates how physical-evidence testing works in practice. The most influential balloon explanation links the debris to Project Mogul, a classified programme that used large balloon trains carrying acoustic sensors, transmitters and radar-reflector equipment intended to detect distant Soviet nuclear tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The Roswell incident illustrates how physical-evidence testing works in practice. The most influential balloon explanation links the debris to Project Mogul, a classified programme that used large balloon trains carrying acoustic sensors, transmitters and radar-reflector equipment intended to detect distant Soviet nuclear tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 What made the Mogul explanation persuasive to many investigators was not simply the existence of balloons. It was the attempt to match reported debris characteristics to documented hardware.
 
-Contemporary descriptions included lightweight foil-like material, sticks, tape, paper-backed components and a broad debris field. Project Mogul equipment incorporated unusual radar reflectors made from lightweight structural elements and reflective materials that could appear unfamiliar to people encountering them in isolation. Air Force reports later argued that the recovered materials were consistent with components from a Mogul balloon train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Contemporary descriptions included lightweight foil-like material, sticks, tape, paper-backed components and a broad debris field. Project Mogul equipment incorporated unusual radar reflectors made from lightweight structural elements and reflective materials that could appear unfamiliar to people encountering them in isolation. Air Force reports later argued that the recovered materials were consistent with components from a Mogul balloon train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The explanation also benefited from an identifiable launch context. Historical investigations connected the debris to a missing [Mogul flight]({{ 'flight-4/' | relative_url }}) launched from Alamogordo in June 1947 and reconstructed a flight path that could have placed wreckage near the reported recovery area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The explanation also benefited from an identifiable launch context. Historical investigations connected the debris to a missing [Mogul flight]({{ 'flight-4/' | relative_url }}) launched from Alamogordo in June 1947 and reconstructed a flight path that could have placed wreckage near the reported recovery area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Whether one accepts every aspect of that conclusion or not, the case demonstrates the correct evidential method: compare witness descriptions with known hardware, identify candidate launches and evaluate whether atmospheric conditions support the proposed trajectory.
 
@@ -396,194 +396,194 @@ In UFO crash investigations, balloons are most convincing not because they are o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a Balloon Crash Explanation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a Balloon Crash Explanation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on assessing physical evidence, witness reliability, and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on assessing physical evidence, witness reliability, and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdA4vgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell in the 21st Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell in the 21st Century">Roswell in the 21st Century</a>
+</h4>
+<p class="fr-book-author">By Kevin D Randle</p>
         
-        <p class="fr-book-desc">Examines the Roswell case, including arguments surrounding balloon and Project Mogul explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Roswell case, including arguments surrounding balloon and Project Mogul explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century+by+Kevin+D+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how investigators evaluate sightings, physical traces, and conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators evaluate sightings, physical traces, and conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides historical context for UFO investigations, official explanations, and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for UFO investigations, official explanations, and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell+in+the+21st+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell in the 21st Century</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL"><img src="{{ '/assets/images/marketplace-covers/3a4b700b8659b29b9bff.jpg' | relative_url }}" alt="Listing image for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL"><img src="{{ '/assets/images/marketplace-covers/3a4b700b8659b29b9bff.jpg' | relative_url }}" alt="Listing image for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor"><img src="{{ '/assets/images/marketplace-covers/1a13bc3abad9759a9e1c.jpg' | relative_url }}" alt="Listing image for Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor"><img src="{{ '/assets/images/marketplace-covers/1a13bc3abad9759a9e1c.jpg' | relative_url }}" alt="Listing image for Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Balloon Column Arch Base Upright Pole Display Stand Kit Wedding Party Set Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie"><img src="{{ '/assets/images/marketplace-covers/67c9ba5433304250c512.jpg' | relative_url }}" alt="Listing image for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie"><img src="{{ '/assets/images/marketplace-covers/67c9ba5433304250c512.jpg' | relative_url }}" alt="Listing image for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M"><img src="{{ '/assets/images/marketplace-covers/982ba7de680907a002fd.jpg' | relative_url }}" alt="Listing image for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M"><img src="{{ '/assets/images/marketplace-covers/982ba7de680907a002fd.jpg' | relative_url }}" alt="Listing image for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="evidence-test-8f754f-how-to-test-a-balloon-crash-explanation-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,122 +789,122 @@ In UFO crash investigations, balloons are most convincing not because they are o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</p></details>
+   Link:<a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceCollecting Meteorological Data by Radiosonde or...When the balloon has expanded beyond its elastic limit and bur...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below balloon filled wi...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below balloon filled wi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationA typical NWS &quot;weather balloon&quot; sounding can last in excess of two hours. In that time, the...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationA typical NWS &quot;weather balloon&quot; sounding can last in excess of two hours. In that time, the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of Upper-air ObservationsTo supplement the kite and [aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;) data, Weather Bureau stations in 1909 began to track small...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of Upper-air ObservationsTo supplement the kite and [aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;) data, Weather Bureau stations in 1909 began to track small...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulAfter striking the ground, the radar reflectors, constructed of very light materials for minimum weight, would tea...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulAfter striking the ground, the radar reflectors, constructed of very light materials for minimum weight, would tea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: engr.colostate.edu  
-   Link: <a href="https://www.engr.colostate.edu/~hillger/modern.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.engr.colostate.edu/~hillger/modern.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Era Contributors to Meteorologyby V Bjerknes — Below are checklists of Modern Era Contributors to Meteorology on postal items (stamps, so...</p></details>
+   Link:<a href="https://www.engr.colostate.edu/~hillger/modern.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.engr.colostate.edu/~hillger/modern.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Era Contributors to Meteorologyby V Bjerknes — Below are checklists of Modern Era Contributors to Meteorology on postal items (stamps, so...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloon was part of the top-secret Project Mogul...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloon was part of the top-secret Project Mogul...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ethz.ch  
-   Link: <a href="https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosounding ExperimentThis lab will collect data from radiosondes attached to balloons. A meteorological bal- loon, carrying instrument...</p></details>
+   Link:<a href="https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosounding ExperimentThis lab will collect data from radiosondes attached to balloons. A meteorological bal- loon, carrying instrument...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL Balloon Train Components and Debris Recovered. Heights of Familiar Architectural Structures Relative to the Length of a Project MOG...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL Balloon Train Components and Debris Recovered. Heights of Familiar Architectural Structures Relative to the Length of a Project MOG...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/project" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terms borrowed from Latin · English terms derived from Proto-Italic · English terms derived from the Proto-Indo-European root *per- (befo...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/project" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terms borrowed from Latin · English terms derived from Proto-Italic · English terms derived from the Proto-Indo-European root *per- (befo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sondehub.org  
-   Link: <a href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow">https://sondehub.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to historic...</p></details>
+   Link:<a href="https://sondehub.org/" target="_blank" rel="noopener noreferrer nofollow">https://sondehub.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SondeHub TrackerLive tracking of radiosonde flights. Data via SondeHub v2. Includes weather overlay, predictions, and access to historic...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  
+   Link:<a href="https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1995/07/the-roswell-incident-and-project-mogul/</a>  

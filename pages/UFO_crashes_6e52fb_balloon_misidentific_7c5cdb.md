@@ -452,11 +452,11 @@ Balloons are one of the most persistent real-world explanations for UFO crash st
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-overview.webp" | relative_url }}" alt="Overview image for Balloons" loading="eager" decoding="sync" fetchpriority="high">
-The balloon explanation is not a universal solvent for every UFO case. It is a mechanism: a way in which unusual aerial equipment can become a mystery after it descends, breaks apart, or is recovered under [secrecy]({{ 'secrecy/' | relative_url }}). Roswell made that mechanism famous, but modern UAP investigations still resolve some reports as balloons when the object’s shape and movement match lighter-than-air behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+The balloon explanation is not a universal solvent for every UFO case. It is a mechanism: a way in which unusual aerial equipment can become a mystery after it descends, breaks apart, or is recovered under [secrecy]({{ 'secrecy/' | relative_url }}). Roswell made that mechanism famous, but modern UAP investigations still resolve some reports as balloons when the object’s shape and movement match lighter-than-air behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
 ## Why balloon wreckage can look stranger than rubbish
 
-A weather balloon is not just a balloon. In a typical upper-air observation, a large latex balloon carries a radiosonde, a small battery-powered instrument package that measures conditions such as pressure, temperature and humidity as it rises through the atmosphere. National Weather Service guidance notes that recovered radiosonde material may include cotton twine, an orange parachute and shredded balloon remains; people who find one are told to cut the string and dispose of the remaining items responsibly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Weather Balloon Instrument/Radiosonde Information</span><span class="citation-popover-snippet">National Weather Service Weather Balloon Instrument/Radiosonde Information</span></span></span>
+A weather balloon is not just a balloon. In a typical upper-air observation, a large latex balloon carries a radiosonde, a small battery-powered instrument package that measures conditions such as pressure, temperature and humidity as it rises through the atmosphere. National Weather Service guidance notes that recovered radiosonde material may include cotton twine, an orange parachute and shredded balloon remains; people who find one are told to cut the string and dispose of the remaining items responsibly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Weather Balloon Instrument/Radiosonde Information</span><span class="citation-popover-snippet">National Weather Service Weather Balloon Instrument/Radiosonde Information</span></span></span>
 
 That combination explains why a balloon recovery can feel “crash-like” to a witness. The balloon itself may have burst at high altitude, the parachute may be tangled, the instrument box may be partly smashed, and older systems could include radar-reflective structures that look unlike familiar consumer objects. A person encountering the remains in a field, on a ranch, in woodland or on a beach may see torn rubber, foil-like surfaces, string, sticks, tape, electronics and a parachute without seeing the intact system they once formed.
 
@@ -466,7 +466,7 @@ This is why balloon cases are important inside the broader UFO crash subject. Th
 
 ## Weather balloons and radar reflectors
 
-Weather balloons are launched because the atmosphere cannot be measured adequately from the ground alone. NOAA describes radiosondes as instruments carried aloft that measure atmospheric conditions and transmit the data back as they rise. In the United States, the National Weather Service says balloons are launched twice daily at 92 sites, including 13 in Alaska, with data transmitters attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span>
+Weather balloons are launched because the atmosphere cannot be measured adequately from the ground alone. NOAA describes radiosondes as instruments carried aloft that measure atmospheric conditions and transmit the data back as they rise. In the United States, the National Weather Service says balloons are launched twice daily at 92 sites, including 13 in Alaska, with data transmitters attached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span>
 
 For UFO crash reports, the most relevant parts are not the scientific measurements but the physical leftovers:
 
@@ -489,9 +489,9 @@ The ordinary operation of these balloons also explains why they can appear in re
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Roswell shows why secrecy made balloons suspicious
 
-Roswell remains the defining balloon-crash controversy because the official story was both mundane and incomplete. The best documentary trail does not support a recovered alien craft, but it does show why the balloon explanation became distrusted. In 1947, Roswell Army Air Field first announced that it had recovered a “flying disc”, then the explanation quickly shifted to a weather balloon. Decades later, the U.S. Government Accountability Office reviewed [records]({{ 'records/' | relative_url }}) connected with the event and identified a July 1947 FBI teletype discussing the recovery near Roswell of a high-altitude weather balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+Roswell remains the defining balloon-crash controversy because the official story was both mundane and incomplete. The best documentary trail does not support a recovered alien craft, but it does show why the balloon explanation became distrusted. In 1947, Roswell Army Air Field first announced that it had recovered a “flying disc”, then the explanation quickly shifted to a weather balloon. Decades later, the U.S. Government Accountability Office reviewed [records]({{ 'records/' | relative_url }}) connected with the event and identified a July 1947 FBI teletype discussing the recovery near Roswell of a high-altitude weather balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
-The key complication is Project Mogul. The Air Force’s later position, summarised in the GAO review, was that the recovered wreckage was most likely from one of the Project Mogul balloon trains. Mogul was a classified U.S. effort to use balloons carrying radar reflectors and acoustic sensors to help determine the state of Soviet nuclear weapons research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+The key complication is Project Mogul. The Air Force’s later position, summarised in the GAO review, was that the recovered wreckage was most likely from one of the Project Mogul balloon trains. Mogul was a classified U.S. effort to use balloons carrying radar reflectors and acoustic sensors to help determine the state of Soviet nuclear weapons research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
 That distinction matters. Saying “weather balloon” in 1947 sounded like a simple public explanation, but the suspected system was not merely an everyday weather observation balloon. It was part of a secret high-altitude programme. That secrecy helps explain why the first explanation could appear evasive even if the debris was not extraterrestrial. It also explains why some witnesses may have found the material odd: a classified balloon train with radar reflectors and sensors would not necessarily resemble equipment a civilian expected to find in the desert.
 
@@ -501,7 +501,7 @@ Roswell therefore teaches two lessons at once. First, balloon debris can be real
 
 The phrase “weather balloon” has become shorthand for official dismissal, but that shorthand can be misleading. There are ordinary meteorological balloons, research balloons, military balloons, surveillance balloons and experimental long-duration systems. Some are small and routine; others carry specialised payloads, fly high, drift for long distances or operate under rules unfamiliar to the public.
 
-Civil aviation rules recognise that unmanned free balloons are real airspace objects, not toys. U.S. federal regulations in 14 CFR Part 101 cover moored balloons, kites, rockets and unmanned free balloons; they prohibit hazardous operation and require notice and reporting for certain balloon operations. FAA air traffic guidance also says operators of unmanned free balloons may be required to monitor course and record position at least every two hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR+2FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
+Civil aviation rules recognise that unmanned free balloons are real airspace objects, not toys. U.S. federal regulations in 14 CFR Part 101 cover moored balloons, kites, rockets and unmanned free balloons; they prohibit hazardous operation and require notice and reporting for certain balloon operations. FAA air traffic guidance also says operators of unmanned free balloons may be required to monitor course and record position at least every two hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[ecfr.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
 
 For crash narratives, this creates a useful distinction:
 
@@ -526,7 +526,7 @@ Balloons become UFO crash stories through a sequence of small interpretive failu
 
 Several recurring features make balloon debris especially vulnerable to this process.
 
-**The object can be unfamiliar but not advanced.** Lightweight foil, sticks, string and instrument packages may look deliberately engineered, but they do not require exotic materials. In Roswell, the GAO-cited record of a high-altitude balloon with a radar reflector fits this pattern: the debris was unusual enough to attract attention, but still compatible with known balloon equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
+**The object can be unfamiliar but not advanced.** Lightweight foil, sticks, string and instrument packages may look deliberately engineered, but they do not require exotic materials. In Roswell, the GAO-cited record of a high-altitude balloon with a radar reflector fits this pattern: the debris was unusual enough to attract attention, but still compatible with known balloon equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span>
 
 **The fall can be real without being a crash.** A burst balloon descends; it does not “crash” in the aircraft sense. Yet witnesses may still use crash language because the object came down, broke apart and left debris.
 
@@ -540,11 +540,11 @@ Several recurring features make balloon debris especially vulnerable to this pro
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-2-dark.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What modern UAP reviews add to the balloon question
 
-Modern UAP reporting has not made balloons irrelevant; it has made the distinction between data-rich and data-poor cases more visible. NASA’s 2023 independent study report defined the problem partly around observations that cannot be identified as balloons, aircraft or known natural phenomena, while stressing that limited high-quality observations prevent definitive scientific conclusions in many cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Modern UAP reporting has not made balloons irrelevant; it has made the distinction between data-rich and data-poor cases more visible. NASA’s 2023 independent study report defined the problem partly around observations that cannot be identified as balloons, aircraft or known natural phenomena, while stressing that limited high-quality observations prevent definitive scientific conclusions in many cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The Pentagon’s All-domain Anomaly Resolution Office, or AARO, likewise continues to resolve some cases as balloons. Its official imagery page lists several 2022 Europe cases assessed with high confidence as almost certainly balloons, citing shape consistency with other resolved balloon imagery and performance characteristics aligned with lighter-than-air objects, such as drifting at wind speed and direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office, or AARO, likewise continues to resolve some cases as balloons. Its official imagery page lists several 2022 Europe cases assessed with high confidence as almost certainly balloons, citing shape consistency with other resolved balloon imagery and performance characteristics aligned with lighter-than-air objects, such as drifting at wind speed and direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-AARO’s fiscal year 2024 report also shows the broader pattern: it received 757 UAP reports in the covered period, resolved cases to prosaic objects including balloons, birds and unmanned aerial systems, and stated that it had found no evidence of extraterrestrial beings, activity or technology. It also noted that many unresolved cases lacked sufficient data for analysis, a crucial point for crash-related claims: “unresolved” does not mean “extraordinary”; often it means there is not enough information to decide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+AARO’s fiscal year 2024 report also shows the broader pattern: it received 757 UAP reports in the covered period, resolved cases to prosaic objects including balloons, birds and unmanned aerial systems, and stated that it had found no evidence of extraterrestrial beings, activity or technology. It also noted that many unresolved cases lacked sufficient data for analysis, a crucial point for crash-related claims: “unresolved” does not mean “extraordinary”; often it means there is not enough information to decide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 The modern lesson is methodological. A balloon explanation is strongest when investigators can compare the object’s apparent motion with wind, check launch or tracking data, inspect sensor artefacts, identify payload components, and document recovered material. It is weakest when it is offered as a reflexive answer without matching the evidence.
 
@@ -586,194 +586,194 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Balloons Look Like Spaceships. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Balloons Look Like Spaceships. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains how UFO cases are investigated and where mundane explanations fit into larger UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO cases are investigated and where mundane explanations fit into larger UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Focuses on debris interpretations, balloon explanations and myth formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on debris interpretations, balloon explanations and myth formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers official investigations and common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers official investigations and common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Represents the influential crash narrative that balloon explanations seek to address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the influential crash narrative that balloon explanations seek to address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut with UFO Balloon Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BrcAAeSwuhppYAIA/s-l225.jpg" alt="Listing image for Astronaut with UFO Balloon Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Astronaut with UFO Balloon Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for balloon UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: balloon UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SPACESHIP FLYING SAUCER ROSWELL New Mexico Patch 63X6"><img src="https://i.ebayimg.com/images/g/KcsAAeSw551psVYV/s-l225.jpg" alt="Listing image for Vintage UFO SPACESHIP FLYING SAUCER ROSWELL New Mexico Patch 63X6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SPACESHIP FLYING SAUCER ROSWELL New Mexico Patch 63X6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for balloon UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: balloon UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Recovery Team Roswell, N.M. Logo Embroidered Patch NEW UNUSED"><img src="https://i.ebayimg.com/images/g/RtoAAOSwOGJnKXYm/s-l225.jpg" alt="Listing image for UFO Recovery Team Roswell, N.M. Logo Embroidered Patch NEW UNUSED" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Recovery Team Roswell, N.M. Logo Embroidered Patch NEW UNUSED</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for balloon UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: balloon UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="balloons-when-balloons-look-like-spaceships-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="https://i.ebayimg.com/images/g/hBkAAOSwxjVmwm9k/s-l225.jpg" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for balloon UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: balloon UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=balloon+UFO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-balloons-look-like-spaceships-balloon-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="balloon UFO poster -book -books" data-ebay-reference="when-balloons-look-like-spaceships-balloon-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -789,7 +789,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -809,7 +809,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -841,7 +841,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -893,7 +893,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -938,7 +938,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -979,171 +979,171 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
    Title: Project on Government Secrecy GAO Report on Roswell, NM UFO Crash  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
    Title: National Weather Service Weather Balloon Instrument/Radiosonde Information  
-   Link: <a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
+   Link:<a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: noaa.gov  
    Title: up up and away 6 benefits of automated weather balloon launches  
-   Link: <a href="https://www.noaa.gov/stories/up-up-and-away-6-benefits-of-automated-weather-balloon-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/stories/up-up-and-away-6-benefits-of-automated-weather-balloon-launches</a>  
+   Link:<a href="https://www.noaa.gov/stories/up-up-and-away-6-benefits-of-automated-weather-balloon-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/stories/up-up-and-away-6-benefits-of-automated-weather-balloon-launches</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_6.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: nasa to release discuss [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/media/108586" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/108586</a>  
+   Link:<a href="https://www.faa.gov/media/108586" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/108586</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
+   Link:<a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.howstuffworks.com  
    Title: weather balloon  
-   Link: <a href="https://science.howstuffworks.com/nature/climate-weather/meteorological-instruments/weather-balloon.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/nature/climate-weather/meteorological-instruments/weather-balloon.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/nature/climate-weather/meteorological-instruments/weather-balloon.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/nature/climate-weather/meteorological-instruments/weather-balloon.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pilotinstitute.com  
    Title: part 101  
-   Link: <a href="https://pilotinstitute.com/part-101/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/part-101/</a>  
+   Link:<a href="https://pilotinstitute.com/part-101/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/part-101/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Basement: James Fox | UFO Disclosure, [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;), and the Captured Creature  
-   Link: <a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: World-changing confession: Doctor describes studying live alien | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Zit-08rtkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: James Fox | UFO Disclosure, Varginha, and the Captured Creature...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Zit-08rtkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: James Fox | UFO Disclosure, Varginha, and the Captured Creature...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction  
-   Link: <a href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POD4iAL4teM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World-changing confession: Doctor describes studying live alien | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POD4iAL4teM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World-changing confession: Doctor describes studying live alien | Reality Check...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Pentagon's new UFO files show no evidence of aliens found  
-   Link: <a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
+   Link:<a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
+   Link:<a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/meteorology/comments/1aq94pr/are_we_still_just_doing_the_twice_a_day/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/1aq94pr/are_we_still_just_doing_the_twice_a_day/</a>  
+   Link:<a href="https://www.reddit.com/r/meteorology/comments/1aq94pr/are_we_still_just_doing_the_twice_a_day/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/1aq94pr/are_we_still_just_doing_the_twice_a_day/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnninternational/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/635785442552586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnninternational/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/635785442552586/</a>  
+   Link:<a href="https://www.facebook.com/cnninternational/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/635785442552586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnninternational/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/635785442552586/</a>  

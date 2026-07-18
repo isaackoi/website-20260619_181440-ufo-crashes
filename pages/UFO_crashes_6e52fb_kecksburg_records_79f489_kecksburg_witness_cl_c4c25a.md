@@ -274,15 +274,15 @@ image: /assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witn
 
 ## Introduction
 
-The Kecksburg retrieval story was not built primarily from [physical evidence]({{ 'evidence/' | relative_url }}). It was built from people’s memories. While the documented record confirms a spectacular [fireball]({{ 'fireball/' | relative_url }}) over the Great Lakes region and reports that authorities sealed off part of the woods near Kecksburg, the more dramatic claim—that an unusual object was recovered and removed by the military—rests largely on witness testimony gathered over years and sometimes decades. That testimony transformed a local report of something falling into the woods into one of the most enduring alleged UFO recovery narratives in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+The Kecksburg retrieval story was not built primarily from [physical evidence]({{ 'evidence/' | relative_url }}). It was built from people’s memories. While the documented record confirms a spectacular [fireball]({{ 'fireball/' | relative_url }}) over the Great Lakes region and reports that authorities sealed off part of the woods near Kecksburg, the more dramatic claim—that an unusual object was recovered and removed by the military—rests largely on witness testimony gathered over years and sometimes decades. That testimony transformed a local report of something falling into the woods into one of the most enduring alleged UFO recovery narratives in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes Kecksburg distinctive is not a single witness but the accumulation of overlapping stories: reports of blue smoke in the woods, armed soldiers establishing roadblocks, firefighters being restricted from access, civilians being turned away, and claims that a large object left the area on a flatbed truck. Together, these accounts created the framework for a recovery narrative that has persisted despite the absence of publicly released recovery [records]({{ 'records/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense+2The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
+What makes Kecksburg distinctive is not a single witness but the accumulation of overlapping stories: reports of blue smoke in the woods, armed soldiers establishing roadblocks, firefighters being restricted from access, civilians being turned away, and claims that a large object left the area on a flatbed truck. Together, these accounts created the framework for a recovery narrative that has persisted despite the absence of publicly released recovery [records]({{ 'records/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
 
 ## The Core Local Claims About the Woods
 
-The earliest local accounts centred on the ground response rather than the object itself. Residents reported seeing smoke rising from woodland shortly after the fireball crossed the sky. Some witnesses later described the smoke as bluish and said emergency personnel quickly moved into the area. These reports encouraged the belief that something tangible had reached the ground rather than merely passing overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense+2Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
+The earliest local accounts centred on the ground response rather than the object itself. Residents reported seeing smoke rising from woodland shortly after the fireball crossed the sky. Some witnesses later described the smoke as bluish and said emergency personnel quickly moved into the area. These reports encouraged the belief that something tangible had reached the ground rather than merely passing overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
 
 As the story developed, several recurring claims emerged:
 
@@ -292,19 +292,19 @@ As the story developed, several recurring claims emerged:
 * Residents said roads near the alleged impact area were blocked or controlled.
 * Witnesses reported the presence of military personnel alongside local authorities.
 * Some firefighters and civilians claimed they were prevented from approaching certain parts of the woods.
-* Later witnesses described hearing that an object had been found and was being guarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File+2Rense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+* Later witnesses described hearing that an object had been found and was being guarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 </div>
 
-The importance of these claims lies in how they reinforced one another. A roadblock by itself might suggest crowd control. Military personnel by themselves might indicate precaution during an uncertain event. Combined with reports of smoke and rumours of an object in the woods, however, these details encouraged witnesses to interpret the response as evidence of a recovery operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+The importance of these claims lies in how they reinforced one another. A roadblock by itself might suggest crowd control. Military personnel by themselves might indicate precaution during an uncertain event. Combined with reports of smoke and rumours of an object in the woods, however, these details encouraged witnesses to interpret the response as evidence of a recovery operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
-One of the most influential elements was the description of an object itself. In testimony collected years later, some witnesses described a bronze or acorn-shaped object roughly comparable in size to a Volkswagen Beetle. Others recalled unusual markings that they compared to hieroglyphs. These descriptions became central to later retellings because they supplied a specific visual image rather than a vague report of debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+One of the most influential elements was the description of an object itself. In testimony collected years later, some witnesses described a bronze or acorn-shaped object roughly comparable in size to a Volkswagen Beetle. Others recalled unusual markings that they compared to hieroglyphs. These descriptions became central to later retellings because they supplied a specific visual image rather than a vague report of debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 ## How the Flatbed Truck Became the Centrepiece
 
 The retrieval narrative reached its strongest form through accounts of removal rather than discovery.
 
-Numerous later witnesses claimed they saw military vehicles entering and leaving the area. The most significant version of the story involved a flatbed truck carrying a large covered object away from Kecksburg during the evening. In some accounts, the load was concealed beneath a tarpaulin. In others, witnesses believed they could judge its approximate size and shape before it was covered. The Cold File+2Academic Dictionaries and Encyclopedias <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+Numerous later witnesses claimed they saw military vehicles entering and leaving the area. The most significant version of the story involved a flatbed truck carrying a large covered object away from Kecksburg during the evening. In some accounts, the load was concealed beneath a tarpaulin. In others, witnesses believed they could judge its approximate size and shape before it was covered. The Cold File+2Academic Dictionaries and Encyclopedias<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 This detail became crucial because it provided a complete narrative sequence:
 
@@ -322,24 +322,24 @@ This detail became crucial because it provided a complete narrative sequence:
 
 </div>
 
-Without the alleged flatbed truck, the story remains a search. With it, the story becomes a retrieval. That distinction explains why later investigators and popular accounts repeatedly returned to the removal claim. The truck serves as the bridge between a witnessed sky event and an alleged government recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+Without the alleged flatbed truck, the story remains a search. With it, the story becomes a retrieval. That distinction explains why later investigators and popular accounts repeatedly returned to the removal claim. The truck serves as the bridge between a witnessed sky event and an alleged government recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
-The claim also benefited from its simplicity. Witnesses might disagree about the object's exact appearance, but many versions of the story converged on the image of military vehicles leaving the scene after access had been restricted. This convergence helped the retrieval narrative survive even when individual details varied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+The claim also benefited from its simplicity. Witnesses might disagree about the object's exact appearance, but many versions of the story converged on the image of military vehicles leaving the scene after access had been restricted. This convergence helped the retrieval narrative survive even when individual details varied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 ## Why Later Testimony Became Central
 
 A striking feature of the Kecksburg case is that many of the most detailed recovery stories were not documented in contemporary official records. Instead, they emerged through later interviews, documentaries and investigations.
 
-Researcher Stan Gordon played a particularly important role. Over decades he interviewed local residents, firefighters, journalists and others connected with the event. His work preserved testimonies that might otherwise have disappeared and helped identify recurring themes across independent accounts. As a result, later discussions of Kecksburg increasingly relied on oral history rather than government documentation. Rense+2Enigma Labs | Report a UFO sighting <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
+Researcher Stan Gordon played a particularly important role. Over decades he interviewed local residents, firefighters, journalists and others connected with the event. His work preserved testimonies that might otherwise have disappeared and helped identify recurring themes across independent accounts. As a result, later discussions of Kecksburg increasingly relied on oral history rather than government documentation. Rense+2Enigma Labs | Report a UFO sighting<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
 
 Several examples illustrate this process:
 
 * Witnesses described seeing soldiers guarding roads and woodland access points.
 * Individuals recalled hearing orders to stay away from the site.
 * Some witnesses reported observing military convoys or flatbed vehicles.
-* Accounts emerged alleging that local reporter John Murphy saw or photographed the object before government officials confiscated materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+* Accounts emerged alleging that local reporter John Murphy saw or photographed the object before government officials confiscated materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
-These stories became more influential as questions about missing or incomplete records grew. When documentary evidence appeared limited or unavailable, witness testimony naturally assumed greater importance. The less complete the [paper trail]({{ 'paper-trail/' | relative_url }}) seemed, the more attention investigators paid to memories and personal recollections. This dynamic connects directly to the broader Kecksburg debate about [missing records]({{ 'missing-records/' | relative_url }}) and official transparency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News NASA Court-Ordered To Search For UFO Docs</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO Docs - CBS News...</span></span></span>
+These stories became more influential as questions about missing or incomplete records grew. When documentary evidence appeared limited or unavailable, witness testimony naturally assumed greater importance. The less complete the [paper trail]({{ 'paper-trail/' | relative_url }}) seemed, the more attention investigators paid to memories and personal recollections. This dynamic connects directly to the broader Kecksburg debate about [missing records]({{ 'missing-records/' | relative_url }}) and official transparency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News NASA Court-Ordered To Search For UFO Docs</span><span class="citation-popover-snippet">CBS NewsNASA Court-Ordered To Search For UFO Docs - CBS News...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,13 +356,13 @@ Several elements appear across numerous accounts:
 * Residents reported concern about something coming down nearby.
 * Authorities and emergency personnel responded.
 * Access to parts of the area was restricted.
-* Many witnesses remembered a significant military presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+* Many witnesses remembered a significant military presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 </div>
 
-Importantly, at least part of the security narrative has support from contemporary reporting. Newspaper coverage at the time documented that the area had been sealed off by authorities, providing an independent foundation for later recollections of restricted access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+Importantly, at least part of the security narrative has support from contemporary reporting. Newspaper coverage at the time documented that the area had been sealed off by authorities, providing an independent foundation for later recollections of restricted access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
-The consistency of these broad themes helps explain why the case remains compelling. Witnesses may differ on particulars, but many agree that an unusually serious response occurred after the fireball was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
+The consistency of these broad themes helps explain why the case remains compelling. Witnesses may differ on particulars, but many agree that an unusually serious response occurred after the fireball was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg1m_PvR55g" title="UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer">UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg1m_PvR55g">Open on YouTube</a></p></div></div></div>
@@ -371,11 +371,11 @@ The consistency of these broad themes helps explain why the case remains compell
 
 The weakest part of the retrieval narrative concerns the specific object allegedly recovered.
 
-Descriptions of the object's shape, colour, markings and condition were often recorded years after the event. Many accounts passed through multiple retellings before reaching investigators. In some cases, the testimony is second-hand, involving what one witness reported that another person had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+Descriptions of the object's shape, colour, markings and condition were often recorded years after the event. Many accounts passed through multiple retellings before reaching investigators. In some cases, the testimony is second-hand, involving what one witness reported that another person had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
-The alleged confiscation of photographs presents a similar problem. The story is well known within Kecksburg literature, but surviving photographs that would independently verify the claim have not emerged publicly. As a result, the allegation remains part of the oral tradition rather than a documented recovery record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
+The alleged confiscation of photographs presents a similar problem. The story is well known within Kecksburg literature, but surviving photographs that would independently verify the claim have not emerged publicly. As a result, the allegation remains part of the oral tradition rather than a documented recovery record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Kecksburg Incident &#124; Enigma Labs</span></span></span>
 
-The flatbed-truck reports face the same challenge. Multiple witnesses recalled seeing a vehicle leave the area, yet no official document has surfaced confirming that it carried a recovered object from the woods. Consequently, the removal story remains testimony-based rather than record-based. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+The flatbed-truck reports face the same challenge. Multiple witnesses recalled seeing a vehicle leave the area, yet no official document has surfaced confirming that it carried a recovered object from the woods. Consequently, the removal story remains testimony-based rather than record-based.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 This distinction is important. Witness accounts can establish what people believed they saw and experienced. They are much less effective at proving the exact identity of an object or the contents of a covered vehicle decades later.
 
@@ -383,203 +383,203 @@ This distinction is important. Witness accounts can establish what people believ
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_kecksburg_records_79f489_kecksburg_witness_cl_c4c25a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Witness Narrative Endured
 
-Kecksburg's retrieval story endured because witness testimony supplied what the documentary record did not: a complete human narrative. Residents described smoke, emergency activity, soldiers, roadblocks, guarded woods and a departing flatbed truck. Those elements fit naturally into a recovery scenario and gave later investigators a coherent sequence of events to examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[Rense+2The Cold File]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
+Kecksburg's retrieval story endured because witness testimony supplied what the documentary record did not: a complete human narrative. Residents described smoke, emergency activity, soldiers, roadblocks, guarded woods and a departing flatbed truck. Those elements fit naturally into a recovery scenario and gave later investigators a coherent sequence of events to examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rense.com">[rense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rense.com</span><span class="citation-popover-snippet">SIGHTINGSDecember 9, 1998...</span><span class="citation-popover-meta">Published: December 9, 1998</span></span></span>
 
-Whether the witnesses collectively described a genuine recovery, a misunderstood emergency response or a mixture of observation and later interpretation remains disputed. What is clear is that the retrieval narrative owes its existence largely to those local stories. Without the witness accounts, Kecksburg would likely be remembered as a spectacular fireball and little more. With them, it became one of the most persistent alleged UFO recovery cases in American folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[The Cold File+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
+Whether the witnesses collectively described a genuine recovery, a misunderstood emergency response or a mixture of observation and later interpretation remains disputed. What is clear is that the retrieval narrative owes its existence largely to those local stories. Without the witness accounts, Kecksburg would likely be remembered as a spectacular fireball and little more. With them, it became one of the most persistent alleged UFO recovery cases in American folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecoldfile.com">[thecoldfile.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecoldfile.com</span><span class="citation-popover-title">1965 kecksburg</span><span class="citation-popover-snippet">The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident &#124; The Cold FileMay 25, 2026...</span><span class="citation-popover-meta">Published: May 25, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vkZszbMzl3Q" title="The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence</a></p><p class="youtube-embed-meta">Channel: Tiffany Bliss</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vkZszbMzl3Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Witnesses Built the Retrieval Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Witnesses Built the Retrieval Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on witness testimony, official accounts, and evaluating evidence, matching a page about how testimony shapes UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on witness testimony, official accounts, and evaluating evidence, matching a page about how testimony shapes UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Over Pennsylvania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7YqrMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Over Pennsylvania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Over Pennsylvania">UFOs Over Pennsylvania</a>
-        </h4>
-        <p class="fr-book-author">By John Ventre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Over Pennsylvania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7YqrMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Over Pennsylvania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Over Pennsylvania">UFOs Over Pennsylvania</a>
+</h4>
+<p class="fr-book-author">By John Ventre</p>
         
-        <p class="fr-book-desc">Contains discussion of Kecksburg within the broader context of Pennsylvania UFO reports and witness investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains discussion of Kecksburg within the broader context of Pennsylvania UFO reports and witness investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania+by+John+Ventre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Examines witness reports, evidence evaluation, and case-building processes relevant to the Kecksburg story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, evidence evaluation, and case-building processes relevant to the Kecksburg story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
-        </h4>
-        <p class="fr-book-author">By George Dudding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kecksburg UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kecksburg UFO Incident">The Kecksburg UFO Incident</a>
+</h4>
+<p class="fr-book-author">By George Dudding</p>
         
-        <p class="fr-book-desc">Directly addresses the Kecksburg event and the witness accounts that underpin the retrieval story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the Kecksburg event and the witness accounts that underpin the retrieval story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kecksburg+UFO+Incident+by+George+Dudding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Over Pennsylvania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Over+Pennsylvania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Over Pennsylvania</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="witnesses-ac6c61-how-witnesses-built-the-retrieval-story-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,94 +785,94 @@ Whether the witnesses collectively described a genuine recovery, a misunderstood
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo2/kecksburg.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGSDecember 9, 1998...</p></details>
+   Link:<a href="https://rense.com/ufo2/kecksburg.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo2/kecksburg.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGSDecember 9, 1998...</p></details>
    Published: December 9, 1998  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Kecksburg Incident | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
+   Link:<a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thecoldfile.com  
    Title: 1965 kecksburg  
-   Link: <a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident | The Cold FileMay 25, 2026...</p></details>
+   Link:<a href="https://www.thecoldfile.com/articles/1965-kecksburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecoldfile.com/articles/1965-kecksburg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold FileThe Acorn in the Woods: The 1965 Kecksburg Incident | The Cold FileMay 25, 2026...</p></details>
    Published: May 25, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cbsnews.com  
    Title: CBS News NASA Court-Ordered To Search For UFO Docs  
-   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA Court-Ordered To Search For UFO Docs - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA Court-Ordered To Search For UFO Docs - CBS News...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tvi.show  
    Title: the 1965 kecksburg ufo crash  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe 1965 Kecksburg UFO Crash: Pennsylvania’s Roswell Mystery Explained...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1965-kecksburg-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe 1965 Kecksburg UFO Crash: Pennsylvania’s Roswell Mystery Explained...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en-academic.com  
    Title: Academic Dictionaries and Encyclopedias Kecksburg UFO incident  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/244079" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/244079</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/244079" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/244079</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mykss.com  
-   Link: <a href="https://mykss.com/en/article/1965-kecksburg-pennsylvania-acorn-shape-recovery-military-and-intelligence-file-summaries-comple/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1965-kecksburg-pennsylvania-acorn-shape-recovery-military-and-intelligence-file-summaries-comple/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg Pennsylvania Acorn-Shape Recovery Military And Intelligence File Summaries Complete Reference | MYKSSApril 21, 2025...</p></details>
+   Link:<a href="https://mykss.com/en/article/1965-kecksburg-pennsylvania-acorn-shape-recovery-military-and-intelligence-file-summaries-comple/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/1965-kecksburg-pennsylvania-acorn-shape-recovery-military-and-intelligence-file-summaries-comple/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg Pennsylvania Acorn-Shape Recovery Military And Intelligence File Summaries Complete Reference | MYKSSApril 21, 2025...</p></details>
    Published: April 21, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: slashlore.com  
    Title: Slash Lore Kecksburg UFO Crash: Pennsylvania's Roswell Mystery  
-   Link: <a href="https://www.slashlore.com/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashlore.com/kecksburg-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: Pennsylvania&#x27;s Roswell Mystery - SlashLore...</p></details>
+   Link:<a href="https://www.slashlore.com/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashlore.com/kecksburg-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: Pennsylvania&#x27;s Roswell Mystery - SlashLore...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Dennis Farina  
-   Link: <a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TeLgzzfOS3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TeLgzzfOS3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Evidence Hidden in Kecksburg? | UFO Witness | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Strange Cases From Unsolved Mysteries That Are Still Unexplained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lg1m_PvR55g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lg1m_PvR55g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Strange Cases From Unsolved Mysteries That Are Still Unexplained...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Unsolved Mysteries with Dennis Farina - Season 1 Episode 8...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
+   Link:<a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stangordon.info  
    Title: Stan Gordon Sighting Reports & NEWS – Stan Gordon's UFO Anomalies Zone  
-   Link: <a href="https://www.stangordon.info/wp/news-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/news-events/</a>  
+   Link:<a href="https://www.stangordon.info/wp/news-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/news-events/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Strange Cases From Unsolved Mysteries That Are Still Unexplained  
-   Link: <a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vSHZataJDlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vSHZataJDlc</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg, Pennsylvania UFO CrashSeptember 13, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ffgrv7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffgrv7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Kecksburg, Pennsylvania UFO CrashSeptember 13, 2024...</p></details>
    Published: September 13, 2024  

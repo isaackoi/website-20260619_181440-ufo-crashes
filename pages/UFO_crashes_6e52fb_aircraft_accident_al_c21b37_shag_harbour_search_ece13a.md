@@ -280,22 +280,22 @@ image: /assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbou
 
 ## Introduction
 
-The Shag Harbour incident remains one of the strongest examples of a UFO crash story emerging from an ordinary emergency response. What made the case unusual was not simply that witnesses reported lights descending into the water off Nova Scotia on 4 October 1967. It was that police, rescue authorities, the Coast Guard and later military divers treated the event as a potential [aircraft accident]({{ 'aircraft/' | relative_url }}) and searched accordingly. When those [searches]({{ 'searches/' | relative_url }}) failed to locate a missing aircraft, survivors, bodies or identifiable wreckage, the central question changed from “What aircraft crashed?” to “What was searched for but never found?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The Shag Harbour incident remains one of the strongest examples of a UFO crash story emerging from an ordinary emergency response. What made the case unusual was not simply that witnesses reported lights descending into the water off Nova Scotia on 4 October 1967. It was that police, rescue authorities, the Coast Guard and later military divers treated the event as a potential [aircraft accident]({{ 'aircraft/' | relative_url }}) and searched accordingly. When those [searches]({{ 'searches/' | relative_url }}) failed to locate a missing aircraft, survivors, bodies or identifiable wreckage, the central question changed from “What aircraft crashed?” to “What was searched for but never found?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-1-dark.svg" | relative_url }}" alt="Shag Search illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of UFO [crash reports]({{ 'crash-reports/' | relative_url }}), Shag Harbour stands out because the negative result was documented through official channels. The significance of the case rests less on claims about extraterrestrial craft than on the fact that authorities pursued a conventional explanation first and came away without conventional [evidence]({{ 'evidence/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+Within the broader history of UFO [crash reports]({{ 'crash-reports/' | relative_url }}), Shag Harbour stands out because the negative result was documented through official channels. The significance of the case rests less on claims about extraterrestrial craft than on the fact that authorities pursued a conventional explanation first and came away without conventional [evidence]({{ 'evidence/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.0K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ## The 1967 Water Impact Report
 
-Shortly after 11:20 p.m., multiple witnesses reported a brightly lit object descending towards the water near Shag Harbour. Several initially believed they had witnessed an aircraft crash. Local resident Laurie Wickens reported what he thought was a large aeroplane or small airliner going down offshore, prompting an immediate law-enforcement response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Shortly after 11:20 p.m., multiple witnesses reported a brightly lit object descending towards the water near Shag Harbour. Several initially believed they had witnessed an aircraft crash. Local resident Laurie Wickens reported what he thought was a large aeroplane or small airliner going down offshore, prompting an immediate law-enforcement response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The first responders did not approach the event as a UFO mystery. Their concern was that passengers or crew could be in the water. RCMP officers arrived quickly and coordinated with rescue authorities while local fishing vessels headed to the reported impact area. Witnesses and responders also reported lights visible on the water for a period after the descent, reinforcing the impression that something substantial had entered the harbour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The first responders did not approach the event as a UFO mystery. Their concern was that passengers or crew could be in the water. RCMP officers arrived quickly and coordinated with rescue authorities while local fishing vessels headed to the reported impact area. Witnesses and responders also reported lights visible on the water for a period after the descent, reinforcing the impression that something substantial had entered the harbour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-This distinction matters. Many UFO crash stories are reconstructed years later from witness memories. At Shag Harbour, the trigger for the search was a contemporary belief that an aircraft emergency might be unfolding in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+This distinction matters. Many UFO crash stories are reconstructed years later from witness memories. At Shag Harbour, the trigger for the search was a contemporary belief that an aircraft emergency might be unfolding in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XHm7KMRMTTE" title="The Canadian UFO Crash That Hasn’t Been Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer">The Canadian UFO Crash That Hasn’t Been Debunked</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 214.0K &middot; Uploaded: June 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XHm7KMRMTTE">Open on YouTube</a></p></div></div></div>
@@ -304,7 +304,7 @@ This distinction matters. Many UFO crash stories are reconstructed years later f
 
 The most important phase of the investigation occurred after the initial reports. Rescue authorities immediately began checking whether any aircraft were missing.
 
-The RCMP contacted the Rescue Coordination Centre in Halifax. Officials checked civilian and military aviation [records]({{ 'records/' | relative_url }}) and sought confirmation from defence authorities. By the following morning, search coordinators reported that no commercial, private or military aircraft were unaccounted for along the relevant portions of the Atlantic coast. Contemporary accounts also describe checks involving military reporting channels and radar-related enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The RCMP contacted the Rescue Coordination Centre in Halifax. Officials checked civilian and military aviation [records]({{ 'records/' | relative_url }}) and sought confirmation from defence authorities. By the following morning, search coordinators reported that no commercial, private or military aircraft were unaccounted for along the relevant portions of the Atlantic coast. Contemporary accounts also describe checks involving military reporting channels and radar-related enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 This finding did not automatically end the investigation. Instead, it created a contradiction:
 
@@ -314,13 +314,13 @@ This finding did not automatically end the investigation. Instead, it created a 
 * Witnesses reported something descending into the water.
 * Responders treated the event as a probable crash.
 * No aircraft operator reported a loss.
-* No aircraft was officially missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+* No aircraft was officially missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 </div>
 
-Because conventional explanations had not resolved the event, the matter moved beyond routine rescue operations. Government correspondence later preserved in Canadian archives shows that the incident entered official UFO reporting channels and attracted attention from both the Royal Canadian Air Force and the Royal Canadian Navy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Because conventional explanations had not resolved the event, the matter moved beyond routine rescue operations. Government correspondence later preserved in Canadian archives shows that the incident entered official UFO reporting channels and attracted attention from both the Royal Canadian Air Force and the Royal Canadian Navy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Library and Archives Canada continues to classify the event as a significant historical UFO case investigated by the RCMP and Canadian Forces, reflecting the extent of official involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+Library and Archives Canada continues to classify the event as a significant historical UFO case investigated by the RCMP and Canadian Forces, reflecting the extent of official involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-2-dark.svg" | relative_url }}" alt="Shag Search illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,11 +328,11 @@ Library and Archives Canada continues to classify the event as a significant his
 
 The aircraft checks alone did not make Shag Harbour famous. The case gained its reputation because searches repeatedly failed to produce expected evidence.
 
-Rescue vessels searched the reported impact area. According to accounts from the period, neither fishermen nor Coast Guard personnel recovered survivors, [bodies]({{ 'bodies/' | relative_url }}) or identifiable aircraft debris. Reports mention unusual [yellow foam]({{ 'yellow-foam/' | relative_url }}) on the water surface, but nothing that could be linked conclusively to an aircraft accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2North Country Public Radio Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Rescue vessels searched the reported impact area. According to accounts from the period, neither fishermen nor Coast Guard personnel recovered survivors, [bodies]({{ 'bodies/' | relative_url }}) or identifiable aircraft debris. Reports mention unusual [yellow foam]({{ 'yellow-foam/' | relative_url }}) on the water surface, but nothing that could be linked conclusively to an aircraft accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The search then expanded underwater. Navy divers from Fleet Diving Unit Atlantic were tasked with examining the seabed near the reported location. Over several days they searched for a submerged aircraft or other large object. The official outcome was negative: no wreckage, no aircraft structure and no object that could explain the reports were located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The search then expanded underwater. Navy divers from Fleet Diving Unit Atlantic were tasked with examining the seabed near the reported location. Over several days they searched for a submerged aircraft or other large object. The official outcome was negative: no wreckage, no aircraft structure and no object that could explain the reports were located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The failure to recover anything is often misunderstood. A negative search does not prove that an extraordinary object was present. Search operations can miss targets, especially in marine environments. Positions may be estimated incorrectly, currents can move floating material, and eyewitnesses can misjudge distances or impact locations. Nevertheless, the absence of wreckage eliminated the most obvious explanation that authorities were investigating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The failure to recover anything is often misunderstood. A negative search does not prove that an extraordinary object was present. Search operations can miss targets, especially in marine environments. Positions may be estimated incorrectly, currents can move floating material, and eyewitnesses can misjudge distances or impact locations. Nevertheless, the absence of wreckage eliminated the most obvious explanation that authorities were investigating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 That is why Shag Harbour occupies a distinctive place among alleged UFO crashes. The case was not built around recovered exotic material. It was built around the opposite outcome: a search designed to find an aircraft found no aircraft.
 
@@ -341,204 +341,204 @@ That is why Shag Harbour occupies a distinctive place among alleged UFO crashes.
 
 ## Why the Negative Result Still Matters
 
-Many historical UFO reports depend almost entirely on testimony. Shag Harbour differs because it generated a documented sequence of practical actions: emergency reporting, aircraft-accountability checks, maritime search efforts and an underwater investigation. The enduring mystery comes from the gap between those actions and their results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Many historical UFO reports depend almost entirely on testimony. Shag Harbour differs because it generated a documented sequence of practical actions: emergency reporting, aircraft-accountability checks, maritime search efforts and an underwater investigation. The enduring mystery comes from the gap between those actions and their results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-From a historical perspective, the most important lesson is not that a UFO crashed off Nova Scotia. It is that trained responders treated the event as a probable aircraft accident and pursued that possibility through multiple stages of investigation. When those efforts produced no missing aircraft, no bodies and no recoverable wreckage, the event moved into a category that conventional crash investigations rarely occupy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+From a historical perspective, the most important lesson is not that a UFO crashed off Nova Scotia. It is that trained responders treated the event as a probable aircraft accident and pursued that possibility through multiple stages of investigation. When those efforts produced no missing aircraft, no bodies and no recoverable wreckage, the event moved into a category that conventional crash investigations rarely occupy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-For researchers comparing UFO crash reports linked to suspected aviation accidents, Shag Harbour remains one of the clearest examples of a case defined by an unsuccessful search. The mystery survives not because something extraordinary was recovered, but because nothing expected was ever found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+For researchers comparing UFO crash reports linked to suspected aviation accidents, Shag Harbour remains one of the clearest examples of a case defined by an unsuccessful search. The mystery survives not because something extraordinary was recovered, but because nothing expected was ever found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-3-dark.svg" | relative_url }}" alt="Shag Search illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_shag_harbour_search_ece13a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Shag Harbour&#x27;s Failed Search Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Shag Harbour&#x27;s Failed Search Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
-        </h4>
-        <p class="fr-book-author">By Don Ledger, Chris Styles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
+</h4>
+<p class="fr-book-author">By Don Ledger, Chris Styles</p>
         
-        <p class="fr-book-desc">Directly examines the searches, witnesses and missing-wreckage question discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the searches, witnesses and missing-wreckage question discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Impact to Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpmCngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Impact to Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Impact to Contact">Impact to Contact</a>
-        </h4>
-        <p class="fr-book-author">By Chris Styles, Graham Simms</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Impact to Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpmCngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Impact to Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Impact to Contact">Impact to Contact</a>
+</h4>
+<p class="fr-book-author">By Chris Styles, Graham Simms</p>
         
-        <p class="fr-book-desc">Focuses specifically on evidence and developments connected to Shag Harbour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses specifically on evidence and developments connected to Shag Harbour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official investigations into unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official investigations into unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages evaluation of evidence and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluation of evidence and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Impact+to+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Impact to Contact</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Impact+to+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Impact to Contact</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="shag-search-what-shag-harbour-s-failed-search-really-shows-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,119 +744,119 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: calgary.citynews.ca  
-   Link: <a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews CalgaryCanada&#x27;s best-documented UFO sighting still intrigues, 50...Sep 21, 2017 — Hundreds of UFO sightings are reported across...</p></details>
+   Link:<a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews CalgaryCanada&#x27;s best-documented UFO sighting still intrigues, 50...Sep 21, 2017 — Hundreds of UFO sightings are reported across...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was acqui...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was acqui...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 130 Jul 2025 — In part one of this two-part episode, we unravel Canada&#x27;s most infamous UFO ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 130 Jul 2025 — In part one of this two-part episode, we unravel Canada&#x27;s most infamous UFO ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: barringtonmunicipality.com  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThe witnesses were surprised that the lights did not dive into the water, b...</p></details>
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThe witnesses were surprised that the lights did not dive into the water, b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAC Recherche1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;...</p></details>
    Published: October 1967  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: LAC Recherche Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAC RecherchePublic research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, inv...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAC RecherchePublic research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, inv...</p></details>
    Published: October 1967  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.northcountrypublicradio.org  
-   Link: <a href="https://blogs.northcountrypublicradio.org/allin/2018/09/22/canadas-ufo-landings-and-forbidden-places/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.northcountrypublicradio.org/allin/2018/09/22/canadas-ufo-landings-and-forbidden-places/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>North Country Public Radio BlogsCanada&#x27;s UFO landings and forbidden places « All In22 Sept 2018 — The Royal Canadian Mounted Police (RCMP...</p></details>
+   Link:<a href="https://blogs.northcountrypublicradio.org/allin/2018/09/22/canadas-ufo-landings-and-forbidden-places/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.northcountrypublicradio.org/allin/2018/09/22/canadas-ufo-landings-and-forbidden-places/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Country Public Radio BlogsCanada&#x27;s UFO landings and forbidden places « All In22 Sept 2018 — The Royal Canadian Mounted Police (RCMP...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca1967 Shag Harbour UFO Sighting and Related ResearchThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous U...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca1967 Shag Harbour UFO Sighting and Related ResearchThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous U...</p></details>
    Published: October 1967  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: bac-lac.gc.ca Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/index" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/index</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/index" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/index</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
    Published: October 1967  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1stnovascotiastrong/posts/576005056758005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1stnovascotiastrong/posts/576005056758005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO crash site on a foggy dayAt dawn, the Rescue Coordination Center in Halifax confirmed that no civilian or military aircr...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1stnovascotiastrong/posts/576005056758005/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1stnovascotiastrong/posts/576005056758005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO crash site on a foggy dayAt dawn, the Rescue Coordination Center in Halifax confirmed that no civilian or military aircr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: did you know the coast guard once searched for a possible ufo in 1967 residents  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardIn 1967, residents of Shag Harbour in Nova Scotia witnessed a strange lit object flying off the coast before crashing...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardIn 1967, residents of Shag Harbour in Nova Scotia witnessed a strange lit object flying off the coast before crashing...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerial  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada.... Archived webpages from Library and Archives Canada, Canada&#x27;s...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada.... Archived webpages from Library and Archives Canada, Canada&#x27;s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: occult-world.com  
-   Link: <a href="https://occult-world.com/canadas-underwater-ufo-mystery-reopens/" target="_blank" rel="noopener noreferrer nofollow">https://occult-world.com/canadas-underwater-ufo-mystery-reopens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Underwater UFO Mystery ReopensOct 15, 2025 — CBC Archives – “The 1967 Shag Harbour UFO Incident,” updated 2025...</p></details>
+   Link:<a href="https://occult-world.com/canadas-underwater-ufo-mystery-reopens/" target="_blank" rel="noopener noreferrer nofollow">https://occult-world.com/canadas-underwater-ufo-mystery-reopens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Underwater UFO Mystery ReopensOct 15, 2025 — CBC Archives – “The 1967 Shag Harbour UFO Incident,” updated 2025...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incident in Nova ScotiaOn October 4, 1967, an amber bowl-shaped object with four flashing lights crashed and sank to the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incident in Nova ScotiaOn October 4, 1967, an amber bowl-shaped object with four flashing lights crashed and sank to the...</p></details>
    Published: October 4, 1967  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
    Title: bac-lac.gc.ca The Shag Harbour UFO Incident  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident; Vault ISN: 909646; Format: VIDEO; Location number: 418947.MXF; Number of items: 1; Made from: V7 2009-09-0406.Read more...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident; Vault ISN: 909646; Format: VIDEO; Location number: 418947.MXF; Number of items: 1; Made from: V7 2009-09-0406.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thescubanews.com  
    Title: shag harbour nova scotia ufo incident  
-   Link: <a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The object was never definitively identified and was officially labeled as an unident...</p></details>
+   Link:<a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The object was never definitively identified and was officially labeled as an unident...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vice.com  
    Title: in search of the truth behind canadas most infamous ufo sighting  
-   Link: <a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous...4 Oct 2017 — On the night of October 4, 1967, a handful of local residents saw a...</p></details>
+   Link:<a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous...4 Oct 2017 — On the night of October 4, 1967, a handful of local residents saw a...</p></details>
    Published: October 4, 1967  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: ufo crash defcon mystery underwater  
-   Link: <a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>

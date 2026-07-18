@@ -280,251 +280,251 @@ image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wre
 
 ## Introduction
 
-One of the least appreciated sources of UFO crash stories was not a single balloon but a balloon train: a long chain of [balloons]({{ 'balloons/' | relative_url }}), radar [reflectors]({{ 'reflectors/' | relative_url }}), cords, instruments, batteries, sensors and tracking equipment linked together into a single airborne system. When these assemblies broke apart or descended unexpectedly, they could scatter an assortment of lightweight materials across a wide area. To someone finding the remains on the ground, the debris often looked far too complicated to be the product of an ordinary weather balloon. That mismatch between expectation and reality helped turn some recoveries into enduring crash mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+One of the least appreciated sources of UFO crash stories was not a single balloon but a balloon train: a long chain of [balloons]({{ 'balloons/' | relative_url }}), radar [reflectors]({{ 'reflectors/' | relative_url }}), cords, instruments, batteries, sensors and tracking equipment linked together into a single airborne system. When these assemblies broke apart or descended unexpectedly, they could scatter an assortment of lightweight materials across a wide area. To someone finding the remains on the ground, the debris often looked far too complicated to be the product of an ordinary weather balloon. That mismatch between expectation and reality helped turn some recoveries into enduring crash mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Trains illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), balloon trains matter because they created a mechanism for confusion. The [wreckage]({{ 'wreckage/' | relative_url }}) was real, physical and unusual. Witnesses were not imagining debris; they were trying to interpret unfamiliar Cold War technology using the categories available to them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Within the broader history of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), balloon trains matter because they created a mechanism for confusion. The [wreckage]({{ 'wreckage/' | relative_url }}) was real, physical and unusual. Witnesses were not imagining debris; they were trying to interpret unfamiliar Cold War technology using the categories available to them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 ## How Balloon Trains Were Assembled
 
-Cold War balloon programmes often required far more than a single gas-filled envelope. Projects such as Project Mogul used long arrays of connected components designed to remain aloft for extended periods while carrying scientific or military instruments. Early Mogul flights employed clusters of balloons, acoustic sensors, radio equipment and radar-tracking devices arranged in a lengthy train suspended beneath the lifting balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Cold War balloon programmes often required far more than a single gas-filled envelope. Projects such as Project Mogul used long arrays of connected components designed to remain aloft for extended periods while carrying scientific or military instruments. Early Mogul flights employed clusters of balloons, acoustic sensors, radio equipment and radar-tracking devices arranged in a lengthy train suspended beneath the lifting balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
-A particularly important component was the radar reflector. These devices were constructed from lightweight frames, often made from balsa wood, covered with metallic foil or foil-backed paper. Their purpose was to make the balloon visible to ground radar operators. Viewed close up, however, they did not resemble anything that most civilians associated with weather observations. They looked like angular, geometric structures made from metallic surfaces, sticks, cords and tape. Contemporary descriptions compared them to box kites or complex frameworks rather than simple meteorological equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[Science Friday+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
+A particularly important component was the radar reflector. These devices were constructed from lightweight frames, often made from balsa wood, covered with metallic foil or foil-backed paper. Their purpose was to make the balloon visible to ground radar operators. Viewed close up, however, they did not resemble anything that most civilians associated with weather observations. They looked like angular, geometric structures made from metallic surfaces, sticks, cords and tape. Contemporary descriptions compared them to box kites or complex frameworks rather than simple meteorological equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
 
-The overall result was a system that could stretch for hundreds of feet. Instead of a single object falling intact, a balloon train could fragment into many separate pieces when exposed to weather, impact or prolonged exposure after landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The overall result was a system that could stretch for hundreds of feet. Instead of a single object falling intact, a balloon train could fragment into many separate pieces when exposed to weather, impact or prolonged exposure after landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 ## What Civilians Could Find on the Ground
 
-The debris left by a balloon train often looked inconsistent and oddly assorted. A person might discover metallic foil in one spot, wooden sticks in another, lengths of cord elsewhere and scraps of balloon material scattered across the surrounding area. Instrument housings, batteries or sensor packages could add further complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The debris left by a balloon train often looked inconsistent and oddly assorted. A person might discover metallic foil in one spot, wooden sticks in another, lengths of cord elsewhere and scraps of balloon material scattered across the surrounding area. Instrument housings, batteries or sensor packages could add further complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-This helps explain why witnesses sometimes struggled to identify what they had found. Ordinary expectations suggested that a balloon should leave behind little more than torn rubber. Instead, recoverers encountered an assortment of engineered-looking objects. Contemporary descriptions associated with the Roswell debris included foil, paper, tape, sticks and other lightweight components bundled together across a debris field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This helps explain why witnesses sometimes struggled to identify what they had found. Ordinary expectations suggested that a balloon should leave behind little more than torn rubber. Instead, recoverers encountered an assortment of engineered-looking objects. Contemporary descriptions associated with the Roswell debris included foil, paper, tape, sticks and other lightweight components bundled together across a debris field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The radar reflectors were especially misleading. Their foil-covered surfaces and geometric shapes appeared manufactured and purposeful. Even later investigators noted that the reflectors looked unusual to untrained observers and bore little resemblance to what most people imagined when they heard the term “weather balloon”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+The radar reflectors were especially misleading. Their foil-covered surfaces and geometric shapes appeared manufactured and purposeful. Even later investigators noted that the reflectors looked unusual to untrained observers and bore little resemblance to what most people imagined when they heard the term “weather balloon”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Trains illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lightweight Debris Invited Bigger Stories
 
-A key feature of balloon-train wreckage was that it combined two seemingly contradictory qualities. The material looked engineered, yet it was astonishingly light. Witnesses could crumple foil-like pieces in their hands or carry large amounts of debris without difficulty, while still feeling that the objects were too elaborate to belong to an ordinary balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...Marcel thought the debris looked like piece...</span></span></span>
+A key feature of balloon-train wreckage was that it combined two seemingly contradictory qualities. The material looked engineered, yet it was astonishingly light. Witnesses could crumple foil-like pieces in their hands or carry large amounts of debris without difficulty, while still feeling that the objects were too elaborate to belong to an ordinary balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasw.org">[National Association of Science Writers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasw.org</span><span class="citation-popover-snippet">National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...Marcel thought the debris looked like piece...</span></span></span>
 
-That combination encouraged speculation. People often judge the origin of wreckage by its complexity. [Aircraft]({{ 'aircraft/' | relative_url }}) debris is expected to contain engines, heavy metal parts and obvious mechanical systems. Balloon debris, by contrast, was expected to be simple. Balloon trains occupied an awkward middle ground. They contained engineered structures and specialised equipment, but much of it was made from lightweight materials chosen for high-altitude performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRawin is short for radar wind, a technique in which a single comer reflector is towed aloft by a single neoprene b...</span></span></span>
+That combination encouraged speculation. People often judge the origin of wreckage by its complexity. [Aircraft]({{ 'aircraft/' | relative_url }}) debris is expected to contain engines, heavy metal parts and obvious mechanical systems. Balloon debris, by contrast, was expected to be simple. Balloon trains occupied an awkward middle ground. They contained engineered structures and specialised equipment, but much of it was made from lightweight materials chosen for high-altitude performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabProject MogulRawin is short for radar wind, a technique in which a single comer reflector is towed aloft by a single neoprene b...</span></span></span>
 
-In some cases, decorative or unusual manufacturing details added to the mystery. Accounts linked to Mogul radar targets described adhesive tapes with printed patterns and other unconventional construction features. Such details could appear strange when encountered out of context, especially in remote areas where people had little reason to expect experimental military hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Science Friday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+In some cases, decorative or unusual manufacturing details added to the mystery. Accounts linked to Mogul radar targets described adhesive tapes with printed patterns and other unconventional construction features. Such details could appear strange when encountered out of context, especially in remote areas where people had little reason to expect experimental military hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
 
 ## The Roswell Example and the Mechanism of Confusion
 
-The Roswell incident remains the best-known example of how balloon-train debris could be interpreted as something extraordinary. The later Air Force investigation concluded that the recovered material was consistent with a classified Project Mogul balloon array rather than a conventional weather balloon. The system incorporated multiple balloons and radar reflectors, creating debris that differed significantly from the public image of a simple meteorological launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2DAF History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+The Roswell incident remains the best-known example of how balloon-train debris could be interpreted as something extraordinary. The later Air Force investigation concluded that the recovered material was consistent with a classified Project Mogul balloon array rather than a conventional weather balloon. The system incorporated multiple balloons and radar reflectors, creating debris that differed significantly from the public image of a simple meteorological launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
-What makes Roswell relevant here is not the wider debate over the case but the mechanism itself. Witnesses encountered genuine wreckage from an unusual airborne system. The debris field contained a mix of materials, was associated with military interest and came from a programme whose purpose was secret. Those factors naturally encouraged alternative explanations. Even decades later, descriptions of foil, balsa components, tape and radar-target structures remain central to discussions of why the debris appeared so unusual to those who first saw it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[WHS ESD+3Wikipedia+3Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+What makes Roswell relevant here is not the wider debate over the case but the mechanism itself. Witnesses encountered genuine wreckage from an unusual airborne system. The debris field contained a mix of materials, was associated with military interest and came from a programme whose purpose was secret. Those factors naturally encouraged alternative explanations. Even decades later, descriptions of foil, balsa components, tape and radar-target structures remain central to discussions of why the debris appeared so unusual to those who first saw it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Trains illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Balloon Trains Matter in UFO-Crash History
 
-Balloon trains demonstrate that crash confusion did not require exotic technology. Ordinary people could encounter debris that genuinely looked engineered, sophisticated and unfamiliar while still originating from a terrestrial programme. The combination of classified missions, unusual materials and scattered debris fields created conditions in which sincere observers could reasonably conclude that they had found something extraordinary. DAF History+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incident...</span></span></span>
+Balloon trains demonstrate that crash confusion did not require exotic technology. Ordinary people could encounter debris that genuinely looked engineered, sophisticated and unfamiliar while still originating from a terrestrial programme. The combination of classified missions, unusual materials and scattered debris fields created conditions in which sincere observers could reasonably conclude that they had found something extraordinary. DAF History+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">DAF History The Roswell Report</span><span class="citation-popover-snippet">Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incident...</span></span></span>
 
-For the history of UFO crashes, the significance lies in the physical evidence. Unlike a distant light in the sky, balloon-train recoveries left tangible objects on the ground. Those objects often looked too complex to fit common expectations, making them a recurring source of rumours, misunderstandings and legends that persisted long after the original equipment had been identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
+For the history of UFO crashes, the significance lies in the physical evidence. Unlike a distant light in the sky, balloon-train recoveries left tangible objects on the ground. Those objects often looked too complex to fit common expectations, making them a recurring source of rumours, misunderstandings and legends that persisted long after the original equipment had been identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</span><span class="citation-popover-meta">Published: September 26, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wWTCJY24b3o" title="The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer">The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wWTCJY24b3o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Balloon Wreckage Looked Engineered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Balloon Wreckage Looked Engineered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Includes discussion of Project Mogul and Roswell-related interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of Project Mogul and Roswell-related interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how unfamiliar technology could be misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how unfamiliar technology could be misidentified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Places Roswell-era incidents within Cold War structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell-era incidents within Cold War structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly connected to balloon-wreckage versus spacecraft debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connected to balloon-wreckage versus spacecraft debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M"><img src="{{ '/assets/images/marketplace-covers/982ba7de680907a002fd.jpg' | relative_url }}" alt="Listing image for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M"><img src="{{ '/assets/images/marketplace-covers/982ba7de680907a002fd.jpg' | relative_url }}" alt="Listing image for Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Chalet et Ceci | 100% Linen Midi Bubble Skirt &amp; Sleeveless Top w/Ruffle Hem, M</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie"><img src="{{ '/assets/images/marketplace-covers/67c9ba5433304250c512.jpg' | relative_url }}" alt="Listing image for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie"><img src="{{ '/assets/images/marketplace-covers/67c9ba5433304250c512.jpg' | relative_url }}" alt="Listing image for Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Wiggy Kit Top Womens XS White Eyelet Ruffle Button Up Cotton Cottagecore Prairie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL"><img src="{{ '/assets/images/marketplace-covers/3a4b700b8659b29b9bff.jpg' | relative_url }}" alt="Listing image for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL"><img src="{{ '/assets/images/marketplace-covers/3a4b700b8659b29b9bff.jpg' | relative_url }}" alt="Listing image for BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">BeachLunchLounge Animal Print Smocked Midi Dress Chiffon Long Sleeve XXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit"><img src="{{ '/assets/images/marketplace-covers/30c7e933df85309cb801.jpg' | relative_url }}" alt="Listing image for Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit"><img src="{{ '/assets/images/marketplace-covers/30c7e933df85309cb801.jpg' | relative_url }}" alt="Listing image for Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">Ex MOD Military Weather Balloon Inflation Stand and Helium Filling Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather balloon kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon kit" data-ebay-reference="balloon-trains-why-balloon-wreckage-looked-engineered-ufo-crashes-weather-balloon-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,152 +730,152 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/rosswe1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDReport of Air Force Research Regarding the &quot;Roswell...September 26, 2012 — 27 Jul 1994 — the shredded remains of a multi-neoprene...</p></details>
    Published: September 26, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Secret Project That Spawned the Roswell UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Secret Project That Spawned the Roswell UFO Incident...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) in Roswell?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) in Roswell?...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Were there actually ALIEN bodies in Roswell?  
-   Link: <a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul - YouTube Project Mogul - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul - YouTube Project Mogul - YouTube...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRawin is short for radar wind, a technique in which a single comer reflector is towed aloft by a single neoprene b...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRawin is short for radar wind, a technique in which a single comer reflector is towed aloft by a single neoprene b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dafhistory.af.mil  
    Title: DAF History The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incident...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incident...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencefriday.com  
    Title: the real roswell cover up spying on air  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo [strange metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;) mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...Marcel thought the debris looked like piece...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Association of Science WritersNo aliens Visit Earth, But The Government Covers Up...Marcel thought the debris looked like piece...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloon was part of the top-secret Project Mogul...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 it was finally revealed that the balloon was part of the top-secret Project Mogul...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Roswell Incident?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After reading the declassified documents...They used aluminum [foil and balsa](&amp;#123;&amp;#123; &#x27;foil-and-balsa/&#x27; | relative_url &amp;#125;&amp;#125;) wood connected by tape that was obtained from a local toy s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After reading the declassified documents...They used aluminum [foil and balsa](&amp;#123;&amp;#123; &#x27;foil-and-balsa/&#x27; | relative_url &amp;#125;&amp;#125;) wood connected by tape that was obtained from a local toy s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene balloons used to carry equipment aloft...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene balloons used to carry equipment aloft...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to attempt to monitor...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to attempt to monitor...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryIn this case the material was not from a weather bal- loon but similar balloon material and associated debris from. P...</p></details>
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hands Across HistoryIn this case the material was not from a weather bal- loon but similar balloon material and associated debris from. P...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wgu7by/roswell_crash_wasnt_a_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Crash wasn&#x27;t a weather balloon.: r/UFOsThere was a weather balloon with a radar reflector attached to it. The radar reflector wa...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Project Mogul was conducted out of Washington, D.C. and the Los Alamos National Laboratory in New Mexico, with some high-alt...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Project Mogul was conducted out of Washington, D.C. and the Los Alamos National Laboratory in New Mexico, with some high-alt...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>including balsa wood strips covered in metallic tape with strange symbols - fueled decades of speculation about alien...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>including balsa wood strips covered in metallic tape with strange symbols - fueled decades of speculation about alien...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Roswell Report: Case Closed, by James Mc Andrew—  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoqwADM5zu82NP6mFG3NZUGP1UZ65ofb2Scte6WqcthONYYY42Fm" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoqwADM5zu82NP6mFG3NZUGP1UZ65ofb2Scte6WqcthONYYY42Fm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a wood frames; Adhesive tape, including decorative tape from a toy company...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoqwADM5zu82NP6mFG3NZUGP1UZ65ofb2Scte6WqcthONYYY42Fm" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoqwADM5zu82NP6mFG3NZUGP1UZ65ofb2Scte6WqcthONYYY42Fm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a wood frames; Adhesive tape, including decorative tape from a toy company...Read more...</p></details>

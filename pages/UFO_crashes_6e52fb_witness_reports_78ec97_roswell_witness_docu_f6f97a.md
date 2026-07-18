@@ -288,11 +288,11 @@ Roswell remains the most famous alleged UFO crash case because it contains both 
 
 The earliest Roswell [evidence]({{ 'evidence/' | relative_url }}) consists of documents and press reports produced during July 1947. These [records]({{ 'records/' | relative_url }}) establish what people were publicly saying before decades of UFO folklore accumulated.
 
-On 8 July 1947, Roswell Army Air Field issued a [press release]({{ 'press-release/' | relative_url }}) announcing that personnel from the 509th Bomb Group had recovered a “flying disc” from a ranch near Roswell. Newspapers immediately carried the story. Within roughly a day, military officials reversed that claim and stated that the recovered material was from a weather balloon or radar-tracking device rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+On 8 July 1947, Roswell Army Air Field issued a [press release]({{ 'press-release/' | relative_url }}) announcing that personnel from the 509th Bomb Group had recovered a “flying disc” from a ranch near Roswell. Newspapers immediately carried the story. Within roughly a day, military officials reversed that claim and stated that the recovered material was from a weather balloon or radar-tracking device rather than an extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-The most important surviving government documents from the period are remarkably narrow in scope. A later investigation by the U.S. Government Accountability Office reported locating two contemporaneous 1947 records directly connected to the incident: a Roswell Army Air Field history report noting that the recovered “flying disc” had been identified as a radar-tracking balloon, and an FBI teletype dated 8 July 1947 describing an object resembling a high-altitude weather balloon with a radar reflector. Justia GAO Reports+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+The most important surviving government documents from the period are remarkably narrow in scope. A later investigation by the U.S. Government Accountability Office reported locating two contemporaneous 1947 records directly connected to the incident: a Roswell Army Air Field history report noting that the recovered “flying disc” had been identified as a radar-tracking balloon, and an FBI teletype dated 8 July 1947 describing an object resembling a high-altitude weather balloon with a radar reflector. Justia GAO Reports+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[gao.justia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-What these records do not mention is just as significant as what they do. They contain no references to recovered bodies, medical examinations, extraterrestrial occupants, a second crash site, or large-scale [military recovery]({{ 'recovery-signs/' | relative_url }}) operations involving non-human remains. The documentary baseline is a debris-recovery story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+What these records do not mention is just as significant as what they do. They contain no references to recovered bodies, medical examinations, extraterrestrial occupants, a second crash site, or large-scale [military recovery]({{ 'recovery-signs/' | relative_url }}) operations involving non-human remains. The documentary baseline is a debris-recovery story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
 For historians, this baseline becomes the starting point against which later witness claims must be measured.
 
@@ -303,23 +303,23 @@ For historians, this baseline becomes the starting point against which later wit
 
 The modern Roswell narrative largely emerged more than thirty years after the event.
 
-The key turning point came in 1978 when nuclear physicist and UFO researcher Stanton Friedman interviewed retired intelligence officer Jesse Marcel, who had participated in the original debris recovery. Marcel argued that the weather-balloon explanation was a cover story and suggested the debris was not conventional military material. His interviews reignited interest in a case that had been largely dormant for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The key turning point came in 1978 when nuclear physicist and UFO researcher Stanton Friedman interviewed retired intelligence officer Jesse Marcel, who had participated in the original debris recovery. Marcel argued that the weather-balloon explanation was a cover story and suggested the debris was not conventional military material. His interviews reignited interest in a case that had been largely dormant for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-However, Marcel's early revival of the case focused on unusual debris rather than recovered alien bodies. The more dramatic body-recovery narrative became prominent after publication of *The Roswell Incident* in 1980. That book connected Roswell to stories about small humanoid occupants and additional crash locations. Notably, many of those body claims came from second-hand reports, recollections reported after the alleged witnesses had died, or interviews conducted decades after 1947. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+However, Marcel's early revival of the case focused on unusual debris rather than recovered alien bodies. The more dramatic body-recovery narrative became prominent after publication of *The Roswell Incident* in 1980. That book connected Roswell to stories about small humanoid occupants and additional crash locations. Notably, many of those body claims came from second-hand reports, recollections reported after the alleged witnesses had died, or interviews conducted decades after 1947.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 As Roswell research expanded during the 1980s and early 1990s, investigators collected numerous witness accounts. Yet these accounts often differed on basic details:
 
-* Where bodies were allegedly found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</span></span></span> * How many bodies were recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</span></span></span>
+* Where bodies were allegedly found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</span></span></span> * How many bodies were recovered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Roswell Incident</span><span class="citation-popover-snippet">INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What the beings looked like.
-* Which military units participated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</span></span></span>
-* Whether there was one crash site or multiple sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* Which military units participated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</span></span></span>
+* Whether there was one crash site or multiple sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
-This pattern is important because the body narrative did not emerge from a cluster of matching 1947 reports. Instead, it developed gradually through retrospective interviews conducted many years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This pattern is important because the body narrative did not emerge from a cluster of matching 1947 reports. Instead, it developed gradually through retrospective interviews conducted many years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-2-dark.svg" | relative_url }}" alt="Roswell Records illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,7 +333,7 @@ The [timing]({{ 'timing/' | relative_url }}) difference in Roswell is stark:
 
 Evidence typeFirst appearanceDebris recovery reportsJuly 1947FBI and military documentationJuly 1947Claims that debris was unusual or misidentifiedProminently revived in 1978Detailed body-recovery storiesMainly 1980s onwardAutopsy and mortuary-related claimsMostly late 1980s and later
 
-This chronology means that the strongest documentary evidence and the most extraordinary witness claims do not originate from the same period. The farther a claim sits from the original event, the more historians ask whether the account reflects direct observation, later interpretation, or exposure to an evolving public narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+This chronology means that the strongest documentary evidence and the most extraordinary witness claims do not originate from the same period. The farther a claim sits from the original event, the more historians ask whether the account reflects direct observation, later interpretation, or exposure to an evolving public narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrLVpWBxHRA" title="Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer">Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 343.3K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrLVpWBxHRA">Open on YouTube</a></p></div></div></div>
@@ -342,7 +342,7 @@ This chronology means that the strongest documentary evidence and the most extra
 
 Roswell is often presented as a conflict between witnesses and official explanations, but the historical picture is more specific.
 
-The earliest documents show that something was recovered, that confusion existed about its identity, and that military authorities quickly changed the public explanation. Those facts are well documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The earliest documents show that something was recovered, that confusion existed about its identity, and that military authorities quickly changed the public explanation. Those facts are well documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 Later witnesses introduced additional claims:
 
@@ -353,13 +353,13 @@ Later witnesses introduced additional claims:
 * Symbols or markings unlike ordinary equipment.
 * Recovery of non-human bodies.
 * Secret transport and concealment operations.
-* Suppression of information by military authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* Suppression of information by military authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 </div>
 
 The difficulty is that the most dramatic elements are largely absent from the surviving 1947 documentary trail. Historians therefore face a methodological choice: should greater weight be given to contemporary records created during the event, or to memories recorded decades afterward?
 
-Neither source type is perfect. Official records can be incomplete, classified or misleading. Witnesses can be sincere yet mistaken. The Roswell debate persists because supporters and sceptics often prioritise different forms of evidence. Supporters frequently argue that later testimony reveals information omitted from official records. Critics respond that extraordinary claims appearing decades after the fact must overcome the silence of the earliest documents. U.S. Air Force+2Justia GAO Reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</span></span></span>
+Neither source type is perfect. Official records can be incomplete, classified or misleading. Witnesses can be sincere yet mistaken. The Roswell debate persists because supporters and sceptics often prioritise different forms of evidence. Supporters frequently argue that later testimony reveals information omitted from official records. Critics respond that extraordinary claims appearing decades after the fact must overcome the silence of the earliest documents. U.S. Air Force+2Justia GAO Reports<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-3-dark.svg" | relative_url }}" alt="Roswell Records illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_witness_reports_78ec97_roswell_witness_docu_f6f97a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,9 +367,9 @@ Neither source type is perfect. Official records can be incomplete, classified o
 
 Within the broader study of alleged UFO crashes, Roswell illustrates a crucial distinction between a historical event and a later narrative built around that event.
 
-The historical core is comparatively clear: debris was found, military personnel investigated it, a “flying disc” announcement was issued, and the explanation changed almost immediately. These points are supported by records created at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The historical core is comparatively clear: debris was found, military personnel investigated it, a “flying disc” announcement was issued, and the explanation changed almost immediately. These points are supported by records created at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-The extraterrestrial-body narrative, by contrast, depends heavily on witness testimony gathered decades later. Because those claims emerged long after the event and often conflict with one another, they occupy a different evidential category from the original records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The extraterrestrial-body narrative, by contrast, depends heavily on witness testimony gathered decades later. Because those claims emerged long after the event and often conflict with one another, they occupy a different evidential category from the original records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 For that reason, Roswell is less a simple question of whether witnesses were truthful than a case study in chronology. The earliest surviving documents establish a debris-recovery incident. The more dramatic stories arrived later. Understanding what came first is essential to understanding why Roswell remains controversial nearly eighty years after the event.
 
@@ -378,194 +378,194 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Came First in Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Came First in Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines witness testimony against documentary records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness testimony against documentary records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Explores how the Roswell narrative evolved over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how the Roswell narrative evolved over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g9tEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Centres on witness timelines and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on witness timelines and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Important for understanding when major witness narratives entered the story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Important for understanding when major witness narratives entered the story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+"><img src="{{ '/assets/images/marketplace-covers/1ae3ba0ac2f01878104f.jpg' | relative_url }}" alt="Listing image for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+"><img src="{{ '/assets/images/marketplace-covers/1ae3ba0ac2f01878104f.jpg' | relative_url }}" alt="Listing image for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock"><img src="{{ '/assets/images/marketplace-covers/5f55a4db894634238b0e.jpg' | relative_url }}" alt="Listing image for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock"><img src="{{ '/assets/images/marketplace-covers/5f55a4db894634238b0e.jpg' | relative_url }}" alt="Listing image for SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO 7 Mini Figures Complete Konami SF Movie Selection Pre-Colored In stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999"><img src="{{ '/assets/images/marketplace-covers/8cea51f0a1e3d4c7fd88.jpg' | relative_url }}" alt="Listing image for VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">VINTAGE SILVERCORN ALIEN FIGURE GREEN TUBE UFO 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="roswell-records-5f3f75-what-came-first-in-roswell-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,174 +771,174 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashSchiff: On July 8, 1947, the Roswell Army Air Field (RAAF) public inf...</p></details>
    Published: July 8, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Ro...</p></details>
    Published: July 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelThe incident was largely forgotten until 1978, when Marcel, then a retired lieutenant colonel, told ufologist Stanton Frie...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse MarcelThe incident was largely forgotten until 1978, when Marcel, then a retired lieutenant colonel, told ufologist Stanton Frie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell Daily Record  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily RecordRoswell Daily Record; July 8, 1947, issue, featuring a story announcing the Roswell Army Air Field &quot;capture&quot; of a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_Daily_Record" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_Daily_Record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Daily RecordRoswell Daily Record; July 8, 1947, issue, featuring a story announcing the Roswell Army Air Field &quot;capture&quot; of a...</p></details>
    Published: July 8, 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 9, Roswell Daily Record reported that the debris consisted of &quot;large area of bright [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) made up of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 9, Roswell Daily Record reported that the debris consisted of &quot;large area of bright [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) made up of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?22 June 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government cover-up. Today the incident near Roswel...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?22 June 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government cover-up. Today the incident near Roswel...</p></details>
    Published: June 1997  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vYXxSfGH_C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vYXxSfGH_C8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vYXxSfGH_C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vYXxSfGH_C8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell - UFO Crash in New Mexico | Free Documentary History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien Cover-Up Finally Exposed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World&#x27;s Biggest Alien Cover-Up Finally Exposed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportReports of military units that always seemed to arrive shortly after the crash of a flying saucer to retr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles northwest of Roswell...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles northwest of Roswell...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn the 1978 interview, Marcel stated that the &quot;weather balloon&quot; explanation from the press con...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomIn the 1978 interview, Marcel stated that the &quot;weather balloon&quot; explanation from the press con...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, alleged bodies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — After collecting the wreckage, the RAAF issued an extraordinary press release that stated...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — After collecting the wreckage, the RAAF issued an extraordinary press release that stated...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapledger.com  
    Title: Roswell Incident  
-   Link: <a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Ledger31 May 2026 — In 1947, a rancher near Roswell, New Mexico found debris that the military initially called a flying saucer, then...</p></details>
+   Link:<a href="https://www.uapledger.com/cases/roswell-incident-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.uapledger.com/cases/roswell-incident-1947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Ledger31 May 2026 — In 1947, a rancher near Roswell, New Mexico found debris that the military initially called a flying saucer, then...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: roswell-nm.gov  
-   Link: <a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteFind activities offered by city&#x27;s Recreation Department, Roswell Public Library, and Roswell Museum Read on...</p></details>
+   Link:<a href="https://www.roswell-nm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswell-nm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM | Official WebsiteFind activities offered by city&#x27;s Recreation Department, Roswell Public Library, and Roswell Museum Read on...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: seeroswell.com  
-   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
+   Link:<a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
+   Link:<a href="https://www.netflix.com/title/81062075" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81062075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Roswell, New MexicoAfter 10 years, a woman returns to her sleepy hometown and discovers her high-school crush is also an unusual fo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commons.wikimedia.org  
    Title: File:Roswell Daily Record  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — English: Roswell Daily Record. July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region.webp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 8, 1947. RAAF Captures...5 Nov 2023 — English: Roswell Daily Record. July 8, 1947. Article titled: &quot;RAAF Captures Flying Saucer On...</p></details>
    Published: July 8, 1947  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — Although much of the documentation about Project Mogul has now been declassified, Launius says that civilian access to infor...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ia601607.us.archive.org  
    Title: Commanding General of the Army Air Forces, Henry H. "Hap" Arnold. These were  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report: Fact versus Fiction in the New Mexico...Project MOGUL resulted from two important post-World War II priorities set by the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
    Title: how 1978 conversation revived roswell ufo story linked condhesc i3nwf  
-   Link: <a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-1978-conversation-revived-roswell-ufo-story-linked-condhesc-i3nwf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a 1978 conversation revived the Roswell UFO story...The 1978 meeting between Jesse Marcel and Stanton Friedman reignited a global co...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt31455007/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31455007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel...MASHUP - Stanton Friedman&#x27;s Final Interview PLUS Jesse Marcel: The Roswell UFO Cr...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
    Title: We're a UFO Expert and former CIA Operative investigating  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell crash featuring new evidence from the personal diary of Major Jesse Marcel, the first military official to investigate the crash...</p></details>
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell crash featuring new evidence from the personal diary of Major Jesse Marcel, the first military official to investigate the crash...</p></details>

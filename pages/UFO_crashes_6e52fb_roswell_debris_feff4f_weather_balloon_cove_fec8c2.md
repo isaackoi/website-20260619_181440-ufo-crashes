@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_c
 
 ## Introduction
 
-The weather-balloon explanation for the Roswell debris did not become controversial simply because people preferred an extraterrestrial story. It looked suspicious because it followed one of the most dramatic reversals in UFO history. On 8 July 1947, Roswell Army Air Field announced that it had recovered a “flying disc.” Within hours, senior officers in Fort Worth publicly declared that the object was merely a weather balloon and radar reflector. The gap between those two messages created a credibility problem that has never entirely disappeared. Even many researchers who reject the alien-crash theory acknowledge that the correction was awkward, incomplete and, in important respects, misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+The weather-balloon explanation for the Roswell debris did not become controversial simply because people preferred an extraterrestrial story. It looked suspicious because it followed one of the most dramatic reversals in UFO history. On 8 July 1947, Roswell Army Air Field announced that it had recovered a “flying disc.” Within hours, senior officers in Fort Worth publicly declared that the object was merely a weather balloon and radar reflector. The gap between those two messages created a credibility problem that has never entirely disappeared. Even many researchers who reject the alien-crash theory acknowledge that the correction was awkward, incomplete and, in important respects, misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" alt="Cover Story illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,15 +291,15 @@ The central issue was not whether a balloon could have produced the debris. It w
 
 ## Ramey's Fort Worth Correction
 
-The public reversal was orchestrated by Brigadier General Roger Ramey at Fort Worth Army Air Field. Debris from the Roswell area was displayed to reporters, photographed on the floor of Ramey’s office and identified by weather officer Irving Newton as a balloon and radar target. According to Newton’s later statements, he immediately recognised the material as meteorological equipment and saw nothing extraordinary in it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The public reversal was orchestrated by Brigadier General Roger Ramey at Fort Worth Army Air Field. Debris from the Roswell area was displayed to reporters, photographed on the floor of Ramey’s office and identified by weather officer Irving Newton as a balloon and radar target. According to Newton’s later statements, he immediately recognised the material as meteorological equipment and saw nothing extraordinary in it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 From a public-relations standpoint, however, the correction raised questions rather than settling them.
 
-First, people wondered why officers at one of the military’s most important installations would mistake a common weather device for a flying disc. Roswell Army Air Field was home to the 509th Bomb Group, the unit associated with the atomic-bomb missions of the Second World War. To many observers, it seemed unlikely that trained personnel would issue a flying-disc announcement over ordinary balloon debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+First, people wondered why officers at one of the military’s most important installations would mistake a common weather device for a flying disc. Roswell Army Air Field was home to the 509th Bomb Group, the unit associated with the atomic-bomb missions of the Second World War. To many observers, it seemed unlikely that trained personnel would issue a flying-disc announcement over ordinary balloon debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
-Second, the correction happened with remarkable speed. The military moved from a sensational claim to a mundane explanation in less than a day. Fast reversals are often interpreted as [evidence]({{ 'evidence/' | relative_url }}) of confusion, but they can also look like damage control. In Roswell’s case, the speed of the shift encouraged later speculation that the military had decided to replace one story with another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+Second, the correction happened with remarkable speed. The military moved from a sensational claim to a mundane explanation in less than a day. Fast reversals are often interpreted as [evidence]({{ 'evidence/' | relative_url }}) of confusion, but they can also look like damage control. In Roswell’s case, the speed of the shift encouraged later speculation that the military had decided to replace one story with another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
-Third, the famous photographs themselves became controversial. Later Roswell writers argued that the debris shown in Fort Worth did not necessarily match all descriptions given by witnesses involved in the original recovery. Whether those claims are persuasive or not, the photographs encouraged decades of debate over whether the military was displaying the actual debris or merely representative material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/FtWorth.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">Astronomy UFOA deflating experience</span><span class="citation-popover-snippet">Astronomy UFOA deflating experience</span></span></span>
+Third, the famous photographs themselves became controversial. Later Roswell writers argued that the debris shown in Fort Worth did not necessarily match all descriptions given by witnesses involved in the original recovery. Whether those claims are persuasive or not, the photographs encouraged decades of debate over whether the military was displaying the actual debris or merely representative material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/FtWorth.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-title">Astronomy UFOA deflating experience</span><span class="citation-popover-snippet">Astronomy UFOA deflating experience</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yPxTfkIc7BY" title="What Really Happened In The Roswell UFO Sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer">What Really Happened In The Roswell UFO Sighting?</a></p><p class="youtube-embed-meta">Channel: Real History &middot; Views: 13.1K &middot; Uploaded: November 2024 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yPxTfkIc7BY">Open on YouTube</a></p></div></div></div>
@@ -308,16 +308,16 @@ Third, the famous photographs themselves became controversial. Later Roswell wri
 
 The most important reason the balloon story sounded wrong is that it appeared too ordinary.
 
-People tend to judge explanations by whether they seem proportionate to the surrounding events. If an object is merely a weather balloon, readers expect a brief identification and little further interest. Roswell looked different. There was military involvement, transportation of debris, public announcements, newspaper headlines and rapid intervention by senior officers. The [official explanation]({{ 'afterlife/' | relative_url }}) seemed disconnected from the apparent level of concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+People tend to judge explanations by whether they seem proportionate to the surrounding events. If an object is merely a weather balloon, readers expect a brief identification and little further interest. Roswell looked different. There was military involvement, transportation of debris, public announcements, newspaper headlines and rapid intervention by senior officers. The [official explanation]({{ 'afterlife/' | relative_url }}) seemed disconnected from the apparent level of concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 Several factors reinforced that perception:
 
 * **The language changed dramatically.** A “flying disc” became a weather balloon almost overnight.
 * **The explanation appeared simplistic.** It implied that trained personnel had become excited over commonplace equipment.
 * **The military offered little detail.** The public received a brief identification rather than a thorough account of why the mistake occurred.
-* **The wider atmosphere encouraged suspicion.** The summer of 1947 was already filled with flying-saucer reports, making sudden corrections look politically motivated rather than purely factual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+* **The wider atmosphere encouraged suspicion.** The summer of 1947 was already filled with flying-saucer reports, making sudden corrections look politically motivated rather than purely factual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
-In hindsight, historians often note that the correction was not entirely truthful even if the debris was terrestrial. Later investigations concluded that the likely source was Project Mogul, a highly classified balloon programme designed to detect Soviet nuclear activity. The recovered material may have included components associated with that secret project rather than a routine weather balloon launch. Because officials could not openly discuss Mogul in 1947, the public received a simpler explanation than the reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Oocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+In hindsight, historians often note that the correction was not entirely truthful even if the debris was terrestrial. Later investigations concluded that the likely source was Project Mogul, a highly classified balloon programme designed to detect Soviet nuclear activity. The recovered material may have included components associated with that secret project rather than a routine weather balloon launch. Because officials could not openly discuss Mogul in 1947, the public received a simpler explanation than the reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
 That distinction matters. A misleading explanation can generate distrust even when it is intended to protect classified information rather than conceal alien technology.
 
@@ -329,16 +329,16 @@ The debate eventually evolved into two very different interpretations.
 
 One interpretation argues that the balloon explanation was a deliberate cover story for the recovery of an extraterrestrial craft. In this view, the contradiction between the flying-disc announcement and the balloon correction is evidence of a larger deception.
 
-The other interpretation, supported by later government investigations, argues that there was indeed a cover story—but not an alien one. According to this view, officials concealed the true nature of Project Mogul because it was linked to sensitive Cold War intelligence work. The public therefore received an intentionally incomplete explanation that described classified equipment as an ordinary weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Oocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+The other interpretation, supported by later government investigations, argues that there was indeed a cover story—but not an alien one. According to this view, officials concealed the true nature of Project Mogul because it was linked to sensitive Cold War intelligence work. The public therefore received an intentionally incomplete explanation that described classified equipment as an ordinary weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
-This second interpretation helps explain why the correction sounded suspicious without requiring an extraterrestrial crash. If the debris came from a secret military programme, officials had incentives to minimise public interest. The result was a statement that was not wholly false but was arguably too simple to account for what had happened. When later generations learned about classified balloon projects, many concluded that the government had concealed something important. The remaining disagreement concerns what that “something” actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oocities.org">[Oocities+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oocities.org</span><span class="citation-popover-title">The GAO Roswell Report</span><span class="citation-popover-snippet">The GAO Roswell Report...</span></span></span>
+This second interpretation helps explain why the correction sounded suspicious without requiring an extraterrestrial crash. If the debris came from a secret military programme, officials had incentives to minimise public interest. The result was a statement that was not wholly false but was arguably too simple to account for what had happened. When later generations learned about classified balloon projects, many concluded that the government had concealed something important. The remaining disagreement concerns what that “something” actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oocities.org">[oocities.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oocities.org</span><span class="citation-popover-title">The GAO Roswell Report</span><span class="citation-popover-snippet">The GAO Roswell Report...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZltLHh_WsZs" title="The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer">The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: July 2019 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZltLHh_WsZs">Open on YouTube</a></p></div></div></div>
 
 ## Why the Suspicion Endured
 
-The weather-balloon correction became suspicious less because of the balloon itself than because of the context surrounding it. A dramatic flying-disc announcement, an immediate reversal, incomplete public information and the later discovery of a classified balloon programme combined to create a lasting credibility gap. Even if the debris originated from Project Mogul rather than an alien spacecraft, the public learned that the official story had not been the whole story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Oocities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+The weather-balloon correction became suspicious less because of the balloon itself than because of the context surrounding it. A dramatic flying-disc announcement, an immediate reversal, incomplete public information and the later discovery of a classified balloon programme combined to create a lasting credibility gap. Even if the debris originated from Project Mogul rather than an alien spacecraft, the public learned that the official story had not been the whole story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico &#124; U.S. GAOJuly 28, 1995...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
 That gap between what was said publicly and what was known privately is the reason the Roswell balloon explanation continues to attract scrutiny. The correction was intended to end the story. Instead, it became one of the main reasons the story survived.
 
@@ -346,194 +346,194 @@ That gap between what was said publicly and what was known privately is the reas
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" alt="Cover Story illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_weather_balloon_cove_fec8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Weather Balloon Story Sound Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Weather Balloon Story Sound Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Directly addresses why the weather-balloon explanation appeared suspicious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses why the weather-balloon explanation appeared suspicious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Explores arguments that the balloon explanation was inadequate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores arguments that the balloon explanation was inadequate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides context for secrecy and classified military programs of the era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for secrecy and classified military programs of the era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Popularized skepticism toward the official balloon explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Popularized skepticism toward the official balloon explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC"><img src="{{ '/assets/images/marketplace-covers/596a26a8e3477c349659.jpg' | relative_url }}" alt="Listing image for THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">THE ROSWELL FILE,TIM SHAWCROSS,ALIENS,UFO&#x27;S,FLYING SAUCER CRASH,HB/DC,SIGNED,VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs"><img src="{{ '/assets/images/marketplace-covers/7e7e9ed635c7a6a132fc.jpg' | relative_url }}" alt="Listing image for 2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">2️⃣ WELCOME TO ROSWELL METAL SIGN (NEW) UFOs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash"><img src="{{ '/assets/images/marketplace-covers/857135e26b0f86a73f55.jpg' | relative_url }}" alt="Listing image for ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">ROSWELL New Mexico US 285 Highway road sign 12&quot;x18&quot; DOT style UFO aliens crash</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="cover-story-why-did-the-weather-balloon-story-sound-wrong-ufo-crashes-roswell-ufo-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ That gap between what was said publicly and what was known privately is the reas
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ That gap between what was said publicly and what was known privately is the reas
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ That gap between what was said publicly and what was known privately is the reas
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ That gap between what was said publicly and what was known privately is the reas
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ That gap between what was said publicly and what was known privately is the reas
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,80 +739,80 @@ That gap between what was said publicly and what was known privately is the reas
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;): Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico | U.S. GAOJuly 28, 1995...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;): Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico | U.S. GAOJuly 28, 1995...</p></details>
    Published: July 28, 1995  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oocities.org  
    Title: The GAO Roswell Report  
-   Link: <a href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow">https://oocities.org/area51/corridor/8148/gao.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell Report...</p></details>
+   Link:<a href="https://oocities.org/area51/corridor/8148/gao.html" target="_blank" rel="noopener noreferrer nofollow">https://oocities.org/area51/corridor/8148/gao.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO Roswell Report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: muller.lbl.gov  
    Title: Muller Lab Project Mogul  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astronomyufo.com  
    Title: Astronomy UFOA deflating experience  
-   Link: <a href="https://www.astronomyufo.com/UFO/FtWorth.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/FtWorth.htm</a>  
+   Link:<a href="https://www.astronomyufo.com/UFO/FtWorth.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/FtWorth.htm</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: roswell 1947 from flying disk to weather balloon  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rrviya/roswell_1947_from_flying_disk_to_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rrviya/roswell_1947_from_flying_disk_to_weather_balloon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: From Flying Disk to Weather Balloon - A Government-Record ReassessmentMarch 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rrviya/roswell_1947_from_flying_disk_to_weather_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rrviya/roswell_1947_from_flying_disk_to_weather_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: From Flying Disk to Weather Balloon - A Government-Record ReassessmentMarch 12, 2026...</p></details>
    Published: March 12, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Bizarre Details About Roswell That Still Don't Make Sense  
-   Link: <a href="https://www.youtube.com/watch?v=-HoQFNIwm5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-HoQFNIwm5c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-HoQFNIwm5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-HoQFNIwm5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
    Published: July 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: What Really Happened In The Roswell UFO Sighting?  
-   Link: <a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yPxTfkIc7BY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yPxTfkIc7BY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Roswell UFO Crash (Overview)  
-   Link: <a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Details About Roswell That Still Don&#x27;t Make Sense...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ramey-memo.com  
    Title: www.ramey-memo.com News and Truths – Unlocking The Mystery  
-   Link: <a href="https://www.ramey-memo.com/news-and-truths/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/news-and-truths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Truths – UnlockingTheMystery...</p></details>
+   Link:<a href="https://www.ramey-memo.com/news-and-truths/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/news-and-truths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Truths – UnlockingTheMystery...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TV0Xm9ZgiKQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TV0Xm9ZgiKQ</a>  
    Published: July 1947  

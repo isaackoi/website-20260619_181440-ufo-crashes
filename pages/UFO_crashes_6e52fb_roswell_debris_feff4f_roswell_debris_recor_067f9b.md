@@ -280,17 +280,17 @@ image: /assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_re
 
 ## Introduction
 
-The earliest Roswell [evidence]({{ 'evidence/' | relative_url }}) is far less dramatic than later UFO-crash narratives. In 1947, the case began with a field of scattered debris found on ranch land near Corona, New Mexico. Contemporary descriptions consistently refer to lightweight fragments spread across the ground rather than an intact vehicle, a crater, machinery, or recovered occupants. The significance of these descriptions is that they provide the closest evidence to the original event itself. Long before stories of alien [bodies]({{ 'bodies/' | relative_url }}) and crashed spacecraft emerged decades later, the Roswell record was centred on a collection of unusual but mundane-looking materials: foil, rubber, paper-backed components, tape, and thin sticks. The question is not whether debris existed—it clearly did—but what those materials actually indicate. Contemporary accounts point toward balloon-related equipment and radar-reflector components far more strongly than they support the recovery of a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+The earliest Roswell [evidence]({{ 'evidence/' | relative_url }}) is far less dramatic than later UFO-crash narratives. In 1947, the case began with a field of scattered debris found on ranch land near Corona, New Mexico. Contemporary descriptions consistently refer to lightweight fragments spread across the ground rather than an intact vehicle, a crater, machinery, or recovered occupants. The significance of these descriptions is that they provide the closest evidence to the original event itself. Long before stories of alien [bodies]({{ 'bodies/' | relative_url }}) and crashed spacecraft emerged decades later, the Roswell record was centred on a collection of unusual but mundane-looking materials: foil, rubber, paper-backed components, tape, and thin sticks. The question is not whether debris existed—it clearly did—but what those materials actually indicate. Contemporary accounts point toward balloon-related equipment and radar-reflector components far more strongly than they support the recovery of a structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-1-dark.svg" | relative_url }}" alt="Debris Record illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mac Brazel's Ranch Discovery Near Corona
 
-The first known witness to the debris field was rancher W. W. “Mac” Brazel. According to contemporary reports, Brazel discovered a large area littered with lightweight fragments on his sheep ranch northwest of Roswell. The material was not described as a complete object. Instead, it appeared as scattered pieces spread across the landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+The first known witness to the debris field was rancher W. W. “Mac” Brazel. According to contemporary reports, Brazel discovered a large area littered with lightweight fragments on his sheep ranch northwest of Roswell. The material was not described as a complete object. Instead, it appeared as scattered pieces spread across the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
-This distinction matters because many later retellings of Roswell focus on a crashed saucer. The earliest accounts do not. The initial problem facing Brazel was simply identifying unfamiliar debris. When he eventually brought samples to local authorities, military personnel collected additional material from the site. The known descriptions emphasise recoverable fragments rather than a vehicle-shaped wreck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+This distinction matters because many later retellings of Roswell focus on a crashed saucer. The earliest accounts do not. The initial problem facing Brazel was simply identifying unfamiliar debris. When he eventually brought samples to local authorities, military personnel collected additional material from the site. The known descriptions emphasise recoverable fragments rather than a vehicle-shaped wreck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
-Even supporters of competing interpretations generally agree on this basic point: there was a debris field. The debate concerns what produced it, not whether a field of debris existed. The original reports therefore provide a useful baseline because they predate decades of later storytelling and speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+Even supporters of competing interpretations generally agree on this basic point: there was a debris field. The debate concerns what produced it, not whether a field of debris existed. The original reports therefore provide a useful baseline because they predate decades of later storytelling and speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mDLFSGV0N2s" title="Roswell New Mexico👽🛸1947 #shorts #subscribe #history #military" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mDLFSGV0N2s" target="_blank" rel="noopener noreferrer">Roswell New Mexico👽🛸1947 #shorts #subscribe #history #military</a></p><p class="youtube-embed-meta">Channel: Spartan Gladiator Gaming</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mDLFSGV0N2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mDLFSGV0N2s">Open on YouTube</a></p></div></div></div>
@@ -308,15 +308,15 @@ Reports from 1947 and later summaries based on those [records]({{ 'records/' | r
 * Rubber fragments.
 * Lightweight sticks or wooden members.
 * Paper-like material.
-* Tape connecting components together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+* Tape connecting components together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
 </div>
 
-The specific combination is important. None of these items resembles the structural components one would normally expect from a conventional [aircraft]({{ 'aircraft/' | relative_url }}), such as engines, fuel systems, wiring bundles, instrument panels, heavy metal framing, or landing gear. At the same time, the combination closely resembles the construction of radar-reflector targets used with balloon systems during the period. Such [reflectors]({{ 'reflectors/' | relative_url }}) often consisted of foil-backed surfaces attached to lightweight frames made from thin wooden sticks or balsa members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The specific combination is important. None of these items resembles the structural components one would normally expect from a conventional [aircraft]({{ 'aircraft/' | relative_url }}), such as engines, fuel systems, wiring bundles, instrument panels, heavy metal framing, or landing gear. At the same time, the combination closely resembles the construction of radar-reflector targets used with balloon systems during the period. Such [reflectors]({{ 'reflectors/' | relative_url }}) often consisted of foil-backed surfaces attached to lightweight frames made from thin wooden sticks or balsa members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-One of the most influential contemporary assessments came from military weather personnel who examined the recovered material shortly after its arrival in Fort Worth. Their identification focused on balloon and radar-target components rather than exotic technology. Later investigations connected these characteristics to Project Mogul, a classified balloon programme that used unusual balloon arrays and radar reflectors. The reflectors could appear unfamiliar to someone encountering them in a remote ranch environment, particularly because their lightweight foil-and-stick construction looked unlike ordinary aircraft [wreckage]({{ 'wreckage/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+One of the most influential contemporary assessments came from military weather personnel who examined the recovered material shortly after its arrival in Fort Worth. Their identification focused on balloon and radar-target components rather than exotic technology. Later investigations connected these characteristics to Project Mogul, a classified balloon programme that used unusual balloon arrays and radar reflectors. The reflectors could appear unfamiliar to someone encountering them in a remote ranch environment, particularly because their lightweight foil-and-stick construction looked unlike ordinary aircraft [wreckage]({{ 'wreckage/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The material's physical character is therefore one of the strongest pieces of evidence available. The debris was lightweight, flexible, and fragmentary. It was not reported as heavy machinery or advanced structural material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+The material's physical character is therefore one of the strongest pieces of evidence available. The debris was lightweight, flexible, and fragmentary. It was not reported as heavy machinery or advanced structural material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TV0Xm9ZgiKQ" title="8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer">8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 3.1K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ The material's physical character is therefore one of the strongest pieces of ev
 
 A common misunderstanding is that a mundane explanation requires the debris to have looked ordinary. In fact, some balloon-related equipment used in classified research programmes could appear highly unusual.
 
-Project Mogul arrays employed multiple [balloons]({{ 'balloons/' | relative_url }}) and radar-tracking devices. Contemporary and later descriptions note geometric foil structures supported by lightweight sticks. To someone unfamiliar with their purpose, the combination could easily appear mysterious, especially when discovered in pieces across a large area after a breakup event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+Project Mogul arrays employed multiple [balloons]({{ 'balloons/' | relative_url }}) and radar-tracking devices. Contemporary and later descriptions note geometric foil structures supported by lightweight sticks. To someone unfamiliar with their purpose, the combination could easily appear mysterious, especially when discovered in pieces across a large area after a breakup event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 This helps explain why witnesses could regard the debris as unusual while still describing materials that fit known balloon-related hardware. Unusual appearance and extraterrestrial origin are not the same claim.
 
@@ -348,214 +348,214 @@ The earliest documented descriptions do not mention:
 * Seats or cabin structures.
 * Alien bodies or occupants.
 * Advanced alloys beyond recognition.
-* Large sections of manufactured aerospace hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+* Large sections of manufactured aerospace hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 </div>
 
-The absence of these features is significant because the earliest evidence usually carries greater historical weight than recollections recorded decades later. If investigators focus strictly on the debris descriptions available closest to July 1947, they find a collection of lightweight fragments rather than evidence of a recovered spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The absence of these features is significant because the earliest evidence usually carries greater historical weight than recollections recorded decades later. If investigators focus strictly on the debris descriptions available closest to July 1947, they find a collection of lightweight fragments rather than evidence of a recovered spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-This does not resolve every dispute surrounding Roswell. Questions remain about [military secrecy]({{ 'secrecy/' | relative_url }}), the initial “flying disc” announcement, and the later growth of the story. However, the debris record itself is comparatively narrow. It documents a field of scattered material composed of foil, rubber, paper-like components, tape, and sticks. Those descriptions align with balloon and radar-target equipment far more directly than they support claims of a crashed alien vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+This does not resolve every dispute surrounding Roswell. Questions remain about [military secrecy]({{ 'secrecy/' | relative_url }}), the initial “flying disc” announcement, and the later growth of the story. However, the debris record itself is comparatively narrow. It documents a field of scattered material composed of foil, rubber, paper-like components, tape, and sticks. Those descriptions align with balloon and radar-target equipment far more directly than they support claims of a crashed alien vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-2-dark.svg" | relative_url }}" alt="Debris Record illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Debris Record Actually Shows
 
-When the Roswell case is reduced to its earliest physical evidence, a clear picture emerges. The 1947 witnesses and records describe a debris field containing lightweight manufactured materials spread across ranch land. The materials were unusual enough to attract attention but were not described as parts of an intact machine. Contemporary inventories repeatedly point to foil, rubber, paper-backed elements, tape, and sticks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
+When the Roswell case is reduced to its earliest physical evidence, a clear picture emerges. The 1947 witnesses and records describe a debris field containing lightweight manufactured materials spread across ranch land. The materials were unusual enough to attract attention but were not described as parts of an intact machine. Contemporary inventories repeatedly point to foil, rubber, paper-backed elements, tape, and sticks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIARoswell</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs &#124; HISTORYNovember 9, 2009...</span><span class="citation-popover-meta">Published: November 9, 2009</span></span></span>
 
-As a result, the strongest conclusion supported by the original debris descriptions is limited but important: Roswell began as a recovery of scattered debris, not as a documented recovery of a spacecraft or alien occupants. Whatever broader interpretations followed, the earliest physical record points toward lightweight balloon-related hardware and away from the image of a crashed extraterrestrial craft that later came to dominate popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+As a result, the strongest conclusion supported by the original debris descriptions is limited but important: Roswell began as a recovery of scattered debris, not as a documented recovery of a spacecraft or alien occupants. Whatever broader interpretations followed, the earliest physical record points toward lightweight balloon-related hardware and away from the image of a crashed extraterrestrial craft that later came to dominate popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-3-dark.svg" | relative_url }}" alt="Debris Record illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_roswell_debris_feff4f_roswell_debris_recor_067f9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Roswell Debris Actually Look Like?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Roswell Debris Actually Look Like?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Collects testimony concerning the recovered debris.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collects testimony concerning the recovered debris.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating physical evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating physical evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Analyzes debris descriptions in detail and compares them with Mogul materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes debris descriptions in detail and compares them with Mogul materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Centers on the debris discovery that launched the Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on the debris discovery that launched the Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell WB POSTER Katherine Heigl JASON BEHR Rare Series Launch! SHIRI APPLEBY"><img src="{{ '/assets/images/marketplace-covers/eceb2909074cb9959f2a.jpg' | relative_url }}" alt="Listing image for Roswell WB POSTER Katherine Heigl JASON BEHR Rare Series Launch! SHIRI APPLEBY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell WB POSTER Katherine Heigl JASON BEHR Rare Series Launch! SHIRI APPLEBY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 Alien Sign Or Decals parking space aliens roswell spacemen ET UFO funny"><img src="https://i.ebayimg.com/images/g/tCwAAeSwERxoNcNQ/s-l225.jpg" alt="Listing image for AREA 51 Alien Sign Or Decals parking space aliens roswell spacemen ET UFO funny" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">AREA 51 Alien Sign Or Decals parking space aliens roswell spacemen ET UFO funny</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Warning Sign - UFO Sighting - Roswell - Area 51 - Sci Fi Gift"><img src="https://i.ebayimg.com/images/g/KxEAAOSwz~Ji2dfS/s-l225.jpg" alt="Listing image for Alien Abduction Warning Sign - UFO Sighting - Roswell - Area 51 - Sci Fi Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Warning Sign - UFO Sighting - Roswell - Area 51 - Sci Fi Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2"><img src="{{ '/assets/images/marketplace-covers/71825c2c001b281d72e5.jpg' | relative_url }}" alt="Listing image for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TAKE ME TO YOUR LEADER-- Metal 10 X 15 UFO Alien Roswell E.T. Area 51 Glow Sign"><img src="https://i.ebayimg.com/images/g/j9kAAOSwRU5gtHsT/s-l225.jpg" alt="Listing image for TAKE ME TO YOUR LEADER-- Metal 10 X 15 UFO Alien Roswell E.T. Area 51 Glow Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">TAKE ME TO YOUR LEADER-- Metal 10 X 15 UFO Alien Roswell E.T. Area 51 Glow Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6c2923dde6b1d981ca1a.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="debris-record-what-did-the-roswell-debris-actually-look-like-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR"><img src="https://i.ebayimg.com/images/g/0KkAAOSwHgVW7PUJ/s-l225.jpg" alt="Listing image for UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO CRASH SITE ROSWELL 8&quot;x12&quot; VIVID METAL SIGN MAN CAVE BAR GARAGE ALIEN HUMOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="what-did-the-roswell-debris-actually-look-like-roswell-ufo-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ As a result, the strongest conclusion supported by the original debris descripti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ As a result, the strongest conclusion supported by the original debris descripti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ As a result, the strongest conclusion supported by the original debris descripti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ As a result, the strongest conclusion supported by the original debris descripti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ As a result, the strongest conclusion supported by the original debris descripti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,67 +761,67 @@ As a result, the strongest conclusion supported by the original debris descripti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: CHANNEL ITALIARoswell  
-   Link: <a href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs | HISTORYNovember 9, 2009...</p></details>
+   Link:<a href="https://www.history.com/topics/folklore/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOs | HISTORYNovember 9, 2009...</p></details>
    Published: November 9, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: roswell history  
-   Link: <a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</p></details>
+   Link:<a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel encontró restos extraños en su rancho cerca de Roswell, N.M. Tras contactar al Sheriff George Wilcox, quien a su vez llamó la base...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=mDLFSGV0N2s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mDLFSGV0N2s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell debris description 1947 balloon radar reflector The Roswell Incident 1947 Fact Or Fiction Popular UFO Stories In 5 Minutes...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mDLFSGV0N2s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mDLFSGV0N2s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell debris description 1947 balloon radar reflector The Roswell Incident 1947 Fact Or Fiction Popular UFO Stories In 5 Minutes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TV0Xm9ZgiKQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident 1947 Fact Or Fiction...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TV0Xm9ZgiKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident 1947 Fact Or Fiction...</p></details>
    Published: July 1947  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: www.reddit.com Document showing Roswell incident is real  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dwwkbc" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dwwkbc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>showing Roswell incident is realJuly 6, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dwwkbc" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dwwkbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>showing Roswell incident is realJuly 6, 2024...</p></details>
    Published: July 6, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: 🛸 Roswell: The 24-Hour Lie That Built a $100 Million Alien Empire  
-   Link: <a href="http://www.youtube.com/watch?v=4tAL1AYqvSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4tAL1AYqvSI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solve the Mystery of The Roswell Incident...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=4tAL1AYqvSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4tAL1AYqvSI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solve the Mystery of The Roswell Incident...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=NyQBDS04hk0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NyQBDS04hk0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 Roswell: The 24-Hour Lie That Built a $100 Million Alien Empire...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=NyQBDS04hk0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NyQBDS04hk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 Roswell: The 24-Hour Lie That Built a $100 Million Alien Empire...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Solve the Mystery of The Roswell Incident  
-   Link: <a href="http://www.youtube.com/watch?v=HZ5_welj6tg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HZ5_welj6tg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell New Mexico👽🛸1947 #shorts #subscribe #history #military...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HZ5_welj6tg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HZ5_welj6tg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell New Mexico👽🛸1947 #shorts #subscribe #history #military...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
    Title: www.nicap.org Mack Brazel Reconsidered  
-   Link: <a href="https://www.nicap.org/rosbraz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rosbraz.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel Reconsidered...</p></details>
+   Link:<a href="https://www.nicap.org/rosbraz.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rosbraz.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel Reconsidered...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_cont
 
 ## Introduction
 
-When a purported UFO crash leaves behind fragments, dust, slag, fibres, or unusual metallic pieces, the first question is not whether the material looks exotic. It is whether the material still represents what was originally found. Contamination control matters because tiny amounts of ordinary [terrestrial material]({{ 'terrestrial-metal/' | relative_url }}) can alter laboratory results, create misleading chemical signatures, and make mundane objects appear extraordinary. In crash-retrieval investigations, a sample that has passed through many hands, been stored in uncontrolled conditions, or been analysed without proper comparison materials may reveal more about its handling history than its true origin. For that reason, contamination control is a core [physical-evidence]({{ 'evidence/' | relative_url }}) standard rather than a procedural detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
+When a purported UFO crash leaves behind fragments, dust, slag, fibres, or unusual metallic pieces, the first question is not whether the material looks exotic. It is whether the material still represents what was originally found. Contamination control matters because tiny amounts of ordinary [terrestrial material]({{ 'terrestrial-metal/' | relative_url }}) can alter laboratory results, create misleading chemical signatures, and make mundane objects appear extraordinary. In crash-retrieval investigations, a sample that has passed through many hands, been stored in uncontrolled conditions, or been analysed without proper comparison materials may reveal more about its handling history than its true origin. For that reason, contamination control is a core [physical-evidence]({{ 'evidence/' | relative_url }}) standard rather than a procedural detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-1-dark.svg" | relative_url }}" alt="Contamination illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Claims of unusual alloys, unexpected isotopic ratios, organic residues, or micro
 
 ## Could an ordinary contaminant look extraordinary?
 
-Yes. Many laboratory techniques are sensitive enough to detect traces measured in parts per million, parts per billion, or even lower concentrations. At those levels, fingerprints, airborne dust, packaging materials, industrial residues, cleaning products, or particles from nearby equipment can become part of the analytical result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</span></span></span>
+Yes. Many laboratory techniques are sensitive enough to detect traces measured in parts per million, parts per billion, or even lower concentrations. At those levels, fingerprints, airborne dust, packaging materials, industrial residues, cleaning products, or particles from nearby equipment can become part of the analytical result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</span></span></span>
 
 In alleged UFO debris cases, contamination can create several kinds of false leads:
 
@@ -292,7 +292,7 @@ In alleged UFO debris cases, contamination can create several kinds of false lea
 * **Unexpected elements** may come from storage containers, tools, adhesives, or environmental exposure rather than the original object.
 * **Organic compounds** can originate from human handling, packaging materials, fuels, lubricants, or laboratory environments.
 * **Unusual isotopic measurements** may reflect mixing between the sample and terrestrial contaminants rather than a genuinely anomalous source.
-* **Microscopic structures** can be introduced by manufacturing processes, corrosion, biological growth, or environmental weathering after recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ADS Abstractive Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spatially-resolved uranium isotopic analysis of contaminated...by M Krachler · 2020 · Cited by 17 — LA-MC-ICP-MS is a fast and quasi...</span></span></span>
+* **Microscopic structures** can be introduced by manufacturing processes, corrosion, biological growth, or environmental weathering after recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spatially-resolved uranium isotopic analysis of contaminated...by M Krachler · 2020 · Cited by 17 — LA-MC-ICP-MS is a fast and quasi...</span></span></span>
 
 </div>
 
@@ -300,15 +300,15 @@ This does not mean every unusual result is contamination. It means contamination
 
 ## How handling can change a sample
 
-A fragment collected at an alleged crash site begins changing the moment it is touched. Skin oils, sweat, fibres from clothing, dust from vehicles, and particles from collection tools can all become attached to the surface. Exposure to moisture, sunlight, temperature changes, and atmospheric oxygen may alter the material further. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Video #1</span><span class="citation-popover-snippet">Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</span></span></span>
+A fragment collected at an alleged crash site begins changing the moment it is touched. Skin oils, sweat, fibres from clothing, dust from vehicles, and particles from collection tools can all become attached to the surface. Exposure to moisture, sunlight, temperature changes, and atmospheric oxygen may alter the material further.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Video #1</span><span class="citation-popover-snippet">Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</span></span></span>
 
-For this reason, forensic evidence standards emphasise controlled collection, documentation, packaging, and preservation. Evidence handlers are expected to minimise contamination risks, package items appropriately, separate known and questioned materials, and document every transfer of custody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
+For this reason, forensic evidence standards emphasise controlled collection, documentation, packaging, and preservation. Evidence handlers are expected to minimise contamination risks, package items appropriately, separate known and questioned materials, and document every transfer of custody.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
 
 In UFO-related investigations, common warning signs include:
 
 * Samples stored for years in homes, garages, workshops, or display cases.
 * Unrecorded transfers between collectors.
-* Repeated handling without gloves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: puregoldforensics.com">[puregoldforensics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">puregoldforensics.com</span><span class="citation-popover-snippet">Evidence Handling GuidelinesIn order to avoid contamination of DNA evidence, Pure Gold Forensics recommends the following: Always wear la...</span></span></span>
+* Repeated handling without gloves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: puregoldforensics.com">[puregoldforensics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">puregoldforensics.com</span><span class="citation-popover-snippet">Evidence Handling GuidelinesIn order to avoid contamination of DNA evidence, Pure Gold Forensics recommends the following: Always wear la...</span></span></span>
 * Mixing alleged debris with unrelated specimens.
 * [Missing records]({{ 'missing-records/' | relative_url }}) of where and when an item was found.
 
@@ -334,7 +334,7 @@ At a purported crash site, useful controls may include:
 
 </div>
 
-If a supposedly anomalous element or compound appears both in the alleged debris and in surrounding environmental controls, the anomaly may be less impressive than it first appeared. Conversely, a genuine difference becomes more persuasive when local contamination sources have already been measured and excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Video #1</span><span class="citation-popover-snippet">Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</span></span></span>
+If a supposedly anomalous element or compound appears both in the alleged debris and in surrounding environmental controls, the anomaly may be less impressive than it first appeared. Conversely, a genuine difference becomes more persuasive when local contamination sources have already been measured and excluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">Video #1</span><span class="citation-popover-snippet">Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</span></span></span>
 
 Control materials also help laboratories identify contamination introduced after collection. Without them, distinguishing between an unusual feature and a contaminated feature becomes much harder.
 
@@ -342,9 +342,9 @@ Control materials also help laboratories identify contamination introduced after
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-2-dark.svg" | relative_url }}" alt="Contamination illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness materials and contamination tracking
 
-Modern extraterrestrial sample-return missions provide an instructive model. Scientists who collect asteroid material do not simply attempt to keep samples clean. They also document what contamination is present and preserve reference materials that record potential contamination sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 27 — Like curation plan...</span></span></span>
+Modern extraterrestrial sample-return missions provide an instructive model. Scientists who collect asteroid material do not simply attempt to keep samples clean. They also document what contamination is present and preserve reference materials that record potential contamination sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Materials Archive and Witnesses.Read more</span><span class="citation-popover-snippet">Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 27 — Like curation plan...</span></span></span>
 
-In the OSIRIS-REx asteroid-sample programme, contamination control planning began years before the sample reached Earth. The mission maintained contamination limits, archived materials used during construction, and deployed "witness" materials exposed to the same environments as the sample. These witness materials acted as contamination [records]({{ 'records/' | relative_url }}), allowing researchers to identify background contaminants later during analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span><span class="citation-popover-snippet">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span></span></span>
+In the OSIRIS-REx asteroid-sample programme, contamination control planning began years before the sample reached Earth. The mission maintained contamination limits, archived materials used during construction, and deployed "witness" materials exposed to the same environments as the sample. These witness materials acted as contamination [records]({{ 'records/' | relative_url }}), allowing researchers to identify background contaminants later during analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span><span class="citation-popover-snippet">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span></span></span>
 
 Applied to alleged UFO debris, the same principle suggests that investigators should preserve:
 
@@ -353,7 +353,7 @@ Applied to alleged UFO debris, the same principle suggests that investigators sh
 
 * Packaging materials.
 * Collection tools.
-* Gloves used during recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/missions/osiris-rex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">OSIRIS-RExDuring sample recovery operations at the Utah Test and Training Range, a portable clean room will be established for the init...</span></span></span>
+* Gloves used during recovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/missions/osiris-rex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">OSIRIS-RExDuring sample recovery operations at the Utah Test and Training Range, a portable clean room will be established for the init...</span></span></span>
 * Environmental samples from the recovery location.
 * Comparison materials from nearby industrial or natural sources.
 
@@ -366,7 +366,7 @@ Such records make it easier to determine whether a surprising laboratory result 
 
 ## Lessons from space-sample curation
 
-Space agencies spend enormous effort preventing contamination because they know that future discoveries may depend on tiny chemical signals. The recovery of asteroid samples from Bennu involved portable clean rooms, controlled transport, specialised handling procedures, contamination monitoring, and detailed curation protocols. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[Wiley Online Library+3NASA+3ARES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">s first asteroid sample has landed now secure in clean room</span><span class="citation-popover-snippet">NASA&#x27;s First Asteroid Sample Has Landed, Now Secure in...24 Sept 2023 — Within an hour and a half, the capsule was transported by he...</span></span></span>
+Space agencies spend enormous effort preventing contamination because they know that future discoveries may depend on tiny chemical signals. The recovery of asteroid samples from Bennu involved portable clean rooms, controlled transport, specialised handling procedures, contamination monitoring, and detailed curation protocols.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">s first asteroid sample has landed now secure in clean room</span><span class="citation-popover-snippet">NASA&#x27;s First Asteroid Sample Has Landed, Now Secure in...24 Sept 2023 — Within an hour and a half, the capsule was transported by he...</span></span></span>
 
 The key lesson is not that alleged UFO debris should be treated exactly like asteroid samples. Rather, it is that extraordinary material claims require extraordinary contamination knowledge.
 
@@ -383,7 +383,7 @@ Scientists working with extraterrestrial samples often ask:
 
 </div>
 
-These questions are valuable because they transform contamination from an unknown variable into a documented one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span><span class="citation-popover-snippet">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span></span></span>
+These questions are valuable because they transform contamination from an unknown variable into a documented one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span><span class="citation-popover-snippet">arXiv OSIRIS-REx Contamination Control Strategy and Implementation</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-3-dark.svg" | relative_url }}" alt="Contamination illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_physical_evidence_st_c7139f_sample_contamination_7ef400-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -401,205 +401,205 @@ A laboratory report showing an unusual elemental composition is only part of the
 * What it contacted during storage.
 * Whether environmental controls were collected.
 * Whether independent laboratories reproduced the findings.
-* Whether contamination sources were documented and tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
+* Whether contamination sources were documented and tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">This. 170 documentation shall include the...Read more...</span></span></span>
 
 </div>
 
-Without those safeguards, extraordinary claims remain vulnerable to ordinary explanations. In crash-retrieval investigations, contamination control is therefore not a secondary procedural concern. It is one of the main factors determining whether a purported UFO sample can be evaluated as physical evidence at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</span></span></span>
+Without those safeguards, extraordinary claims remain vulnerable to ordinary explanations. In crash-retrieval investigations, contamination control is therefore not a secondary procedural concern. It is one of the main factors determining whether a purported UFO sample can be evaluated as physical evidence at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbAtCzZIIsk" title="How To Scientifically Test &amp; Analyze Potential UAP/UFO Material" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer">How To Scientifically Test &amp; Analyze Potential UAP/UFO Material</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbAtCzZIIsk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the sample have been contaminated?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the sample have been contaminated?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1iBkEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forensic Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Chemistry">Forensic Chemistry</a>
-        </h4>
-        <p class="fr-book-author">By Suzanne Bell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Chemistry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1iBkEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forensic Chemistry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Chemistry">Forensic Chemistry</a>
+</h4>
+<p class="fr-book-author">By Suzanne Bell</p>
         
-        <p class="fr-book-desc">Explains contamination risks and analytical interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains contamination risks and analytical interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Chemistry+by+Suzanne+Bell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Analysis on the Cutting Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wt5qQslgpV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forensic Analysis on the Cutting Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Analysis on the Cutting Edge">Forensic Analysis on the Cutting Edge</a>
-        </h4>
-        <p class="fr-book-author">By Robert D. Blackledge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Analysis on the Cutting Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wt5qQslgpV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Forensic Analysis on the Cutting Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Analysis on the Cutting Edge">Forensic Analysis on the Cutting Edge</a>
+</h4>
+<p class="fr-book-author">By Robert D. Blackledge</p>
         
-        <p class="fr-book-desc">Covers modern laboratory methods and contamination concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern laboratory methods and contamination concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge+by+Robert+D.+Blackledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Promotes scientific standards when evaluating unusual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes scientific standards when evaluating unusual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Includes discussion of space science, sample handling, and contamination issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of space science, sample handling, and contamination issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Chemistry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Analysis on the Cutting Edge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Chemistry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Chemistry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Analysis+on+the+Cutting+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Analysis on the Cutting Edge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xemu Xeno Preserved Alien Grey UFO Display Jar Lamp, Aera 51 2001 Spencer&#x27;s"><img src="https://i.ebayimg.com/images/g/nbgAAeSwwfFqLJ9Z/s-l225.jpg" alt="Listing image for Xemu Xeno Preserved Alien Grey UFO Display Jar Lamp, Aera 51 2001 Spencer&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Xemu Xeno Preserved Alien Grey UFO Display Jar Lamp, Aera 51 2001 Spencer&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for E.T Extra-Terrestrial Alien UFO Action Figure Display Model Toy 30cm Halloween"><img src="https://i.ebayimg.com/images/g/pecAAeSwdjNpA3zE/s-l225.jpg" alt="Listing image for E.T Extra-Terrestrial Alien UFO Action Figure Display Model Toy 30cm Halloween" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">E.T Extra-Terrestrial Alien UFO Action Figure Display Model Toy 30cm Halloween</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift"><img src="https://i.ebayimg.com/images/g/zOQAAeSwW5RpqV92/s-l225.jpg" alt="Listing image for Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – Metallic Bronze UFO Lore Figure | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="contamination-cb0f8f-could-the-sample-have-been-contaminated-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Mysterious Museum Mini Figure Adamski UFO Vol 3 Display Model"><img src="https://i.ebayimg.com/images/g/DdwAAeSwEEtpi9UN/s-l225.jpg" alt="Listing image for The Great Mysterious Museum Mini Figure Adamski UFO Vol 3 Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">The Great Mysterious Museum Mini Figure Adamski UFO Vol 3 Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="could-the-sample-have-been-contaminated-ufo-display-model-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,177 +805,177 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This. 170 documentation shall include the...Read more...</p></details>
+   Link:<a href="https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/2021-n-0018standard-scene-collection-and-preservation-physical-evidencedraft-osac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This. 170 documentation shall include the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</p></details>
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence ManagementAt every stage, handlers of evidence must ensure that it has not been compromised, contaminated, or degraded and t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe [Chain of Custody](&#123;&#123; 'custody/' | relative_url &#125;&#125;) in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 67 — The purpose of this work is to renew the interest...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 67 — The purpose of this work is to renew the interest...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20240000196" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20240000196</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Server2023 Cleanroom Monitoring for OSIRIS-RExby RC Funk · 2024 — Overall, the OSIRIS-REx lab at JSC and cleanroom...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20240000196" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20240000196</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Server2023 Cleanroom Monitoring for OSIRIS-RExby RC Funk · 2024 — Overall, the OSIRIS-REx lab at JSC and cleanroom...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv OSIRIS-REx Contamination Control Strategy and Implementation  
-   Link: <a href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02517</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02517</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatially-resolved uranium isotopic analysis of contaminated...by M Krachler · 2020 · Cited by 17 — LA-MC-ICP-MS is a fast and quasi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9053028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatially-resolved uranium isotopic analysis of contaminated...by M Krachler · 2020 · Cited by 17 — LA-MC-ICP-MS is a fast and quasi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nist.gov  
    Title: Video #1  
-   Link: <a href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</p></details>
+   Link:<a href="https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/video/video-1-trace-evidence-collection-container-types-when-use-them-and-properly-sealing-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video #1 - Trace Evidence Collection: Container types, when...When choosing a container make sure it is appropriately sized for the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
    Title: new guide details steps z preserving biological evidence  
-   Link: <a href="https://www.nist.gov/news-events/news/2013/04/new-guide-details-steps-z-preserving-biological-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/news-events/news/2013/04/new-guide-details-steps-z-preserving-biological-evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Guide Details Steps from A-to-Z for Preserving...30 Apr 2013 — Packaging and storing—outlining the conditions for storage and how to...</p></details>
+   Link:<a href="https://www.nist.gov/news-events/news/2013/04/new-guide-details-steps-z-preserving-biological-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/news-events/news/2013/04/new-guide-details-steps-z-preserving-biological-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Guide Details Steps from A-to-Z for Preserving...30 Apr 2013 — Packaging and storing—outlining the conditions for storage and how to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/system/files/documents/forensics/Crime-Scene-Investigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/Crime-Scene-Investigation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crime Scene InvestigationThis updated Crime Scene Investigation: A Guide to Law. Enforcement is a revision of the original publication pu...</p></details>
+   Link:<a href="https://www.nist.gov/system/files/documents/forensics/Crime-Scene-Investigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/forensics/Crime-Scene-Investigation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crime Scene InvestigationThis updated Crime Scene Investigation: A Guide to Law. Enforcement is a revision of the original publication pu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onlinelibrary.wiley.com  
    Title: Materials Archive and Witnesses.Read more  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 27 — Like curation plan...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/maps.13973</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...by K Righter · 2023 · Cited by 27 — Like curation plan...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: s first asteroid sample has landed now secure in clean room  
-   Link: <a href="https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s First Asteroid Sample Has Landed, Now Secure in...24 Sept 2023 — Within an hour and a half, the capsule was transported by he...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s First Asteroid Sample Has Landed, Now Secure in...24 Sept 2023 — Within an hour and a half, the capsule was transported by he...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/missions/osiris-rex/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/missions/osiris-rex/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-RExDuring sample recovery operations at the Utah Test and Training Range, a portable clean room will be established for the init...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/missions/osiris-rex/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/missions/osiris-rex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-RExDuring sample recovery operations at the Utah Test and Training Range, a portable clean room will be established for the init...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13973</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...8 Apr 2023 — The samples will be processed at the NASA...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.13973" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.13973</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCuration planning and facilities for asteroid Bennu samples...8 Apr 2023 — The samples will be processed at the NASA...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
+   Link:<a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eservation and Retention of Biological Evidence.Read more...</p></details>
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management/biological-evidence-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eservation and Retention of Biological Evidence.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20140000766" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000766</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Osiris-REx Asteroid Samplesby K Righter · 2013 · Cited by 3 — The mission curation plan is being developed and an overview will be giv...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20140000766" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140000766</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Osiris-REx Asteroid Samplesby K Righter · 2013 · Cited by 3 — The mission curation plan is being developed and an overview will be giv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20220015254" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20220015254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring of the OSIRIS-REx ISO5 asteroid...by K Righter · 2022 — Samples will be transported to the curation facility at NASA Johnson...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20220015254" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20220015254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring of the OSIRIS-REx ISO5 asteroid...by K Righter · 2022 — Samples will be transported to the curation facility at NASA Johnson...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20240004308" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20240004308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleanroom for NASA OSIRIS-REx Mission...by J McQuillan · 2024 — The new portable cleanroom was designed to receive the OREx sample retur...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20240004308" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20240004308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleanroom for NASA OSIRIS-REx Mission...by J McQuillan · 2024 — The new portable cleanroom was designed to receive the OREx sample retur...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.70066" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.70066</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>curation for Bennu samples returned by the NASA&#x27;s...Oct 23, 2025 — In this report, we describe the preparations for OSIRIS-REx curation...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/maps.70066" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/maps.70066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>curation for Bennu samples returned by the NASA&#x27;s...Oct 23, 2025 — In this report, we describe the preparations for OSIRIS-REx curation...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: adsabs.harvard.edu  
    Title: ADS Abstractive Services The Terrestrial Contamination of Meteorites  
-   Link: <a href="https://adsabs.harvard.edu/full/2001M%26PSA..36R.197S" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2001M%26PSA..36R.197S</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an Updateby A Steele · 2001 · Cited by 3 — We have developed a 4 technique approach for the detection and analysis of terrestrial microbi...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2001M%26PSA..36R.197S" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2001M%26PSA..36R.197S</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an Updateby A Steele · 2001 · Cited by 3 — We have developed a 4 technique approach for the detection and analysis of terrestrial microbi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JP Dworkin · 2017 · Cited by 80 — The cleanroom performance specified by the OCSSG was divided into three categories (Table 3...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6350808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JP Dworkin · 2017 · Cited by 80 — The cleanroom performance specified by the OCSSG was divided into three categories (Table 3...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/68cd52578c44a661b4995dcd/FSR-GUI-0017%2B-%2BGuidance%2BDNA%2Bcontamination%2Bcontrols%2B-%2Bforensic%2Bmedical%2Bexaminations%2BIssue%2B2__1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68cd52578c44a661b4995dcd/FSR-GUI-0017%2B-%2BGuidance%2BDNA%2Bcontamination%2Bcontrols%2B-%2Bforensic%2Bmedical%2Bexaminations%2BIssue%2B2__1_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medical examinations FSR-GUI-0017 Issue 211 Sept 2025 — The purpose of this document is to provide guidance for FHPs, crisis workers (CWs...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/68cd52578c44a661b4995dcd/FSR-GUI-0017%2B-%2BGuidance%2BDNA%2Bcontamination%2Bcontrols%2B-%2Bforensic%2Bmedical%2Bexaminations%2BIssue%2B2__1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68cd52578c44a661b4995dcd/FSR-GUI-0017%2B-%2BGuidance%2BDNA%2Bcontamination%2Bcontrols%2B-%2Bforensic%2Bmedical%2Bexaminations%2BIssue%2B2__1_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medical examinations FSR-GUI-0017 Issue 211 Sept 2025 — The purpose of this document is to provide guidance for FHPs, crisis workers (CWs...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: puregoldforensics.com  
-   Link: <a href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.puregoldforensics.com/evidence-handling-guidelines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Handling GuidelinesIn order to avoid contamination of DNA evidence, Pure Gold Forensics recommends the following: Always wear la...</p></details>
+   Link:<a href="https://www.puregoldforensics.com/evidence-handling-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.puregoldforensics.com/evidence-handling-guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Handling GuidelinesIn order to avoid contamination of DNA evidence, Pure Gold Forensics recommends the following: Always wear la...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lpi.usra.edu  
-   Link: <a href="https://www.lpi.usra.edu/captem/subcommittees/asteroid_return/" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/captem/subcommittees/asteroid_return/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Analysis Planning Team for Extraterrestrial...These technical assessments are provided for all aspects of curation, including sample...</p></details>
+   Link:<a href="https://www.lpi.usra.edu/captem/subcommittees/asteroid_return/" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/captem/subcommittees/asteroid_return/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Analysis Planning Team for Extraterrestrial...These technical assessments are provided for all aspects of curation, including sample...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/engineering/quality-control-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/engineering/quality-control-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quality control of evidence | Engineering | Research StartersA critical aspect of quality control is maintaining a clear chain of custody...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/engineering/quality-control-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/engineering/quality-control-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quality control of evidence | Engineering | Research StartersA critical aspect of quality control is maintaining a clear chain of custody...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cynomi.com  
-   Link: <a href="https://cynomi.com/nist/what-is-nist/" target="_blank" rel="noopener noreferrer nofollow">https://cynomi.com/nist/what-is-nist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is NIST? Defintion And Key ComponentsNIST sets industry standards for cybersecurity, ensuring organizations can identify, protect, d...</p></details>
+   Link:<a href="https://cynomi.com/nist/what-is-nist/" target="_blank" rel="noopener noreferrer nofollow">https://cynomi.com/nist/what-is-nist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is NIST? Defintion And Key ComponentsNIST sets industry standards for cybersecurity, ensuring organizations can identify, protect, d...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lpl.arizona.edu  
-   Link: <a href="https://lpl.arizona.edu/news/spotlight/6-months-go-until-historic-asteroid-sample-delivery" target="_blank" rel="noopener noreferrer nofollow">https://lpl.arizona.edu/news/spotlight/6-months-go-until-historic-asteroid-sample-delivery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arizona.edu6 Months to Go Until Historic Asteroid Sample Delivery&quot;Once the sample capsule touches down, our team will be racing against t...</p></details>
+   Link:<a href="https://lpl.arizona.edu/news/spotlight/6-months-go-until-historic-asteroid-sample-delivery" target="_blank" rel="noopener noreferrer nofollow">https://lpl.arizona.edu/news/spotlight/6-months-go-until-historic-asteroid-sample-delivery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arizona.edu6 Months to Go Until Historic Asteroid Sample Delivery&quot;Once the sample capsule touches down, our team will be racing against t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: komprise.com  
-   Link: <a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
+   Link:<a href="https://www.komprise.com/glossary_terms/chain-of-custody/" target="_blank" rel="noopener noreferrer nofollow">https://www.komprise.com/glossary_terms/chain-of-custody/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: knowledge.lancashire.ac.uk  
-   Link: <a href="https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lancashire.ac.ukAnti-contamination measures for trace DNA evidenceby SK Alketbi · 2023 · Cited by 33 — Maintaining a clear chain of custo...</p></details>
+   Link:<a href="https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/46224/1/Maintaining%20the%20Chain%20of%20Custody%20Anti-Contamination%20Measures%20for%20Trace%20DNA%20Evidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lancashire.ac.ukAnti-contamination measures for trace DNA evidenceby SK Alketbi · 2023 · Cited by 33 — Maintaining a clear chain of custo...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cleanroomtechnology.com  
    Title: nasa breakthrough in astromaterials curation cleanroom monitoring 210665  
-   Link: <a href="https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665" target="_blank" rel="noopener noreferrer nofollow">https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA breakthrough in astromaterials curation cleanroom...Aug 15, 2023 — NASA has achieved a breakthrough in its extraterrestrial sample...</p></details>
+   Link:<a href="https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665" target="_blank" rel="noopener noreferrer nofollow">https://cleanroomtechnology.com/nasa-breakthrough-in-astromaterials-curation-cleanroom-monitoring-210665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA breakthrough in astromaterials curation cleanroom...Aug 15, 2023 — NASA has achieved a breakthrough in its extraterrestrial sample...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: crime-scene-investigator.net  
    Title: sample handling considerations for biological evidence and DNA extracts  
-   Link: <a href="https://www.crime-scene-investigator.net/sample-handling-considerations-for-biological-evidence-and-DNA-extracts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crime-scene-investigator.net/sample-handling-considerations-for-biological-evidence-and-DNA-extracts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Handling Considerations for Biological Evidence...Feb 3, 2015 — This article will make recommendations for handling biological ev...</p></details>
+   Link:<a href="https://www.crime-scene-investigator.net/sample-handling-considerations-for-biological-evidence-and-DNA-extracts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crime-scene-investigator.net/sample-handling-considerations-for-biological-evidence-and-DNA-extracts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Handling Considerations for Biological Evidence...Feb 3, 2015 — This article will make recommendations for handling biological ev...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
    Title: 315882367 OSIRIS REx Contamination Control Strategy and Implementation  
-   Link: <a href="https://www.researchgate.net/publication/315882367_OSIRIS-REx_Contamination_Control_Strategy_and_Implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315882367_OSIRIS-REx_Contamination_Control_Strategy_and_Implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-REx Contamination Control Strategy and...21 Mar 2026 — To return a pristine sample, the OSIRIS-REx spacecraft sampling hardware w...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/315882367_OSIRIS-REx_Contamination_Control_Strategy_and_Implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315882367_OSIRIS-REx_Contamination_Control_Strategy_and_Implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSIRIS-REx Contamination Control Strategy and...21 Mar 2026 — To return a pristine sample, the OSIRIS-REx spacecraft sampling hardware w...</p></details>

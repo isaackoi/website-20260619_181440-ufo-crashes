@@ -278,7 +278,7 @@ Many UFO crash stories begin not with a spacecraft but with debris. A field scat
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-1-dark.svg" | relative_url }}" alt="Wreckage illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader debate over [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), this is one of the most important points of distinction. A crash claim gains credibility when [physical evidence]({{ 'evidence/' | relative_url }}) survives, yet physical evidence also creates opportunities for misinterpretation. Many famous crash legends have persisted because unusual debris was real, while the explanation for that debris remained hidden, classified or poorly understood for years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+Within the broader debate over [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), this is one of the most important points of distinction. A crash claim gains credibility when [physical evidence]({{ 'evidence/' | relative_url }}) survives, yet physical evidence also creates opportunities for misinterpretation. Many famous crash legends have persisted because unusual debris was real, while the explanation for that debris remained hidden, classified or poorly understood for years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 ## Lightweight Debris That Can Seem Unfamiliar
 
@@ -286,7 +286,7 @@ The public often expects [aircraft]({{ 'aircraft/' | relative_url }}) wreckage t
 
 High-altitude [balloons]({{ 'balloons/' | relative_url }}), radar targets, scientific instruments and surveillance platforms frequently incorporate lightweight composites, coated paper, specialised fabrics, thin metallic films and balsa-wood structures. To someone encountering them unexpectedly, such materials may not resemble familiar consumer products or aircraft components. The result can be a perception that the debris is exotic or technologically advanced.
 
-The Roswell incident remains the best-known example. Contemporary descriptions of the recovered material included foil-like surfaces, lightweight structural elements and radar-reflector components. Later investigations by the US Air Force linked the debris to the classified Project Mogul programme, which used balloon arrays and specialised equipment intended to detect evidence of Soviet nuclear testing. The unusual appearance of the materials was real; the extraterrestrial interpretation remains unsubstantiated. U.S. Department of War+2National Security Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+The Roswell incident remains the best-known example. Contemporary descriptions of the recovered material included foil-like surfaces, lightweight structural elements and radar-reflector components. Later investigations by the US Air Force linked the debris to the classified Project Mogul programme, which used balloon arrays and specialised equipment intended to detect evidence of Soviet nuclear testing. The unusual appearance of the materials was real; the extraterrestrial interpretation remains unsubstantiated. U.S. Department of War+2National Security Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 A recurring feature of crash legends is that witnesses remember properties such as:
 
@@ -301,7 +301,7 @@ A recurring feature of crash legends is that witnesses remember properties such 
 
 </div>
 
-None of these characteristics automatically imply non-human technology. Aerospace engineering often prioritises low weight, high strength and specialised coatings, while military equipment may contain markings unfamiliar to civilians. Investigators therefore treat unusual appearance as a starting point rather than a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+None of these characteristics automatically imply non-human technology. Aerospace engineering often prioritises low weight, high strength and specialised coatings, while military equipment may contain markings unfamiliar to civilians. Investigators therefore treat unusual appearance as a starting point rather than a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.6K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -310,13 +310,13 @@ None of these characteristics automatically imply non-human technology. Aerospac
 
 A major reason ordinary debris can become linked to UFO crashes is that governments sometimes conceal the true purpose of recovered hardware.
 
-Project Mogul illustrates this dynamic clearly. In 1947 the programme's mission was highly sensitive because it related to monitoring Soviet nuclear activities. Public disclosure was undesirable, creating incentives for vague or misleading explanations. When debris was recovered, officials initially issued statements that later changed, helping create decades of suspicion. Subsequent reviews concluded that the recovered material was consistent with balloon and radar-reflector equipment associated with the classified project. U.S. Department of War+2National Security Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+Project Mogul illustrates this dynamic clearly. In 1947 the programme's mission was highly sensitive because it related to monitoring Soviet nuclear activities. Public disclosure was undesirable, creating incentives for vague or misleading explanations. When debris was recovered, officials initially issued statements that later changed, helping create decades of suspicion. Subsequent reviews concluded that the recovered material was consistent with balloon and radar-reflector equipment associated with the classified project. U.S. Department of War+2National Security Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 This pattern is not unique to Roswell. Throughout the Cold War, advanced reconnaissance systems, experimental aircraft and surveillance technologies were frequently hidden behind cover stories. When civilians encountered fragments or observed recovery operations, they lacked the information needed to place those events in context.
 
 The problem is not that [secrecy]({{ 'secrecy/' | relative_url }}) proves an alien explanation. Rather, secrecy creates an information vacuum. Once an unusual object is known to be classified, speculation often expands beyond what the available evidence supports. A classified explanation can therefore make ordinary wreckage appear more mysterious than it actually is.
 
-Recent reviews by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) have emphasised that many initially puzzling reports eventually resolve into balloons, aircraft, drones, satellites and other conventional objects once sufficient data become available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
+Recent reviews by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) have emphasised that many initially puzzling reports eventually resolve into balloons, aircraft, drones, satellites and other conventional objects once sufficient data become available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-2-dark.svg" | relative_url }}" alt="Wreckage illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,7 +343,7 @@ The next stage involves contextual matching. Investigators look for:
 
 Chain of custody is equally important. A fragment recovered directly from a documented crash scene carries more evidential weight than an object that surfaced years later without clear provenance.
 
-Historical investigations into Roswell repeatedly followed this process. Researchers compared witness descriptions with known balloon and radar-reflector materials, reviewed military records, examined launch histories and reconstructed the likely source of the debris. The resulting explanations remain controversial among believers, but they were grounded in attempts to match physical evidence to known technologies before invoking extraordinary alternatives. Project Gutenberg+3U.S. Department of War+3gao.justia.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+Historical investigations into Roswell repeatedly followed this process. Researchers compared witness descriptions with known balloon and radar-reflector materials, reviewed military records, examined launch histories and reconstructed the likely source of the debris. The resulting explanations remain controversial among believers, but they were grounded in attempts to match physical evidence to known technologies before invoking extraordinary alternatives. Project Gutenberg+3U.S. Department of War+3gao.justia.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
@@ -367,7 +367,7 @@ A fragment can be unusual for many reasons:
 
 The existence of unusual debris therefore does not automatically strengthen a crash claim. The stronger question is whether the material resists identification after rigorous testing.
 
-This distinction is reflected in recent government assessments of [unidentified]({{ 'unidentified/' | relative_url }}) phenomena. AARO's reviews have found no verified evidence that recovered materials represent extraterrestrial technology, while noting that many unresolved cases remain unresolved primarily because of incomplete data rather than because they display impossible characteristics. NASA Science+3AARO+3U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
+This distinction is reflected in recent government assessments of [unidentified]({{ 'unidentified/' | relative_url }}) phenomena. AARO's reviews have found no verified evidence that recovered materials represent extraterrestrial technology, while noting that many unresolved cases remain unresolved primarily because of incomplete data rather than because they display impossible characteristics. NASA Science+3AARO+3U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-3-dark.svg" | relative_url }}" alt="Wreckage illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ordinary_wreckage_fa_5526f2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,201 +377,201 @@ Crash stories often gain momentum because physical debris feels more tangible th
 
 For a crash claim to move beyond speculation, investigators generally look for a combination of factors: documented recovery operations, identifiable crash locations, preserved materials, laboratory testing, reliable witness accounts and records showing how the debris was handled. When those elements are missing, strange-looking fragments can easily become the foundation of legends that outgrow the available evidence.
 
-The history of UFO crash claims shows that ordinary debris can appear extraordinary when context is absent. Balloons, radar reflectors, experimental equipment and other aerospace materials may look alien enough to inspire decades of speculation. The central investigative task is therefore not deciding whether the debris seems unusual, but determining whether it can be traced to a known technological source before more exotic explanations are considered. U.S. Department of War+3U.S. Department of War+3gao.justia.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
+The history of UFO crash claims shows that ordinary debris can appear extraordinary when context is absent. Balloons, radar reflectors, experimental equipment and other aerospace materials may look alien enough to inspire decades of speculation. The central investigative task is therefore not deciding whether the debris seems unusual, but determining whether it can be traced to a known technological source before more exotic explanations are considered. U.S. Department of War+3U.S. Department of War+3gao.justia.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/obbA4XmfmG8" title="Project Moby Dick (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer">Project Moby Dick (1952)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 7.1K &middot; Uploaded: August 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=obbA4XmfmG8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ordinary Debris Looks Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ordinary Debris Looks Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Focuses on how ordinary debris became extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how ordinary debris became extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines evidence for mundane explanations of alleged UFO wreckage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence for mundane explanations of alleged UFO wreckage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Shows how secret programs and misinformation can make ordinary materials seem exotic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how secret programs and misinformation can make ordinary materials seem exotic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for testing extraordinary material claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for testing extraordinary material claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="wreckage-when-ordinary-debris-looks-alien-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,166 +777,166 @@ The history of UFO crash claims shows that ordinary debris can appear extraordin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The 1994 Air Force report determined that project MOGUL was responsible...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.justia.com  
    Title: NSIA D-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Roswell... balloon...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 - Government Records28 Jul 1995 — GAO did locate two 1947 records that mentioned the crash--a July 1947 Roswell... balloon...</p></details>
    Published: July 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled al...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report focused on discovering the best data streams available and...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report focused on discovering the best data streams available and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gutenberg.org  
    Title: 63659 h  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...Subsequent to the 1994 report, Air Force researchers discovered information that p...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...Subsequent to the 1994 report, Air Force researchers discovered information that p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — all available official materials indicated the most likely source of the wreckage recovered...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — all available official materials indicated the most likely source of the wreckage recovered...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — General Accounting Office (GAO), initiated an of the Mogu...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — General Accounting Office (GAO), initiated an of the Mogu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentIn the 1990s, the Air Force published multiple reports which established that the incident was related to Project Mogu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentIn the 1990s, the Air Force published multiple reports which established that the incident was related to Project Mogu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulIn popular culture, the legacy of Project Mogul has been the Roswell incident, in which a crashed Mogul balloon was mista...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to attempt to monitor...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project, designed to attempt to monitor...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that something happened near Roswell in July 1947...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that something happened near Roswell in July 1947...</p></details>
    Published: July 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Part of Project Mogul, it was an attempt to monitor anticipated nuclear tests by the Sovi...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Part of Project Mogul, it was an attempt to monitor anticipated nuclear tests by the Sovi...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incid...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Project MOGUL, the top-priority classified project of balloon-borne experiments, which provides the explanation for the “Roswell Incid...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: 315aw.afrc.af.mil  
-   Link: <a href="https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous Phenomena&quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such a...</p></details>
+   Link:<a href="https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous Phenomena&quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — A 1947 Air Force report noted the recovery of a flying dis...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — A 1947 Air Force report noted the recovery of a flying dis...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: meritalk.com  
    Title: uap reports soar dod office receives 757 new sightings  
-   Link: <a href="https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reports Soar: DoD Office Receives 757 New Sightings15 Nov 2024 — “As of the publishing date of this report, all 174 cases have been f...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-reports-soar-dod-office-receives-757-new-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Reports Soar: DoD Office Receives 757 New Sightings15 Nov 2024 — “As of the publishing date of this report, all 174 cases have been f...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — Among AARO&#x27;s closed cases from the May 1, 2023 to June 1, 2024...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — Among AARO&#x27;s closed cases from the May 1, 2023 to June 1, 2024...</p></details>
    Published: May 1, 2023  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — “AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>

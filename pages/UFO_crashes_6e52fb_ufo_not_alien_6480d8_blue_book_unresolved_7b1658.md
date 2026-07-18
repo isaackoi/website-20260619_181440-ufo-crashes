@@ -280,17 +280,17 @@ image: /assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolv
 
 ## Introduction
 
-Project Blue Book is often cited because it ended with 701 UFO reports still classified as “[unidentified]({{ 'unidentified/' | relative_url }})”. For some people, that figure is presented as [evidence]({{ 'evidence/' | relative_url }}) that the US Air Force found hundreds of alien spacecraft and could not explain them. The actual record is more limited. Blue Book’s unresolved cases show that some reports resisted identification using the available evidence, but they do not demonstrate extraterrestrial technology, alien crashes, or recovered non-human vehicles. The significance of the 701 cases is that they remained unresolved within the project’s investigative framework, not that they were proven extraordinary. Understanding that distinction is essential when UFO crash claims rely on Blue Book as supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+Project Blue Book is often cited because it ended with 701 UFO reports still classified as “[unidentified]({{ 'unidentified/' | relative_url }})”. For some people, that figure is presented as [evidence]({{ 'evidence/' | relative_url }}) that the US Air Force found hundreds of alien spacecraft and could not explain them. The actual record is more limited. Blue Book’s unresolved cases show that some reports resisted identification using the available evidence, but they do not demonstrate extraterrestrial technology, alien crashes, or recovered non-human vehicles. The significance of the 701 cases is that they remained unresolved within the project’s investigative framework, not that they were proven extraordinary. Understanding that distinction is essential when UFO crash claims rely on Blue Book as supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Air Force Collected
 
-Project Blue Book was the US Air Force’s official UFO investigation programme from 1952 to 1969, building on earlier efforts such as Project Sign and Project Grudge. By the time it ended, Blue Book had accumulated 12,618 reported sightings from military personnel and civilians across more than two decades. The files included witness statements, correspondence, photographs, film, newspaper clippings and investigative reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sightings were report...</span></span></span>
+Project Blue Book was the US Air Force’s official UFO investigation programme from 1952 to 1969, building on earlier efforts such as Project Sign and Project Grudge. By the time it ended, Blue Book had accumulated 12,618 reported sightings from military personnel and civilians across more than two decades. The files included witness statements, correspondence, photographs, film, newspaper clippings and investigative reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sightings were report...</span></span></span>
 
-Most reports did not remain mysterious. Blue Book attributed large numbers of sightings to [aircraft]({{ 'aircraft/' | relative_url }}), [balloons]({{ 'balloons/' | relative_url }}), astronomical objects, atmospheric effects and other conventional causes. When the Air Force closed the programme in 1969, 701 reports remained in the “unidentified” category. That number represented roughly 5.5% of all cases investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+Most reports did not remain mysterious. Blue Book attributed large numbers of sightings to [aircraft]({{ 'aircraft/' | relative_url }}), [balloons]({{ 'balloons/' | relative_url }}), astronomical objects, atmospheric effects and other conventional causes. When the Air Force closed the programme in 1969, 701 reports remained in the “unidentified” category. That number represented roughly 5.5% of all cases investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
-The existence of these unresolved files is historically important because it shows that investigators did not force every report into a known category. Some cases simply lacked enough information for a confident explanation, while others contained details that did not fit available hypotheses. However, “unidentified” was an administrative conclusion, not a declaration that investigators had discovered something beyond known science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+The existence of these unresolved files is historically important because it shows that investigators did not force every report into a known category. Some cases simply lacked enough information for a confident explanation, while others contained details that did not fit available hypotheses. However, “unidentified” was an administrative conclusion, not a declaration that investigators had discovered something beyond known science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ The existence of these unresolved files is historically important because it sho
 
 A common misunderstanding is that every unidentified Blue Book case was thoroughly investigated and then found to exhibit impossible technology. The files do not support that interpretation.
 
-Many reports remained unresolved because evidence was incomplete. Witnesses may have provided limited descriptions, observations were often brief, physical evidence was rare, and radar or photographic data were frequently unavailable. In such circumstances, investigators could not confidently match the report to a known object, but neither could they establish an extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">The files contain reports from UFO observers, correspondence...Read more...</span></span></span>
+Many reports remained unresolved because evidence was incomplete. Witnesses may have provided limited descriptions, observations were often brief, physical evidence was rare, and radar or photographic data were frequently unavailable. In such circumstances, investigators could not confidently match the report to a known object, but neither could they establish an extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">The files contain reports from UFO observers, correspondence...Read more...</span></span></span>
 
-Another factor was the uneven quality of investigations. Historians and former participants have noted that Blue Book’s resources, staffing and priorities changed significantly over time. Some periods involved more systematic analysis than others, and later investigators sometimes faced pressure to reduce the number of unresolved reports. These institutional limitations complicate attempts to treat the unidentified category as a clean scientific dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Another factor was the uneven quality of investigations. Historians and former participants have noted that Blue Book’s resources, staffing and priorities changed significantly over time. Some periods involved more systematic analysis than others, and later investigators sometimes faced pressure to reduce the number of unresolved reports. These institutional limitations complicate attempts to treat the unidentified category as a clean scientific dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-One of the most important statistical studies connected with Blue Book was the Battelle Memorial Institute’s Special Report No. 14. Analysts reviewed thousands of reports and divided them into identified, unidentified and insufficient-information categories. The study found that a substantial minority of cases remained unknown even after review. At the same time, the report did not conclude that the unknowns represented extraterrestrial craft. Instead, it highlighted the difficulty of reaching firm conclusions from imperfect observational data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+One of the most important statistical studies connected with Blue Book was the Battelle Memorial Institute’s Special Report No. 14. Analysts reviewed thousands of reports and divided them into identified, unidentified and insufficient-information categories. The study found that a substantial minority of cases remained unknown even after review. At the same time, the report did not conclude that the unknowns represented extraterrestrial craft. Instead, it highlighted the difficulty of reaching firm conclusions from imperfect observational data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_blue_book_unresolved_7b1658-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,7 +314,7 @@ The unidentified category was not a single phenomenon. It contained a mixture of
 * Reports with too little information for any reliable conclusion.
 * Observations that matched several possible explanations but none with high confidence.
 * Cases involving apparently unusual behaviour that could not be reconstructed from the available [records]({{ 'records/' | relative_url }}).
-* Incidents where investigators disagreed about the most likely explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">The files contain reports from UFO observers, correspondence...Read more...</span></span></span>
+* Incidents where investigators disagreed about the most likely explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">The files contain reports from UFO observers, correspondence...Read more...</span></span></span>
 
 As a result, the 701 cases should not be treated as 701 examples of the same mystery. They were a residual category created by the limits of available evidence and investigative methods.
 
@@ -325,9 +325,9 @@ As a result, the 701 cases should not be treated as 701 examples of the same mys
 
 The strongest limitation on using Blue Book as evidence for alien spacecraft is that unresolved observations do not automatically support any particular explanation.
 
-An unidentified report establishes only that investigators could not confidently identify what was observed. It does not establish that the object was extraterrestrial, interstellar, non-human, or technologically advanced. Moving from “unidentified” to “alien craft” requires additional evidence, such as verified physical materials, independently confirmed performance data, or documentation demonstrating a non-terrestrial origin. Blue Book produced no such proof. U.S. Air Force+2National Archives Foundation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+An unidentified report establishes only that investigators could not confidently identify what was observed. It does not establish that the object was extraterrestrial, interstellar, non-human, or technologically advanced. Moving from “unidentified” to “alien craft” requires additional evidence, such as verified physical materials, independently confirmed performance data, or documentation demonstrating a non-terrestrial origin. Blue Book produced no such proof. U.S. Air Force+2National Archives Foundation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
-This distinction was reflected in the Air Force’s final position. When Project Blue Book was terminated, officials stated that no investigated UFO had been found to threaten national security and that no evidence had been discovered indicating extraterrestrial vehicles. The project could simultaneously contain 701 unresolved cases and still reach that conclusion because unresolved is not the same thing as confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+This distinction was reflected in the Air Force’s final position. When Project Blue Book was terminated, officials stated that no investigated UFO had been found to threaten national security and that no evidence had been discovered indicating extraterrestrial vehicles. The project could simultaneously contain 701 unresolved cases and still reach that conclusion because unresolved is not the same thing as confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 For discussions of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), this point is especially important. A crash claim requires more than an unexplained sighting. It implies a physical event that should leave recoverable evidence such as debris, documentation, [chain-of-custody]({{ 'custody/' | relative_url }}) records, photographs or other verifiable traces. The Blue Book unidentified files do not provide such confirmation merely by remaining unsolved. Their existence demonstrates uncertainty, not recovered alien technology.
 
@@ -337,201 +337,201 @@ For discussions of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), t
 
 The lasting value of the 701 unidentified cases is not that they prove extraterrestrial visitation. Rather, they illustrate a more modest and defensible point: even large official investigations can end with a residue of unresolved reports.
 
-Human observation is imperfect, records can be incomplete, and not every event leaves enough evidence for a confident explanation. Project Blue Book's unidentified cases therefore serve as evidence of investigative limits. They show that governments can acknowledge uncertainty without possessing proof of alien spacecraft. In the context of UFO crash claims, that distinction matters. An unresolved file is a question mark, not an answer. wired.com+3U.S. Air Force+3National Archives <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+Human observation is imperfect, records can be incomplete, and not every event leaves enough evidence for a confident explanation. Project Blue Book's unidentified cases therefore serve as evidence of investigative limits. They show that governments can acknowledge uncertainty without possessing proof of alien spacecraft. In the context of UFO crash claims, that distinction matters. An unresolved file is a question mark, not an answer. wired.com+3U.S. Air Force+3National Archives<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NXgx9QDKSD4" title="The UFO Case That Shook 1955 (Season 1) | MonsterQuest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer">The UFO Case That Shook 1955 (Season 1) | MonsterQuest</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 14.0K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NXgx9QDKSD4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Blue Book Left Unexplained. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Blue Book Left Unexplained. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Written by Blue Book&#x27;s scientific consultant.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by Blue Book&#x27;s scientific consultant.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for unresolved cases and investigative limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unresolved cases and investigative limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses significant unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses significant unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
-        </h4>
-        <p class="fr-book-author">By Harley D. Rutledge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Identification on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Identification">Project Identification</a>
+</h4>
+<p class="fr-book-author">By Harley D. Rutledge</p>
         
-        <p class="fr-book-desc">Focuses on scientific investigation rather than assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on scientific investigation rather than assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Identification+by+Harley+D.+Rutledge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="blue-book-what-blue-book-left-unexplained-ufo-crashes-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Human observation is imperfect, records can be incomplete, and not every event l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Human observation is imperfect, records can be incomplete, and not every event l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Human observation is imperfect, records can be incomplete, and not every event l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Human observation is imperfect, records can be incomplete, and not every event l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Human observation is imperfect, records can be incomplete, and not every event l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,110 +737,110 @@ Human observation is imperfect, records can be incomplete, and not every event l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sightings were report...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sightings were report...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The files contain reports from UFO observers, correspondence...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The files contain reports from UFO observers, correspondence...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the hype, the report only identified one case definitively as a deflating balloon and suggested that further investigations would...</p></details>
+   Link:<a href="https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the hype, the report only identified one case definitively as a deflating balloon and suggested that further investigations would...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were reported to Project Blue Book during this time p...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Feb 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were reported to Project Blue Book during this time p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold...17 Dec 2014 — By then, Blue Book had analyzed 12,618 cases of flying objects in...</p></details>
+   Link:<a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold...17 Dec 2014 — By then, Blue Book had analyzed 12,618 cases of flying objects in...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
+   Link:<a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/project-blue-book-12-000-020900953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-020900953.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 12000-plus UFO reports were once...12 Jan 2024 — Over the years, 12,618 reports of UFO sightings were investigated...</p></details>
+   Link:<a href="https://www.yahoo.com/news/project-blue-book-12-000-020900953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-020900953.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 12000-plus UFO reports were once...12 Jan 2024 — Over the years, 12,618 reports of UFO sightings were investigated...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: i built a searchable archive of 5000 project blue  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I built a searchable archive of ~5000 Project Blue Book...Between previously &quot;identified&quot; UFOs being reanalyzed and designated as unknow...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I built a searchable archive of ~5000 Project Blue Book...Between previously &quot;identified&quot; UFOs being reanalyzed and designated as unknow...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cisu.org  
    Title: Sparks CATALOG BB Unknowns 1.27 Dec 20 2016  
-   Link: <a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“final” AF figures of 12,618 total cases including 701 Unknowns are clearly unreliabl...</p></details>
+   Link:<a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“final” AF figures of 12,618 total cases including 701 Unknowns are clearly unreliabl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>set up as the center point for UFO-related reporting...Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/project-blue-book-unidentified-unexplained-or-misunderstood-0a9524ba3664</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>set up as the center point for UFO-related reporting...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>701 cases remained “unidentified” even after investigation...</p></details>
+   Link:<a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>701 cases remained “unidentified” even after investigation...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — A total of 12,618 sightings were reported to Project Blue Book, with 701 remaining “unidentifi...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — A total of 12,618 sightings were reported to Project Blue Book, with 701 remaining “unidentifi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Records from the project concerning  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsFrom 1947 to 1969, 12,618 sightings were recorded; o...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsFrom 1947 to 1969, 12,618 sightings were recorded; o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The decision to discontinue UFO investigations...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The decision to discontinue UFO investigations...</p></details>

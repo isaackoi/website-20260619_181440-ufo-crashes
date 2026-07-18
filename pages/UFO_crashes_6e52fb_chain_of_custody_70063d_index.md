@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-chain-of-custody/
 description: Focused pages that expand on Custody.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_chain_of_custody_70063d
 parent_title: Custody
@@ -16,7 +16,7 @@ parent_permalink: /custody/
 
 # Explore Topics in Custody
 
-The following pages expand on the main **[Custody]({{ '/custody/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Custody]({{ '/custody/' | relative_url }})** page and cover its key branches in.
 
 - [Layered Metal]({{ '/layered-metal/' | relative_url }})
 - [Contamination]({{ '/contamination/' | relative_url }})

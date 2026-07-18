@@ -280,23 +280,23 @@ image: /assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_
 
 ## Introduction
 
-NASA’s 2023 independent study of [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) drew a careful distinction that is highly relevant to alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}): an unexplained event is not automatically evidence of alien technology. The study team concluded that there is no evidence showing UAP are extraterrestrial in origin, while also arguing that current evidence is often too weak to support confident conclusions of any kind. Rather than treating mystery as proof, NASA proposed a higher evidential standard built around better measurements, better sensor records, and more transparent investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA’s 2023 independent study of [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) drew a careful distinction that is highly relevant to alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}): an unexplained event is not automatically evidence of alien technology. The study team concluded that there is no evidence showing UAP are extraterrestrial in origin, while also arguing that current evidence is often too weak to support confident conclusions of any kind. Rather than treating mystery as proof, NASA proposed a higher evidential standard built around better measurements, better sensor records, and more transparent investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-1-dark.svg" | relative_url }}" alt="NASA UAP illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For crash claims, this approach matters because a crash should leave more [evidence]({{ 'evidence/' | relative_url }}) than a fleeting sighting. NASA’s position was not that unusual reports should be ignored, but that extraordinary interpretations require data of a quality rarely available in most UFO cases. The agency’s contribution was therefore methodological: define what stronger evidence would look like before drawing stronger conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
+For crash claims, this approach matters because a crash should leave more [evidence]({{ 'evidence/' | relative_url }}) than a fleeting sighting. NASA’s position was not that unusual reports should be ignored, but that extraordinary interpretations require data of a quality rarely available in most UFO cases. The agency’s contribution was therefore methodological: define what stronger evidence would look like before drawing stronger conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
 
 ## Why NASA Separated UAP from Aliens
 
-NASA’s study team repeatedly stressed that identification and explanation are separate stages. A report may remain unidentified because available information is incomplete, poorly recorded, or technically inadequate. That does not transform the report into evidence of extraterrestrial activity. The team found that the current body of UAP information is too limited and inconsistent to support firm scientific conclusions about origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
+NASA’s study team repeatedly stressed that identification and explanation are separate stages. A report may remain unidentified because available information is incomplete, poorly recorded, or technically inadequate. That does not transform the report into evidence of extraterrestrial activity. The team found that the current body of UAP information is too limited and inconsistent to support firm scientific conclusions about origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
 
-This distinction was especially important because public discussion often jumps directly from “unidentified” to “alien spacecraft”. NASA rejected that leap. The report’s chair, David Spergel, stated that the study found no evidence suggesting extraterrestrial origins, while also acknowledging that some reports remain unresolved because the available data are insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope+2Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">Sky &amp; TelescopeNASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — “We find no evidence to suggest that UAP are extraterre...</span></span></span>
+This distinction was especially important because public discussion often jumps directly from “unidentified” to “alien spacecraft”. NASA rejected that leap. The report’s chair, David Spergel, stated that the study found no evidence suggesting extraterrestrial origins, while also acknowledging that some reports remain unresolved because the available data are insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">Sky &amp; TelescopeNASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — “We find no evidence to suggest that UAP are extraterre...</span></span></span>
 
-The agency’s goal was to move discussion from speculation to evidence. NASA Administrator Bill Nelson described the effort as a way to shift the conversation from sensationalism towards scientific investigation, with conclusions driven by data rather than assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+The agency’s goal was to move discussion from speculation to evidence. NASA Administrator Bill Nelson described the effort as a way to shift the conversation from sensationalism towards scientific investigation, with conclusions driven by data rather than assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 ## What Better Data Would Need to Capture
 
-The most important contribution of the report was its diagnosis of why so many UAP cases remain unresolved. According to the study team, analysis is routinely hindered by poor sensor calibration, [missing metadata]({{ 'metadata-gaps/' | relative_url }}), a lack of multiple observations, and inadequate baseline information about the environment in which an event occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The most important contribution of the report was its diagnosis of why so many UAP cases remain unresolved. According to the study team, analysis is routinely hindered by poor sensor calibration, [missing metadata]({{ 'metadata-gaps/' | relative_url }}), a lack of multiple observations, and inadequate baseline information about the environment in which an event occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 Applied to a claimed crash, NASA's standard implies several requirements.
 
@@ -305,13 +305,13 @@ Applied to a claimed crash, NASA's standard implies several requirements.
 
 ### Multiple Independent Measurements
 
-A single witness account or isolated photograph is rarely enough. NASA emphasised the value of multiple observations from different instruments and viewpoints. If an object truly behaved in an unusual way before a crash, the strongest case would involve corroborating radar, optical, infrared, satellite, atmospheric, and flight-tracking information rather than one source alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/23...The importance of detecting UAP with multiple, well-calibrated sensors...</span></span></span>
+A single witness account or isolated photograph is rarely enough. NASA emphasised the value of multiple observations from different instruments and viewpoints. If an object truly behaved in an unusual way before a crash, the strongest case would involve corroborating radar, optical, infrared, satellite, atmospheric, and flight-tracking information rather than one source alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/23...The importance of detecting UAP with multiple, well-calibrated sensors...</span></span></span>
 
 Multiple [sensors]({{ 'sensors/' | relative_url }}) reduce the risk that a camera artefact, optical illusion, software error, or misidentification will be mistaken for a physical object.
 
 ### Complete Sensor Metadata
 
-NASA highlighted the importance of metadata: information about how, when, and under what conditions observations were collected. Without details about camera settings, sensor characteristics, location, [timing]({{ 'timing/' | relative_url }}), and calibration status, investigators cannot reliably determine what a recording actually shows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA highlighted the importance of metadata: information about how, when, and under what conditions observations were collected. Without details about camera settings, sensor characteristics, location, [timing]({{ 'timing/' | relative_url }}), and calibration status, investigators cannot reliably determine what a recording actually shows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 For crash investigations, this means that dramatic imagery alone would not satisfy the standard. Investigators would need enough technical information to reconstruct the event and test alternative explanations.
 
@@ -319,7 +319,7 @@ For crash investigations, this means that dramatic imagery alone would not satis
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-2-dark.svg" | relative_url }}" alt="NASA UAP illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Environmental Context
 
-The report noted that well-calibrated Earth-observing systems can help establish the conditions surrounding a sighting. Weather patterns, atmospheric conditions, air traffic, satellite movements, and other environmental factors provide crucial context for interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">NASA releases new UAP report, and finds no evidence of aliens</span><span class="citation-popover-snippet">government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</span></span></span>
+The report noted that well-calibrated Earth-observing systems can help establish the conditions surrounding a sighting. Weather patterns, atmospheric conditions, air traffic, satellite movements, and other environmental factors provide crucial context for interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">NASA releases new UAP report, and finds no evidence of aliens</span><span class="citation-popover-snippet">government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</span></span></span>
 
 A crash claim becomes much stronger when investigators can rule out known aircraft, balloons, re-entering space debris, meteor activity, atmospheric effects, or sensor distortions through independent environmental data.
 
@@ -333,7 +333,7 @@ A genuine crash of an extraordinary vehicle would be expected to generate a rich
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Independent sensor records from multiple systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+* Independent sensor records from multiple systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 * Precise location and timing information.
 * Environmental and aviation data from the same period.
 * Consistent witness accounts that can be cross-checked.
@@ -341,7 +341,7 @@ A genuine crash of an extraordinary vehicle would be expected to generate a rich
 
 </div>
 
-NASA's framework does not assume such evidence exists, but it makes clear what would be required before extraordinary conclusions become scientifically persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's framework does not assume such evidence exists, but it makes clear what would be required before extraordinary conclusions become scientifically persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 The framework also explains why many famous crash stories remain controversial. Reports often rely heavily on testimony, recollections recorded years later, fragmentary documentation, or evidence that cannot be independently verified. Under NASA's standard, unresolved questions are not treated as proof of an exotic origin; they are treated as indicators that the available evidence remains incomplete.
 
@@ -350,9 +350,9 @@ The framework also explains why many famous crash stories remain controversial. 
 
 ## From a Data-Poor to a Data-Rich Environment
 
-One of the report's recurring themes was that UAP research currently operates in what members of the study team described as a "data-poor" environment. The solution is not stronger speculation but stronger observation systems. NASA recommended exploring improved reporting mechanisms, advanced analytical methods, machine learning tools, better sensor integration, and even carefully designed citizen-science approaches that could gather standardised information from multiple observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[The Guardian+3Rev+3WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">unidentified anomalous phenomena independent study report from nasa transcript</span><span class="citation-popover-snippet">UAP Independent Study Report from NASA18 Sept 2023 —... no evidence to suggest that UAP are extraterrestrial in origin. Our... So we...</span></span></span>
+One of the report's recurring themes was that UAP research currently operates in what members of the study team described as a "data-poor" environment. The solution is not stronger speculation but stronger observation systems. NASA recommended exploring improved reporting mechanisms, advanced analytical methods, machine learning tools, better sensor integration, and even carefully designed citizen-science approaches that could gather standardised information from multiple observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[rev.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-title">unidentified anomalous phenomena independent study report from nasa transcript</span><span class="citation-popover-snippet">UAP Independent Study Report from NASA18 Sept 2023 —... no evidence to suggest that UAP are extraterrestrial in origin. Our... So we...</span></span></span>
 
-The report also suggested reducing the stigma associated with reporting unusual observations, particularly among pilots and other trained observers. Better reporting can improve data quality, but only if reports are collected in a consistent and scientifically useful way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</span></span></span>
+The report also suggested reducing the stigma associated with reporting unusual observations, particularly among pilots and other trained observers. Better reporting can improve data quality, but only if reports are collected in a consistent and scientifically useful way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</span></span></span>
 
 For alleged UFO crashes, this philosophy represents a significant shift. The key question is no longer whether a story sounds extraordinary. The key question is whether the event generated enough high-quality, independently verifiable evidence to survive rigorous scrutiny.
 
@@ -361,202 +361,202 @@ For alleged UFO crashes, this philosophy represents a significant shift. The key
 
 ## The Core Lesson for UFO Crash Debates
 
-NASA's UAP study did not dismiss unusual reports, nor did it endorse extraterrestrial explanations. Instead, it established a practical evidential benchmark. An unexplained object, an unresolved sighting, or a crash allegation remains exactly that until supported by reliable, repeatable, and well-documented data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's UAP study did not dismiss unusual reports, nor did it endorse extraterrestrial explanations. Instead, it established a practical evidential benchmark. An unexplained object, an unresolved sighting, or a crash allegation remains exactly that until supported by reliable, repeatable, and well-documented data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-Within the broader debate over UFO crashes, NASA's standard offers a simple principle: the gap between "unidentified" and "alien spacecraft" can only be crossed by evidence, not by the persistence of a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Within the broader debate over UFO crashes, NASA's standard offers a simple principle: the gap between "unidentified" and "alien spacecraft" can only be crossed by evidence, not by the persistence of a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-3-dark.svg" | relative_url }}" alt="NASA UAP illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_nasa_uap_standard_d9e55e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to NASA&#x27;s Careful Line on UAP. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to NASA&#x27;s Careful Line on UAP. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFOs through investigation rather than assumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFOs through investigation rather than assumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the need for better data and official inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the need for better data and official inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides scientific context for discussions of extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific context for discussions of extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Closely aligns with NASA&#x27;s evidence-first approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligns with NASA&#x27;s evidence-first approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box"><img src="{{ '/assets/images/marketplace-covers/a87233ae234a5fc7da28.jpg' | relative_url }}" alt="Listing image for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Leave Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR52"><img src="https://i.ebayimg.com/images/g/DdgAAOSwyHhh~u6L/s-l225.jpg" alt="Listing image for I Want To Leave Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR52" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer">I Want To Leave Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR52</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Neca Alien 40th Anniversary Alien Ash Action Figure"><img src="{{ '/assets/images/marketplace-covers/5d39cd2d8e3c8ac238a5.jpg' | relative_url }}" alt="Listing image for Genuine Neca Alien 40th Anniversary Alien Ash Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Genuine Neca Alien 40th Anniversary Alien Ash Action Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Astronaut Patch Iron Sew ON Applique Space UFO Jeans Jacket Badge"><img src="https://i.ebayimg.com/images/g/5ZgAAOSwYV5fnzeE/s-l225.jpg" alt="Listing image for NASA Astronaut Patch Iron Sew ON Applique Space UFO Jeans Jacket Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer">NASA Astronaut Patch Iron Sew ON Applique Space UFO Jeans Jacket Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="{{ '/assets/images/marketplace-covers/c19cd696f1d0ae77b7a4.jpg' | relative_url }}" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Get In Loser Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR51"><img src="https://i.ebayimg.com/images/g/d4wAAOSwMVZiG9f8/s-l225.jpg" alt="Listing image for Get In Loser Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer">Get In Loser Alien Patch (SEAL Topgun Area 51 UFO Space NASA F-35 Recon) MR51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="{{ '/assets/images/marketplace-covers/d42a50de6551ffda29c9.jpg' | relative_url }}" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="nasa-uap-nasa-s-careful-line-on-uap-ufo-crashes-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Patch Embroidered IRON-ON Xfiles Applique Funny Area 51 Space NASA"><img src="https://i.ebayimg.com/images/g/2m0AAOSwPmVcE7~Q/s-l225.jpg" alt="Listing image for Alien UFO Patch Embroidered IRON-ON Xfiles Applique Funny Area 51 Space NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Patch Embroidered IRON-ON Xfiles Applique Funny Area 51 Space NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="nasa-s-careful-line-on-uap-nasa-ufo-patch-gerry-anderson-band-concert-series-television-tour-album-ticket-programme" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,153 +762,153 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... no evidence that UAPs are extraterrestrial. However, NASA is... Are there any data supporting the idea that UAP...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... no evidence that UAPs are extraterrestrial. However, NASA is... Are there any data supporting the idea that UAP...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... no evidence to suggest that UAP are extraterrestrial in origin. Our... So we...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... no evidence to suggest that UAP are extraterrestrial in origin. Our... So we...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/23...The importance of detecting UAP with multiple, well-calibrated sensors...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/23</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/23...The importance of detecting UAP with multiple, well-calibrated sensors...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: axios.com  
    Title: NASA releases new UAP report, and finds no evidence of aliens  
-   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
+   Link:<a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — Low Water at San Carlos Reservoir. 4 min read. Low Water at San Carlos... Download the UAP Independent Study Tea...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — Low Water at San Carlos Reservoir. 4 min read. Low Water at San Carlos... Download the UAP Independent Study Tea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs worth investigating without &#x27;real evidence,&#x27; Scott...2 Jun 2023 — Related: UFOs will remain mysterious without [better data](&amp;#123;&amp;#123; &#x27;better-data/&#x27; | relative_url &amp;#125;&amp;#125;), NASA st...</p></details>
+   Link:<a href="https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs worth investigating without &#x27;real evidence,&#x27; Scott...2 Jun 2023 — Related: UFOs will remain mysterious without [better data](&amp;#123;&amp;#123; &#x27;better-data/&#x27; | relative_url &amp;#125;&amp;#125;), NASA st...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Study Team Report (2023)... Aviation Safety Reporting System for commercial pilot UAP reporting would provide a critical dat...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Study Team Report (2023)... Aviation Safety Reporting System for commercial pilot UAP reporting would provide a critical dat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: washingtonpost.com  
    Title: nasa ufo report uap panel  
-   Link: <a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostNo evidence that UFOs have extraterrestrial origins, NASA...14 Sept 2023 — But the panel also concluded that the abil...</p></details>
+   Link:<a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostNo evidence that UFOs have extraterrestrial origins, NASA...14 Sept 2023 — But the panel also concluded that the abil...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeNASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — “We find no evidence to suggest that UAP are extraterre...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeNASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — “We find no evidence to suggest that UAP are extraterre...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: nasa releases ufo report  
-   Link: <a href="https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases UAP report, says more data and scientific...14 Sept 2023 — The report suggested using crowdsourcing techniques such as &quot;op...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-09-15/nasa-releases-ufo-report/102859124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases UAP report, says more data and scientific...14 Sept 2023 — The report suggested using crowdsourcing techniques such as &quot;op...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportExplore NASA&#x27;s comprehensive strategies for studying Unidentified Anomalous Phenomena (UAP) t...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportExplore NASA&#x27;s comprehensive strategies for studying Unidentified Anomalous Phenomena (UAP) t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA · 2023 · UFO...Commissioned in June 2022 and finalized in September 2023, this report diag...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-nasa-uap-independent-study-report-2023-uap-independent-study-team-final-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent UAP Study Final Report, NASA · 2023 · UFO...Commissioned in June 2022 and finalized in September 2023, this report diag...</p></details>
    Published: June 2022  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...NASA panel: No convincing evidence for extraterrestrial life... UAP one...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1/nasa_panel_no_convincing_evidence_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...NASA panel: No convincing evidence for extraterrestrial life... UAP one...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/release/03/?type=.aud" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/release/03/?type=.aud</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other...Re...</p></details>
+   Link:<a href="https://www.war.gov/UFO/release/03/?type=.aud" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/release/03/?type=.aud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other...Re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebIf only one of them ends up being of extraterrestrial technological origin, it...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebIf only one of them ends up being of extraterrestrial technological origin, it...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/UFO/release/03/?releaseDate=Release&amp;search=orbs+o" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/release/03/?releaseDate=Release&amp;search=orbs+o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AP), and unidentified flying objects (UFOs), and any and all other...</p></details>
+   Link:<a href="https://www.war.gov/UFO/release/03/?releaseDate=Release&amp;search=orbs+o" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/release/03/?releaseDate=Release&amp;search=orbs+o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP), and unidentified flying objects (UFOs), and any and all other...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of unidentified anomalo...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of unidentified anomalo...</p></details>

@@ -278,15 +278,15 @@ Project Mogul remains the leading conventional explanation for the original Rosw
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_remaining_doub_a0a9d8-Illustration-1-dark.svg" | relative_url }}" alt="Remaining Doubts illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_remaining_doub_a0a9d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_remaining_doub_a0a9d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These unresolved areas do not necessarily overturn the Mogul explanation. However, they help explain why debate continued long after official investigations concluded that Mogul equipment was the most likely source of the recovered debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+These unresolved areas do not necessarily overturn the Mogul explanation. However, they help explain why debate continued long after official investigations concluded that Mogul equipment was the most likely source of the recovered debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Records Gaps and Reconstruction Limits
 
 One of the strongest criticisms of the Mogul explanation is that it depends on reconstructing events from incomplete [records]({{ 'records/' | relative_url }}).
 
-The 1995 Government Accountability Office (GAO) investigation found that some records relevant to Roswell-era operations had been destroyed and that investigators could not determine precisely when or under what authority certain records disappeared. The GAO also noted that only a small number of directly relevant 1947 documents survived, leaving historians to rely heavily on later reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1995 Government Accountability Office (GAO) investigation found that some records relevant to Roswell-era operations had been destroyed and that investigators could not determine precisely when or under what authority certain records disappeared. The GAO also noted that only a small number of directly relevant 1947 documents survived, leaving historians to rely heavily on later reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters because the Air Force's Mogul conclusion relied in part on identifying a particular balloon train, often referred to as [Mogul Flight]({{ 'flight-4/' | relative_url }}) 4, as the likely source of the debris. Critics have argued that documentation surrounding this launch is incomplete and that surviving records do not provide a perfectly continuous chain of [evidence]({{ 'evidence/' | relative_url }}) from launch to recovery. Some researchers have questioned whether the flight occurred in the form later described, while defenders of the Mogul explanation argue that diary entries, technical records and participant recollections still support the reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">127409 National Geographic and UFOs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because the Air Force's Mogul conclusion relied in part on identifying a particular balloon train, often referred to as [Mogul Flight]({{ 'flight-4/' | relative_url }}) 4, as the likely source of the debris. Critics have argued that documentation surrounding this launch is incomplete and that surviving records do not provide a perfectly continuous chain of [evidence]({{ 'evidence/' | relative_url }}) from launch to recovery. Some researchers have questioned whether the flight occurred in the form later described, while defenders of the Mogul explanation argue that diary entries, technical records and participant recollections still support the reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">127409 National Geographic and UFOs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The broader issue is methodological rather than sensational. Historians often work with fragmentary archives, but when a famous event is reconstructed decades later, missing paperwork naturally leaves room for competing interpretations.
 
@@ -297,7 +297,7 @@ The broader issue is methodological rather than sensational. Historians often wo
 
 The Flight 4 controversy became important because it sits near the centre of the official Roswell reconstruction.
 
-Critics have pointed to inconsistencies in launch records and project documentation, arguing that the specific balloon train identified by investigators may not be documented as clearly as later accounts suggest. Some discussions focus on whether the planned launch was altered, delayed or cancelled under certain conditions. Supporters of the Mogul explanation respond that project diaries and engineering records still indicate balloon activity consistent with the debris field descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">127409 National Geographic and UFOs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Critics have pointed to inconsistencies in launch records and project documentation, arguing that the specific balloon train identified by investigators may not be documented as clearly as later accounts suggest. Some discussions focus on whether the planned launch was altered, delayed or cancelled under certain conditions. Supporters of the Mogul explanation respond that project diaries and engineering records still indicate balloon activity consistent with the debris field descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">127409 National Geographic and UFOs</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The significance of this disagreement is often overstated. Even if uncertainties remain about the exact flight designation or launch sequence, that would not automatically prove an extraterrestrial explanation. What it does show is that the official account depends on historical reconstruction rather than a complete documentary trail.
 
@@ -343,205 +343,205 @@ The strongest unresolved issues are:
 * Disputes over the documentation of specific Mogul launches.
 * Witness accounts that do not perfectly match the materials expected from balloon equipment.
 * The difficulty of separating original observations from memories reshaped over decades.
-* Later body-recovery claims that extend far beyond the original debris evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Later body-recovery claims that extend far beyond the original debris evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
-For many historians and investigators, these uncertainties are not enough to outweigh the documentary and technical evidence supporting a classified balloon explanation. For others, the gaps are significant enough to leave the case open. The result is an unusual middle ground: Project Mogul remains the most widely accepted explanation for the Roswell debris, yet the incomplete record ensures that some questions continue to be debated long after the original event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For many historians and investigators, these uncertainties are not enough to outweigh the documentary and technical evidence supporting a classified balloon explanation. For others, the gaps are significant enough to leave the case open. The result is an unusual middle ground: Project Mogul remains the most widely accepted explanation for the Roswell debris, yet the incomplete record ensures that some questions continue to be debated long after the original event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZltLHh_WsZs" title="The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer">The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: July 2019 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZltLHh_WsZs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does Mogul Still Not Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does Mogul Still Not Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yved7wSn3voC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Directly addresses Roswell evidence, witness testimony, documentation gaps, and criticisms of the Project Mogul explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Roswell evidence, witness testimony, documentation gaps, and criticisms of the Project Mogul explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Known for examining and defending conventional explanations, including issues surrounding Mogul evidence and witness reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Known for examining and defending conventional explanations, including issues surrounding Mogul evidence and witness reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R5yNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
-        </h4>
-        <p class="fr-book-author">By Kal K. Korff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R5yNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
+</h4>
+<p class="fr-book-author">By Kal K. Korff</p>
         
-        <p class="fr-book-desc">Focuses on documentary problems, witness contradictions, and alternative interpretations central to debates about what Mogul does and doe...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentary problems, witness contradictions, and alternative interpretations central to debates about what Mogul does and doe...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Provides the original influential Roswell narrative against which later Mogul-based explanations were developed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the original influential Roswell narrative against which later Mogul-based explanations were developed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/95ea8b62670f38440edd.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/95ea8b62670f38440edd.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6c2923dde6b1d981ca1a.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6c2923dde6b1d981ca1a.jpg' | relative_url }}" alt="Listing image for roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">roswell alien space colored smoke f Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e878d2308442b692cf00.jpg' | relative_url }}" alt="Listing image for Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell, New Mexico Landscape Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2"><img src="{{ '/assets/images/marketplace-covers/71825c2c001b281d72e5.jpg' | relative_url }}" alt="Listing image for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2"><img src="{{ '/assets/images/marketplace-covers/71825c2c001b281d72e5.jpg' | relative_url }}" alt="Listing image for Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Roswell Cymru, Welsh Roswell incident poster, Bala, Wales, A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell poster" data-ebay-reference="remaining-doubts-what-does-mogul-still-not-explain-ufo-crashes-roswell-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For many historians and investigators, these uncertainties are not enough to out
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For many historians and investigators, these uncertainties are not enough to out
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For many historians and investigators, these uncertainties are not enough to out
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For many historians and investigators, these uncertainties are not enough to out
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For many historians and investigators, these uncertainties are not enough to out
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,77 +747,77 @@ For many historians and investigators, these uncertainties are not enough to out
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GAO[https://www.gao.gov/products/nsiad-95-187...&quot;](https://www.gao.gov/products/nsiad-95-187...&quot;)...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GAO[https://www.gao.gov/products/nsiad-95-187...&quot;](https://www.gao.gov/products/nsiad-95-187...&quot;)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;FAS Project on Government Secrecy[https://sgp.fas.org/othergov/roswell.html...&quot;](https://sgp.fas.org/othergov/roswell.html...&quot;)...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;FAS Project on Government Secrecy[https://sgp.fas.org/othergov/roswell.html...&quot;](https://sgp.fas.org/othergov/roswell.html...&quot;)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sott.net  
    Title: 127409 National Geographic and UFOs  
-   Link: <a href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/127409-National-Geographic-and-UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.sott.net/article/127409-National-Geographic-and-UFOs...&quot;](https://www.sott.net/article/127409-National-Geographic-and-UFOs...&quot;)...</p></details>
+   Link:<a href="https://www.sott.net/article/127409-National-Geographic-and-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/127409-National-Geographic-and-UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.sott.net/article/127409-National-Geographic-and-UFOs...&quot;](https://www.sott.net/article/127409-National-Geographic-and-UFOs...&quot;)...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govinfo.gov  
    Title: www.govinfo.gov GA O/NSIAD-94-197  
-   Link: <a href="https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-94-197" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-94-197</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.govinfo.govGAO/NSIAD-94-197 - Space Shuttle: NASA&#x27;s Plans for Repairing or Replacing a Damaged or Destroyed Orbiter - GAOREPORTS-NSIA...</p></details>
+   Link:<a href="https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.govinfo.govGAO/NSIAD-94-197 - Space Shuttle: NASA&#x27;s Plans for Repairing or Replacing a Damaged or Destroyed Orbiter - GAOREPORTS-NSIA...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoexplorations.com  
-   Link: <a href="https://www.ufoexplorations.com/roswell-crash-records-destroyed-methods-and-culprits-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/roswell-crash-records-destroyed-methods-and-culprits-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explorations | Roswell Crash Records Destroyed, Methods and Culprits Revealed...</p></details>
+   Link:<a href="https://www.ufoexplorations.com/roswell-crash-records-destroyed-methods-and-culprits-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/roswell-crash-records-destroyed-methods-and-culprits-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explorations | Roswell Crash Records Destroyed, Methods and Culprits Revealed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Let's Talk About the New UFO Files Released by The Government  
-   Link: <a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4SiqjS28ZE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Missing General and UFO Cover-Up Allegations &amp; The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4SiqjS28ZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Missing General and UFO Cover-Up Allegations &amp; The Roswell Incident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Missing General and UFO Cover-Up Allegations & The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=2x9JEixL0RM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x9JEixL0RM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2x9JEixL0RM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x9JEixL0RM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/app/details/CRI-1994/CRI-1994-MOORE-MARIAN/context" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/CRI-1994/CRI-1994-MOORE-MARIAN/context</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.govinfo.govCRI1994 - MOORE, MARIAN - CRI-1994-MOORE-MARIAN | Document in Context | GovInfoDecember 31, 1994...</p></details>
+   Link:<a href="https://www.govinfo.gov/app/details/CRI-1994/CRI-1994-MOORE-MARIAN/context" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/CRI-1994/CRI-1994-MOORE-MARIAN/context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.govinfo.govCRI1994 - MOORE, MARIAN - CRI-1994-MOORE-MARIAN | Document in Context | GovInfoDecember 31, 1994...</p></details>
    Published: December 31, 1994  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: I Found the REAL Roswell UFO Crash Site  
-   Link: <a href="https://www.youtube.com/watch?v=UAnLgCga3Yg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAnLgCga3Yg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk About the New UFO Files Released by The Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UAnLgCga3Yg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UAnLgCga3Yg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s Talk About the New UFO Files Released by The Government...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: astronomyufo.com  
    Title: www.astronomyufo.com Not a simple weather balloon  
-   Link: <a href="https://www.astronomyufo.com/UFO/Mogul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Mogul.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a simple weather balloon...</p></details>
+   Link:<a href="https://www.astronomyufo.com/UFO/Mogul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/Mogul.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a simple weather balloon...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hangar1publishing.com  
    Title: roswell crash  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Actually Happened in 1947 – Hangar1publishing...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Actually Happened in 1947 – Hangar1publishing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Roswell UFO Crash (Overview)  
-   Link: <a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Found the REAL Roswell UFO Crash Site...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZltLHh_WsZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Found the REAL Roswell UFO Crash Site...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  

@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_body_evidence_
 
 ## Introduction
 
-In UFO crash narratives, claims about recovered alien bodies are often treated as the strongest possible [evidence]({{ 'evidence/' | relative_url }}). In reality, they face the highest evidential burden. A genuine non-human body would not be established by witness memories, dramatic stories, anonymous insiders, leaked photographs, or media reconstructions alone. It would require physical biological material that can be independently examined, documented [provenance]({{ 'provenance/' | relative_url }}) showing where the specimen came from, records demonstrating how it was handled, and results that withstand repeated testing by qualified experts. The more extraordinary the claim, the more important it becomes that the evidence can be verified by others rather than accepted on trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</span></span></span>
+In UFO crash narratives, claims about recovered alien bodies are often treated as the strongest possible [evidence]({{ 'evidence/' | relative_url }}). In reality, they face the highest evidential burden. A genuine non-human body would not be established by witness memories, dramatic stories, anonymous insiders, leaked photographs, or media reconstructions alone. It would require physical biological material that can be independently examined, documented [provenance]({{ 'provenance/' | relative_url }}) showing where the specimen came from, records demonstrating how it was handled, and results that withstand repeated testing by qualified experts. The more extraordinary the claim, the more important it becomes that the evidence can be verified by others rather than accepted on trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_body_evidence_test_3ec8ce-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Test illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_body_evidence_test_3ec8ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_body_evidence_test_3ec8ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,7 +307,7 @@ The expected evidence would include:
 
 No single document would prove an extraterrestrial origin. However, multiple independent records that agree with one another would be difficult to dismiss. Historians, forensic investigators, and auditors routinely [evaluate claims]({{ 'evaluate-claims/' | relative_url }}) by reconstructing such paper trails.
 
-This is one reason official reviews of famous crash stories have focused heavily on archival evidence. The U.S. Air Force's Roswell investigations reported finding no records showing the recovery of extraterrestrial bodies and instead examined alternative explanations for later body claims. U.S. Air Force+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+This is one reason official reviews of famous crash stories have focused heavily on archival evidence. The U.S. Air Force's Roswell investigations reported finding no records showing the recovery of extraterrestrial bodies and instead examined alternative explanations for later body claims. U.S. Air Force+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qwwmZWEjyKs" title="The Roswell Report: Case Closed by James McAndrew - FULL AUDIOBOOK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qwwmZWEjyKs" target="_blank" rel="noopener noreferrer">The Roswell Report: Case Closed by James McAndrew - FULL AUDIOBOOK</a></p><p class="youtube-embed-meta">Channel: Audiobook Heaven &middot; Views: 289 &middot; Uploaded: December 2022 &middot; Length: 5 hours 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qwwmZWEjyKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qwwmZWEjyKs">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ A specimen claimed to be non-human would need to provide tissue, bone, organs, b
 
 The critical issue is reproducibility. Independent laboratories should be able to obtain the same results from the same samples. If a claim depends on access being restricted to a small group of believers, confidence drops sharply.
 
-Importantly, unusual anatomy alone would not establish extraterrestrial origin. Archaeologists, forensic anthropologists, and medical researchers regularly encounter deformities, preservation artefacts, congenital conditions, and cultural modifications that can make remains appear unfamiliar. Extraordinary conclusions require evidence that cannot be explained by known biological processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</span></span></span>
+Importantly, unusual anatomy alone would not establish extraterrestrial origin. Archaeologists, forensic anthropologists, and medical researchers regularly encounter deformities, preservation artefacts, congenital conditions, and cultural modifications that can make remains appear unfamiliar. Extraordinary conclusions require evidence that cannot be explained by known biological processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
@@ -414,17 +414,17 @@ Images can document appearance, yet they cannot provide DNA, tissue samples, or 
 
 Witness testimony faces similar limitations. Human memory is valuable but imperfect. Accounts can change over time, especially when events become culturally significant. Researchers therefore treat testimony as a lead to investigate rather than as conclusive proof.
 
-This distinction is particularly important in UFO crash narratives because many body stories emerged years or decades after the alleged events. The longer the delay between an event and the first detailed account, the more difficult independent verification becomes. U.S. Air Force+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+This distinction is particularly important in UFO crash narratives because many body stories emerged years or decades after the alleged events. The longer the delay between an event and the first detailed account, the more difficult independent verification becomes. U.S. Air Force+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
 ## How Official Reviews Treat Missing Body Evidence
 
 Government reviews of UFO and UAP claims have generally applied a straightforward principle: extraordinary allegations require verifiable evidence.
 
-The U.S. Air Force's Roswell investigations concluded that available records did not support claims of recovered extraterrestrial [bodies]({{ 'bodies/' | relative_url }}) and attempted to identify more conventional explanations for reported body sightings. U.S. Air Force+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
+The U.S. Air Force's Roswell investigations concluded that available records did not support claims of recovered extraterrestrial [bodies]({{ 'bodies/' | relative_url }}) and attempted to identify more conventional explanations for reported body sightings. U.S. Air Force+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no verifiable evidence that UAP investigations had confirmed extraterrestrial technology, extraterrestrial activity, or recovered extraterrestrial biological remains. Its historical review also stated that no evidence of extraterrestrial origin was discovered in the material examined. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
+More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no verifiable evidence that UAP investigations had confirmed extraterrestrial technology, extraterrestrial activity, or recovered extraterrestrial biological remains. Its historical review also stated that no evidence of extraterrestrial origin was discovered in the material examined. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</span></span></span>
 
-NASA's independent UAP study likewise noted that peer-reviewed scientific literature has not produced conclusive evidence for an extraterrestrial origin of reported UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's independent UAP study likewise noted that peer-reviewed scientific literature has not produced conclusive evidence for an extraterrestrial origin of reported UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 These conclusions do not prove that alien bodies can never exist. Rather, they reflect a narrower judgment: the evidence currently presented has not met the standards required to establish such a claim.
 
@@ -449,178 +449,178 @@ If the answer to any of these questions is no, confidence in the claim falls sub
 That is why discussions of alien bodies ultimately return to the same issue. The strongest evidence would not be a story, a rumour, a leaked photograph, or a dramatic witness account. It would be a documented biological specimen that survives independent scrutiny and leaves a clear evidential trail from recovery to laboratory analysis.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Count as Alien Body Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Count as Alien Body Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidential standards, official investigations, records, and what would constitute credible UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidential standards, official investigations, records, and what would constitute credible UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how extraordinary claims should be evaluated using evidence, testing, documentation, and scientific reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how extraordinary claims should be evaluated using evidence, testing, documentation, and scientific reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mOqNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Helps readers assess why dramatic stories often spread despite weak physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess why dramatic stories often spread despite weak physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Unidentified flying objects, Sightings and encounters, Religious aspects, Folklore, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Unidentified flying objects, Sightings and encounters, Religious aspects, Folklore, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="evidence-test-what-would-count-as-alien-body-evidence-ufo-crashes-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,137 +826,137 @@ That is why discussions of alien bodies ultimately return to the same issue. The
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate da...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO is NOT currently accepting reports of UAP sightings/encounters from the general public. In the future, reporting elig...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO is NOT currently accepting reports of UAP sightings/encounters from the general public. In the future, reporting elig...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has discovered no verifiable evidence of extraterrestrial beings, a...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has discovered no verifiable evidence of extraterrestrial beings, a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of NASA&#x27;s key priorities is the search for life elsewhere in the universe: NASA has not found any credible evidence of extraterrestri...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of NASA&#x27;s key priorities is the search for life elsewhere in the universe: NASA has not found any credible evidence of extraterrestri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6099700/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft, astral projection, and the claim that razor blades stored in pyramids retain their edge longer. Unfortunately, Sagan di...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dafhistory.af.mil  
    Title: mil The Roswell Report  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force. At Bolling AFB, we are indebted to Col. George Williams... alien beings and elusive vehicles which never quite seem to m...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force. At Bolling AFB, we are indebted to Col. George Williams... alien beings and elusive vehicles which never quite seem to m...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396357928_Empirical_Evidence_Standards_and_Extraordinary_Claims_Comparing_the_Shroud_of_Turin_and_UFO_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396357928_Empirical_Evidence_Standards_and_Extraordinary_Claims_Comparing_the_Shroud_of_Turin_and_UFO_Encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the Shroud of Turin and UFO EncountersOct 14, 2025 — PDF | Lay Summary This study compares how different types of evidence affe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396357928_Empirical_Evidence_Standards_and_Extraordinary_Claims_Comparing_the_Shroud_of_Turin_and_UFO_Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396357928_Empirical_Evidence_Standards_and_Extraordinary_Claims_Comparing_the_Shroud_of_Turin_and_UFO_Encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the Shroud of Turin and UFO EncountersOct 14, 2025 — PDF | Lay Summary This study compares how different types of evidence affe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IndiaTodayNE/posts/a-team-of-mexican-doctors-has-conducted-comprehensive-examinations-on-the-allege/294085240004656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaTodayNE/posts/a-team-of-mexican-doctors-has-conducted-comprehensive-examinations-on-the-allege/294085240004656/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A team of Mexican doctors has conducted comprehensive...Full Video On: YouTube.com/@StrangeActivitiez #aliens #alien #ufo #area #ufos #s...</p></details>
+   Link:<a href="https://www.facebook.com/IndiaTodayNE/posts/a-team-of-mexican-doctors-has-conducted-comprehensive-examinations-on-the-allege/294085240004656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaTodayNE/posts/a-team-of-mexican-doctors-has-conducted-comprehensive-examinations-on-the-allege/294085240004656/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A team of Mexican doctors has conducted comprehensive...Full Video On: YouTube.com/@StrangeActivitiez #aliens #alien #ufo #area #ufos #s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: graham-pemberton.medium.com  
-   Link: <a href="https://graham-pemberton.medium.com/extraordinary-claims-require-extraordinary-evidence-the-ufo-question-and-carl-sagan-24e11ae06e56" target="_blank" rel="noopener noreferrer nofollow">https://graham-pemberton.medium.com/extraordinary-claims-require-extraordinary-evidence-the-ufo-question-and-carl-sagan-24e11ae06e56</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO question and Carl Sagan | by Graham PembertonI assume that these thousands of testimonies refer to UFO sightings, and those are not n...</p></details>
+   Link:<a href="https://graham-pemberton.medium.com/extraordinary-claims-require-extraordinary-evidence-the-ufo-question-and-carl-sagan-24e11ae06e56" target="_blank" rel="noopener noreferrer nofollow">https://graham-pemberton.medium.com/extraordinary-claims-require-extraordinary-evidence-the-ufo-question-and-carl-sagan-24e11ae06e56</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO question and Carl Sagan | by Graham PembertonI assume that these thousands of testimonies refer to UFO sightings, and those are not n...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/nova/aliens/carlsagan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/aliens/carlsagan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online/Kidnapped by UFOs/Carl SaganNOVA: In the absence of hard physical evidence about alien abductions, what does science tell us...</p></details>
+   Link:<a href="https://www.pbs.org/wgbh/nova/aliens/carlsagan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/aliens/carlsagan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online/Kidnapped by UFOs/Carl SaganNOVA: In the absence of hard physical evidence about alien abductions, what does science tell us...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: foxnews.com  
    Title: pentagon says no verifiable evidence extraterrestrial technology beings activity  
-   Link: <a href="https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says &#x27;no verifiable evidence&#x27; of extraterrestrial...14 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiab...</p></details>
+   Link:<a href="https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/pentagon-says-no-verifiable-evidence-extraterrestrial-technology-beings-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says &#x27;no verifiable evidence&#x27; of extraterrestrial...14 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiab...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: opb.org  
    Title: pentagon finds no evidence of alien technology in new ufo report  
-   Link: <a href="https://www.opb.org/article/2024/03/08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2024/03/08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>
+   Link:<a href="https://www.opb.org/article/2024/03/08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2024/03/08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wesa.fm  
    Title: pentagon finds no evidence of alien technology in new ufo report  
-   Link: <a href="https://www.wesa.fm/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wesa.fm/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>
+   Link:<a href="https://www.wesa.fm/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wesa.fm/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>

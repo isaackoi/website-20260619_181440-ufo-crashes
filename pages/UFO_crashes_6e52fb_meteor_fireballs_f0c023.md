@@ -448,7 +448,7 @@ image: /assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-overview-social
 
 ## Introduction
 
-A bright meteor can become a “UFO crash” story because it gives witnesses three things that feel crash-like: a sudden brilliant object, an apparent downward path, and sometimes a [delayed boom]({{ 'delayed-boom/' | relative_url }}) or ground-shaking sound. In most cases, however, the object is not falling nearby at all. It is a small natural body burning high in the atmosphere, often tens of kilometres above the ground, and it may disintegrate completely before anything can be recovered. A [fireball]({{ 'fireball/' | relative_url }}) is simply a very bright meteor; the American Meteor Society defines it as a meteor brighter than Venus, while the International Meteor Organization notes that even large fireballs usually last only a few seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
+A bright meteor can become a “UFO crash” story because it gives witnesses three things that feel crash-like: a sudden brilliant object, an apparent downward path, and sometimes a [delayed boom]({{ 'delayed-boom/' | relative_url }}) or ground-shaking sound. In most cases, however, the object is not falling nearby at all. It is a small natural body burning high in the atmosphere, often tens of kilometres above the ground, and it may disintegrate completely before anything can be recovered. A [fireball]({{ 'fireball/' | relative_url }}) is simply a very bright meteor; the American Meteor Society defines it as a meteor brighter than Venus, while the International Meteor Organization notes that even large fireballs usually last only a few seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-overview.webp" | relative_url }}" alt="Overview image for Meteors" loading="eager" decoding="sync" fetchpriority="high">
@@ -458,11 +458,11 @@ This matters for UFO crash claims because “it looked like it came down over th
 
 A fireball begins as a meteoroid, a natural fragment of rock or metal from space, entering Earth’s atmosphere at very high speed. Friction and compression heat the air around it, producing a bright streak. If it fragments, it may flare, shed pieces, leave a glowing train, or produce a terminal flash. To someone on the ground, that can look less like a distant astronomical event and more like a vehicle descending under power, breaking apart, or exploding.
 
-The most misleading feature is scale. A very small object can produce a huge visual impression. In June 2026, NASA-linked reporting on a Midwest fireball described an object only about 8 cm across and roughly 453 g in mass, yet it was estimated to have become many times brighter than Venus and was reported by more than 500 witnesses across a long path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span> That combination — tiny source, vast visibility — is exactly why fireballs can sound implausible when explained after the fact. The witness sees a sky-filling flash; the astronomer may be describing a stone smaller than a fist.
+The most misleading feature is scale. A very small object can produce a huge visual impression. In June 2026, NASA-linked reporting on a Midwest fireball described an object only about 8 cm across and roughly 453 g in mass, yet it was estimated to have become many times brighter than Venus and was reported by more than 500 witnesses across a long path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</span></span></span> That combination — tiny source, vast visibility — is exactly why fireballs can sound implausible when explained after the fact. The witness sees a sky-filling flash; the astronomer may be describing a stone smaller than a fist.
 
-Fireballs also invite crash interpretations because some do produce sound. The American Meteor Society distinguishes delayed sonic booms from rarer reports of simultaneous “electrophonic” sounds. A delayed boom can arrive well after the flash because sound travels much more slowly than light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span> That delay can split one event into two perceived incidents: first, “something flew over”; then, “something hit”. In a dark, startled neighbourhood, that sequence can easily become a report of a nearby crash.
+Fireballs also invite crash interpretations because some do produce sound. The American Meteor Society distinguishes delayed sonic booms from rarer reports of simultaneous “electrophonic” sounds. A delayed boom can arrive well after the flash because sound travels much more slowly than light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span> That delay can split one event into two perceived incidents: first, “something flew over”; then, “something hit”. In a dark, startled neighbourhood, that sequence can easily become a report of a nearby crash.
 
-The strongest real-world example is the Chelyabinsk meteor of 15 February 2013. NASA described a house-sized asteroid entering over Russia at more than 11 miles per second, breaking apart about 14 miles above the ground and releasing energy equivalent to roughly 440,000 tons of TNT. The shock wave blew out windows across a wide area and injured more than 1,600 people, mostly through broken glass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Five Years after the Chelyabinsk Meteor</span><span class="citation-popover-snippet">Five Years after the Chelyabinsk Meteor</span></span></span> Chelyabinsk was not a UFO crash, but it shows why witnesses can reasonably report explosion, damage and fear during a meteor event.
+The strongest real-world example is the Chelyabinsk meteor of 15 February 2013. NASA described a house-sized asteroid entering over Russia at more than 11 miles per second, breaking apart about 14 miles above the ground and releasing energy equivalent to roughly 440,000 tons of TNT. The shock wave blew out windows across a wide area and injured more than 1,600 people, mostly through broken glass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Five Years after the Chelyabinsk Meteor</span><span class="citation-popover-snippet">Five Years after the Chelyabinsk Meteor</span></span></span> Chelyabinsk was not a UFO crash, but it shows why witnesses can reasonably report explosion, damage and fear during a meteor event.
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-1-dark.svg" | relative_url }}" alt="Meteors illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -472,9 +472,9 @@ Most crash confusion starts with an honest perceptual error. Human vision is poo
 
 The problem is not that witnesses are foolish. It is that a fireball gives the eye very little reliable depth information. A glowing streak high in the atmosphere can line up with a local tree, roofline or hill, making it appear to pass “behind” a nearby object. The observer’s brain then supplies a local distance. If several people in different places do the same thing, they may all report that the object came down “nearby”, even though their “nearby” locations are separated by many kilometres.
 
-This is why meteor organisations ask for structured reports rather than just impressions. Fireball reporting forms ask where the observer was, which direction they faced, how high above the horizon the object began and ended, how long it lasted, and whether any sound followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rfo.org">[Robert Ferguson Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rfo.org</span><span class="citation-popover-snippet">Open source on rfo.org.</span></span></span> The International Meteor Organization explains that reports from multiple witnesses can be combined to estimate a trajectory and assess whether a fall may have occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireball-report-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
+This is why meteor organisations ask for structured reports rather than just impressions. Fireball reporting forms ask where the observer was, which direction they faced, how high above the horizon the object began and ended, how long it lasted, and whether any sound followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rfo.org">[Robert Ferguson Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rfo.org</span><span class="citation-popover-snippet">Open source on rfo.org.</span></span></span> The International Meteor Organization explains that reports from multiple witnesses can be combined to estimate a trajectory and assess whether a fall may have occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireball-report-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
 
-Even then, eyewitness-only reconstruction has limits. A NASA-linked study comparing eyewitness-derived trajectories with observations from the NASA All Sky Fireball Network found that some cases produced good trajectory estimates while others produced poor ones, reflecting the difficulty of reconstructing a meteor’s path from human reports alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Comparing eyewitness-derived trajectories of bright</span><span class="citation-popover-snippet">Technical Reports Server Comparing eyewitness-derived trajectories of bright</span></span></span> Dedicated fireball camera networks improve the situation because they capture the same event from multiple known locations, allowing scientists to triangulate the path and, in favourable cases, predict where meteorites may have fallen.
+Even then, eyewitness-only reconstruction has limits. A NASA-linked study comparing eyewitness-derived trajectories with observations from the NASA All Sky Fireball Network found that some cases produced good trajectory estimates while others produced poor ones, reflecting the difficulty of reconstructing a meteor’s path from human reports alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Comparing eyewitness-derived trajectories of bright</span><span class="citation-popover-snippet">Technical Reports Server Comparing eyewitness-derived trajectories of bright</span></span></span> Dedicated fireball camera networks improve the situation because they capture the same event from multiple known locations, allowing scientists to triangulate the path and, in favourable cases, predict where meteorites may have fallen.
 
 ## When a meteor explanation fits a UFO crash claim
 
@@ -482,12 +482,12 @@ A meteor explanation is strongest when the reported “crash” has the signatur
 
 Meteor explanations fit especially well when:
 
-* The event lasted only a few seconds. The International Meteor Organization states that large fireballs rarely last more than 5–10 seconds; objects lasting longer than that are more likely to be satellites, aircraft or other sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">s it is most likely a satellite or...Read more...</span></span></span>
+* The event lasted only a few seconds. The International Meteor Organization states that large fireballs rarely last more than 5–10 seconds; objects lasting longer than that are more likely to be satellites, aircraft or other sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">s it is most likely a satellite or...Read more...</span></span></span>
 * The object was seen across a wide region. A genuine local crash normally has a local witness field. A high-altitude meteor can generate reports from several states, provinces or countries.
 * Witnesses disagree about where it came down. Reports of “it landed just beyond town” from widely separated observers usually indicate a high, distant object rather than multiple nearby impacts.
 * There is a delayed boom but no [impact site]({{ 'impact-site/' | relative_url }}). A sonic boom from fragmentation can shake buildings without any object striking the ground nearby.
 * No debris, crater, burn scar or recovery trail appears. A crash story should become more evidential after daylight searches; many meteor-driven crash claims instead fade when no local wreckage is found.
-* Meteor organisations record a matching fireball at the same time. Databases from groups such as the American Meteor Society and the International Meteor Organization are often decisive because they gather independent reports from a broad area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+* Meteor organisations record a matching fireball at the same time. Databases from groups such as the American Meteor Society and the International Meteor Organization are often decisive because they gather independent reports from a broad area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 The reverse is also true. A meteor explanation becomes weaker if the event involved prolonged hovering, repeated manoeuvres, low-altitude interaction with terrain, radar-confirmed controlled movement, or recoverable engineered debris with a documented chain of custody. Those are not typical fireball features. The point is not to force every UFO report into a meteor box; it is to recognise the particular conditions under which meteors are a good fit.
 
@@ -496,9 +496,9 @@ The reverse is also true. A meteor explanation becomes weaker if the event invol
 
 ## The Las Vegas backyard story shows the mechanism clearly
 
-The 2023 Las Vegas “alien in the backyard” case is a modern example of how a fireball can become attached to a crash story. Around the time of the incident, a green fireball was reported across parts of the western United States. Business Insider reported that the American Meteor Society received 21 reports of a fireball before the Las Vegas family’s 911 call about a supposed crashed object and beings in a backyard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span></span></span>
+The 2023 Las Vegas “alien in the backyard” case is a modern example of how a fireball can become attached to a crash story. Around the time of the incident, a green fireball was reported across parts of the western United States. Business Insider reported that the American Meteor Society received 21 reports of a fireball before the Las Vegas family’s 911 call about a supposed crashed object and beings in a backyard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span></span></span>
 
-NASA’s planetary defence officer Lindley Johnson was later reported as saying the green fireball was likely a bright meteor less than a metre across and not a UFO that had fallen into anyone’s backyard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Aliens in a Las Vegas Backyard</span><span class="citation-popover-snippet">Skeptical Inquirer Aliens in a Las Vegas Backyard</span></span></span> That distinction is important. A meteor can explain the sky flash without explaining every human reaction that followed. The family may have sincerely interpreted noises, shadows or fear through the lens of the fireball; the meteor explanation addresses the aerial trigger, not every later claim about what people thought they saw on the ground.
+NASA’s planetary defence officer Lindley Johnson was later reported as saying the green fireball was likely a bright meteor less than a metre across and not a UFO that had fallen into anyone’s backyard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Aliens in a Las Vegas Backyard</span><span class="citation-popover-snippet">Skeptical Inquirer Aliens in a Las Vegas Backyard</span></span></span> That distinction is important. A meteor can explain the sky flash without explaining every human reaction that followed. The family may have sincerely interpreted noises, shadows or fear through the lens of the fireball; the meteor explanation addresses the aerial trigger, not every later claim about what people thought they saw on the ground.
 
 The case also shows how timing can weld separate elements into one narrative. A visible streak, a police body-camera flash, a frightened call, local rumours and online frame-by-frame analysis quickly became one story: a UFO crashed, and beings emerged. But the best-supported component was the regional fireball. The “crash” element did not produce the kind of physical evidence that a landed object should leave.
 
@@ -506,11 +506,11 @@ The case also shows how timing can weld separate elements into one narrative. A 
 
 A common objection is simple: if a fireball was real, where is the rock? The answer is that many meteoroids burn up or fragment so completely that no recoverable material is found. Others may drop small meteorites into forests, fields, water, mountains or private land where no one notices them. The absence of recovered stones does not by itself make the fireball suspicious.
 
-Scientific recovery requires far more than someone pointing towards a horizon. Researchers need a calculated fall area, ideally from cameras, radar, satellite data or multiple well-located eyewitness reports. The Desert Fireball Network and similar systems exist for this reason: instrumented observations can turn a spectacular sight into a predicted search zone. One 2022 study reported a fresh meteorite recovery in Western Australia using fireball network data, drones and machine learning, with a 70 g meteorite found within 50 m of the calculated fall line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.01466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Scientific recovery requires far more than someone pointing towards a horizon. Researchers need a calculated fall area, ideally from cameras, radar, satellite data or multiple well-located eyewitness reports. The Desert Fireball Network and similar systems exist for this reason: instrumented observations can turn a spectacular sight into a predicted search zone. One 2022 study reported a fresh meteorite recovery in Western Australia using fireball network data, drones and machine learning, with a 70 g meteorite found within 50 m of the calculated fall line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.01466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 That kind of recovery work highlights the difference between a meteorite fall and a UFO crash claim. Meteorite search teams expect small, natural stones with fusion crusts, not machinery, cabins, propulsion systems or bodies. A successful meteorite recovery strengthens the natural explanation; a failed recovery usually means the object did not survive, fell somewhere inaccessible, or was too small to find.
 
-Water landings complicate matters further. In May 2026, a meteor over New England produced widespread boom reports, and NASA-linked coverage indicated that any surviving fragments likely ended up in or near Cape Cod Bay, making recovery difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA noted that the meteor was not part of a recognized meteor shower. The flash from the explosion was captured by the satellite&#x27;s light...</span></span></span> A witness could describe that as “something crashed”, while the practical evidence would be a high-altitude fragmentation event and perhaps unrecovered stones on the seabed.
+Water landings complicate matters further. In May 2026, a meteor over New England produced widespread boom reports, and NASA-linked coverage indicated that any surviving fragments likely ended up in or near Cape Cod Bay, making recovery difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA noted that the meteor was not part of a recognized meteor shower. The flash from the explosion was captured by the satellite&#x27;s light...</span></span></span> A witness could describe that as “something crashed”, while the practical evidence would be a high-altitude fragmentation event and perhaps unrecovered stones on the seabed.
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-2-dark.svg" | relative_url }}" alt="Meteors illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -518,7 +518,7 @@ Water landings complicate matters further. In May 2026, a meteor over New Englan
 
 Colour often pushes a meteor report towards UFO language. Witnesses commonly describe green, blue-white, orange or red flashes, and green fireballs in particular have a long association with UFO speculation. The colour can seem technological, as if the object has lights or propulsion, but colour in a meteor can arise from a mix of speed, temperature, atmospheric gases and the material being ablated from the meteoroid.
 
-The phrase “green fireball” has been part of UFO history since the early Cold War, especially in New Mexico, where unusual green fireball reports near sensitive military and nuclear sites attracted official and public concern. Popular histories of that period show how easily a striking meteor-like phenomenon could be interpreted through the fears of its time: secret weapons, foreign technology or extraterrestrial probes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAWhen Mysterious Green Fireballs Worried the US</span><span class="citation-popover-snippet">CHANNEL ITALIAWhen Mysterious Green Fireballs Worried the US</span></span></span>
+The phrase “green fireball” has been part of UFO history since the early Cold War, especially in New Mexico, where unusual green fireball reports near sensitive military and nuclear sites attracted official and public concern. Popular histories of that period show how easily a striking meteor-like phenomenon could be interpreted through the fears of its time: secret weapons, foreign technology or extraterrestrial probes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">CHANNEL ITALIAWhen Mysterious Green Fireballs Worried the US</span><span class="citation-popover-snippet">CHANNEL ITALIAWhen Mysterious Green Fireballs Worried the US</span></span></span>
 
 Modern reporting has changed the speed but not the mechanism. A bright green streak appears on a doorbell camera or police body camera; social media clips detach it from astronomical context; nearby witnesses supply a crash location; and the story becomes a UFO incident before meteor observers have finished correlating reports. The colour feels meaningful, but by itself it is not evidence of control, structure or non-natural origin.
 
@@ -542,7 +542,7 @@ For UFO crash assessment, the most useful questions are:
 
 </div>
 
-NASA’s UAP work emphasises the need for higher-quality data, because many reports suffer from limited observations, missing context and inadequate sensor information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> Fireball confusion is a clear example of why that matters. A spectacular witness account can be sincere and still be physically mislocated; a dramatic boom can be real and still come from an airburst; a “falling object” can be natural and leave no spacecraft debris.
+NASA’s UAP work emphasises the need for higher-quality data, because many reports suffer from limited observations, missing context and inadequate sensor information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> Fireball confusion is a clear example of why that matters. A spectacular witness account can be sincere and still be physically mislocated; a dramatic boom can be real and still come from an airburst; a “falling object” can be natural and leave no spacecraft debris.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
@@ -560,194 +560,194 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a Fireball Become a Crash Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a Fireball Become a Crash Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how UFO reports are interpreted and investigated, providing context for misidentified astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how UFO reports are interpreted and investigated, providing context for misidentified astronomical events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Helen Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
+</h4>
+<p class="fr-book-author">By Helen Gordon</p>
         
-        <p class="fr-book-desc">Focuses on witnessed falls, recovered meteorites, and the human stories that emerge from dramatic sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witnessed falls, recovered meteorites, and the human stories that emerge from dramatic sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dZi_wfCqDBwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison</p>
         
-        <p class="fr-book-desc">Explains the nature of meteors and meteorites, helping readers understand when fireball observations can generate crash claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the nature of meteors and meteorites, helping readers understand when fireball observations can generate crash claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Helps readers understand fireball observation, meteor behavior, and evidence needed to distinguish real falls from mistaken reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand fireball observation, meteor behavior, and evidence needed to distinguish real falls from mistaken reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteors-did-a-fireball-become-a-crash-story-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -763,7 +763,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -783,7 +783,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -815,7 +815,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -867,7 +867,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -912,7 +912,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -953,238 +953,238 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s it is most likely a satellite or...Read more...</p></details>
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s it is most likely a satellite or...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, traveling at an astonishing speed of 56,000 mph (90,123 km/h), first appeared over Tupelo, Mississippi, at 11:26 p.m. EDT bef...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: Five Years after the Chelyabinsk Meteor  
-   Link: <a href="https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/</a>  
+   Link:<a href="https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireball-report-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireball-report-program/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireball-report-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireball-report-program/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Comparing eyewitness-derived trajectories of bright  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20160008877/downloads/20160008877.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2203.01466" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.01466</a>  
+   Link:<a href="https://arxiv.org/abs/2203.01466" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.01466</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA noted that the meteor was not part of a recognized meteor shower. The flash from the explosion was captured by the satellite&#x27;s light...</p></details>
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/massive-boom-over-northeastern-us-was-a-meteor-explosion-as-powerful-as-300-tons-of-tnt-nasa-confirms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA noted that the meteor was not part of a recognized meteor shower. The flash from the explosion was captured by the satellite&#x27;s light...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: CHANNEL ITALIAWhen Mysterious Green Fireballs Worried the US  
-   Link: <a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
+   Link:<a href="https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20120004179" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20120004179</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20120004179" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20120004179</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
    Title: 115 years ago the tunguska asteroid impact event  
-   Link: <a href="https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/</a>  
+   Link:<a href="https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
+   Link:<a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fireball.imo.net  
    Title: browse events  
-   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
+   Link:<a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: neo.ssa.esa.int  
    Title: int Fireballs  
-   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
+   Link:<a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: planetary.org  
    Title: what was the chelyabinsk meteor event  
-   Link: <a href="https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event</a>  
+   Link:<a href="https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/faqf/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rfo.org  
-   Link: <a href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://rfo.org/index.php/report-a-fireball/</a>  
+   Link:<a href="https://rfo.org/index.php/report-a-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://rfo.org/index.php/report-a-fireball/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: businessinsider.com  
    Title: Business Insider Las Vegas Family Reports Aliens in Backyard but Cops  
-   Link: <a href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6</a>  
+   Link:<a href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Aliens in a Las Vegas Backyard  
-   Link: <a href="https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/aliens-in-a-las-vegas-backyard/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
+   Link:<a href="https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/danskoff/posts/new-update-american-meteor-society-has-a-report-on-thisfireball-meteor-did-you-h/2630929023584303/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Chelyabinsk meteor  
-   Link: <a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
+   Link:<a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
-   Link: <a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
+   Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: fireball.amsmeteors.org  
    Title: view video  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_video/view_video?video_id=22154" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_video/view_video?video_id=22154</a>  
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_video/view_video?video_id=22154" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_video/view_video?video_id=22154</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: fireball.amsmeteors.org  
-   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
+   Link:<a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/videos/?video_id=13921" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos/?video_id=13921</a>  
+   Link:<a href="https://www.amsmeteors.org/videos/?video_id=13921" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/videos/?video_id=13921</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: scistarter.org  
    Title: American Meteor Society  
-   Link: <a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
+   Link:<a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alleged Las Vegas alien sighting: What happened in 2023? | UFO Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alleged Las Vegas alien sighting: What happened in 2023? | UFO Mysteries...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vkZszbMzl3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkZszbMzl3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Nearly 50 years later, Kecksburg UFO sighting remains mystery  
-   Link: <a href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VM68dQjp4-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VM68dQjp4-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VM68dQjp4-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Mystery: Secrets, Witnesses and Vanished Evidence...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/like-an-explosion-plane-crash-meteor-triggers-sonic-boom-in-victoria-australia-f/1110396311199542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/like-an-explosion-plane-crash-meteor-triggers-sonic-boom-in-victoria-australia-f/1110396311199542/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/like-an-explosion-plane-crash-meteor-triggers-sonic-boom-in-victoria-australia-f/1110396311199542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/like-an-explosion-plane-crash-meteor-triggers-sonic-boom-in-victoria-australia-f/1110396311199542/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/dyhfv5/1111_missouri_meteor_fireball_position/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/dyhfv5/1111_missouri_meteor_fireball_position/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/dyhfv5/1111_missouri_meteor_fireball_position/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/dyhfv5/1111_missouri_meteor_fireball_position/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZCTpZCDWUg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZCTpZCDWUg/</a>  
+   Link:<a href="https://www.instagram.com/p/DZCTpZCDWUg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZCTpZCDWUg/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StarWalkApp/posts/-a-mysterious-fireball-over-moscow-early-this-morning-a-spectacular-bolide-lit-u/1269614241872755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarWalkApp/posts/-a-mysterious-fireball-over-moscow-early-this-morning-a-spectacular-bolide-lit-u/1269614241872755/</a>  
+   Link:<a href="https://www.facebook.com/StarWalkApp/posts/-a-mysterious-fireball-over-moscow-early-this-morning-a-spectacular-bolide-lit-u/1269614241872755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarWalkApp/posts/-a-mysterious-fireball-over-moscow-early-this-morning-a-spectacular-bolide-lit-u/1269614241872755/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: thehistoryreader.com  
-   Link: <a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>  
+   Link:<a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/</a>  
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1ot58qw/any_way_to_validate_a_large_meteor_sighting/</a>  

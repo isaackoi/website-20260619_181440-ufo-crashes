@@ -458,7 +458,7 @@ This is why chain of custody matters. It does not prove that a material is ordin
 
 A laboratory can say what a sample is made of. It usually cannot, by itself, prove the story of how the sample entered the world. That distinction is central to crash-retrieval claims. A fragment may contain unusual layering, uncommon alloy combinations, corrosion, heat damage or odd isotopic ratios, but those features still need a documented [provenance]({{ 'provenance/' | relative_url }}) before they can be linked to a specific crash event.
 
-In forensic settings, chain of custody is the recorded path of [evidence]({{ 'evidence/' | relative_url }}) from collection to presentation. It documents who collected the item, when, where, how it was packaged, who handled it, how it was stored, and when it changed hands. The purpose is to prevent substitution, tampering, damage, contamination, mistaken identity or falsification. The US National Institute of Justice describes chain of custody as a recorded means of verifying where evidence travelled and who handled it, precisely to guard against those failure modes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">chain custody</span></span></span>
+In forensic settings, chain of custody is the recorded path of [evidence]({{ 'evidence/' | relative_url }}) from collection to presentation. It documents who collected the item, when, where, how it was packaged, who handled it, how it was stored, and when it changed hands. The purpose is to prevent substitution, tampering, damage, contamination, mistaken identity or falsification. The US National Institute of Justice describes chain of custody as a recorded means of verifying where evidence travelled and who handled it, precisely to guard against those failure modes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">chain custody</span></span></span>
 
 Applied to UFO crashes, the standard is not a bureaucratic nicety. It is the difference between “this material has interesting properties” and “this material was recovered from the alleged crash site under conditions that support the claim”. A credible recovery record would normally include:
 
@@ -485,11 +485,11 @@ The higher the claim, the more these mundane details matter. A suspected meteori
 
 The first custody problem often appears before any laboratory sees a sample. UFO crash stories frequently begin with late recollections, newspaper accounts, military rumours, privately held fragments, or witness reports that someone else removed material from a field, desert, beach or waterway. Those accounts may be worth recording, but they are not equivalent to controlled recovery.
 
-Roswell illustrates the problem in a famous form. The US Government Accountability Office searched for records concerning the 1947 event and found two contemporary records directly mentioning the Roswell matter: a unit history noting recovery of a “flying disc” later identified by military officials as a radar-tracking balloon, and an FBI teletype saying the recovered object resembled a high-altitude weather balloon with a radar reflector. The GAO also found that some Roswell Army Air Field records had been destroyed, and that the disposition form did not show who destroyed them, when, or under what authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records</span></span></span>
+Roswell illustrates the problem in a famous form. The US Government Accountability Office searched for records concerning the 1947 event and found two contemporary records directly mentioning the Roswell matter: a unit history noting recovery of a “flying disc” later identified by military officials as a radar-tracking balloon, and an FBI teletype saying the recovered object resembled a high-altitude weather balloon with a radar reflector. The GAO also found that some Roswell Army Air Field records had been destroyed, and that the disposition form did not show who destroyed them, when, or under what authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records</span></span></span>
 
 That missing-record problem matters, but not in the way popular arguments sometimes imply. Destroyed or absent files can weaken confidence in official completeness. They do not automatically create a positive chain of custody for alien wreckage. In Roswell, the documentary trail that survives does not show an unbroken path from a crash site to a laboratory holding non-human technology; it shows a thin and contested paper record around a recovered object, followed by decades of later elaboration.
 
-The same issue appears in smaller material cases. The [Ubatuba magnesium]({{ 'ubatuba-c1b7c1/' | relative_url }}) fragments, linked in UFO literature to an alleged 1957 event in Brazil, have been tested repeatedly. A 2022 paper in the Journal of Scientific Exploration reported that magnesium isotope ratios fell within terrestrial limits, while trace-element isotope results were inconclusive. The authors also reviewed a long history of earlier testing across several laboratories. That history makes the sample interesting as a materials case, but it also highlights the custody difficulty: the central question is not only what the fragment contains, but whether it can be securely tied to the reported event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Isotope Ratios and Chemical Analysis of the 1957 Brazilian Ubatuba Fragment &#124; Journal of Scientific Exploration...</span></span></span>
+The same issue appears in smaller material cases. The [Ubatuba magnesium]({{ 'ubatuba-c1b7c1/' | relative_url }}) fragments, linked in UFO literature to an alleged 1957 event in Brazil, have been tested repeatedly. A 2022 paper in the Journal of Scientific Exploration reported that magnesium isotope ratios fell within terrestrial limits, while trace-element isotope results were inconclusive. The authors also reviewed a long history of earlier testing across several laboratories. That history makes the sample interesting as a materials case, but it also highlights the custody difficulty: the central question is not only what the fragment contains, but whether it can be securely tied to the reported event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Isotope Ratios and Chemical Analysis of the 1957 Brazilian Ubatuba Fragment &#124; Journal of Scientific Exploration...</span></span></span>
 
 For crash retrievals, the most valuable recovery evidence is usually boring: sealed bags, site grids, photographs, contemporaneous notes and signed transfers. Without them, later testing begins on uncertain ground.
 
@@ -499,13 +499,13 @@ Once a sample leaves the recovery site, the custody problem changes. The risks a
 
 This is not unique to UFO cases. Materials change. Magnesium oxidises. Aluminium alloys corrode. Surface residues can be introduced by soil, seawater, adhesive tape, containers, cutting tools, drilling, polishing compounds or human handling. Destructive testing can remove the very context needed to interpret the object later. Even non-destructive testing can be hard to interpret if the analyst does not know which surface is original, which has been machined, and which has been exposed to decades of air, moisture or heat.
 
-The modern AARO and Oak Ridge National Laboratory analyses of alleged UAP materials show how this plays out. In one case, AARO asked ORNL to examine a layered magnesium-zinc-bismuth specimen publicly claimed to have come from a UAP crash around 1947 and to have unusual antigravity-related properties. ORNL noted that the long chain of custody could not be verified, but tested the specimen anyway because of public and media interest. Its analyses used microscopy, spectroscopy and spectrometry, and found that the material data supported terrestrial origin rather than non-terrestrial manufacture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen</span></span></span>
+The modern AARO and Oak Ridge National Laboratory analyses of alleged UAP materials show how this plays out. In one case, AARO asked ORNL to examine a layered magnesium-zinc-bismuth specimen publicly claimed to have come from a UAP crash around 1947 and to have unusual antigravity-related properties. ORNL noted that the long chain of custody could not be verified, but tested the specimen anyway because of public and media interest. Its analyses used microscopy, spectroscopy and spectrometry, and found that the material data supported terrestrial origin rather than non-terrestrial manufacture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen</span></span></span>
 
-AARO’s supplement was even more direct about the custody gap. It said neither AARO nor ORNL could verify the specimen’s historical origin, and that unverifiable, conflicting personal accounts complicated its undocumented chain of custody. The agency assessed the material as likely a test object, manufacturing product or byproduct, or component from aerospace materials studies, rather than an exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">s Supplement to Oak Ridge National Laboratory&#x27;s Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">s Supplement to Oak Ridge National Laboratory&#x27;s Analysis of a Metallic Specimen</span></span></span>
+AARO’s supplement was even more direct about the custody gap. It said neither AARO nor ORNL could verify the specimen’s historical origin, and that unverifiable, conflicting personal accounts complicated its undocumented chain of custody. The agency assessed the material as likely a test object, manufacturing product or byproduct, or component from aerospace materials studies, rather than an exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">s Supplement to Oak Ridge National Laboratory&#x27;s Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">s Supplement to Oak Ridge National Laboratory&#x27;s Analysis of a Metallic Specimen</span></span></span>
 
 That conclusion does not depend only on custody. ORNL also found that the specimen’s structure and composition did not meet the requirements claimed for a bismuth-based terahertz waveguide, and that its isotopic signature was terrestrial. But the custody issue limits what even sophisticated testing can resolve. A lab can say, “This sample appears terrestrial.” It cannot reconstruct an undocumented journey through decades of private possession and rumour.
 
-A second ORNL case is a useful contrast. A metallic specimen reportedly recovered from private property in Ohio in the mid-1990s was claimed to have anomalous composition. ORNL received drill shavings and a small sectioned piece, performed multiple cross-validated measurements, and concluded it was a conventional aluminium-silicon casting alloy consistent with known industrial practice. The report specifically noted ordinary casting pores, standard second phases, no abnormal gamma emission and chemistry matching common 300/400-series casting alloys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of an Aluminum Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of an Aluminum Specimen</span></span></span>
+A second ORNL case is a useful contrast. A metallic specimen reportedly recovered from private property in Ohio in the mid-1990s was claimed to have anomalous composition. ORNL received drill shavings and a small sectioned piece, performed multiple cross-validated measurements, and concluded it was a conventional aluminium-silicon casting alloy consistent with known industrial practice. The report specifically noted ordinary casting pores, standard second phases, no abnormal gamma emission and chemistry matching common 300/400-series casting alloys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of an Aluminum Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of an Aluminum Specimen</span></span></span>
 
 Here again, testing was valuable — but it resolved the material, not the folklore around it. The results showed no need to invoke exotic origin. The custody trail did not have to explain a mystery because the material itself fitted ordinary metallurgy.
 
@@ -518,11 +518,11 @@ UFO crash discussions often treat advanced laboratory methods as though they can
 
 This is especially important for isotopes. Isotopic ratios can help distinguish terrestrial, meteoritic, lunar, industrial or contaminated sources in some contexts. But a terrestrial isotope result does not prove a witness never saw anything unusual, and an unusual result would not, by itself, prove a crashed alien craft. It would first raise more controlled questions: was the measurement replicated? Was the sample contaminated? Was there fractionation during manufacture or weathering? Were standards used properly? Is there a known industrial process that can produce the result? Are comparison samples available?
 
-The NASA independent UAP study made a related point for observational data: analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. The report emphasised the need for well-calibrated, multi-sensor data and strong standards for collection, curation and distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The NASA independent UAP study made a related point for observational data: analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. The report emphasised the need for well-calibrated, multi-sensor data and strong standards for collection, curation and distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 The same principle applies to physical debris. A sample without metadata is like a video without time, location, sensor settings or range: it may be intriguing, but its interpretive power is limited. A laboratory report becomes much stronger when it is paired with site evidence, comparison controls, custody records and independent replication.
 
-The Galileo Project’s proposed UAP observatory approach shows the direction scientific investigators are trying to move: multiple sensor modalities, multispectral observations, triangulation, environmental sensors and corroborating data designed to recognise artefacts and make detections verifiable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That approach is not a crash-retrieval protocol in itself, but it reflects the same lesson: the evidence must be collected in a way that preserves context from the beginning, not reconstructed after belief has formed.
+The Galileo Project’s proposed UAP observatory approach shows the direction scientific investigators are trying to move: multiple sensor modalities, multispectral observations, triangulation, environmental sensors and corroborating data designed to recognise artefacts and make detections verifiable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That approach is not a crash-retrieval protocol in itself, but it reflects the same lesson: the evidence must be collected in a way that preserves context from the beginning, not reconstructed after belief has formed.
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d-Illustration-3-dark.svg" | relative_url }}" alt="Custody illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -544,9 +544,9 @@ This is the custody question. It requires a documented path from alleged recover
 
 Many crash-retrieval claims blur these questions. A material is presented as odd, then the oddness is treated as evidence of the crash story. But if the custody record is weak, the argument can become circular: the sample is important because it came from a UFO, and it came from a UFO because it is important.
 
-That is why AARO’s 2024 historical review is relevant even for readers who do not accept its conclusions wholesale. The report describes a persistent public narrative that the US Government recovered off-world spacecraft and biological remains, but says AARO found no verifiable evidence that the US Government or private industry had access to extraterrestrial technology. It also says many unresolved cases would probably be resolved as ordinary objects or phenomena if additional quality data were available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+That is why AARO’s 2024 historical review is relevant even for readers who do not accept its conclusions wholesale. The report describes a persistent public narrative that the US Government recovered off-world spacecraft and biological remains, but says AARO found no verifiable evidence that the US Government or private industry had access to extraterrestrial technology. It also says many unresolved cases would probably be resolved as ordinary objects or phenomena if additional quality data were available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-The word “verifiable” is doing much of the work. A claim based on unnamed sources, alleged briefings, missing documents or privately held fragments may be politically or culturally significant, but it is not yet the same as a recoverable evidence trail. Congressional testimony by David Grusch in 2023 raised dramatic allegations about a multi-decade crash-retrieval and reverse-engineering programme, including claims about non-human biological material, but the public hearing did not produce physical specimens, laboratory records or a public custody trail for such material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
+The word “verifiable” is doing much of the work. A claim based on unnamed sources, alleged briefings, missing documents or privately held fragments may be politically or culturally significant, but it is not yet the same as a recoverable evidence trail. Congressional testimony by David Grusch in 2023 raised dramatic allegations about a multi-decade crash-retrieval and reverse-engineering programme, including claims about non-human biological material, but the public hearing did not produce physical specimens, laboratory records or a public custody trail for such material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
 
 This leaves investigators with a difficult balance. They should not dismiss all claims merely because they are extraordinary. But neither should they let [secrecy]({{ 'secrecy/' | relative_url }}), stigma or dramatic testimony substitute for traceable evidence.
 
@@ -556,7 +556,7 @@ This leaves investigators with a difficult balance. They should not dismiss all 
 
 A genuinely strong crash-retrieval case would not need to rely on a single spectacular fragment. It would be cumulative and boringly well documented. The recovery scene would be preserved quickly. Samples would be taken from the object, surrounding soil, vegetation, water and control locations. Every item would be sealed, labelled and photographed. Multiple laboratories would receive documented splits of the same parent sample. Destructive testing would be planned so that enough original material remained for independent reanalysis. All unusual findings would be checked against industrial, aerospace, geological, meteoritic and contamination explanations.
 
-Public institutions are slowly moving towards infrastructure that could make this easier for future cases. The National Archives has established Record Group 615 for UAP records under the 2024 National Defense Authorization Act, and says it will add UAP records from federal agencies on a rolling basis as they are received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span> AARO has also released records and information papers, including laboratory analyses and workshop material on UAP narrative data, infrastructure and metadata. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
+Public institutions are slowly moving towards infrastructure that could make this easier for future cases. The National Archives has established Record Group 615 for UAP records under the 2024 National Defense Authorization Act, and says it will add UAP records from federal agencies on a rolling basis as they are received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span> AARO has also released records and information papers, including laboratory analyses and workshop material on UAP narrative data, infrastructure and metadata.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
 For physical crash claims, however, archives alone are not enough. The decisive evidence would be a joined-up record: field recovery, custody, storage, testing and independent confirmation. That is the standard that would let a reader distinguish between an unusual object with an interesting story and an extraordinary object with a demonstrable history.
 
@@ -574,194 +574,194 @@ The strongest UFO crash claim would be one in which the material, the site recor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Chain of Custody Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Chain of Custody Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains why documentation, records, and verifiable evidence matter in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why documentation, records, and verifiable evidence matter in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Frequently examines claims, witnesses, records, and evidentiary weaknesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently examines claims, witnesses, records, and evidentiary weaknesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Provides background on chain of custody and evidence handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on chain of custody and evidence handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO claims using structured investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO claims using structured investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+"><img src="{{ '/assets/images/marketplace-covers/1ae3ba0ac2f01878104f.jpg' | relative_url }}" alt="Listing image for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+"><img src="{{ '/assets/images/marketplace-covers/1ae3ba0ac2f01878104f.jpg' | relative_url }}" alt="Listing image for UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Figure Toy Extraterrestrial Alien Space Very Good For Ages 14+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift"><img src="{{ '/assets/images/marketplace-covers/11ad7281ec7ae75872a2.jpg' | relative_url }}" alt="Listing image for Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Figure on Display Stand – Metallic Bronze UFO Lore Statue | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/6086c63050eecd0ae43d.jpg' | relative_url }}" alt="Listing image for Green alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green alien figurine on a stand model Area 51 UFO space alien 24cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/6086c63050eecd0ae43d.jpg' | relative_url }}" alt="Listing image for Green alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green alien figurine on a stand model Area 51 UFO space alien 24cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible figure" data-ebay-reference="custody-why-chain-of-custody-matters-ufo-crashes-ufo-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -777,7 +777,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -797,7 +797,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -829,7 +829,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -881,7 +881,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -926,7 +926,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -967,209 +967,209 @@ The strongest UFO crash claim would be one in which the material, the site recor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: NSIAD-95-187 Government Records  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian Ubatuba Fragment | Journal of Scientific Exploration...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian Ubatuba Fragment | Journal of Scientific Exploration...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Synopsis: Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: 's Supplement to Oak Ridge National Laboratory's Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Synopsis: Analysis of an Aluminum Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg53022  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
    Title: department of war releases [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Chain of custody  
-   Link: <a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hFDxu0uho2M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan: Aliens | The Case They&#x27;re Already Here...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hFDxu0uho2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hFDxu0uho2M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan: Aliens | The Case They&#x27;re Already Here...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Needle moving on UAP transparency, Corbell says | Cuomo  
-   Link: <a href="https://www.youtube.com/watch?v=ke5nL5RsxxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ke5nL5RsxxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ke5nL5RsxxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ke5nL5RsxxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford professor who studied impact of UFO encounters on brain unpacks new batch of Pentagon files...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Garry Nolan: Aliens | The Case They're Already Here  
-   Link: <a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpJebYW_vb4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QpJebYW_vb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QpJebYW_vb4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/[press-releases" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/[press-releases</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/[press-releases" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/[press-releases</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Needle moving on UAP transparency, Corbell says | Cuomo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Needle moving on UAP transparency, Corbell says | Cuomo...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMu4BhESXB0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMu4BhESXB0/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DMu4BhESXB0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMu4BhESXB0/?hl=en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October_4_1997</a>  
+   Link:<a href="https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224791605_Physical_Evidence_Related_to_UFO_Reports_The_Proceedings_of_a_Workshop_Held_at_the_Pocantico_Conference_Center_Tarrytown_New_York_September_29_-_October</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  

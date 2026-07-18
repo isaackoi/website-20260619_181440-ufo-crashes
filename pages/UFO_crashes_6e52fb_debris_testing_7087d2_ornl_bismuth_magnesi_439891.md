@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magn
 
 ## Introduction
 
-Among the many alleged UFO crash fragments discussed over the past three decades, few attracted as much attention as a layered bismuth–magnesium specimen promoted as potentially exotic technology. Supporters suggested that its unusual structure, isotopic composition and possible electromagnetic properties might indicate a non-human origin. The most comprehensive public examination of the sample, however, came from scientists at Oak Ridge National Laboratory (ORNL) working for the U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})). Their findings did not identify an extraterrestrial artefact. Instead, they narrowed the debate to specific questions about metallurgy, isotope chemistry and manufacturing history, ruling out several of the specimen's most dramatic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+Among the many alleged UFO crash fragments discussed over the past three decades, few attracted as much attention as a layered bismuth–magnesium specimen promoted as potentially exotic technology. Supporters suggested that its unusual structure, isotopic composition and possible electromagnetic properties might indicate a non-human origin. The most comprehensive public examination of the sample, however, came from scientists at Oak Ridge National Laboratory (ORNL) working for the U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})). Their findings did not identify an extraterrestrial artefact. Instead, they narrowed the debate to specific questions about metallurgy, isotope chemistry and manufacturing history, ruling out several of the specimen's most dramatic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-1-dark.svg" | relative_url }}" alt="ORNL specimen illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,9 +291,9 @@ The case is important because it illustrates how modern laboratory analysis can 
 
 ## The crashed-vehicle claim behind the specimen
 
-The specimen entered UFO lore through claims that it originated from a recovered non-human craft, often linked by proponents to events in the late 1940s. Over time, the fragment became associated with theories promoted by researchers and organisations interested in physical UFO [evidence]({{ 'evidence/' | relative_url }}). The material's layered construction, consisting largely of magnesium alloy combined with bismuth-rich layers, was presented as something unusual enough to merit investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+The specimen entered UFO lore through claims that it originated from a recovered non-human craft, often linked by proponents to events in the late 1940s. Over time, the fragment became associated with theories promoted by researchers and organisations interested in physical UFO [evidence]({{ 'evidence/' | relative_url }}). The material's layered construction, consisting largely of magnesium alloy combined with bismuth-rich layers, was presented as something unusual enough to merit investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
-By the early 2020s, the sample had accumulated several extraordinary interpretations. Among them were suggestions that it possessed anomalous isotopic signatures, that it might function as an advanced electromagnetic device, or that it represented technology beyond known human manufacturing capabilities. AARO therefore commissioned ORNL to perform a detailed examination using modern analytical techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+By the early 2020s, the sample had accumulated several extraordinary interpretations. Among them were suggestions that it possessed anomalous isotopic signatures, that it might function as an advanced electromagnetic device, or that it represented technology beyond known human manufacturing capabilities. AARO therefore commissioned ORNL to perform a detailed examination using modern analytical techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 A key point often overlooked in discussions of UFO debris is that laboratory testing does not establish [provenance]({{ 'provenance/' | relative_url }}). Even a genuinely unusual alloy would not prove recovery from a crashed vehicle. What testing can do is determine whether the physical properties of the object support or undermine the extraordinary claims attached to it.
 
@@ -302,13 +302,13 @@ A key point often overlooked in discussions of UFO debris is that laboratory tes
 
 ## Terrestrial isotope results and manufactured structure
 
-ORNL's analysis found that the specimen was fundamentally a magnesium-based alloy containing zinc, bismuth, lead and trace elements. While the composition was somewhat uncommon by modern standards, it was not beyond the range of terrestrial metallurgy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
+ORNL's analysis found that the specimen was fundamentally a magnesium-based alloy containing zinc, bismuth, lead and trace elements. While the composition was somewhat uncommon by modern standards, it was not beyond the range of terrestrial metallurgy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
 
-The isotope question was especially important because previous discussions had suggested the material might contain isotopic ratios inconsistent with Earth-based sources. ORNL examined magnesium and lead isotopes and concluded that the measured ratios were terrestrial. Scientists observed evidence that manufacturing processes had altered isotope distributions through fractionation effects, but the results did not indicate an extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+The isotope question was especially important because previous discussions had suggested the material might contain isotopic ratios inconsistent with Earth-based sources. ORNL examined magnesium and lead isotopes and concluded that the measured ratios were terrestrial. Scientists observed evidence that manufacturing processes had altered isotope distributions through fractionation effects, but the results did not indicate an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
-This distinction matters. Isotope anomalies can arise from industrial processing, heat treatment and chemical separation. An unusual ratio alone is not evidence of alien manufacture. ORNL's findings indicated that the specimen's isotope signatures could be explained within known terrestrial processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+This distinction matters. Isotope anomalies can arise from industrial processing, heat treatment and chemical separation. An unusual ratio alone is not evidence of alien manufacture. ORNL's findings indicated that the specimen's isotope signatures could be explained within known terrestrial processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
-The laboratory also examined the specimen's physical structure. The layered arrangement of magnesium alloy and bismuth was real, but the structure appeared consistent with manufactured material rather than an unknown technological artefact. Researchers noted evidence of mechanical and thermal stress that could be explained by production methods and subsequent handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
+The laboratory also examined the specimen's physical structure. The layered arrangement of magnesium alloy and bismuth was real, but the structure appeared consistent with manufactured material rather than an unknown technological artefact. Researchers noted evidence of mechanical and thermal stress that could be explained by production methods and subsequent handling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
 
 One of the more significant outcomes was methodological rather than sensational: the object was shown to be a fabricated material with an identifiable metallurgical history. That finding shifted discussion away from speculation about impossible chemistry and toward questions about what industrial or experimental programme might have produced it.
 
@@ -316,17 +316,17 @@ One of the more significant outcomes was methodological rather than sensational:
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-2-dark.svg" | relative_url }}" alt="ORNL specimen illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the waveguide argument failed
 
-Perhaps the most influential claim attached to the specimen was that it had been engineered as a terahertz waveguide. In this interpretation, the layered bismuth and magnesium structure was not merely a metal fragment but part of an advanced electromagnetic system capable of manipulating high-frequency radiation in ways beyond conventional engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
+Perhaps the most influential claim attached to the specimen was that it had been engineered as a terahertz waveguide. In this interpretation, the layered bismuth and magnesium structure was not merely a metal fragment but part of an advanced electromagnetic system capable of manipulating high-frequency radiation in ways beyond conventional engineering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
 
-ORNL directly evaluated this proposition. Scientists examined the geometry, composition and physical characteristics relevant to waveguide performance. Their conclusion was clear: the specimen was highly unlikely ever to have functioned as a bismuth-based terahertz waveguide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
+ORNL directly evaluated this proposition. Scientists examined the geometry, composition and physical characteristics relevant to waveguide performance. Their conclusion was clear: the specimen was highly unlikely ever to have functioned as a bismuth-based terahertz waveguide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
 
 Several factors contributed to that assessment:
 
 * The dimensions and structural characteristics did not align with what would be expected for an effective terahertz device.
 * Material interfaces and manufacturing features were inconsistent with a purpose-built advanced waveguide.
-* The specimen showed evidence of conventional metallurgical processing rather than precision fabrication for exotic electromagnetic applications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
+* The specimen showed evidence of conventional metallurgical processing rather than precision fabrication for exotic electromagnetic applications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</span></span></span>
 
-AARO later issued a supplementary explanation emphasising that the laboratory findings did not support claims of anti-gravity capabilities, advanced propulsion functions or other extraordinary technological properties attributed to the fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+AARO later issued a supplementary explanation emphasising that the laboratory findings did not support claims of anti-gravity capabilities, advanced propulsion functions or other extraordinary technological properties attributed to the fragment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 This is an important example of how a scientific test can be decisive without solving every historical mystery. ORNL did not identify the exact workshop, project or individual responsible for producing the material. Nor did it reconstruct the complete [chain of custody]({{ 'custody/' | relative_url }}). What it did accomplish was more limited and more valuable: it tested the specific technological claims attached to the specimen and found that the evidence did not support them.
 
@@ -344,204 +344,204 @@ The testing ruled against three major claims:
 
 * That the material possessed isotopic signatures indicating a non-terrestrial source.
 * That the layered structure required unknown or impossible manufacturing methods.
-* That the specimen likely functioned as an advanced terahertz waveguide or related exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+* That the specimen likely functioned as an advanced terahertz waveguide or related exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 </div>
 
-What remained after the analysis was a more ordinary, though still somewhat unusual, metallurgical object. The exact historical purpose may remain uncertain, but the strongest arguments for it being debris from a crashed extraterrestrial vehicle were weakened by the very laboratory tests that enthusiasts had hoped would validate them. In the broader history of alleged UFO crash materials, the ORNL specimen stands as a case where scientific scrutiny reduced an extraordinary claim to a narrower question about terrestrial manufacturing rather than revealing evidence of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
+What remained after the analysis was a more ordinary, though still somewhat unusual, metallurgical object. The exact historical purpose may remain uncertain, but the strongest arguments for it being debris from a crashed extraterrestrial vehicle were weakened by the very laboratory tests that enthusiasts had hoped would validate them. In the broader history of alleged UFO crash materials, the ORNL specimen stands as a case where scientific scrutiny reduced an extraordinary claim to a narrower question about terrestrial manufacturing rather than revealing evidence of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-3-dark.svg" | relative_url }}" alt="ORNL specimen illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_ornl_bismuth_magnesi_439891-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the ORNL metal test actually ruled out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the ORNL metal test actually ruled out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers physical-evidence claims and how they are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers physical-evidence claims and how they are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Focuses on physical traces and scientific assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on physical traces and scientific assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Discusses contemporary UFO-material narratives and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses contemporary UFO-material narratives and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains scientific testing of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains scientific testing of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1383516a19caebfce044.jpg' | relative_url }}" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1383516a19caebfce044.jpg' | relative_url }}" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="ornl-specimen-what-the-ornl-metal-test-actually-ruled-out-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,105 +747,105 @@ What remained after the analysis was a more ordinary, though still somewhat unus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...This specimen has been publicly alleged to be a component recovered from a cr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — Based on these findings ORNL determined that this material is highly unlikely...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ornl.gov  
    Title: researchers illuminate nuclear material origin stories  
-   Link: <a href="https://www.ornl.gov/news/researchers-illuminate-nuclear-material-origin-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/news/researchers-illuminate-nuclear-material-origin-stories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Credit: ORNL/...Read more...</p></details>
+   Link:<a href="https://www.ornl.gov/news/researchers-illuminate-nuclear-material-origin-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/news/researchers-illuminate-nuclear-material-origin-stories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Credit: ORNL/...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ornl.gov  
    Title: methods medicine ornl supplies isotopes used cancer therapy  
-   Link: <a href="https://www.ornl.gov/blog/methods-medicine-ornl-supplies-isotopes-used-cancer-therapy" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/blog/methods-medicine-ornl-supplies-isotopes-used-cancer-therapy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Methods for medicine: ORNL supplies isotopes used in...27 Jul 2016 — Actinium-225 and its “daughter” bismuth-213 are short-lived radioac...</p></details>
+   Link:<a href="https://www.ornl.gov/blog/methods-medicine-ornl-supplies-isotopes-used-cancer-therapy" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/blog/methods-medicine-ornl-supplies-isotopes-used-cancer-therapy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Methods for medicine: ORNL supplies isotopes used in...27 Jul 2016 — Actinium-225 and its “daughter” bismuth-213 are short-lived radioac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: impact.ornl.gov  
    Title: magnesium alloy development for structural and biomedical applica  
-   Link: <a href="https://impact.ornl.gov/en/publications/magnesium-alloy-development-for-structural-and-biomedical-applica" target="_blank" rel="noopener noreferrer nofollow">https://impact.ornl.gov/en/publications/magnesium-alloy-development-for-structural-and-biomedical-applica</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alloy Development for Structural and...by AA Luo · 2022 · Cited by 4 — This presentation provides an overview of recent magnesium alloy...</p></details>
+   Link:<a href="https://impact.ornl.gov/en/publications/magnesium-alloy-development-for-structural-and-biomedical-applica" target="_blank" rel="noopener noreferrer nofollow">https://impact.ornl.gov/en/publications/magnesium-alloy-development-for-structural-and-biomedical-applica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alloy Development for Structural and...by AA Luo · 2022 · Cited by 4 — This presentation provides an overview of recent magnesium alloy...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: isotopes.gov  
-   Link: <a href="https://www.isotopes.gov/sites/default/files/2019-07/Isotope-Program--Product-Catalog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isotopes.gov/sites/default/files/2019-07/Isotope-Program--Product-Catalog.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ordering isotopes or for additional information on isotope products and services, please contact the NIDC or visit our online catalog at...</p></details>
+   Link:<a href="https://www.isotopes.gov/sites/default/files/2019-07/Isotope-Program--Product-Catalog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isotopes.gov/sites/default/files/2019-07/Isotope-Program--Product-Catalog.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ordering isotopes or for additional information on isotope products and services, please contact the NIDC or visit our online catalog at...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Oak" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OakAn oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed e...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Oak" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OakAn oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed e...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/plant/oak" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/plant/oak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Description, Characteristics, Types, &amp; Facts18 May 2026 — Oak, (genus Quercus), genus of about 450 species of ornamental and timber trees...</p></details>
+   Link:<a href="https://www.britannica.com/plant/oak" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/plant/oak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Description, Characteristics, Types, &amp; Facts18 May 2026 — Oak, (genus Quercus), genus of about 450 species of ornamental and timber trees...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: forestryandland.gov.scot  
-   Link: <a href="https://forestryandland.gov.scot/living-and-working/learning-and-education/trees/oak" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/living-and-working/learning-and-education/trees/oak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trees and Forestry | FLSThe oak tree once formed a third of all tree cover in Britain. Oaks can support more than 2,000 species, more tha...</p></details>
+   Link:<a href="https://forestryandland.gov.scot/living-and-working/learning-and-education/trees/oak" target="_blank" rel="noopener noreferrer nofollow">https://forestryandland.gov.scot/living-and-working/learning-and-education/trees/oak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trees and Forestry | FLSThe oak tree once formed a third of all tree cover in Britain. Oaks can support more than 2,000 species, more tha...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAIAN-Hbv7xgCoHYiYvr26vv3imH6CujfAN9UjZXsQ8NSNjhw_" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAIAN-Hbv7xgCoHYiYvr26vv3imH6CujfAN9UjZXsQ8NSNjhw_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAIAN-Hbv7xgCoHYiYvr26vv3imH6CujfAN9UjZXsQ8NSNjhw_" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAIAN-Hbv7xgCoHYiYvr26vv3imH6CujfAN9UjZXsQ8NSNjhw_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: woodlandtrust.org.uk  
-   Link: <a href="https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/oak-tree-wildlife/" target="_blank" rel="noopener noreferrer nofollow">https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/oak-tree-wildlife/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oak trees and wildlifeOur fantastic oaks support more life than any other UK native tree. Discover which species live and feed on oak, fr...</p></details>
+   Link:<a href="https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/oak-tree-wildlife/" target="_blank" rel="noopener noreferrer nofollow">https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/oak-tree-wildlife/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oak trees and wildlifeOur fantastic oaks support more life than any other UK native tree. Discover which species live and feed on oak, fr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: indiandefencereview.com  
-   Link: <a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
+   Link:<a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gizmodo.com  
    Title: pentagon publishes report on material from a reported alien [aircraft](&#123;&#123; 'aircraft/' | relative_url &#125;&#125;) 2000469433  
-   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
+   Link:<a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/v8KYZHMkTHw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/v8KYZHMkTHw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you stuck around until the very end of the video you may have noticed I just launched a Patreon page! Take a look, and thank you if yo...</p></details>
+   Link:<a href="https://youtu.be/v8KYZHMkTHw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/v8KYZHMkTHw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you stuck around until the very end of the video you may have noticed I just launched a Patreon page! Take a look, and thank you if yo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical examination of physical specimens associated with [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) aerial phenomena.Read more...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical examination of physical specimens associated with [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) aerial phenomena.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqry0CTzp5Tt9daEyVw0YwWF_50IFGxqJ_r15a6FxhrypNAs0L_" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqry0CTzp5Tt9daEyVw0YwWF_50IFGxqJ_r15a6FxhrypNAs0L_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While this source cannot be verified, this is a particularly interesting sample for...Read more...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqry0CTzp5Tt9daEyVw0YwWF_50IFGxqJ_r15a6FxhrypNAs0L_" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqry0CTzp5Tt9daEyVw0YwWF_50IFGxqJ_r15a6FxhrypNAs0L_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While this source cannot be verified, this is a particularly interesting sample for...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Levitate a Magnet with Bismuth Crystals  
-   Link: <a href="https://www.youtube.com/watch?v=A5pZZJ23rDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A5pZZJ23rDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Piece From 1947 Roswell Incident Analyzed By a Government Lab - YouTube Metal Piece From 1947 Roswell Incident Analyzed By a Govern...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A5pZZJ23rDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A5pZZJ23rDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Piece From 1947 Roswell Incident Analyzed By a Government Lab - YouTube Metal Piece From 1947 Roswell Incident Analyzed By a Govern...</p></details>

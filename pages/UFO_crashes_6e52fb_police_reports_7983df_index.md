@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-police-reports/
 description: Focused pages that expand on Police Reports.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_police_reports_7983df
 parent_title: Police Reports
@@ -16,7 +16,7 @@ parent_permalink: /police-reports/
 
 # Explore Topics in Police Reports
 
-The following pages expand on the main **[Police Reports]({{ '/police-reports/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Police Reports]({{ '/police-reports/' | relative_url }})** page and cover its key branches in.
 
 - [Saucer Hoax]({{ '/saucer-hoax/' | relative_url }})
 - [First Calls]({{ '/first-calls/' | relative_url }})

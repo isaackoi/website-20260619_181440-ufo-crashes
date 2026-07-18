@@ -280,13 +280,13 @@ image: /assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_tem
 
 ## Introduction
 
-Long before alien [bodies]({{ 'bodies/' | relative_url }}) became firmly attached to the Roswell story, another crashed-saucer tale had already assembled many of the narrative ingredients that would later define UFO crash mythology. The alleged 1948 crash near Aztec, New Mexico introduced a powerful combination: a recovered disc, dead non-human occupants, [military secrecy]({{ 'secrecy/' | relative_url }}), scientific examination, and the promise of revolutionary hidden technology. Although the Aztec case was later exposed as a fraud, its importance lies in how thoroughly it preloaded the themes that would reappear in later crash-and-retrieval stories. Rather than being a side note to UFO history, Aztec provides an early template for the alien-body narrative that Roswell would eventually inherit and popularise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+Long before alien [bodies]({{ 'bodies/' | relative_url }}) became firmly attached to the Roswell story, another crashed-saucer tale had already assembled many of the narrative ingredients that would later define UFO crash mythology. The alleged 1948 crash near Aztec, New Mexico introduced a powerful combination: a recovered disc, dead non-human occupants, [military secrecy]({{ 'secrecy/' | relative_url }}), scientific examination, and the promise of revolutionary hidden technology. Although the Aztec case was later exposed as a fraud, its importance lies in how thoroughly it preloaded the themes that would reappear in later crash-and-retrieval stories. Rather than being a side note to UFO history, Aztec provides an early template for the alien-body narrative that Roswell would eventually inherit and popularise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-1-dark.svg" | relative_url }}" alt="Aztec Template illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Aztec Crash Story Claimed
 
-The Aztec story entered public circulation through journalist Frank Scully, who first discussed it in newspaper and magazine writing before publishing *Behind the Flying Saucers* in 1950. According to the account he received from his sources, a flying saucer had crashed in the New Mexico desert in 1948 and been recovered by the US military. Inside the craft were reportedly several small humanoid occupants who had died in the crash. Scientists and government specialists supposedly examined both the bodies and the technology while the entire operation remained hidden from the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+The Aztec story entered public circulation through journalist Frank Scully, who first discussed it in newspaper and magazine writing before publishing *Behind the Flying Saucers* in 1950. According to the account he received from his sources, a flying saucer had crashed in the New Mexico desert in 1948 and been recovered by the US military. Inside the craft were reportedly several small humanoid occupants who had died in the crash. Scientists and government specialists supposedly examined both the bodies and the technology while the entire operation remained hidden from the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 What makes the story significant is not merely that it involved a crashed UFO. Earlier flying-saucer reports often focused on sightings in the sky. The Aztec narrative shifted attention to physical recovery. It presented a complete package:
 
@@ -294,42 +294,42 @@ What makes the story significant is not merely that it involved a crashed UFO. E
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A crashed extraterrestrial craft.
-* Dead occupants recovered from the wreckage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/25503691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Behind The Flying Saucers by Frank ScullyFor years the Aztec... Silas Newton and Leo Gebauer. &quot;You also get an... claiming that dead ex...</span></span></span>
+* Dead occupants recovered from the wreckage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/25503691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Behind The Flying Saucers by Frank ScullyFor years the Aztec... Silas Newton and Leo Gebauer. &quot;You also get an... claiming that dead ex...</span></span></span>
 * Government control of the site.
 * Scientific analysis behind closed doors.
 * Advanced technology beyond human capabilities.
-* A public cover-up preventing disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+* A public cover-up preventing disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 </div>
 
 These elements would later become standard features of many UFO crash legends. In effect, Aztec transformed a sighting mystery into a biological and technological recovery story.
 
-Another influential aspect was the emphasis on recovered technology. The tale claimed that investigators gained access to extraordinary materials and engineering secrets. This linked alien bodies to hidden technological breakthroughs, creating a narrative framework in which governments concealed not only [evidence]({{ 'evidence/' | relative_url }}) of extraterrestrial life but also revolutionary scientific knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">Denver Public Library OF FLYING SAUCERS AND FRAUD: THE SILAS M</span><span class="citation-popover-snippet">16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</span></span></span>
+Another influential aspect was the emphasis on recovered technology. The tale claimed that investigators gained access to extraordinary materials and engineering secrets. This linked alien bodies to hidden technological breakthroughs, creating a narrative framework in which governments concealed not only [evidence]({{ 'evidence/' | relative_url }}) of extraterrestrial life but also revolutionary scientific knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">Denver Public Library OF FLYING SAUCERS AND FRAUD: THE SILAS M</span><span class="citation-popover-snippet">16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBflD6iCl0I" title="A UAP Crashed Here! - Aztec UFO Crash (The Other Roswell) | Mysteries &amp; Monsters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBflD6iCl0I" target="_blank" rel="noopener noreferrer">A UAP Crashed Here! - Aztec UFO Crash (The Other Roswell) | Mysteries &amp; Monsters</a></p><p class="youtube-embed-meta">Channel: Small Town Monsters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBflD6iCl0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBflD6iCl0I">Open on YouTube</a></p></div></div></div>
 
 ## How the Fraud Was Exposed
 
-The credibility of the Aztec story collapsed when investigators traced its origins to individuals associated with fraud schemes. Researchers and journalists, particularly J. P. Cahn in *True* magazine, examined the claims and found that key sources behind the story were Silas Newton and Leo GeBauer. Both men had promoted supposed technological discoveries and unusual scientific devices while seeking investors. Their claims about recovered saucer technology became intertwined with business ventures and deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[Physics at SMU+2Physics at SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-snippet">Physics at SMUFlying Saucers and Frank Scully17-19, 102-112) and &quot;Flying Saucer Swindlers&quot; (True, August 1956: pp. 36-37, 69-71). The Fra...</span><span class="citation-popover-meta">Published: August 1956</span></span></span>
+The credibility of the Aztec story collapsed when investigators traced its origins to individuals associated with fraud schemes. Researchers and journalists, particularly J. P. Cahn in *True* magazine, examined the claims and found that key sources behind the story were Silas Newton and Leo GeBauer. Both men had promoted supposed technological discoveries and unusual scientific devices while seeking investors. Their claims about recovered saucer technology became intertwined with business ventures and deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[Physics at SMU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-snippet">Physics at SMUFlying Saucers and Frank Scully17-19, 102-112) and &quot;Flying Saucer Swindlers&quot; (True, August 1956: pp. 36-37, 69-71). The Fra...</span><span class="citation-popover-meta">Published: August 1956</span></span></span>
 
-Newton and GeBauer allegedly displayed pieces of "alien" metal and claimed access to advanced scientific knowledge derived from the crash. Subsequent investigations found that these claims were part of broader fraudulent activities. By the mid-1950s, the Aztec crash had become widely regarded as a hoax created around fabricated evidence and unreliable witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">Denver Public Library OF FLYING SAUCERS AND FRAUD: THE SILAS M</span><span class="citation-popover-snippet">16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</span></span></span>
+Newton and GeBauer allegedly displayed pieces of "alien" metal and claimed access to advanced scientific knowledge derived from the crash. Subsequent investigations found that these claims were part of broader fraudulent activities. By the mid-1950s, the Aztec crash had become widely regarded as a hoax created around fabricated evidence and unreliable witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[denverlibrary.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">Denver Public Library OF FLYING SAUCERS AND FRAUD: THE SILAS M</span><span class="citation-popover-snippet">16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</span></span></span>
 
-The exposure is important because it demonstrates that the most famous early alien-body crash story did not collapse because of a single contradictory detail. Rather, the entire evidential structure proved weak. The case lacked verifiable documents, authenticated physical evidence, named scientific [records]({{ 'records/' | relative_url }}), preserved biological material, or independent confirmation from credible witnesses. Much of the story depended on claims that could not be tested and on sources whose reliability deteriorated under scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">1987, UFO researcher William Stein- man published UFO Crash at Aztec... for an alleged mining fraud in New. Mexico two years before his...</span></span></span>
+The exposure is important because it demonstrates that the most famous early alien-body crash story did not collapse because of a single contradictory detail. Rather, the entire evidential structure proved weak. The case lacked verifiable documents, authenticated physical evidence, named scientific [records]({{ 'records/' | relative_url }}), preserved biological material, or independent confirmation from credible witnesses. Much of the story depended on claims that could not be tested and on sources whose reliability deteriorated under scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">1987, UFO researcher William Stein- man published UFO Crash at Aztec... for an alleged mining fraud in New. Mexico two years before his...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-2-dark.svg" | relative_url }}" alt="Aztec Template illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Aztec Matters for Later Roswell Claims
 
-The historical significance of Aztec lies less in whether a crash occurred and more in the narrative model it established. The story appeared decades [before Roswell]({{ 'before-roswell/' | relative_url }}) became widely associated with alien bodies. When Roswell was revived in the late 1970s and early 1980s, many of the dramatic elements already existed in UFO culture because Aztec had introduced them years earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">cess of The X-Files, Roswell...Read more...</span></span></span>
+The historical significance of Aztec lies less in whether a crash occurred and more in the narrative model it established. The story appeared decades [before Roswell]({{ 'before-roswell/' | relative_url }}) became widely associated with alien bodies. When Roswell was revived in the late 1970s and early 1980s, many of the dramatic elements already existed in UFO culture because Aztec had introduced them years earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">cess of The X-Files, Roswell...Read more...</span></span></span>
 
 Several recurring motifs can be traced through both stories:
 
 Aztec motifLater Roswell motifRecovered flying saucerRecovered crashed craftDead non-human occupantsRecovered alien bodiesSecret military recoveryMilitary control of crash siteScientific examinationMedical and technical analysis claimsHidden technologyReverse-engineering narrativesGovernment concealmentLong-term cover-up allegations
 
-This does not mean later Roswell witnesses copied the Aztec story directly. However, Aztec demonstrated how compelling such narratives could be and helped establish expectations about what a UFO crash story should contain. Once those expectations existed, later accounts could be interpreted through the same framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">cess of The X-Files, Roswell...Read more...</span></span></span>
+This does not mean later Roswell witnesses copied the Aztec story directly. However, Aztec demonstrated how compelling such narratives could be and helped establish expectations about what a UFO crash story should contain. Once those expectations existed, later accounts could be interpreted through the same framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">cess of The X-Files, Roswell...Read more...</span></span></span>
 
-A particularly important point is chronology. The popular image of Roswell today often centres on recovered alien bodies, but those body narratives became prominent decades after the original 1947 debris recovery. Aztec had already circulated a detailed story involving corpses, government secrecy, and technical exploitation. In that sense, the conceptual architecture for later body-recovery claims existed before Roswell's modern mythology matured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+A particularly important point is chronology. The popular image of Roswell today often centres on recovered alien bodies, but those body narratives became prominent decades after the original 1947 debris recovery. Aztec had already circulated a detailed story involving corpses, government secrecy, and technical exploitation. In that sense, the conceptual architecture for later body-recovery claims existed before Roswell's modern mythology matured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Paxisru0_Ps" title="UFO Crash in Aztec NM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Paxisru0_Ps" target="_blank" rel="noopener noreferrer">UFO Crash in Aztec NM</a></p><p class="youtube-embed-meta">Channel: Ty Lee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Paxisru0_Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Paxisru0_Ps">Open on YouTube</a></p></div></div></div>
@@ -339,202 +339,202 @@ A particularly important point is chronology. The popular image of Roswell today
 
 ## The Lasting Lesson of the Aztec Template
 
-The Aztec case illustrates a recurring pattern in UFO crash narratives. The most influential stories are often not those with the strongest evidence but those with the strongest storytelling structure. Aztec offered a complete dramatic package: a crash, bodies, scientists, secret technology, and a cover-up. Even after the underlying claims were heavily challenged and widely regarded as fraudulent, the narrative framework remained attractive and continued to influence later UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+The Aztec case illustrates a recurring pattern in UFO crash narratives. The most influential stories are often not those with the strongest evidence but those with the strongest storytelling structure. Aztec offered a complete dramatic package: a crash, bodies, scientists, secret technology, and a cover-up. Even after the underlying claims were heavily challenged and widely regarded as fraudulent, the narrative framework remained attractive and continued to influence later UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
-For historians of UFO culture, that is why Aztec matters. It was one of the earliest and most influential examples of a crashed-saucer story built around recovered alien bodies. The case helped define what many people would later expect from crash narratives, making it a crucial precursor to the body-centred versions of Roswell that emerged decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+For historians of UFO culture, that is why Aztec matters. It was one of the earliest and most influential examples of a crashed-saucer story built around recovered alien bodies. The case helped define what many people would later expect from crash narratives, making it a crucial precursor to the body-centred versions of Roswell that emerged decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aztec crashed saucer hoax</span><span class="citation-popover-snippet">May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-3-dark.svg" | relative_url }}" alt="Aztec Template illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_alien_body_claims_816ffd_aztec_body_template_f2771e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hoax That Preloaded Alien Bodies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hoax That Preloaded Alien Bodies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth and Mystery of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8h-jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth and Mystery of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth and Mystery of UFOs">The Myth and Mystery of UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Thomas E. Bullard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth and Mystery of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8h-jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth and Mystery of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth and Mystery of UFOs">The Myth and Mystery of UFOs</a>
+</h4>
+<p class="fr-book-author">By Thomas E. Bullard</p>
         
-        <p class="fr-book-desc">Examines how UFO legends develop, making it highly relevant to the Aztec hoax as a precursor to later alien-body stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO legends develop, making it highly relevant to the Aztec hoax as a precursor to later alien-body stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs+by+Thomas+E.+Bullard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broad context for UFO claims, crash narratives, and how stories such as Aztec fit into UFO mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for UFO claims, crash narratives, and how stories such as Aztec fit into UFO mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real Roswell Crashed-Saucer Coverup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O7UQAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Real Roswell Crashed-Saucer Coverup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real Roswell Crashed-Saucer Coverup">Real Roswell Crashed-Saucer Coverup</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real Roswell Crashed-Saucer Coverup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=O7UQAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Real Roswell Crashed-Saucer Coverup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real Roswell Crashed-Saucer Coverup">Real Roswell Crashed-Saucer Coverup</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Directly addresses crash-retrieval narratives and skepticism surrounding stories that followed the Aztec template.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses crash-retrieval narratives and skepticism surrounding stories that followed the Aztec template.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Real+Roswell+Crashed-Saucer+Coverup+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqXh-xTvJLoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Behind the Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Flying Saucers">Behind the Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Frank Scully</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Behind the Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqXh-xTvJLoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Behind the Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Behind the Flying Saucers">Behind the Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Frank Scully</p>
         
-        <p class="fr-book-desc">The original book that popularized the Aztec crash story and its reported alien bodies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The original book that popularized the Aztec crash story and its reported alien bodies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Behind+the+Flying+Saucers+by+Frank+Scully&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth and Mystery of UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+Roswell+Crashed+Saucer+Coverup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real Roswell Crashed Saucer Coverup</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+and+Mystery+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth and Mystery of UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Real+Roswell+Crashed+Saucer+Coverup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Real Roswell Crashed Saucer Coverup</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="aztec-template-the-hoax-that-preloaded-alien-bodies-ufo-crashes-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,122 +740,122 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Aztec crashed [saucer hoax](&#123;&#123; 'saucer-hoax/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</p></details>
    Published: May 5, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cess of The X-Files, Roswell...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cess of The X-Files, Roswell...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/Scully/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics at SMUFlying Saucers and Frank Scully17-19, 102-112) and &quot;Flying Saucer Swindlers&quot; (True, August 1956: pp. 36-37, 69-71). The Fra...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/Scully/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physics at SMUFlying Saucers and Frank Scully17-19, 102-112) and &quot;Flying Saucer Swindlers&quot; (True, August 1956: pp. 36-37, 69-71). The Fra...</p></details>
    Published: August 1956  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, True will expose it- in the public...Read more...</p></details>
+   Link:<a href="https://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, True will expose it- in the public...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/Scully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Scully.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Frank Scully &quot;Crashed Saucer at Aztec&quot; Hoax (1950)So far as is known, this is the only recording of Cahn speaking about his r...</p></details>
+   Link:<a href="https://www.debunker.com/Scully.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Scully.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Frank Scully &quot;Crashed Saucer at Aztec&quot; Hoax (1950)So far as is known, this is the only recording of Cahn speaking about his r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/scalise/P3333sp11/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/scalise/P3333sp11/UFOs/Scully/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics at SMUFlying Saucers and Frank ScullyThere was only one little problem: the book was a complete hoax and Frank Scully didn&#x27;t know...</p></details>
+   Link:<a href="https://www.physics.smu.edu/scalise/P3333sp11/UFOs/Scully/" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/scalise/P3333sp11/UFOs/Scully/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physics at SMUFlying Saucers and Frank ScullyThere was only one little problem: the book was a complete hoax and Frank Scully didn&#x27;t know...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsUFOs have been referred to using a range of terms including the more specific &quot;flying saucer&quot; and the mo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsUFOs have been referred to using a range of terms including the more specific &quot;flying saucer&quot; and the mo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;alien corpses&#x27; are from single skeletons and were...19 Sept 2023 — Academics, archaeologists, and scientists have said mummified remain...</p></details>
+   Link:<a href="https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;alien corpses&#x27; are from single skeletons and were...19 Sept 2023 — Academics, archaeologists, and scientists have said mummified remain...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wyominghistoryday.org  
    Title: frank scully  
-   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/frank-scully" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/frank-scully</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Response letters to Frank Scully&#x27;s UFO articles and book, Behind the Flying Saucers, 1950. Scully publicized what became known as the Azt...</p></details>
+   Link:<a href="https://www.wyominghistoryday.org/theme-topics/collections/frank-scully" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/frank-scully</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Response letters to Frank Scully&#x27;s UFO articles and book, Behind the Flying Saucers, 1950. Scully publicized what became known as the Azt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.denverlibrary.org  
    Title: Denver Public Library OF FLYING SAUCERS AND FRAUD: THE SILAS M  
-   Link: <a href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</p></details>
+   Link:<a href="https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2021 — The level of dishonesty and deception that Newton was willing to engage in became clear when he and Leonard GeBauer (a Phoe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1987, UFO researcher William Stein- man published UFO Crash at Aztec... for an alleged mining fraud in New. Mexico two years before his...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/11/22164240/p59.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1987, UFO researcher William Stein- man published UFO Crash at Aztec... for an alleged mining fraud in New. Mexico two years before his...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nmsr.org  
-   Link: <a href="https://www.nmsr.org/aztec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nmsr.org/aztec.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aztec UFO Scam21 Mar 2004 — Robert Sheaffer&#x27;s Debunker&#x27;s Domain, &quot;The Frank Scully &#x27;Crashed UFO&#x27; Hoax (1950)&quot;:... alien creators — w...</p></details>
+   Link:<a href="https://www.nmsr.org/aztec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nmsr.org/aztec.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aztec UFO Scam21 Mar 2004 — Robert Sheaffer&#x27;s Debunker&#x27;s Domain, &quot;The Frank Scully &#x27;Crashed UFO&#x27; Hoax (1950)&quot;:... alien creators — w...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: onxmaps.com  
-   Link: <a href="https://www.onxmaps.com/offroad/trails/us/new-mexico/arch-and-aztec-ufo-site" target="_blank" rel="noopener noreferrer nofollow">https://www.onxmaps.com/offroad/trails/us/new-mexico/arch-and-aztec-ufo-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arch and Aztec UFO Site, New MexicoThe Aztec UFO has been classified as a hoax, although some people still believe it happened. Purported...</p></details>
+   Link:<a href="https://www.onxmaps.com/offroad/trails/us/new-mexico/arch-and-aztec-ufo-site" target="_blank" rel="noopener noreferrer nofollow">https://www.onxmaps.com/offroad/trails/us/new-mexico/arch-and-aztec-ufo-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arch and Aztec UFO Site, New MexicoThe Aztec UFO has been classified as a hoax, although some people still believe it happened. Purported...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aztecnm.com  
-   Link: <a href="https://www.aztecnm.com/aztec/ufocrashsite.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aztecnm.com/aztec/ufocrashsite.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec NM, UFO Crash SiteAztec UFO Crash Site. Crash Site Plaque. On or about this site on March 25... This plaque has been placed here t...</p></details>
+   Link:<a href="https://www.aztecnm.com/aztec/ufocrashsite.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aztecnm.com/aztec/ufocrashsite.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec NM, UFO Crash SiteAztec UFO Crash Site. Crash Site Plaque. On or about this site on March 25... This plaque has been placed here t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/25503691" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/25503691</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind The Flying Saucers by Frank ScullyFor years the Aztec... Silas Newton and Leo Gebauer. &quot;You also get an... claiming that dead ex...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/25503691" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/25503691</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behind The Flying Saucers by Frank ScullyFor years the Aztec... Silas Newton and Leo Gebauer. &quot;You also get an... claiming that dead ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thehistoryreader.com  
-   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico... event was a hoax. The...</p></details>
+   Link:<a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico... event was a hoax. The...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qBflD6iCl0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qBflD6iCl0I</a>  
+   Link:<a href="https://www.youtube.com/watch?v=qBflD6iCl0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qBflD6iCl0I</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/Behind-Flying-Saucers-Truth-Aztec-UFO/30325015186/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Behind-Flying-Saucers-Truth-Aztec-UFO/30325015186/bd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about the Aztec UFO Crash by Scully, FrankBehind the Flying Saucers: The Truth about the Aztec UFO Crash (Soft cover)...</p></details>
+   Link:<a href="https://www.abebooks.com/Behind-Flying-Saucers-Truth-Aztec-UFO/30325015186/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Behind-Flying-Saucers-Truth-Aztec-UFO/30325015186/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about the Aztec UFO Crash by Scully, FrankBehind the Flying Saucers: The Truth about the Aztec UFO Crash (Soft cover)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-at-aztec?srsltid=AfmBOopPZa8vmoMJ-21STHEv2zyrpYV222b9zIn4tmfQnyYOULzMpcN0" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-at-aztec?srsltid=AfmBOopPZa8vmoMJ-21STHEv2zyrpYV222b9zIn4tmfQnyYOULzMpcN0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Crash at Aztec: The Truth Behind the Infamous...Home / UFOs and Aliens / The UFO Crash at Aztec: The Truth Behind the Infamous Hoax...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-at-aztec?srsltid=AfmBOopPZa8vmoMJ-21STHEv2zyrpYV222b9zIn4tmfQnyYOULzMpcN0" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-at-aztec?srsltid=AfmBOopPZa8vmoMJ-21STHEv2zyrpYV222b9zIn4tmfQnyYOULzMpcN0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Crash at Aztec: The Truth Behind the Infamous...Home / UFOs and Aliens / The UFO Crash at Aztec: The Truth Behind the Infamous Hoax...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amazon.com  
    Title: Behind The Flying Saucers: The Truth About The Aztec  
-   Link: <a href="https://www.amazon.com/Behind-Flying-Saucers-Truth-About/dp/1606110209" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Behind-Flying-Saucers-Truth-About/dp/1606110209</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec (hoax, real, disinfo op, the list goes on...), this new edition will be a valuable addition to your UFO library. &quot;Not only does it...</p></details>
+   Link:<a href="https://www.amazon.com/Behind-Flying-Saucers-Truth-About/dp/1606110209" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Behind-Flying-Saucers-Truth-About/dp/1606110209</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec (hoax, real, disinfo op, the list goes on...), this new edition will be a valuable addition to your UFO library. &quot;Not only does it...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uapedia.ai  
    Title: aztec new mexico 1948 ufo crash deep truth analysis  
-   Link: <a href="https://uapedia.ai/wiki/aztec-new-mexico-1948-ufo-crash-deep-truth-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/aztec-new-mexico-1948-ufo-crash-deep-truth-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec, New Mexico 1948, UFO Crash – Deep Truth AnalysisConsensus Fortress · From KRQE&#x27;s The Aztec UFO (October 29, 2018): “The incident w...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/aztec-new-mexico-1948-ufo-crash-deep-truth-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/aztec-new-mexico-1948-ufo-crash-deep-truth-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aztec, New Mexico 1948, UFO Crash – Deep Truth AnalysisConsensus Fortress · From KRQE&#x27;s The Aztec UFO (October 29, 2018): “The incident w...</p></details>
    Published: October 29, 2018  

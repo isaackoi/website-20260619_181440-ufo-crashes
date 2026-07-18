@@ -278,7 +278,7 @@ Many UFO crash legends are not built solely from an original sighting. They ofte
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_air_crash_memory_loo_d0b258-Illustration-1-dark.svg" | relative_url }}" alt="Memory Loop illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_air_crash_memory_loo_d0b258-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_air_crash_memory_loo_d0b258-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism does not require deliberate invention. Research on memory shows that recollections can be altered by later information, repeated retelling, social influence, and expectations about what “must have happened”. In UFO crash cases, that creates a risk that genuine memories of aircraft accidents, military exercises, or recovery operations become reinterpreted as [evidence]({{ 'evidence/' | relative_url }}) of an alien crash. New Mexico Open Educational Resources+2UW Faculty <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-title">false memory</span><span class="citation-popover-snippet">New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</span></span></span>
+This mechanism does not require deliberate invention. Research on memory shows that recollections can be altered by later information, repeated retelling, social influence, and expectations about what “must have happened”. In UFO crash cases, that creates a risk that genuine memories of aircraft accidents, military exercises, or recovery operations become reinterpreted as [evidence]({{ 'evidence/' | relative_url }}) of an alien crash. New Mexico Open Educational Resources+2UW Faculty<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-title">false memory</span><span class="citation-popover-snippet">New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</span></span></span>
 
 ## Accident Scenes as Later Story Material
 
@@ -286,7 +286,7 @@ Aircraft accidents leave powerful memories. Emergency vehicles arrive, areas are
 
 The process works because people rarely remember events as isolated snapshots. Instead, memories are reconstructed from fragments. A witness may remember seeing soldiers guarding a site, hearing stories about bodies, or learning that authorities restricted access to an area. Years later, those fragments can be attached to a different event that was already mysterious.
 
-Psychologists studying false memories have repeatedly shown that recollections can be influenced by conversations, media coverage, and assumptions about what happened. People can become confident in details that were not part of their original experience, especially when an event has become culturally significant. New Mexico Open Educational Resources+2UW Faculty <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-title">false memory</span><span class="citation-popover-snippet">New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</span></span></span>
+Psychologists studying false memories have repeatedly shown that recollections can be influenced by conversations, media coverage, and assumptions about what happened. People can become confident in details that were not part of their original experience, especially when an event has become culturally significant. New Mexico Open Educational Resources+2UW Faculty<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-title">false memory</span><span class="citation-popover-snippet">New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</span></span></span>
 
 In UFO folklore, several recurring motifs closely resemble ordinary crash-response procedures:
 
@@ -310,13 +310,13 @@ None of these elements are unique to alleged alien crashes. They are also common
 
 The Roswell incident remains the most famous example of a UFO crash story shaped by debates over memory.
 
-The United States Air Force concluded that debris recovered near Roswell in 1947 came from the classified Project Mogul balloon programme, which was designed to detect Soviet nuclear tests. Official investigations later argued that many accounts of alien bodies emerged decades after the event and may have combined memories from different periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAFHISTORY+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">The Roswell Report... crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplica...</span></span></span>
+The United States Air Force concluded that debris recovered near Roswell in 1947 came from the classified Project Mogul balloon programme, which was designed to detect Soviet nuclear tests. Official investigations later argued that many accounts of alien bodies emerged decades after the event and may have combined memories from different periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">The Roswell Report... crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplica...</span></span></span>
 
-A particularly important claim appeared in the Air Force's 1997 report. According to that explanation, witnesses who later described alien bodies may have merged memories of several real events, including military parachute test dummies, an injured parachutist, and bodies seen after aircraft accidents. The report argued that these separate experiences became compressed into a single narrative associated with Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+A particularly important claim appeared in the Air Force's 1997 report. According to that explanation, witnesses who later described alien bodies may have merged memories of several real events, including military parachute test dummies, an injured parachutist, and bodies seen after aircraft accidents. The report argued that these separate experiences became compressed into a single narrative associated with Roswell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 Whether one accepts that explanation or not, it illustrates the memory mechanism clearly. The debate is not simply about what happened in 1947. It is also about whether testimonies collected forty or fifty years later describe the original event or later reconstructions of it.
 
-Researchers and historians have noted that many famous Roswell body stories surfaced decades after the alleged crash rather than in contemporary [records]({{ 'records/' | relative_url }}). The gap between event and testimony is significant because memory research consistently finds that recollections become more vulnerable to distortion as time passes, particularly when the event is repeatedly discussed in public culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing+2New Mexico Open Educational Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Roswell Witnesses Speak</span><span class="citation-popover-snippet">Roswell Witnesses SpeakMay 3, 2025 — The report argued that witnesses recalling these events decades later simply misrem...</span><span class="citation-popover-meta">Published: May 3, 2025</span></span></span>
+Researchers and historians have noted that many famous Roswell body stories surfaced decades after the alleged crash rather than in contemporary [records]({{ 'records/' | relative_url }}). The gap between event and testimony is significant because memory research consistently finds that recollections become more vulnerable to distortion as time passes, particularly when the event is repeatedly discussed in public culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[hangar1publishing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Roswell Witnesses Speak</span><span class="citation-popover-snippet">Roswell Witnesses SpeakMay 3, 2025 — The report argued that witnesses recalling these events decades later simply misrem...</span><span class="citation-popover-meta">Published: May 3, 2025</span></span></span>
 
 The result is a continuing dispute. Believers often regard later witnesses as revealing hidden truths, while sceptics argue that the same accounts demonstrate how memories can absorb details from other accidents, military activities, books, films, and conversations.
 
@@ -326,7 +326,7 @@ The result is a continuing dispute. Believers often regard later witnesses as re
 
 A striking feature of many UFO crash stories is that the most dramatic details frequently appear years after the initial incident.
 
-Early reports often mention lights, debris, searches, or uncertainty. Later versions may add alien bodies, advanced materials, secret transport operations, and eyewitnesses who supposedly saw everything firsthand. This pattern is not unique to UFOs. Studies of public memory show that collective stories can accumulate details through repetition and social reinforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) News Events, False Memory and Paranormal Belief</span><span class="citation-popover-snippet">UFOs. Book. Oct 2025. Barrie Gunter · View · “I&#x27;ll never forget the sinking ferry!” How social influence makes false memories surface.Rea...</span></span></span>
+Early reports often mention lights, debris, searches, or uncertainty. Later versions may add alien bodies, advanced materials, secret transport operations, and eyewitnesses who supposedly saw everything firsthand. This pattern is not unique to UFOs. Studies of public memory show that collective stories can accumulate details through repetition and social reinforcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) News Events, False Memory and Paranormal Belief</span><span class="citation-popover-snippet">UFOs. Book. Oct 2025. Barrie Gunter · View · “I&#x27;ll never forget the sinking ferry!” How social influence makes false memories surface.Rea...</span></span></span>
 
 Several forces encourage this growth:
 
@@ -338,7 +338,7 @@ Several forces encourage this growth:
 
 **Cultural expectations.** Once UFO crash stories became a recognised genre after Roswell, later witnesses had a ready-made framework for interpreting unusual events.
 
-Psychological research has shown that people can develop detailed recollections for events that never occurred exactly as remembered, particularly when suggested information is repeatedly reinforced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.washington.edu/eloftus/Articles/sciam.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[UW Faculty+2Psichi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-snippet">UW FacultyCreating False MemoriesIn the lost-in-the-mall study, implantation of false memory occurred when another person, usually a fami...</span></span></span>
+Psychological research has shown that people can develop detailed recollections for events that never occurred exactly as remembered, particularly when suggested information is repeatedly reinforced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.washington.edu/eloftus/Articles/sciam.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[washington.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-snippet">UW FacultyCreating False MemoriesIn the lost-in-the-mall study, implantation of false memory occurred when another person, usually a fami...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HQRyaCBxPeU" title="The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer">The Roswell Incident and UFO Sightings Documentary - PART 1 | Mysteries Decoded | The CW</a></p><p class="youtube-embed-meta">Channel: The CW Network &middot; Views: 98.2K &middot; Uploaded: September 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HQRyaCBxPeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HQRyaCBxPeU">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ Early records generally deserve special attention because they are closer in tim
 * Newspaper accounts written immediately after the incident.
 * Military communications.
 * Search-and-rescue records.
-* Contemporary witness statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DYe5UiDIw58/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Some claimed they saw unusual debris that didn&#x27;t behave...Read more...</span></span></span>
+* Contemporary witness statements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DYe5UiDIw58/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Some claimed they saw unusual debris that didn&#x27;t behave...Read more...</span></span></span>
 
 </div>
 
@@ -376,7 +376,7 @@ A practical approach is to ask:
 
 </div>
 
-The Roswell debate demonstrates why these questions matter. Contemporary records focus heavily on debris and military interest, while many of the famous alien-body narratives emerged much later. That difference does not automatically settle the case, but it highlights the central challenge of crash folklore: distinguishing what witnesses originally observed from what memory and storytelling may have added afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAFHISTORY+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">The Roswell Report... crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplica...</span></span></span>
+The Roswell debate demonstrates why these questions matter. Contemporary records focus heavily on debris and military interest, while many of the famous alien-body narratives emerged much later. That difference does not automatically settle the case, but it highlights the central challenge of crash folklore: distinguishing what witnesses originally observed from what memory and storytelling may have added afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">The Roswell Report... crash of an unidentified flying object (UFO) that occurred in the state in 1947. This publication duplica...</span></span></span>
 
 ## The Memory Loop Behind UFO Crash Folklore
 
@@ -389,194 +389,194 @@ In that way, aircraft accident memories can become raw material for alien crash 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Air Crash Memories Become UFO Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Air Crash Memories Become UFO Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
-        <p class="fr-book-desc">Examines Roswell, military secrecy, and competing explanations behind famous UFO crash stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
+<p class="fr-book-desc">Examines Roswell, military secrecy, and competing explanations behind famous UFO crash stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intimate Alien on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6E_VDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Intimate Alien" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intimate Alien">Intimate Alien</a>
-        </h4>
-        <p class="fr-book-author">By David J. Halperin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intimate Alien on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6E_VDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Intimate Alien" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intimate Alien">Intimate Alien</a>
+</h4>
+<p class="fr-book-author">By David J. Halperin</p>
         
-        <p class="fr-book-desc">Explicitly treats UFOs as myths and cultural stories shaped by memory, symbolism, and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explicitly treats UFOs as myths and cultural stories shaped by memory, symbolism, and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intimate+Alien+by+David+J.+Halperin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO narratives are constructed, debated, and interpreted over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO narratives are constructed, debated, and interpreted over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cbgWg8LxgQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cbgWg8LxgQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Directly supports the article&#x27;s theme that later narratives can reshape memories of earlier events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the article&#x27;s theme that later narratives can reshape memories of earlier events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intimate+Alien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intimate Alien</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intimate+Alien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intimate Alien</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="memory-loop-how-air-crash-memories-become-ufo-folklore-ufo-crashes-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,140 +782,140 @@ In that way, aircraft accident memories can become raw material for alien crash 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psichi.org  
-   Link: <a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating (False) Memories With Elizabeth Loftus, PhDPart of the false memory includes making the participants believe that they were scar...</p></details>
+   Link:<a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creating (False) Memories With Elizabeth Loftus, PhDPart of the false memory includes making the participants believe that they were scar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dafhistory.af.mil  
    Title: AFD 101201 038  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report... crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) that occurred in the state in 1947. This publication duplica...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report... crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) that occurred in the state in 1947. This publication duplica...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object resembled a high-altitude weather balloon...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object resembled a high-altitude weather balloon...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — The 1997 Air Force report suggested that stori...</p></details>
    Published: May 8, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hangar1publishing.com  
    Title: Roswell Witnesses Speak  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakMay 3, 2025 — The report argued that witnesses recalling these events decades later simply misrem...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakMay 3, 2025 — The report argued that witnesses recalling these events decades later simply misrem...</p></details>
    Published: May 3, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) News Events, False Memory and Paranormal Belief  
-   Link: <a href="https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs. Book. Oct 2025. Barrie Gunter · View · “I&#x27;ll never forget the sinking ferry!” How social influence makes false memories surface.Rea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332174193_News_Events_False_Memory_and_Paranormal_Belief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs. Book. Oct 2025. Barrie Gunter · View · “I&#x27;ll never forget the sinking ferry!” How social influence makes false memories surface.Rea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
-   Link: <a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is the US Army&#x27;s Explanation for what happened in Roswell suspicious?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is the US Army&#x27;s Explanation for what happened in Roswell suspicious?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nmoer.pressbooks.pub  
    Title: false memory  
-   Link: <a href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow">https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</p></details>
+   Link:<a href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/" target="_blank" rel="noopener noreferrer nofollow">https://nmoer.pressbooks.pub/cognitivepsychology/chapter/false-memory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico Open Educational Resources8.5 False Memory – Cognitive Psychologyby R Graham · 2025 — Likewise, eyewitness memory can be corru...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faculty.washington.edu  
-   Link: <a href="https://faculty.washington.edu/eloftus/Articles/sciam.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/eloftus/Articles/sciam.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UW FacultyCreating False MemoriesIn the lost-in-the-mall study, implantation of false memory occurred when another person, usually a fami...</p></details>
+   Link:<a href="https://faculty.washington.edu/eloftus/Articles/sciam.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/eloftus/Articles/sciam.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW FacultyCreating False MemoriesIn the lost-in-the-mall study, implantation of false memory occurred when another person, usually a fami...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulRecent research indicates that the debris recovered from the ranch on July 7, 1947, was a weather balloon -- but i...</p></details>
    Published: July 7, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jhmovie.fandom.com  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomDespite the lack of evidence, many UFO proponents claim that the Roswell debris was derived fr...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomDespite the lack of evidence, many UFO proponents claim that the Roswell debris was derived fr...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revisited: Witnesses, Secrecy, and the Event That...The Day the Sky Fell Silent: The Westall UFO Mystery Revisited After Sixty Y...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/roswell-revisited-witnesses-secrecy-and-the-event-that-challenged-reality-itself-6e69ddb469a6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Revisited: Witnesses, Secrecy, and the Event That...The Day the Sky Fell Silent: The Westall UFO Mystery Revisited After Sixty Y...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYPkxsIjVTd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPkxsIjVTd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But decades later, the US government said it wasn&#x27;t aliens, just high-tech spy [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) from a...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYPkxsIjVTd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPkxsIjVTd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But decades later, the US government said it wasn&#x27;t aliens, just high-tech spy [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) from a...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologyinaction.org  
-   Link: <a href="https://www.psychologyinaction.org/2020-3-23-memory-malfunctions-a-discussion-of-research-on-false-memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologyinaction.org/2020-3-23-memory-malfunctions-a-discussion-of-research-on-false-memory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emories with external influences, resulting in memory for the gist of a scene but...Read more...</p></details>
+   Link:<a href="https://www.psychologyinaction.org/2020-3-23-memory-malfunctions-a-discussion-of-research-on-false-memory/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologyinaction.org/2020-3-23-memory-malfunctions-a-discussion-of-research-on-false-memory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emories with external influences, resulting in memory for the gist of a scene but...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - First-Hand Roswell Witness Who Saw Non-Human Bodies Only. 1...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IAmA/comments/kfn8b4/were_a_ufo_expert_and_former_cia_operative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - First-Hand Roswell Witness Who Saw Non-Human Bodies Only. 1...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Witness accounts indicate that the 1947 Roswell Incident was spread...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “Witness accounts indicate that the 1947 Roswell Incident was spread...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologistworld.com  
    Title: false memories questioning eyewitness testimony  
-   Link: <a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesFor example, Susan Clancy (2005) noted that prior to hypnosis, people who claimed that they had been abducted by aliens did...</p></details>
+   Link:<a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesFor example, Susan Clancy (2005) noted that prior to hypnosis, people who claimed that they had been abducted by aliens did...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYe5UiDIw58/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYe5UiDIw58/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some claimed they saw unusual debris that didn&#x27;t behave...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYe5UiDIw58/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYe5UiDIw58/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some claimed they saw unusual debris that didn&#x27;t behave...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1p8y8xj/firsthand_roswell_witness_who_saw_nonhuman_bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p8y8xj/firsthand_roswell_witness_who_saw_nonhuman_bodies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or where aliens have been found. it is also claimed that...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1p8y8xj/firsthand_roswell_witness_who_saw_nonhuman_bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p8y8xj/firsthand_roswell_witness_who_saw_nonhuman_bodies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or where aliens have been found. it is also claimed that...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: drmsh.com  
    Title: Roswell "Memory Metal" in the News  
-   Link: <a href="https://drmsh.com/roswell-memory-metal-in-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/roswell-memory-metal-in-the-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael HeiserMay 23, 2009 — At issue are some missing reports from Battelle&#x27;s study of a nickel/titanium alloy called Nitinol, renowed f...</p></details>
+   Link:<a href="https://drmsh.com/roswell-memory-metal-in-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/roswell-memory-metal-in-the-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael HeiserMay 23, 2009 — At issue are some missing reports from Battelle&#x27;s study of a nickel/titanium alloy called Nitinol, renowed f...</p></details>
    Published: May 23, 2009  

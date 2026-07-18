@@ -280,17 +280,17 @@ image: /assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireb
 
 ## Introduction
 
-The Las Vegas “backyard aliens” story became one of the most widely discussed UFO cases of 2023 because it appeared to combine two elements that often fuel crash narratives: a dramatic object seen falling from the sky and a frightened witness report of unusual beings on the ground. The key evidential question is whether those two elements were actually parts of the same event. Available [evidence]({{ 'evidence/' | relative_url }}) strongly supports the existence of a real [fireball]({{ 'fireball/' | relative_url }}) over the western United States that night, but the fireball itself does not provide evidence that aliens, a crashed craft, or physical wreckage were present in the Las Vegas backyard. Instead, the case illustrates how a confirmed atmospheric event can become attached to a much more speculative local story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
+The Las Vegas “backyard aliens” story became one of the most widely discussed UFO cases of 2023 because it appeared to combine two elements that often fuel crash narratives: a dramatic object seen falling from the sky and a frightened witness report of unusual beings on the ground. The key evidential question is whether those two elements were actually parts of the same event. Available [evidence]({{ 'evidence/' | relative_url }}) strongly supports the existence of a real [fireball]({{ 'fireball/' | relative_url }}) over the western United States that night, but the fireball itself does not provide evidence that aliens, a crashed craft, or physical wreckage were present in the Las Vegas backyard. Instead, the case illustrates how a confirmed atmospheric event can become attached to a much more speculative local story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-1-dark.svg" | relative_url }}" alt="Vegas Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Reported Western Fireball
 
-On the night of 30 April–1 May 2023, a bright fireball was observed across parts of Nevada and neighbouring states. [Witness reports]({{ 'witnesses/' | relative_url }}) were logged by meteor-reporting networks, and video footage captured a bright streak and flash in the sky. Reports placed the event at approximately 11:48 p.m. local time in Nevada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">there were 21 witnesses of a fireball on may 1</span><span class="citation-popover-snippet">There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</span></span></span>
+On the night of 30 April–1 May 2023, a bright fireball was observed across parts of Nevada and neighbouring states. [Witness reports]({{ 'witnesses/' | relative_url }}) were logged by meteor-reporting networks, and video footage captured a bright streak and flash in the sky. Reports placed the event at approximately 11:48 p.m. local time in Nevada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">there were 21 witnesses of a fireball on may 1</span><span class="citation-popover-snippet">There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</span></span></span>
 
-The fireball gained additional attention because a Las Vegas police officer's body camera recorded a bright object moving across the sky around the same time. Media coverage later linked this footage to a 911 call from a Las Vegas family who reported that something had fallen into their backyard and that they had seen large, non-human-looking figures near heavy equipment on the property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco+2NBC Los Angeles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
+The fireball gained additional attention because a Las Vegas police officer's body camera recorded a bright object moving across the sky around the same time. Media coverage later linked this footage to a 911 call from a Las Vegas family who reported that something had fallen into their backyard and that they had seen large, non-human-looking figures near heavy equipment on the property.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[abc7news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
 
-Crucially, the fireball itself was never the controversial part of the story. A bright meteor visible over a large region is entirely consistent with ordinary astronomical events. Reports from meteor observers and subsequent media investigations treated the sky object as a meteor fireball rather than an [unidentified]({{ 'unidentified/' | relative_url }}) craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
+Crucially, the fireball itself was never the controversial part of the story. A bright meteor visible over a large region is entirely consistent with ordinary astronomical events. Reports from meteor observers and subsequent media investigations treated the sky object as a meteor fireball rather than an [unidentified]({{ 'unidentified/' | relative_url }}) craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HCvNVmTiIQQ" title="Fireball above Las Vegas before alien 911 call was meteor, scientist says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HCvNVmTiIQQ" target="_blank" rel="noopener noreferrer">Fireball above Las Vegas before alien 911 call was meteor, scientist says</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 209.6K &middot; Uploaded: June 2023 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HCvNVmTiIQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HCvNVmTiIQQ">Open on YouTube</a></p></div></div></div>
@@ -299,9 +299,9 @@ Crucially, the fireball itself was never the controversial part of the story. A 
 
 The strength of the Las Vegas case in public imagination came from [timing]({{ 'timing/' | relative_url }}) rather than physical evidence.
 
-According to the family, they were outside when they noticed a bright object descending. They later told emergency dispatchers that they felt an impact, heard activity in the yard, and saw what they described as tall beings with large eyes. The 911 recording captures genuine alarm rather than a casual report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
+According to the family, they were outside when they noticed a bright object descending. They later told emergency dispatchers that they felt an impact, heard activity in the yard, and saw what they described as tall beings with large eyes. The 911 recording captures genuine alarm rather than a casual report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
 
-Because the meteor was independently observed and recorded, many people treated it as corroboration of the family's account. Yet the fireball only confirms that something bright passed through the atmosphere. It does not establish that anything landed in the backyard, nor that any beings were present. A meteor can be visible across hundreds of kilometres while appearing to individual observers as if it descended nearby. This is a common source of crash misunderstandings in fireball cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
+Because the meteor was independently observed and recorded, many people treated it as corroboration of the family's account. Yet the fireball only confirms that something bright passed through the atmosphere. It does not establish that anything landed in the backyard, nor that any beings were present. A meteor can be visible across hundreds of kilometres while appearing to individual observers as if it descended nearby. This is a common source of crash misunderstandings in fireball cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
 
 The sequence therefore became:
 
@@ -325,11 +325,11 @@ That merger is understandable from a human perspective. When an unusual sky even
 
 The central weakness of the case is the absence of convincing crash evidence.
 
-Despite widespread discussion, no publicly documented [wreckage]({{ 'wreckage/' | relative_url }}) was recovered from the yard. No verified physical fragments linked to a craft were produced. There was also no publicly released evidence showing an impact crater or damage that investigators could confidently associate with an incoming object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
+Despite widespread discussion, no publicly documented [wreckage]({{ 'wreckage/' | relative_url }}) was recovered from the yard. No verified physical fragments linked to a craft were produced. There was also no publicly released evidence showing an impact crater or damage that investigators could confidently associate with an incoming object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO</span><span class="citation-popover-snippet">ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</span><span class="citation-popover-meta">Published: June 8, 2023</span></span></span>
 
-The family's claims focused primarily on perceived beings rather than on recoverable material evidence. Later analysis by supporters concentrated on video interpretation, frame-by-frame examination, and alleged figures hidden in shadows or behind structures. These interpretations generated significant debate, but they did not provide the type of physical evidence normally expected in a genuine crash investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10phoenix.com">[FOX 10 Phoenix+2Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10phoenix.com</span><span class="citation-popover-title">FOX 10 Phoenix Las Vegas alien video shows at least 2 &#x27;beings&#x27; using</span><span class="citation-popover-snippet">FOX 10 PhoenixLas Vegas alien video shows at least 2 &#x27;beings&#x27; using &#x27;...May 28, 2024 — 28 May 2024 — There are at least two &quot;beings&quot; usi...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span>
+The family's claims focused primarily on perceived beings rather than on recoverable material evidence. Later analysis by supporters concentrated on video interpretation, frame-by-frame examination, and alleged figures hidden in shadows or behind structures. These interpretations generated significant debate, but they did not provide the type of physical evidence normally expected in a genuine crash investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox10phoenix.com">[fox10phoenix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox10phoenix.com</span><span class="citation-popover-title">FOX 10 Phoenix Las Vegas alien video shows at least 2 &#x27;beings&#x27; using</span><span class="citation-popover-snippet">FOX 10 PhoenixLas Vegas alien video shows at least 2 &#x27;beings&#x27; using &#x27;...May 28, 2024 — 28 May 2024 — There are at least two &quot;beings&quot; usi...</span><span class="citation-popover-meta">Published: May 28, 2024</span></span></span>
 
-An important distinction emerged as the story evolved. The existence of the fireball could be independently verified. The existence of aliens or a crashed vehicle could not. The two claims therefore rested on very different evidential foundations. One was supported by multiple witnesses and recordings across a broad region; the other depended largely on testimony and disputed video interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">there were 21 witnesses of a fireball on may 1</span><span class="citation-popover-snippet">There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</span></span></span>
+An important distinction emerged as the story evolved. The existence of the fireball could be independently verified. The existence of aliens or a crashed vehicle could not. The two claims therefore rested on very different evidential foundations. One was supported by multiple witnesses and recordings across a broad region; the other depended largely on testimony and disputed video interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">there were 21 witnesses of a fireball on may 1</span><span class="citation-popover-snippet">There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-3-dark.svg" | relative_url }}" alt="Vegas Fireball illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_meteor_fireballs_f0c023_las_vegas_fireball_t_20c89a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,203 +337,203 @@ An important distinction emerged as the story evolved. The existence of the fire
 
 Within the broader pattern of UFO [crash reports]({{ 'crash-reports/' | relative_url }}), the Las Vegas incident is valuable because it shows how a confirmed astronomical event can act as a trigger for a much larger narrative.
 
-The fireball gave the story an objective starting point. People could point to a real flash in the sky, a recorded trajectory, and independent witnesses. That foundation made the subsequent backyard claims appear more plausible than they would have seemed on their own. Yet the confirmed portion of the event and the extraordinary portion of the event remained separate evidentially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
+The fireball gave the story an objective starting point. People could point to a real flash in the sky, a recorded trajectory, and independent witnesses. That foundation made the subsequent backyard claims appear more plausible than they would have seemed on their own. Yet the confirmed portion of the event and the extraordinary portion of the event remained separate evidentially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
 
-As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO crash confusion, Las Vegas illustrates a recurring lesson: a visible sky event can explain why witnesses became alarmed and why a crash story began, but it does not by itself verify later claims about landed craft, wreckage, or non-human beings. The fireball is well supported; the alleged crash remains unsubstantiated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
+As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO crash confusion, Las Vegas illustrates a recurring lesson: a visible sky event can explain why witnesses became alarmed and why a crash story began, but it does not by itself verify later claims about landed craft, wreckage, or non-human beings. The fireball is well supported; the alleged crash remains unsubstantiated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[businessinsider.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Las Vegas Family Reports Aliens in Backyard but Cops</span><span class="citation-popover-snippet">Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</span><span class="citation-popover-meta">Published: June 12, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UJNwSR2R9Qk" title="Alleged Las Vegas alien sighting: What happened in 2023? | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UJNwSR2R9Qk" target="_blank" rel="noopener noreferrer">Alleged Las Vegas alien sighting: What happened in 2023? | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 419.6K &middot; Uploaded: February 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UJNwSR2R9Qk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UJNwSR2R9Qk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Fireball Became a Backyard Alien Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Fireball Became a Backyard Alien Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps separate documented evidence from anecdotal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps separate documented evidence from anecdotal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Shows how narratives can grow around limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how narratives can grow around limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Explains the real fireball component of such stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the real fireball component of such stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Examines how extraordinary claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how extraordinary claims should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP"><img src="{{ '/assets/images/marketplace-covers/97add21e72eecbe0be99.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP"><img src="{{ '/assets/images/marketplace-covers/97add21e72eecbe0be99.jpg' | relative_url }}" alt="Listing image for ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM A5 TIN SIGN MEMORABILIA ALIEN PROPERTY OF WEYLAND-YUTANI CORP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b4b284b515fdc1f74c54.jpg' | relative_url }}" alt="Listing image for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b4b284b515fdc1f74c54.jpg' | relative_url }}" alt="Listing image for Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="vegas-fireball-how-a-fireball-became-a-backyard-alien-story-ufo-crashes-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,103 +739,103 @@ As a case study in [meteor fireballs]({{ 'meteors/' | relative_url }}) and UFO c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: there were 21 witnesses of a fireball on may 1  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There were 21 witnesses of a fireball on May 1 2023 (Las...On May 1 at 06:48 UT, which was 23:48 in Nevada there was a fireball si...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fox10phoenix.com  
    Title: FOX 10 Phoenix Las Vegas alien video shows at least 2 'beings' using '  
-   Link: <a href="https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 10 PhoenixLas Vegas alien video shows at least 2 &#x27;beings&#x27; using &#x27;...May 28, 2024 — 28 May 2024 — There are at least two &quot;beings&quot; usi...</p></details>
+   Link:<a href="https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/las-vegas-alien-video-beings-cloaking-device</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 10 PhoenixLas Vegas alien video shows at least 2 &#x27;beings&#x27; using &#x27;...May 28, 2024 — 28 May 2024 — There are at least two &quot;beings&quot; usi...</p></details>
    Published: May 28, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How did the media get away with an incident like that if it was staged and successfully misleading the public?...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How did the media get away with an incident like that if it was staged and successfully misleading the public?...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: businessinsider.com  
    Title: Business Insider Las Vegas Family Reports Aliens in Backyard but Cops  
-   Link: <a href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash-2023-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</p></details>
+   Link:<a href="https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/las-vegas-family-reports-aliens-in-backyard-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderLas Vegas Family Reports Aliens in Backyard but Cops...June 12, 2023 — 11 Jun 2023 — Just before midnight on April 30, t...</p></details>
    Published: June 12, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abc7news.com  
    Title: ABC7 San Francisco Las Vegas police respond to home after 911 call claims UFO  
-   Link: <a href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</p></details>
+   Link:<a href="https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/las-vegas-aliens-ufo-alien-news/13359881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoLas Vegas police respond to home after 911 call claims UFO...June 8, 2023...</p></details>
    Published: June 8, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nbclosangeles.com  
-   Link: <a href="https://www.nbclosangeles.com/news/national-international/las-vegas-family-called-911-after-claiming-they-saw-two-aliens-crash-in-their-backyard/3167957/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/national-international/las-vegas-family-called-911-after-claiming-they-saw-two-aliens-crash-in-their-backyard/3167957/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas family called 911 with reports of alien crash9 Jun 2023 — A Las Vegas family called 911 in late April after an object fell from...</p></details>
+   Link:<a href="https://www.nbclosangeles.com/news/national-international/las-vegas-family-called-911-after-claiming-they-saw-two-aliens-crash-in-their-backyard/3167957/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/national-international/las-vegas-family-called-911-after-claiming-they-saw-two-aliens-crash-in-their-backyard/3167957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas family called 911 with reports of alien crash9 Jun 2023 — A Las Vegas family called 911 in late April after an object fell from...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/us/las-vegas-alien-videos-previously-missed-detail-proves-authenticity-expert-says-you-cant-deny-it" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/las-vegas-alien-videos-previously-missed-detail-proves-authenticity-expert-says-you-cant-deny-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas alien video&#x27;s previously missed detail proves &#x27;...9 May 2024 — A Las Vegas family reported a crashed UFO and told police they...</p></details>
+   Link:<a href="https://www.foxnews.com/us/las-vegas-alien-videos-previously-missed-detail-proves-authenticity-expert-says-you-cant-deny-it" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/las-vegas-alien-videos-previously-missed-detail-proves-authenticity-expert-says-you-cant-deny-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas alien video&#x27;s previously missed detail proves &#x27;...9 May 2024 — A Las Vegas family reported a crashed UFO and told police they...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 Eyewitness News on Instagram: &quot;Is it aliens? A Vegas...A Vegas family says a UFO crashed into their backyard before several very ta...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 Eyewitness News on Instagram: &quot;Is it aliens? A Vegas...A Vegas family says a UFO crashed into their backyard before several very ta...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/members/imo_view/report/358513" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/358513</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportThis was incredible, very very quick, very bright, and very unusual for me. I&#x27;ve never seen anything like this before, exc...</p></details>
+   Link:<a href="https://www.amsmeteors.org/members/imo_view/report/358513" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/358513</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportThis was incredible, very very quick, very bright, and very unusual for me. I&#x27;ve never seen anything like this before, exc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: elvisduran.iheart.com  
-   Link: <a href="https://elvisduran.iheart.com/featured/elvis-duran/content/2023-06-09-police-bodycam-films-ufo-response-to-scared-locals-seeing-aliens-in-yard/" target="_blank" rel="noopener noreferrer nofollow">https://elvisduran.iheart.com/featured/elvis-duran/content/2023-06-09-police-bodycam-films-ufo-response-to-scared-locals-seeing-aliens-in-yard/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodycam Films UFO, Response To Scared Locals...9 Jun 2023 — Police Bodycam Films UFO, Response To Scared Locals Seeing Aliens In Yard. B...</p></details>
+   Link:<a href="https://elvisduran.iheart.com/featured/elvis-duran/content/2023-06-09-police-bodycam-films-ufo-response-to-scared-locals-seeing-aliens-in-yard/" target="_blank" rel="noopener noreferrer nofollow">https://elvisduran.iheart.com/featured/elvis-duran/content/2023-06-09-police-bodycam-films-ufo-response-to-scared-locals-seeing-aliens-in-yard/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bodycam Films UFO, Response To Scared Locals...9 Jun 2023 — Police Bodycam Films UFO, Response To Scared Locals Seeing Aliens In Yard. B...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/virginianpilot/posts/it-was-not-aliens-or-a-ufo-las-vegas-residents-saw-one-night-in-may-it-was-a-met/654658580033704/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/virginianpilot/posts/it-was-not-aliens-or-a-ufo-las-vegas-residents-saw-one-night-in-may-it-was-a-met/654658580033704/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2023, Las Vegas briefly. Shortly before midnight, a bright fireball was recorded streaking across the sky above Nevada...</p></details>
+   Link:<a href="https://www.facebook.com/virginianpilot/posts/it-was-not-aliens-or-a-ufo-las-vegas-residents-saw-one-night-in-may-it-was-a-met/654658580033704/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/virginianpilot/posts/it-was-not-aliens-or-a-ufo-las-vegas-residents-saw-one-night-in-may-it-was-a-met/654658580033704/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2023, Las Vegas briefly. Shortly before midnight, a bright fireball was recorded streaking across the sky above Nevada...</p></details>
    Published: May 1, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ktnv.com  
    Title: northwest las vegas residents report seeing alien lifelike  
-   Link: <a href="https://www.ktnv.com/news/northwest-las-vegas-residents-report-seeing-alien-lifelike" target="_blank" rel="noopener noreferrer nofollow">https://www.ktnv.com/news/northwest-las-vegas-residents-report-seeing-alien-lifelike</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jun 2023 — A Las Vegas family claimed they saw aliens in their backyard in the northwest valley and described them as very tall &quot;nonhu...</p></details>
+   Link:<a href="https://www.ktnv.com/news/northwest-las-vegas-residents-report-seeing-alien-lifelike" target="_blank" rel="noopener noreferrer nofollow">https://www.ktnv.com/news/northwest-las-vegas-residents-report-seeing-alien-lifelike</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jun 2023 — A Las Vegas family claimed they saw aliens in their backyard in the northwest valley and described them as very tall &quot;nonhu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: independent.co.uk  
    Title: ufo aliens las vegas scott roder kenmore family b2554715  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/ufo-aliens-las-vegas-scott-roder-kenmore-family-b2554715.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/ufo-aliens-las-vegas-scott-roder-kenmore-family-b2554715.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crime scene analyst weighs in after Las Vegas family say...31 May 2024 — Two “aliens” that allegedly landed in a Las Vegas family&#x27;s back...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/ufo-aliens-las-vegas-scott-roder-kenmore-family-b2554715.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/ufo-aliens-las-vegas-scott-roder-kenmore-family-b2554715.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crime scene analyst weighs in after Las Vegas family say...31 May 2024 — Two “aliens” that allegedly landed in a Las Vegas family&#x27;s back...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWQH8vBipLg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWQH8vBipLg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ireball seen across California, Arizona and Nevada...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWQH8vBipLg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWQH8vBipLg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ireball seen across California, Arizona and Nevada...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jpost.com  
-   Link: <a href="https://www.jpost.com/omg/article-746697" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-746697</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jerusalem PostUFO spotted in Las Vegas just a meteor, alien sightings...18 Jun 2023 — The streak of light seen in Las Vegas on April 30...</p></details>
+   Link:<a href="https://www.jpost.com/omg/article-746697" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-746697</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jerusalem PostUFO spotted in Las Vegas just a meteor, alien sightings...18 Jun 2023 — The streak of light seen in Las Vegas on April 30...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc7ny.com  
    Title: las vegas aliens ufo camera  
-   Link: <a href="https://abc7ny.com/post/las-vegas-aliens-ufo-camera/13396506/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/las-vegas-aliens-ufo-camera/13396506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkLas Vegas police place cameras in backyard where aliens...19 Jun 2023 — Family members were recorded saying they saw an &quot;ei...</p></details>
+   Link:<a href="https://abc7ny.com/post/las-vegas-aliens-ufo-camera/13396506/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/las-vegas-aliens-ufo-camera/13396506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkLas Vegas police place cameras in backyard where aliens...19 Jun 2023 — Family members were recorded saying they saw an &quot;ei...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Fireball above Las Vegas before alien 911 call was meteor, scientist says  
-   Link: <a href="https://www.youtube.com/watch?v=HCvNVmTiIQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCvNVmTiIQQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas family makes out-of-this-world claim after witnesses, police see flash in the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HCvNVmTiIQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HCvNVmTiIQQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas family makes out-of-this-world claim after witnesses, police see flash in the sky...</p></details>

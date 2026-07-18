@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_
 
 ## Introduction
 
-One reason UFO crash stories proved so durable is that witnesses often judged an incident by the behaviour of recovery teams as much as by the debris itself. During the Cold War, military personnel sometimes arrived quickly, restricted access, collected material, questioned witnesses, and offered sparse or changing explanations. To civilians unfamiliar with classified programmes, those actions could resemble the retrieval of an extraordinary craft rather than the recovery of a balloon, surveillance device, experimental [aircraft]({{ 'aircraft/' | relative_url }}) component, or other secret military equipment. The result was a recurring pattern: ordinary recovery procedures conducted under unusual [secrecy]({{ 'secrecy/' | relative_url }}) acquired the appearance of a spacecraft-retrieval operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+One reason UFO crash stories proved so durable is that witnesses often judged an incident by the behaviour of recovery teams as much as by the debris itself. During the Cold War, military personnel sometimes arrived quickly, restricted access, collected material, questioned witnesses, and offered sparse or changing explanations. To civilians unfamiliar with classified programmes, those actions could resemble the retrieval of an extraordinary craft rather than the recovery of a balloon, surveillance device, experimental [aircraft]({{ 'aircraft/' | relative_url }}) component, or other secret military equipment. The result was a recurring pattern: ordinary recovery procedures conducted under unusual [secrecy]({{ 'secrecy/' | relative_url }}) acquired the appearance of a spacecraft-retrieval operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-1-dark.svg" | relative_url }}" alt="Recovery Signs illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ One reason UFO crash stories proved so durable is that witnesses often judged an
 
 From a witness's perspective, a military recovery operation could appear dramatic even when the recovered object was entirely terrestrial.
 
-In many Cold War programmes, the military had strong incentives to secure [wreckage]({{ 'wreckage/' | relative_url }}) quickly. Equipment might reveal intelligence capabilities, sensor technologies, surveillance methods, or classified research priorities. Recovery teams therefore focused on controlling information and preserving material before it could be photographed, examined, or taken by civilians. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
+In many Cold War programmes, the military had strong incentives to secure [wreckage]({{ 'wreckage/' | relative_url }}) quickly. Equipment might reveal intelligence capabilities, sensor technologies, surveillance methods, or classified research priorities. Recovery teams therefore focused on controlling information and preserving material before it could be photographed, examined, or taken by civilians.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
 
 Common features included:
 
@@ -297,7 +297,7 @@ Common features included:
 * Collecting even small fragments scattered over a wide area.
 * Discouraging photography or public access.
 * Interviewing witnesses and instructing military personnel not to discuss the event publicly.
-* Issuing simplified public explanations that omitted the classified purpose of the recovered equipment. FAS Project on Government Secrecy+2National Security Archive <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+* Issuing simplified public explanations that omitted the classified purpose of the recovered equipment. FAS Project on Government Secrecy+2National Security Archive<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 To someone expecting a conventional aircraft crash, these behaviours could seem excessive. Yet for classified programmes, recovering every component could be a routine security requirement rather than [evidence]({{ 'evidence/' | relative_url }}) of something non-human. The more unusual the underlying technology appeared to local observers, the more suspicious the recovery effort could look.
 
@@ -308,19 +308,19 @@ To someone expecting a conventional aircraft crash, these behaviours could seem 
 
 The Roswell incident remains the most influential case because it combined unusual debris, military involvement, and changing public statements.
 
-Historical investigations found that the recovered material was associated with the classified Project Mogul programme, which used balloon-borne equipment intended to help detect Soviet nuclear tests. Because the programme itself was secret, officials did not initially provide a full explanation of its purpose. The Army's public messaging shifted rapidly, creating a lasting impression that something important was being concealed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Historical investigations found that the recovered material was associated with the classified Project Mogul programme, which used balloon-borne equipment intended to help detect Soviet nuclear tests. Because the programme itself was secret, officials did not initially provide a full explanation of its purpose. The Army's public messaging shifted rapidly, creating a lasting impression that something important was being concealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-For witnesses, the key memory was often not the technical details of balloon components. It was the sight of military personnel gathering debris, transporting materials away, and controlling information. Those actions later became central elements in UFO-crash narratives because they matched popular expectations of how authorities might respond to the recovery of an alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+For witnesses, the key memory was often not the technical details of balloon components. It was the sight of military personnel gathering debris, transporting materials away, and controlling information. Those actions later became central elements in UFO-crash narratives because they matched popular expectations of how authorities might respond to the recovery of an alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 ## Why Secrecy Changed Witness Interpretation
 
 Human beings rarely observe an event in isolation. They interpret it through the behaviour of other people, especially authority figures.
 
-When officials appear calm and transparent, unusual debris may seem less mysterious. When officials appear secretive, hurried, or contradictory, observers often infer that the object itself must be extraordinary. In Cold War recovery operations, secrecy was frequently driven by national-security concerns rather than by the nature of the recovered object. However, witnesses usually did not know that at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
+When officials appear calm and transparent, unusual debris may seem less mysterious. When officials appear secretive, hurried, or contradictory, observers often infer that the object itself must be extraordinary. In Cold War recovery operations, secrecy was frequently driven by national-security concerns rather than by the nature of the recovered object. However, witnesses usually did not know that at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
 
 This produced a powerful psychological effect. A rancher who found unfamiliar debris might initially assume it was military equipment. After seeing armed personnel, restricted access, and inconsistent public explanations, that same witness could begin to suspect a larger story. Over years or decades, memories of the recovery behaviour sometimes became more significant than memories of the material itself.
 
-The Pentagon's 2024 historical review of [unidentified]({{ 'unidentified/' | relative_url }}) phenomena noted that many longstanding UFO stories emerged from encounters with classified technologies whose true purpose was hidden from the public. In such cases, secrecy itself became evidence in the minds of observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Many sightings of UFOs</span><span class="citation-popover-snippet">Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by classified program...</span></span></span>
+The Pentagon's 2024 historical review of [unidentified]({{ 'unidentified/' | relative_url }}) phenomena noted that many longstanding UFO stories emerged from encounters with classified technologies whose true purpose was hidden from the public. In such cases, secrecy itself became evidence in the minds of observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">Many sightings of UFOs</span><span class="citation-popover-snippet">Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by classified program...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-2-dark.svg" | relative_url }}" alt="Recovery Signs illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,7 +328,7 @@ The Pentagon's 2024 historical review of [unidentified]({{ 'unidentified/' | rel
 
 Cover stories were especially important in shaping later interpretations.
 
-If officials could not reveal the true purpose of a classified programme, they often substituted a simpler explanation. In the Roswell case, the public weather-balloon explanation concealed a more sensitive project. Decades later, many observers treated the existence of one cover story as proof that every subsequent explanation must also be deceptive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+If officials could not reveal the true purpose of a classified programme, they often substituted a simpler explanation. In the Roswell case, the public weather-balloon explanation concealed a more sensitive project. Decades later, many observers treated the existence of one cover story as proof that every subsequent explanation must also be deceptive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 This dynamic created a feedback loop:
 
@@ -352,14 +352,14 @@ The crucial point is that the secrecy was real, but the reason for the secrecy m
 
 Recovery behaviour can explain why witnesses became suspicious, but it is not the same thing as evidence for an extraterrestrial craft.
 
-A rapid military response demonstrates that officials considered an object important. It does not establish what the object was. Likewise, restricted access shows a desire to control information, but not necessarily the existence of alien technology. Classified [balloons]({{ 'balloons/' | relative_url }}), reconnaissance systems, missile components, and foreign military equipment could all justify aggressive recovery efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
+A rapid military response demonstrates that officials considered an object important. It does not establish what the object was. Likewise, restricted access shows a desire to control information, but not necessarily the existence of alien technology. Classified [balloons]({{ 'balloons/' | relative_url }}), reconnaissance systems, missile components, and foreign military equipment could all justify aggressive recovery efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
 
 This distinction matters because UFO crash claims often combine two separate questions:
 
 * **Did officials behave unusually?**
 * **Was the recovered object extraordinary?**
 
-The historical record shows many cases where the first question can be answered "yes" while the second remains unproven. Roswell illustrates this divide particularly well. Researchers continue to debate witness testimony and official actions, but extensive government investigations concluded that the debris originated from a classified military programme rather than an extraterrestrial vehicle. FAS Project on Government Secrecy+2DAF History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The historical record shows many cases where the first question can be answered "yes" while the second remains unproven. Roswell illustrates this divide particularly well. Researchers continue to debate witness testimony and official actions, but extensive government investigations concluded that the debris originated from a classified military programme rather than an extraterrestrial vehicle. FAS Project on Government Secrecy+2DAF History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-3-dark.svg" | relative_url }}" alt="Recovery Signs illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -367,201 +367,201 @@ The historical record shows many cases where the first question can be answered 
 
 Cold War recovery operations unintentionally created a template for later UFO-crash stories. Witnesses learned to associate certain signs with hidden truths: arriving military trucks, restricted zones, confiscated material, warnings against discussion, and official explanations that seemed incomplete.
 
-Whether those signs reflected the protection of classified technology or something more extraordinary became the central dispute. What is historically clear is that military recovery procedures often looked mysterious from the outside. In an era of secret weapons, intelligence programmes, and limited public disclosure, ordinary security measures could easily resemble the retrieval of a crashed spacecraft. National Security Archive+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[nsarchive.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
+Whether those signs reflected the protection of classified technology or something more extraordinary became the central dispute. What is historically clear is that military recovery procedures often looked mysterious from the outside. In an era of secret weapons, intelligence programmes, and limited public disclosure, ordinary security measures could easily resemble the retrieval of a crashed spacecraft. National Security Archive+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[nsarchive.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive The U.S</span><span class="citation-popover-snippet">Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cleanup Teams Looked Suspicious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cleanup Teams Looked Suspicious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows why military retrieval and secrecy could appear suspicious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why military retrieval and secrecy could appear suspicious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Places recovery-team behavior at the center of the Roswell narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places recovery-team behavior at the center of the Roswell narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Demonstrates how classified hardware was protected and recovered.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how classified hardware was protected and recovered.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
-        </h4>
-        <p class="fr-book-author">By James McAndrew</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Report: Case Closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VHXiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Roswell Report: Case Closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Report: Case Closed">The Roswell Report: Case Closed</a>
+</h4>
+<p class="fr-book-author">By James McAndrew</p>
         
-        <p class="fr-book-desc">Provides a contrasting interpretation of military recovery actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrasting interpretation of military recovery actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Report%3A+Case+Closed+by+James+McAndrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-signs-why-cleanup-teams-looked-suspicious-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Whether those signs reflected the protection of classified technology or somethi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Whether those signs reflected the protection of classified technology or somethi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Whether those signs reflected the protection of classified technology or somethi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Whether those signs reflected the protection of classified technology or somethi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Whether those signs reflected the protection of classified technology or somethi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,115 +767,115 @@ Whether those signs reflected the protection of classified technology or somethi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Version. General Accounting Office... On July 8, 1947, the Roswell Army Air Field (RAAF) public information...Read more...</p></details>
    Published: July 8, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
    Title: Many sightings of UFOs  
-   Link: <a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentBy 1947, the United States had launched thousands of top-secret Project Mogul balloons carrying devices to listen for...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentBy 1947, the United States had launched thousands of top-secret Project Mogul balloons carrying devices to listen for...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Caso Roswell  
-   Link: <a href="https://it.wikipedia.org/wiki/Caso_Roswell" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Caso_Roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Caso Roswell↑ (EN) The Roswell UFO Incident Story, su roswellfiles.com. URL... Broad, Wreckage in the Desert Was Odd but Not Alien...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/Caso_Roswell" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Caso_Roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caso Roswell↑ (EN) The Roswell UFO Incident Story, su roswellfiles.com. URL... Broad, Wreckage in the Desert Was Odd but Not Alien...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: 1947 Roswell Al. INTERVIEW Matilda O Donnell MacElroy djvu.txt  
-   Link: <a href="https://archive.org/stream/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;1947 Roswell ALIEN INTERVIEW&quot;The book discusses the origins of the universe, the time track of the physical universe, paran...</p></details>
+   Link:<a href="https://archive.org/stream/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1947RoswellAl.INTERVIEWMatildaODonnellMacElroy/1947_Roswell%20Al.%20INTERVIEW%20-%20Matilda%20O%20Donnell%20MacElroy_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;1947 Roswell ALIEN INTERVIEW&quot;The book discusses the origins of the universe, the time track of the physical universe, paran...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nsarchive.gwu.edu  
    Title: National Security Archive The U.S  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2018-01-31/scavenging-intelligence-us-governments-secret-search-foreign-objects-during-cold-war</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Secret Search for Foreign Objects...31 Jan 2018 — Its mission was to coordinate the collection and analysis of captured equ...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOG...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Possible explanations for UFO sightings and alien abductions...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Possible explanations for UFO sightings and alien abductions...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT... [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) of the recovery of any &quot;alien&quot; bodies or extraterrestrial materials. INTRODUCTION. Air Force involvement in th...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT... [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) of the recovery of any &quot;alien&quot; bodies or extraterrestrial materials. INTRODUCTION. Air Force involvement in th...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MogulThis was during the &quot;UFO Wave of 1947,&quot; and he told the sheriff that he thought this debris may be part of a &quot;flying disc.&quot; (1) The...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MogulThis was during the &quot;UFO Wave of 1947,&quot; and he told the sheriff that he thought this debris may be part of a &quot;flying disc.&quot; (1) The...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 years on: The most popular Roswell UFO theoriesTitled Area 51: An Uncensored History of America&#x27;s Top Secret Military Base, it suggest...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/75-years-on-the-most-popular-roswell-ufo-theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 years on: The most popular Roswell UFO theoriesTitled Area 51: An Uncensored History of America&#x27;s Top Secret Military Base, it suggest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: astrootd famous roswell ufo crash reportedon this day in 1947 roswell army air f  
-   Link: <a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...Project Mogul (1994) The U.S. Air Force released a report saying the debris was from Proj...</p></details>
+   Link:<a href="https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthshakerph/posts/astrootd-famous-roswell-ufo-crash-reportedon-this-day-in-1947-roswell-army-air-f/4139169272803845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroOTD FAMOUS ROSWELL “UFO CRASH” REPORTED...Project Mogul (1994) The U.S. Air Force released a report saying the debris was from Proj...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jul 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrater...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H2QGbpWJ3lc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H2QGbpWJ3lc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Obscurities of The Cold War Iceberg ExplainedLearn about the secret operations of foreign spies, hidden proxy wars, weird w...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H2QGbpWJ3lc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H2QGbpWJ3lc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Obscurities of The Cold War Iceberg ExplainedLearn about the secret operations of foreign spies, hidden proxy wars, weird w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO theorists contend that the U.S. Army Air Forces secretly shipped the alien bodies with large...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO theorists contend that the U.S. Army Air Forces secretly shipped the alien bodies with large...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Ewing flying what was suspected to be alien remains or UFO ma...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — Ewing flying what was suspected to be alien remains or UFO ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: complexdiscovery.com  
-   Link: <a href="https://complexdiscovery.com/the-architecture-of-isolation-cold-war-cities-and-corporate-silos/" target="_blank" rel="noopener noreferrer nofollow">https://complexdiscovery.com/the-architecture-of-isolation-cold-war-cities-and-corporate-silos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fely contained behind concrete barriers and covered with protective layers.Read more...</p></details>
+   Link:<a href="https://complexdiscovery.com/the-architecture-of-isolation-cold-war-cities-and-corporate-silos/" target="_blank" rel="noopener noreferrer nofollow">https://complexdiscovery.com/the-architecture-of-isolation-cold-war-cities-and-corporate-silos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fely contained behind concrete barriers and covered with protective layers.Read more...</p></details>

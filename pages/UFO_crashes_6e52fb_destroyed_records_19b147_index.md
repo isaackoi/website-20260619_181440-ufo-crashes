@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-destroyed-records/
 description: Focused pages that expand on Missing Files.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_destroyed_records_19b147
 parent_title: Missing Files
@@ -16,7 +16,7 @@ parent_permalink: /missing-files/
 
 # Explore Topics in Missing Files
 
-The following pages expand on the main **[Missing Files]({{ '/missing-files/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Missing Files]({{ '/missing-files/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book Gap]({{ '/blue-book-gap-2b8e2e/' | relative_url }})
 - [Misfiled Records]({{ '/misfiled-records/' | relative_url }})

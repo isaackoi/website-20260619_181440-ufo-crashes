@@ -274,17 +274,17 @@ image: /assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_w
 
 ## Introduction
 
-The [Aurora airship]({{ 'aurora/' | relative_url }}) crash story became believable in 1897 because it arrived at the peak of a nationwide mystery-airship craze. Readers had already spent months encountering newspaper reports about strange flying machines, mysterious inventors, bright searchlights and unusual aerial travellers. In that environment, a report of an airship accident did not seem like a completely new idea. It felt like the next logical chapter in a story many Americans believed was already unfolding. Rather than inventing a crash narrative from nothing, Aurora transformed an existing wave of sightings into a dramatic local disaster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+The [Aurora airship]({{ 'aurora/' | relative_url }}) crash story became believable in 1897 because it arrived at the peak of a nationwide mystery-airship craze. Readers had already spent months encountering newspaper reports about strange flying machines, mysterious inventors, bright searchlights and unusual aerial travellers. In that environment, a report of an airship accident did not seem like a completely new idea. It felt like the next logical chapter in a story many Americans believed was already unfolding. Rather than inventing a crash narrative from nothing, Aurora transformed an existing wave of sightings into a dramatic local disaster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this mechanism helps explain why Aurora occupies such an important place in UFO-crash folklore. The story's credibility depended less on [physical evidence]({{ 'evidence/' | relative_url }}) and more on the cultural expectations created by the airship wave itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+Understanding this mechanism helps explain why Aurora occupies such an important place in UFO-crash folklore. The story's credibility depended less on [physical evidence]({{ 'evidence/' | relative_url }}) and more on the cultural expectations created by the airship wave itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 ## Why Airships Filled the Skies Before Saucers
 
-In 1896 and 1897, Americans were fascinated by the possibility of powered flight. [Balloons]({{ 'balloons/' | relative_url }}) and dirigibles already existed, but successful heavier-than-air flight had not yet become reality. The public knew that inventors around the world were experimenting with new technologies, and newspapers eagerly reported rumours of breakthroughs. This created a climate in which extraordinary aerial stories could seem plausible rather than impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ketr.org">[ketr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ketr.org</span><span class="citation-popover-title">hunt county citizens reported seeing airships 1897</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: May 27, 2016</span></span></span>
+In 1896 and 1897, Americans were fascinated by the possibility of powered flight. [Balloons]({{ 'balloons/' | relative_url }}) and dirigibles already existed, but successful heavier-than-air flight had not yet become reality. The public knew that inventors around the world were experimenting with new technologies, and newspapers eagerly reported rumours of breakthroughs. This created a climate in which extraordinary aerial stories could seem plausible rather than impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ketr.org">[ketr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ketr.org</span><span class="citation-popover-title">hunt county citizens reported seeing airships 1897</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: May 27, 2016</span></span></span>
 
-The mystery-airship reports occupied a middle ground between science and speculation. Witnesses did not usually describe magical objects. Instead, they described machines. The reported craft often had cigar-shaped [bodies]({{ 'bodies/' | relative_url }}), propellers, wings, cabins and powerful lights. Such details connected the stories to contemporary engineering dreams rather than to the supernatural. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+The mystery-airship reports occupied a middle ground between science and speculation. Witnesses did not usually describe magical objects. Instead, they described machines. The reported craft often had cigar-shaped [bodies]({{ 'bodies/' | relative_url }}), propellers, wings, cabins and powerful lights. Such details connected the stories to contemporary engineering dreams rather than to the supernatural.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 For readers in 1897, the question was often not whether humans would eventually conquer the air. The question was whether some inventor had already done so in secret.
 
@@ -302,11 +302,11 @@ Common features included:
 * Crews who spoke with witnesses.
 * Brilliant searchlights visible at night.
 * Long-distance journeys that exceeded known aviation capabilities.
-* Encounters reported by apparently respectable citizens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+* Encounters reported by apparently respectable citizens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 </div>
 
-Importantly, many reports included occupants. Some crews were portrayed as ordinary humans. Others were eccentric or difficult to identify. In a few accounts, airship travellers claimed unusual origins. One widely circulated Texas report even described crew members who allegedly said they came from the North Pole. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+Importantly, many reports included occupants. Some crews were portrayed as ordinary humans. Others were eccentric or difficult to identify. In a few accounts, airship travellers claimed unusual origins. One widely circulated Texas report even described crew members who allegedly said they came from the North Pole.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 Because readers were already accustomed to stories involving pilots and crews, the Aurora report's claim that a pilot died in a crash did not emerge from nowhere. It extended a familiar narrative pattern.
 
@@ -315,9 +315,9 @@ Because readers were already accustomed to stories involving pilots and crews, t
 
 ### Newspapers Created a Shared Story World
 
-The airship craze functioned less like isolated eyewitness reports and more like a continuing serial. Newspapers reprinted stories from other cities, added new sightings and expanded existing themes. As reports travelled, they created a shared framework through which readers interpreted fresh claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">1896 97 mystery airship newspaper archive</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The airship craze functioned less like isolated eyewitness reports and more like a continuing serial. Newspapers reprinted stories from other cities, added new sightings and expanded existing themes. As reports travelled, they created a shared framework through which readers interpreted fresh claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">1896 97 mystery airship newspaper archive</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-By April 1897, Texans could open newspapers and find airship stories almost daily. Reports came from numerous communities, creating the impression that the phenomenon was widespread and ongoing. Between 13 and 17 April 1897 alone, newspapers recorded dozens of sightings across Texas counties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+By April 1897, Texans could open newspapers and find airship stories almost daily. Reports came from numerous communities, creating the impression that the phenomenon was widespread and ongoing. Between 13 and 17 April 1897 alone, newspapers recorded dozens of sightings across Texas counties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 In such a media environment, a crash report appeared to confirm a larger trend rather than introduce an entirely new mystery.
 
@@ -325,7 +325,7 @@ In such a media environment, a crash report appeared to confirm a larger trend r
 
 The mystery-airship wave flourished during a unique technological moment. Americans were surrounded by rapid innovation: telephones, electric lighting, improved transportation and industrial advances were transforming daily life. New inventions regularly appeared that would have seemed impossible a generation earlier.
 
-As a result, extraordinary claims about aviation enjoyed a degree of credibility they might not have received in either an earlier or later era. Readers lacked a clear understanding of what future aircraft would look like, making it easier to imagine that a genius inventor had secretly leapt years ahead of accepted technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ketr.org">[ketr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ketr.org</span><span class="citation-popover-title">hunt county citizens reported seeing airships 1897</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: May 27, 2016</span></span></span>
+As a result, extraordinary claims about aviation enjoyed a degree of credibility they might not have received in either an earlier or later era. Readers lacked a clear understanding of what future aircraft would look like, making it easier to imagine that a genius inventor had secretly leapt years ahead of accepted technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ketr.org">[ketr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ketr.org</span><span class="citation-popover-title">hunt county citizens reported seeing airships 1897</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: May 27, 2016</span></span></span>
 
 This context mattered enormously for Aurora. The reported craft did not resemble a modern flying saucer. It resembled the kind of advanced airship that people were already discussing. The story therefore fit existing expectations instead of challenging them.
 
@@ -333,9 +333,9 @@ This context mattered enormously for Aurora. The reported craft did not resemble
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Hidden Inventors Were More Plausible Than Aliens
 
-One reason the airship wave felt believable is that many observers interpreted the craft as human inventions. Reports frequently speculated that an unknown inventor was conducting secret trials before revealing a revolutionary machine to the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://anomalien.com/the-mystery-airship-of-1896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">the mystery airship of 1896</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One reason the airship wave felt believable is that many observers interpreted the craft as human inventions. Reports frequently speculated that an unknown inventor was conducting secret trials before revealing a revolutionary machine to the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://anomalien.com/the-mystery-airship-of-1896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">the mystery airship of 1896</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That idea gave readers a practical explanation for mysterious sightings. A secret inventor was easier to accept than an extraterrestrial visitor. Even when the Aurora story introduced the claim that the pilot was “not an inhabitant of this world”, it did so within a narrative structure that readers already recognised: a machine, a pilot, a malfunction and a crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+That idea gave readers a practical explanation for mysterious sightings. A secret inventor was easier to accept than an extraterrestrial visitor. Even when the Aurora story introduced the claim that the pilot was “not an inhabitant of this world”, it did so within a narrative structure that readers already recognised: a machine, a pilot, a malfunction and a crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 The familiar framework made the extraordinary element easier to absorb.
 
@@ -343,7 +343,7 @@ The familiar framework made the extraordinary element easier to absorb.
 
 Most mystery-airship stories ended with a sighting. Aurora went further by supplying consequences.
 
-According to the published account, the craft was seen flying low, appeared to be experiencing mechanical difficulties, collided with a windmill and exploded. Debris scattered across the area, and a pilot's body was allegedly recovered. These details transformed an airborne mystery into a complete narrative with a beginning, middle and end. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+According to the published account, the craft was seen flying low, appeared to be experiencing mechanical difficulties, collided with a windmill and exploded. Debris scattered across the area, and a pilot's body was allegedly recovered. These details transformed an airborne mystery into a complete narrative with a beginning, middle and end.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 This structure gave the story unusual power. Instead of asking readers merely to believe that something strange had been seen in the sky, it offered tangible outcomes:
 
@@ -354,7 +354,7 @@ This structure gave the story unusual power. Instead of asking readers merely to
 
 * Witnesses on the ground.
 * A deceased pilot.
-* A burial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+* A burial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 </div>
 
@@ -367,7 +367,7 @@ Those elements made Aurora resemble an accident report rather than a fleeting ob
 
 There is a paradox at the heart of the Aurora story. A crash can make a mystery more believable because it appears to provide evidence.
 
-Sighting reports often leave readers wondering whether witnesses were mistaken. A crash narrative suggests that [physical traces]({{ 'physical-traces/' | relative_url }}) exist. Even if those traces are never independently verified, the claim that they existed can make the story feel more concrete. In Aurora's case, reports of wreckage and a recovered pilot gave readers reasons to think the mystery had moved from rumour to material reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+Sighting reports often leave readers wondering whether witnesses were mistaken. A crash narrative suggests that [physical traces]({{ 'physical-traces/' | relative_url }}) exist. Even if those traces are never independently verified, the claim that they existed can make the story feel more concrete. In Aurora's case, reports of wreckage and a recovered pilot gave readers reasons to think the mystery had moved from rumour to material reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 This narrative move would later become common in UFO-crash legends. Aurora demonstrated how a wave of aerial sightings could culminate in a dramatic impact event that seemed to answer questions while creating even larger ones.
 
@@ -376,202 +376,202 @@ This narrative move would later become common in UFO-crash legends. Aurora demon
 
 ## Why the Airship Wave Was Essential to Aurora's Credibility
 
-Without the mystery-airship craze, the Aurora story would probably have appeared absurd to most readers. Its credibility depended on months of prior reports that had normalised the idea of strange aircraft travelling across the American sky. The airship wave supplied the assumptions; Aurora supplied the climax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+Without the mystery-airship craze, the Aurora story would probably have appeared absurd to most readers. Its credibility depended on months of prior reports that had normalised the idea of strange aircraft travelling across the American sky. The airship wave supplied the assumptions; Aurora supplied the climax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
-The result was one of the earliest examples of a crash legend built upon an existing aerial phenomenon. Long before flying saucers entered popular culture, Americans were already learning how to connect sightings, mysterious technology, unusual occupants and alleged crash debris into a single narrative. Aurora's lasting significance lies not in proving that an extraordinary craft crashed in Texas, but in showing how a widely shared airship story made such a claim seem believable in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
+The result was one of the earliest examples of a crash legend built upon an existing aerial phenomenon. Long before flying saucers entered popular culture, Americans were already learning how to connect sightings, mysterious technology, unusual occupants and alleged crash debris into a single narrative. Aurora's lasting significance lies not in proving that an extraordinary craft crashed in Texas, but in showing how a widely shared airship story made such a claim seem believable in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[Texas Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">Open source on texasalmanac.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aurora_airship_d1e639_mystery_airship_wave_492917-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Airships Filled the Skies Before Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Airships Filled the Skies Before Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Solving the 1897 Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bWIQngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Solving the 1897 Airship Mystery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Solving the 1897 Airship Mystery">Solving the 1897 Airship Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Michael Busby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Solving the 1897 Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bWIQngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Solving the 1897 Airship Mystery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Solving the 1897 Airship Mystery">Solving the 1897 Airship Mystery</a>
+</h4>
+<p class="fr-book-author">By Michael Busby</p>
         
-        <p class="fr-book-desc">Examines newspaper accounts and sighting patterns from the same wave that produced the Aurora legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines newspaper accounts and sighting patterns from the same wave that produced the Aurora legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery+by+Michael+Busby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Places mystery-airship stories within the broader historical evolution of UFO beliefs and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places mystery-airship stories within the broader historical evolution of UFO beliefs and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Cohen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Airship Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Airship Mystery">The Great Airship Mystery</a>
+</h4>
+<p class="fr-book-author">By Daniel Cohen</p>
         
-        <p class="fr-book-desc">Covers the nationwide airship sightings that made reports like the Aurora crash seem plausible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the nationwide airship sightings that made reports like the Aurora crash seem plausible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Airship+Mystery+by+Daniel+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magical and Ritual Use of Aphrodisiacs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magical and Ritual Use of Aphrodisiacs">The Magical and Ritual Use of Aphrodisiacs</a>
-        </h4>
-        <p class="fr-book-author">By Richard Alan Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magical and Ritual Use of Aphrodisiacs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magical and Ritual Use of Aphrodisiacs">The Magical and Ritual Use of Aphrodisiacs</a>
+</h4>
+<p class="fr-book-author">By Richard Alan Miller</p>
         
-        <p class="fr-book-desc">Helps readers understand how earlier aerial mysteries became part of later UFO folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how earlier aerial mysteries became part of later UFO folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Magical+and+Ritual+Use+of+Aphrodisiacs+by+Richard+Alan+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Solving the 1897 Airship Mystery</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Solving+the+1897+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Solving the 1897 Airship Mystery</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Airship+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Airship Mystery</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII German Haunebu UFO Banner Wall Hanging Flag Aviation Military Art Poster"><img src="https://i.ebayimg.com/images/g/RO4AAOSwRA9l2FH9/s-l225.jpg" alt="Listing image for WWII German Haunebu UFO Banner Wall Hanging Flag Aviation Military Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WWII German Haunebu UFO Banner Wall Hanging Flag Aviation Military Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings."><img src="https://i.ebayimg.com/images/g/tuEAAOSw2WxkynUh/s-l225.jpg" alt="Listing image for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Poster 01 A4 10x8 Photo Print"><img src="https://i.ebayimg.com/images/g/jkgAAOSwnDZUGHrx/s-l225.jpg" alt="Listing image for Ufos Are Real Poster 01 A4 10x8 Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Poster 01 A4 10x8 Photo Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="airship-wave-why-airships-filled-the-skies-before-saucers-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pleiadian UFO Fictional Vehicle Saucer Desk Wood Model Small New"><img src="https://i.ebayimg.com/images/g/qCgAAMXQO21RpEGm/s-l225.jpg" alt="Listing image for Pleiadian UFO Fictional Vehicle Saucer Desk Wood Model Small New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Pleiadian UFO Fictional Vehicle Saucer Desk Wood Model Small New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO aviation poster -book -books" data-ebay-reference="why-airships-filled-the-skies-before-saucers-ufo-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,70 +777,70 @@ The result was one of the earliest examples of a crash legend built upon an exis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: disclosdex.com  
    Title: 1896 97 mystery airship newspaper archive  
-   Link: <a href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Disclosdex[https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive...&quot;](https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive...&quot;)...</p></details>
+   Link:<a href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Disclosdex[https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive...&quot;](https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive...&quot;)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: anomalien.com  
    Title: the mystery airship of 1896  
-   Link: <a href="https://anomalien.com/the-mystery-airship-of-1896/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/the-mystery-airship-of-1896/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://anomalien.com/the-mystery-airship-of-1896/...&quot;](https://anomalien.com/the-mystery-airship-of-1896/...&quot;)...</p></details>
+   Link:<a href="https://anomalien.com/the-mystery-airship-of-1896/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/the-mystery-airship-of-1896/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://anomalien.com/the-mystery-airship-of-1896/...&quot;](https://anomalien.com/the-mystery-airship-of-1896/...&quot;)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ketr.org  
    Title: hunt county citizens reported seeing airships 1897  
-   Link: <a href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow">https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897...&quot;](https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897...&quot;)...</p></details>
+   Link:<a href="https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897" target="_blank" rel="noopener noreferrer nofollow">https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897...&quot;](https://www.ketr.org/news/2016-05-27/hunt-county-citizens-reported-seeing-airships-1897...&quot;)...</p></details>
    Published: May 27, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: texasalmanac.com  
-   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
+   Link:<a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/14um50p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14um50p</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897. Crazy to think there was a reported &#x27;incident&#x27; 50 years [before Roswell](&amp;#123;&amp;#123; &#x27;before-roswell/&#x27; | relative_url &amp;#125;&amp;#125;). July 9, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/14um50p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14um50p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897. Crazy to think there was a reported &#x27;incident&#x27; 50 years [before Roswell](&amp;#123;&amp;#123; &#x27;before-roswell/&#x27; | relative_url &amp;#125;&amp;#125;). July 9, 2023...</p></details>
    Published: April 19, 1897  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ep2qh6EluLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ep2qh6EluLc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ep2qh6EluLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ep2qh6EluLc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mq0pmfgeAt4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did a Texas town bury an alien visitor in 1897?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mq0pmfgeAt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did a Texas town bury an alien visitor in 1897?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: podscripts.co  
    Title: the phantom airships of the 1890s  
-   Link: <a href="https://podscripts.co/podcasts/disturbing-history/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/disturbing-history/the-phantom-airships-of-the-1890s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbing History - The Phantom Airships of the 1890&#x27;s Transcript and DiscussionMarch 23, 2026...</p></details>
+   Link:<a href="https://podscripts.co/podcasts/disturbing-history/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/disturbing-history/the-phantom-airships-of-the-1890s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disturbing History - The Phantom Airships of the 1890&#x27;s Transcript and DiscussionMarch 23, 2026...</p></details>
    Published: March 23, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: aurora texas 1897 ufo crash  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/...&quot;](https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/...&quot;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/...&quot;](https://www.reddit.com/r/UFOs/comments/1tp9yxx/aurora_texas_1897_ufo_crash/...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DeWmfXB3U1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DeWmfXB3U1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien They Buried in Texas | Aurora UFO Crash 1897 (Podcast)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=h3OZLxJnAgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h3OZLxJnAgs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=h3OZLxJnAgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h3OZLxJnAgs</a>  

@@ -280,15 +280,15 @@ image: /assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_ma
 
 ## Introduction
 
-One of the most enduring details in Roswell witness accounts is the claim that some of the recovered debris carried strange symbols resembling “hieroglyphics”. In later UFO literature, these markings were often presented as evidence of an unknown technology or even an alien writing system. Yet the Project Mogul explanation offers a much more ordinary route by which such stories could have developed. According to investigators, engineers involved with the balloon programme, and the US Air Force’s Roswell research, the reported symbols closely match decorative tape used in the construction of radar [reflectors]({{ 'reflectors/' | relative_url }}) carried by [Mogul balloon trains]({{ 'balloon-trains-e0f164/' | relative_url }}). Rather than requiring an extraterrestrial origin, the “hieroglyphics” may have begun as a misunderstood detail on lightweight reflector materials that looked unusual when scattered across a New Mexico ranch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+One of the most enduring details in Roswell witness accounts is the claim that some of the recovered debris carried strange symbols resembling “hieroglyphics”. In later UFO literature, these markings were often presented as evidence of an unknown technology or even an alien writing system. Yet the Project Mogul explanation offers a much more ordinary route by which such stories could have developed. According to investigators, engineers involved with the balloon programme, and the US Air Force’s Roswell research, the reported symbols closely match decorative tape used in the construction of radar [reflectors]({{ 'reflectors/' | relative_url }}) carried by [Mogul balloon trains]({{ 'balloon-trains-e0f164/' | relative_url }}). Rather than requiring an extraterrestrial origin, the “hieroglyphics” may have begun as a misunderstood detail on lightweight reflector materials that looked unusual when scattered across a New Mexico ranch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-1-dark.svg" | relative_url }}" alt="Odd Markings illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Were Roswell Hieroglyphics Really Toy Tape?
 
-The “hieroglyphics” story did not appear in the earliest newspaper descriptions of the debris. Contemporary reports from July 1947 described mundane-looking materials such as foil, sticks, tape, paper and rubber. The more dramatic claims emerged decades later as witnesses recounted their memories of the [wreckage]({{ 'wreckage/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
+The “hieroglyphics” story did not appear in the earliest newspaper descriptions of the debris. Contemporary reports from July 1947 described mundane-looking materials such as foil, sticks, tape, paper and rubber. The more dramatic claims emerged decades later as witnesses recounted their memories of the [wreckage]({{ 'wreckage/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
 
-A key figure was Major Jesse Marcel, who later stated that some of the stick-like components carried markings that looked like symbols no one could decipher. These descriptions became central to arguments that the debris could not have come from an ordinary balloon device. However, researchers examining Project Mogul hardware found that radar reflector assemblies included tape decorated with coloured patterns that could plausibly be remembered as mysterious writing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
+A key figure was Major Jesse Marcel, who later stated that some of the stick-like components carried markings that looked like symbols no one could decipher. These descriptions became central to arguments that the debris could not have come from an ordinary balloon device. However, researchers examining Project Mogul hardware found that radar reflector assemblies included tape decorated with coloured patterns that could plausibly be remembered as mysterious writing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
 
 The importance of this detail is not that it proves every witness remembered the debris perfectly. Rather, it provides a specific mechanism linking a genuine physical feature of Mogul equipment to later accounts of strange symbols.
 
@@ -297,9 +297,9 @@ The importance of this detail is not that it proves every witness remembered the
 
 ## What Radar Reflectors Were Made From
 
-Project Mogul balloon trains carried radar targets, often called corner reflectors, so they could be tracked after launch. These reflectors were lightweight structures built from balsa wood, foil-coated material and adhesive tape. The components were designed to be inexpensive and easy to assemble, not technologically impressive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academickids.com/encyclopedia/index.php/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academickids.com">[Academic Kids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academickids.com</span><span class="citation-popover-title">Academic Kids Project Mogul</span><span class="citation-popover-snippet">Academic KidsProject Mogul - Academic Kids...</span></span></span>
+Project Mogul balloon trains carried radar targets, often called corner reflectors, so they could be tracked after launch. These reflectors were lightweight structures built from balsa wood, foil-coated material and adhesive tape. The components were designed to be inexpensive and easy to assemble, not technologically impressive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academickids.com/encyclopedia/index.php/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academickids.com">[Academic Kids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academickids.com</span><span class="citation-popover-title">Academic Kids Project Mogul</span><span class="citation-popover-snippet">Academic KidsProject Mogul - Academic Kids...</span></span></span>
 
-According to the Air Force’s Roswell investigation, some reflector assemblies used pink or purple decorative tape printed with floral and geometric designs. The tape was reportedly supplied through a manufacturer better known for toy production. During the post-war period, manufacturers often adapted available materials to fulfil government contracts, and decorative tape intended for toys ended up on radar targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+According to the Air Force’s Roswell investigation, some reflector assemblies used pink or purple decorative tape printed with floral and geometric designs. The tape was reportedly supplied through a manufacturer better known for toy production. During the post-war period, manufacturers often adapted available materials to fulfil government contracts, and decorative tape intended for toys ended up on radar targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 This creates a direct connection between witness descriptions and known hardware:
 
@@ -309,7 +309,7 @@ This creates a direct connection between witness descriptions and known hardware
 * Witnesses reported unusual coloured markings.
 * Mogul radar reflectors contained coloured patterned tape.
 * Engineers associated with the programme recalled those same decorative designs.
-* The reported symbols were located on structural elements where such tape would have appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+* The reported symbols were located on structural elements where such tape would have appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 </div>
 
@@ -321,11 +321,11 @@ In this explanation, the mystery is not why symbols existed, but why ordinary de
 
 Viewed in ideal conditions, floral tape is unlikely to resemble an alien script. The Roswell debris field, however, was not an ideal viewing environment.
 
-The material was reportedly torn, weathered and scattered. Witnesses often encountered fragments rather than intact radar targets. Small pieces of coloured tape attached to broken balsa sticks could easily appear as isolated symbols rather than parts of a repeating decorative pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The material was reportedly torn, weathered and scattered. Witnesses often encountered fragments rather than intact radar targets. Small pieces of coloured tape attached to broken balsa sticks could easily appear as isolated symbols rather than parts of a repeating decorative pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
-Memory also matters. Many famous Roswell interviews occurred more than thirty years after the event. Human recollection tends to preserve striking impressions while losing mundane context. A witness might remember “strange purple markings” while forgetting that they appeared on tape attached to lightweight wooden structures. Over time, the remembered image can become more unusual than the original object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
+Memory also matters. Many famous Roswell interviews occurred more than thirty years after the event. Human recollection tends to preserve striking impressions while losing mundane context. A witness might remember “strange purple markings” while forgetting that they appeared on tape attached to lightweight wooden structures. Over time, the remembered image can become more unusual than the original object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
 
-Engineers connected with the Mogul programme later described the tape as carrying flowers and geometric figures. Those descriptions closely resemble witness accounts that referred to odd symbols but did not consistently describe a coherent alphabet or language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+Engineers connected with the Mogul programme later described the tape as carrying flowers and geometric figures. Those descriptions closely resemble witness accounts that referred to odd symbols but did not consistently describe a coherent alphabet or language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yETl1cW_WHI" title="Roswell: Project MOGUL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yETl1cW_WHI" target="_blank" rel="noopener noreferrer">Roswell: Project MOGUL</a></p><p class="youtube-embed-meta">Channel: Stuff They Don&#x27;t Want You To Know</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yETl1cW_WHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yETl1cW_WHI">Open on YouTube</a></p></div></div></div>
@@ -334,9 +334,9 @@ Engineers connected with the Mogul programme later described the tape as carryin
 
 The hieroglyphics claim illustrates a broader pattern in the Roswell story: ordinary details can become increasingly significant through repeated retelling.
 
-In 1947, a strip of patterned tape would have been a minor feature of wreckage. Decades later, once Roswell had become associated with a possible crashed flying saucer, every unusual detail acquired greater meaning. A decorative marking that originally seemed merely odd could be reinterpreted as [evidence]({{ 'evidence/' | relative_url }}) of advanced technology or an unknown civilisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
+In 1947, a strip of patterned tape would have been a minor feature of wreckage. Decades later, once Roswell had become associated with a possible crashed flying saucer, every unusual detail acquired greater meaning. A decorative marking that originally seemed merely odd could be reinterpreted as [evidence]({{ 'evidence/' | relative_url }}) of advanced technology or an unknown civilisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
 
-The evolution of the hieroglyphics narrative also reflects a common problem in historical investigations. Later testimony is valuable, but it is influenced by elapsed time, media coverage and changing expectations. When witnesses repeatedly hear that a crash may have involved alien craft, ambiguous memories can gradually be fitted into that larger narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
+The evolution of the hieroglyphics narrative also reflects a common problem in historical investigations. Later testimony is valuable, but it is influenced by elapsed time, media coverage and changing expectations. When witnesses repeatedly hear that a crash may have involved alien craft, ambiguous memories can gradually be fitted into that larger narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Roswell UFO ‘Strange Metal’ Mystery &#124; Skeptical Inquirer</span></span></span>
 
 What makes the radar-reflector explanation notable is that it does not dismiss the witnesses outright. Instead, it offers a concrete source for the reported markings. The claim is not that people invented the symbols, but that they may have accurately remembered unusual coloured designs while misinterpreting what those designs meant.
 
@@ -344,203 +344,203 @@ What makes the radar-reflector explanation notable is that it does not dismiss t
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-3-dark.svg" | relative_url }}" alt="Odd Markings illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_radar_reflector_mark_7e9df7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Significance of the Tape Explanation
 
-Within the Project Mogul framework, the hieroglyphics story is one of the strongest examples of how a mundane object could generate a genuinely puzzling memory. Radar reflectors contained materials that were uncommon enough to attract attention yet ordinary enough to exist within a secret military programme. Decorative tape with coloured patterns sits squarely in that category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+Within the Project Mogul framework, the hieroglyphics story is one of the strongest examples of how a mundane object could generate a genuinely puzzling memory. Radar reflectors contained materials that were uncommon enough to attract attention yet ordinary enough to exist within a secret military programme. Decorative tape with coloured patterns sits squarely in that category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
-For supporters of the Mogul explanation, the tape account helps bridge the gap between witness testimony and known hardware. It explains why several people might recall strange markings without requiring alien writing, exotic alloys or unknown technology. The “hieroglyphics” become not evidence of a non-human craft, but an example of how an unusual design detail on radar reflector materials could evolve into one of Roswell’s most famous mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+For supporters of the Mogul explanation, the tape account helps bridge the gap between witness testimony and known hardware. It explains why several people might recall strange markings without requiring alien writing, exotic alloys or unknown technology. The “hieroglyphics” become not evidence of a non-human craft, but an example of how an unusual design detail on radar reflector materials could evolve into one of Roswell’s most famous mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VoncUxxEBZc" title="The Project Mogul COVER-UP That Created Roswell | EP56" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer">The Project Mogul COVER-UP That Created Roswell | EP56</a></p><p class="youtube-embed-meta">Channel: Untold Evidence</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VoncUxxEBZc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Roswell Hieroglyphics Really Toy Tape?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Roswell Hieroglyphics Really Toy Tape?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides wider UFO-investigation context that helps readers understand how cases like Roswell are interpreted and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider UFO-investigation context that helps readers understand how cases like Roswell are interpreted and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
-        </h4>
-        <p class="fr-book-author">By Kal K. Korff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell UFO Crash on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DTgQ2PRXCxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Roswell UFO Crash" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell UFO Crash">The Roswell UFO Crash</a>
+</h4>
+<p class="fr-book-author">By Kal K. Korff</p>
         
-        <p class="fr-book-desc">Focuses on evaluating Roswell evidence and competing interpretations, including disputed witness recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating Roswell evidence and competing interpretations, including disputed witness recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash+by+Kal+K.+Korff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jGXPQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Provides extensive discussion of Roswell evidence and witness testimony, including debates over the nature of recovered materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive discussion of Roswell evidence and witness testimony, including debates over the nature of recovered materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduced many of the witness claims that later fueled discussion of Roswell debris, symbols, and alleged cover-ups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced many of the witness claims that later fueled discussion of Roswell debris, symbols, and alleged cover-ups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+UFO+Crash&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell UFO Crash</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift"><img src="{{ '/assets/images/marketplace-covers/58c360064e1a0c1216b5.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage GLOWS in The Dark - Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="odd-markings-were-roswell-hieroglyphics-really-toy-tape-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,71 +746,71 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: muller.lbl.gov  
    Title: Muller Lab Project Mogul  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Roswell UFO ‘[Strange Metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;)’ Mystery | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academickids.com  
    Title: Academic Kids Project Mogul  
-   Link: <a href="https://academickids.com/encyclopedia/index.php/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://academickids.com/encyclopedia/index.php/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic KidsProject Mogul - Academic Kids...</p></details>
+   Link:<a href="https://academickids.com/encyclopedia/index.php/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://academickids.com/encyclopedia/index.php/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic KidsProject Mogul - Academic Kids...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6yZKbdLylBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6yZKbdLylBE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell hieroglyphics symbol tape marcel TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6yZKbdLylBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6yZKbdLylBE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell hieroglyphics symbol tape marcel TIME TRAVELING UFOS - “They Were Us from the Future” | Ancient Aliens | #Shorts | History HISTORY...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/roswell-ufo-crash-what-really-happened.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/roswell-ufo-crash-what-really-happened.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash: What is the truth behind the &quot;flying saucer&quot; incident? | Live ScienceMay 6, 2021...</p></details>
+   Link:<a href="https://www.livescience.com/roswell-ufo-crash-what-really-happened.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/roswell-ufo-crash-what-really-happened.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash: What is the truth behind the &quot;flying saucer&quot; incident? | Live ScienceMay 6, 2021...</p></details>
    Published: May 6, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1t09ny1/the_missing_roswell_tapes_newly_discovered_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1t09ny1/the_missing_roswell_tapes_newly_discovered_air/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Roswell Tapes: Newly Discovered Air Force Audio Raises New QuestionsApril 30, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs_Archive/comments/1t09ny1/the_missing_roswell_tapes_newly_discovered_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1t09ny1/the_missing_roswell_tapes_newly_discovered_air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Roswell Tapes: Newly Discovered Air Force Audio Raises New QuestionsApril 30, 2026...</p></details>
    Published: April 30, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dchieftain.com  
-   Link: <a href="https://www.dchieftain.com/features/the-roswell-incident-has-a-socorro-connection/124643" target="_blank" rel="noopener noreferrer nofollow">https://www.dchieftain.com/features/the-roswell-incident-has-a-socorro-connection/124643</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Roswell Incident” has a Socorro Connection | Features | dchieftain.comJuly 8, 2021...</p></details>
+   Link:<a href="https://www.dchieftain.com/features/the-roswell-incident-has-a-socorro-connection/124643" target="_blank" rel="noopener noreferrer nofollow">https://www.dchieftain.com/features/the-roswell-incident-has-a-socorro-connection/124643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Roswell Incident” has a Socorro Connection | Features | dchieftain.comJuly 8, 2021...</p></details>
    Published: July 8, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFO Roswell Incident (Full Episode) | National Geographic  
-   Link: <a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: Evidence for Extraterrestrial Life or Project [Mogul Cover](&amp;#123;&amp;#123; &#x27;mogul-cover/&#x27; | relative_url &amp;#125;&amp;#125;)-Up?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: Evidence for Extraterrestrial Life or Project [Mogul Cover](&amp;#123;&amp;#123; &#x27;mogul-cover/&#x27; | relative_url &amp;#125;&amp;#125;)-Up?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Project Mogul COVER-UP That Created Roswell  
-   Link: <a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VoncUxxEBZc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Project Mogul The Real Roswell UFO Cover-up?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VoncUxxEBZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VoncUxxEBZc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Project Mogul The Real Roswell UFO Cover-up?...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Roswell: Project MOGUL  
-   Link: <a href="https://www.youtube.com/watch?v=yETl1cW_WHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yETl1cW_WHI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yETl1cW_WHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yETl1cW_WHI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | National Geographic...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Was Project Mogul The Real Roswell UFO Cover-up?  
-   Link: <a href="https://www.youtube.com/watch?v=vS1-xy_C5Lo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vS1-xy_C5Lo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: Project MOGUL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vS1-xy_C5Lo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vS1-xy_C5Lo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: Project MOGUL...</p></details>

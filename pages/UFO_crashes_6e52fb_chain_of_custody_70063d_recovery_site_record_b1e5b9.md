@@ -284,13 +284,13 @@ A laboratory can determine what a fragment is made of, but it usually cannot det
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-1-dark.svg" | relative_url }}" alt="Site Records illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why photographs, maps, field notes, collection logs, packaging records and transfer documents matter so much. They establish [provenance]({{ 'provenance/' | relative_url }}): the documented origin and history of an item. Without that documentation, a fragment may be interesting, but its connection to a specific UFO crash claim remains unverified. In [evidence]({{ 'evidence/' | relative_url }})-based investigations, extraordinary conclusions depend not only on what a sample is, but on whether its journey from the ground to the laboratory can be demonstrated. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</span></span></span>
+This is why photographs, maps, field notes, collection logs, packaging records and transfer documents matter so much. They establish [provenance]({{ 'provenance/' | relative_url }}): the documented origin and history of an item. Without that documentation, a fragment may be interesting, but its connection to a specific UFO crash claim remains unverified. In [evidence]({{ 'evidence/' | relative_url }})-based investigations, extraordinary conclusions depend not only on what a sample is, but on whether its journey from the ground to the laboratory can be demonstrated. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</span></span></span>
 
 ## What Would Prove Where Wreckage Came From?
 
 The strongest recovery claims begin before any laboratory testing occurs. The first task is to document the scene itself.
 
-In forensic practice, evidence records typically include the location where an item was found, its position within the scene, who collected it, how it was packaged and sealed, and every subsequent transfer between handlers. The purpose is to show that the item examined later is the same item originally recovered. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
+In forensic practice, evidence records typically include the location where an item was found, its position within the scene, who collected it, how it was packaged and sealed, and every subsequent transfer between handlers. The purpose is to show that the item examined later is the same item originally recovered. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody Record &#124; National Institute of JusticeThe chain of custody record must contain identifiers...</span></span></span>
 
 Applied to alleged UFO debris, a persuasive recovery record would normally contain:
 
@@ -308,7 +308,7 @@ Applied to alleged UFO debris, a persuasive recovery record would normally conta
 
 </div>
 
-Each element answers a different challenge. Coordinates show where the object was reportedly found. Photographs show that the object existed at the scene. Collection notes establish context. Seals and transfer logs reduce the possibility of substitution. Together, these records create a documented chain linking the laboratory specimen to the claimed recovery location. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
+Each element answers a different challenge. Coordinates show where the object was reportedly found. Photographs show that the object existed at the scene. Collection notes establish context. Seals and transfer logs reduce the possibility of substitution. Together, these records create a documented chain linking the laboratory specimen to the claimed recovery location. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P0Z5Yrybm9A" title="From Collection to Court: Ensuring Evidence Authenticity with Chain of Custody" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P0Z5Yrybm9A" target="_blank" rel="noopener noreferrer">From Collection to Court: Ensuring Evidence Authenticity with Chain of Custody</a></p><p class="youtube-embed-meta">Channel: Financial Crime Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P0Z5Yrybm9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P0Z5Yrybm9A">Open on YouTube</a></p></div></div></div>
@@ -317,11 +317,11 @@ Each element answers a different challenge. Coordinates show where the object wa
 
 A common misconception is that laboratory analysis alone can establish a sample's significance. In reality, laboratory results are only as persuasive as the documentation accompanying the specimen.
 
-For example, imagine two identical metal fragments arrive at a laboratory. One arrives with photographs showing it embedded in an alleged crash field, GPS coordinates, collector identities and sealed evidence records. The other arrives with only a verbal claim that it was found years earlier at a UFO site. The laboratory may produce identical test results for both pieces. Yet the evidentiary value of the first fragment is dramatically higher because its origin can be independently examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</span></span></span>
+For example, imagine two identical metal fragments arrive at a laboratory. One arrives with photographs showing it embedded in an alleged crash field, GPS coordinates, collector identities and sealed evidence records. The other arrives with only a verbal claim that it was found years earlier at a UFO site. The laboratory may produce identical test results for both pieces. Yet the evidentiary value of the first fragment is dramatically higher because its origin can be independently examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</span></span></span>
 
-Scene documentation serves another purpose: it allows alternative explanations to be evaluated. If a fragment was recovered near known [aircraft]({{ 'aircraft/' | relative_url }}) debris, industrial waste, balloon material or rocket components, those facts become part of the record. If no contextual information survives, investigators lose the ability to compare competing explanations against the original scene conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
+Scene documentation serves another purpose: it allows alternative explanations to be evaluated. If a fragment was recovered near known [aircraft]({{ 'aircraft/' | relative_url }}) debris, industrial waste, balloon material or rocket components, those facts become part of the record. If no contextual information survives, investigators lose the ability to compare competing explanations against the original scene conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
 
-This is why forensic investigators routinely document not only the evidence itself but also its surroundings. Photographs, sketches and notes preserve relationships between objects that may later prove important. National Institute of Justice+2Forensic Science Simplified <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
+This is why forensic investigators routinely document not only the evidence itself but also its surroundings. Photographs, sketches and notes preserve relationships between objects that may later prove important. National Institute of Justice+2Forensic Science Simplified<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">Sketches are completed at the scene to illustrate relationships.Read more</span><span class="citation-popover-snippet">National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-2-dark.svg" | relative_url }}" alt="Site Records illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_chain_of_custody_70063d_recovery_site_record_b1e5b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ This is why forensic investigators routinely document not only the evidence itse
 
 Many UFO crash stories emerge years or decades after the alleged event. Witnesses may recall unusual debris, military activity or recovery operations long after physical evidence has disappeared. Such testimony can be valuable historical information, but it is not a substitute for contemporaneous recovery records.
 
-Human memory changes over time. Locations become uncertain, timelines blur and details may be influenced by later discussions, books or media coverage. A fragment kept in a private collection for decades presents similar difficulties. Even if the owner is sincere, investigators may be unable to establish whether the item was actually recovered where claimed, whether it was mixed with other materials, or whether its history was accurately remembered. Without documentation, provenance becomes increasingly difficult to verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</span></span></span>
+Human memory changes over time. Locations become uncertain, timelines blur and details may be influenced by later discussions, books or media coverage. A fragment kept in a private collection for decades presents similar difficulties. Even if the owner is sincere, investigators may be unable to establish whether the item was actually recovered where claimed, whether it was mixed with other materials, or whether its history was accurately remembered. Without documentation, provenance becomes increasingly difficult to verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</span></span></span>
 
 This problem appears repeatedly in UFO-related controversies. Researchers may receive fragments accompanied by compelling stories but little evidence showing exactly when, where or by whom the material was collected. At that point, the debate shifts from analysing the material itself to debating its undocumented history.
 
@@ -344,7 +344,7 @@ Recovery-site records become especially powerful when they include environmental
 
 Suppose investigators collect not only the alleged [wreckage]({{ 'wreckage/' | relative_url }}) but also nearby soil, vegetation, dust, water or other debris from the same location. Laboratory testing can then compare the materials. Corrosion patterns, contamination, embedded particles and environmental exposure may help establish whether the object was genuinely present at the site rather than introduced later.
 
-Scene photographs serve a similar function. A photograph taken before collection can show an object's position, condition and relationship to surrounding debris. Multiple photographs taken from different angles can demonstrate that a fragment was not simply placed there for documentation purposes. In forensic work, photographs are valuable because they preserve visual context that may be impossible to recreate later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forensicsciencesimplified.org/photo/Photography.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forensicsciencesimplified.org">[Forensic Science Simplified+2LLRMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forensicsciencesimplified.org</span><span class="citation-popover-snippet">Forensic Science SimplifiedA Simplified Guide To Crime Scene PhotographyIn this discussion, photographs are not evidence in and of themse...</span></span></span>
+Scene photographs serve a similar function. A photograph taken before collection can show an object's position, condition and relationship to surrounding debris. Multiple photographs taken from different angles can demonstrate that a fragment was not simply placed there for documentation purposes. In forensic work, photographs are valuable because they preserve visual context that may be impossible to recreate later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forensicsciencesimplified.org/photo/Photography.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forensicsciencesimplified.org">[forensicsciencesimplified.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forensicsciencesimplified.org</span><span class="citation-popover-snippet">Forensic Science SimplifiedA Simplified Guide To Crime Scene PhotographyIn this discussion, photographs are not evidence in and of themse...</span></span></span>
 
 When photographs, notes and physical samples reinforce one another, the evidentiary picture becomes stronger. Investigators are no longer relying solely on testimony. They have multiple independent records describing the same object at the same location.
 
@@ -356,7 +356,7 @@ One of the most important lessons from evidence handling is that authenticity in
 
 A fragment could genuinely possess unusual characteristics and still fail to support a UFO crash claim if its provenance is uncertain. Conversely, a thoroughly documented object with a mundane explanation can often be identified more confidently precisely because its recovery history is known.
 
-For this reason, [chain-of-custody]({{ 'custody/' | relative_url }}) systems place heavy emphasis on documenting where evidence was found, who handled it and how it travelled from scene to laboratory. The goal is not merely to prevent tampering but to demonstrate that the item being analysed is truly the item recovered. National Institute of Justice+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</span></span></span>
+For this reason, [chain-of-custody]({{ 'custody/' | relative_url }}) systems place heavy emphasis on documenting where evidence was found, who handled it and how it travelled from scene to laboratory. The goal is not merely to prevent tampering but to demonstrate that the item being analysed is truly the item recovered. National Institute of Justice+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[nij.ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeChain of Custody of Evidence &#124; National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</span></span></span>
 
 In UFO crash investigations, recovery-site records therefore perform a role that laboratory instruments cannot. They connect a physical object to a specific event. Without that connection, even the most intriguing fragment remains an isolated specimen rather than documented wreckage from a claimed crash.
 
@@ -367,201 +367,201 @@ In UFO crash investigations, recovery-site records therefore perform a role that
 
 The long-running debate surrounding Roswell illustrates the consequences of incomplete documentation. Decades of discussion have focused not only on what debris may have been recovered in 1947 but also on the availability and reliability of records describing the recovery.
 
-Investigations by the US Government Accountability Office examined surviving records relating to the incident and reported significant difficulties in reconstructing events from existing documentation. The search highlighted how missing, destroyed or incomplete records complicate later attempts to determine exactly what was recovered, who examined it and how it was handled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
+Investigations by the US Government Accountability Office examined surviving records relating to the incident and reported significant difficulties in reconstructing events from existing documentation. The search highlighted how missing, destroyed or incomplete records complicate later attempts to determine exactly what was recovered, who examined it and how it was handled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
 
 Regardless of where one stands on Roswell's interpretation, the case demonstrates a broader principle: when recovery documentation is incomplete, arguments increasingly depend on recollections, secondary accounts and competing narratives. When detailed records survive, investigators can test claims against a documented evidentiary trail.
 
 For alleged UFO wreckage, recovery-site records are therefore not administrative details. They are the mechanism that allows a fragment to move from an interesting object to evidence that can be meaningfully connected to a specific crash claim.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Prove Where Wreckage Came From?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Prove Where Wreckage Came From?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Directly covers scene documentation, collection records, and custody.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers scene documentation, collection records, and custody.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
+</h4>
+<p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
         
-        <p class="fr-book-desc">Strong match for recovery-site recording and evidence preservation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for recovery-site recording and evidence preservation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative framework applicable to debris claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative framework applicable to debris claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documentation and source quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documentation and source quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Crime Scene Processing and Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Crime Scene Processing and Investigation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT UK"><img src="https://i.ebayimg.com/images/g/MPcAAOSwy19kpBGJ/s-l225.jpg" alt="Listing image for V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Retro UFO flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Retro UFO flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT"><img src="https://i.ebayimg.com/images/g/CiAAAOSw3kRko1oB/s-l225.jpg" alt="Listing image for V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">V5112 UFO Flying Saucer Alien Attack Vintage Retro Decor WALL POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Retro UFO flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Retro UFO flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/7tgAAOSw6iNnR2gC/s-l225.jpg" alt="Listing image for UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Retro UFO flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Retro UFO flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="site-records-what-would-prove-where-wreckage-came-from-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLAN 9 FROM OUTER SPACE FLYING SAUCER POLAR LIGHTS MODEL KIT"><img src="https://i.ebayimg.com/images/g/VA4AAeSwLrlpzAka/s-l225.jpg" alt="Listing image for PLAN 9 FROM OUTER SPACE FLYING SAUCER POLAR LIGHTS MODEL KIT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">PLAN 9 FROM OUTER SPACE FLYING SAUCER POLAR LIGHTS MODEL KIT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Retro UFO flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Retro UFO flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Retro+UFO+flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Retro UFO flying saucer model" data-ebay-reference="what-would-prove-where-wreckage-came-from-retro-ufo-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,160 +767,160 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIChain of Custody  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is necessary to assure the court of law that the evidence is authentic, ie...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: llrmi.com  
    Title: 4 apr08  
-   Link: <a href="https://www.llrmi.com/articles/legal_questions/4-apr08/" target="_blank" rel="noopener noreferrer nofollow">https://www.llrmi.com/articles/legal_questions/4-apr08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photographs as evidence and chain of custodyJul 10, 2018 — A photograph of a crime scene would be considered “documentary evidence.” The...</p></details>
+   Link:<a href="https://www.llrmi.com/articles/legal_questions/4-apr08/" target="_blank" rel="noopener noreferrer nofollow">https://www.llrmi.com/articles/legal_questions/4-apr08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photographs as evidence and chain of custodyJul 10, 2018 — A photograph of a crime scene would be considered “documentary evidence.” The...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — We found [no records](&amp;#123;&amp;#123; &#x27;no-records/&#x27; | relative_url &amp;#125;&amp;#125;) mentioning the Roswell crash or the examination by Air Materiel Command...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — We found [no records](&amp;#123;&amp;#123; &#x27;no-records/&#x27; | relative_url &amp;#125;&amp;#125;) mentioning the Roswell crash or the examination by Air Materiel Command...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of JusticeJun 7, 2023 — The chain of custody of evidence i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody/chain-custody-record</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody Record | National Institute of JusticeThe chain of custody record must contain identifiers...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/chain-custody-typical-checklist" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/chain-custody-typical-checklist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | A Chain of...Documenting the chain of custody literally requ...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/chain-custody-typical-checklist" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/sources-scientific-evidence/testing-or-evaluating-evidence-and-writing-reports/chain-custody-typical-checklist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | A Chain of...Documenting the chain of custody literally requ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nij.ojp.gov  
    Title: Sketches are completed at the scene to illustrate relationships.Read more  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/documentation-chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — The crime scene investigator documents the sc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/media/video/49901" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/media/video/49901</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene Analysis | National Institute of JusticeThis training covers methodology, types of evidence, doc...</p></details>
+   Link:<a href="https://nij.ojp.gov/media/video/49901" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/media/video/49901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene Analysis | National Institute of JusticeThis training covers methodology, types of evidence, doc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forensicsciencesimplified.org  
-   Link: <a href="https://www.forensicsciencesimplified.org/photo/Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicsciencesimplified.org/photo/Photography.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Science SimplifiedA Simplified Guide To Crime Scene PhotographyIn this discussion, photographs are not evidence in and of themse...</p></details>
+   Link:<a href="https://www.forensicsciencesimplified.org/photo/Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicsciencesimplified.org/photo/Photography.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Science SimplifiedA Simplified Guide To Crime Scene PhotographyIn this discussion, photographs are not evidence in and of themse...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Chain of Custody in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 65 — The purpose of this work is to renew the interest...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 65 — The purpose of this work is to renew the interest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nij.ojp.gov  
    Title: preservation evidence  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/preservation-evidence" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/preservation-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — Think of the chain of custody as a chain, if...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/preservation-evidence" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/crime-scene-and-dna-basics-forensic-analysts/evidence-crime-scene/preservation-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeCrime Scene and DNA Basics for Forensic AnalystsJun 15, 2023 — Think of the chain of custody as a chain, if...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digitalpolicy.gov.hk  
-   Link: <a href="https://www.digitalpolicy.gov.hk/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalpolicy.gov.hk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Policy Office: HomeHomepage of Digital Policy Office, The Government of the Hong Kong Special Administrative Region of the People...</p></details>
+   Link:<a href="https://www.digitalpolicy.gov.hk/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalpolicy.gov.hk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Policy Office: HomeHomepage of Digital Policy Office, The Government of the Hong Kong Special Administrative Region of the People...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
    Title: forensic science regulator guidance  
-   Link: <a href="https://www.gov.uk/government/collections/forensic-science-regulator-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/forensic-science-regulator-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Regulator guidance7 Feb 2023 — This collection brings together documents that provide guidance to anyone who performs forensic sc...</p></details>
+   Link:<a href="https://www.gov.uk/government/collections/forensic-science-regulator-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/forensic-science-regulator-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Regulator guidance7 Feb 2023 — This collection brings together documents that provide guidance to anyone who performs forensic sc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAll of the accidents involved military aircraft and occurred after July 8, 1947--the date the RAAF public...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAll of the accidents involved military aircraft and occurred after July 8, 1947--the date the RAAF public...</p></details>
    Published: July 8, 1947  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Evidence at Property Crime Scenes | Chain of...Jun 7, 2023 — The chain of custody is a tracking record beginning with detailed scene...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/collecting-dna-evidence-at-property-crime-scenes/evidence-collection/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Evidence at Property Crime Scenes | Chain of...Jun 7, 2023 — The chain of custody is a tracking record beginning with detailed scene...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tecp.forensic-nursing.tamu.edu  
-   Link: <a href="https://tecp.forensic-nursing.tamu.edu/protocol/protocol/medical-forensic-assessment-documentation/photographs/" target="_blank" rel="noopener noreferrer nofollow">https://tecp.forensic-nursing.tamu.edu/protocol/protocol/medical-forensic-assessment-documentation/photographs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If photo-documentation is...Read more...</p></details>
+   Link:<a href="https://tecp.forensic-nursing.tamu.edu/protocol/protocol/medical-forensic-assessment-documentation/photographs/" target="_blank" rel="noopener noreferrer nofollow">https://tecp.forensic-nursing.tamu.edu/protocol/protocol/medical-forensic-assessment-documentation/photographs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If photo-documentation is...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/sample-chain-custody-formdocx" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sample-chain-custody-formdocx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST&#x27;s sample chain of custody formThis Evidence Chain-of-Custody form is to be retained as a permanent record by the Anywhere Police Dep...</p></details>
+   Link:<a href="https://www.nist.gov/document/sample-chain-custody-formdocx" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sample-chain-custody-formdocx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST&#x27;s sample chain of custody formThis Evidence Chain-of-Custody form is to be retained as a permanent record by the Anywhere Police Dep...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/standard-guide-crime-scene-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/standard-guide-crime-scene-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standard Guide for Crime Scene PhotographyCrime scene images are scene documentation that may be introduced as evidence. It is the respon...</p></details>
+   Link:<a href="https://www.nist.gov/document/standard-guide-crime-scene-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/standard-guide-crime-scene-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Standard Guide for Crime Scene PhotographyCrime scene images are scene documentation that may be introduced as evidence. It is the respon...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Grounded Theory Update on the Roswell UFO IncidentSomething unquestionably strange fell southeast of the tiny New Mexican town of Coron...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody Definition, Procedures &amp; ExamplesThe definition of the chain of custody is the procedure, documentation, tracking, and p...</p></details>
+   Link:<a href="https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-is-the-chain-of-custody-definition-procedures-importance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody Definition, Procedures &amp; ExamplesThe definition of the chain of custody is the procedure, documentation, tracking, and p...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/evidence-processing-criminal-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/evidence-processing-criminal-investigations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence processing in criminal investigations | ScienceEvidence processing in criminal investigations encompasses the systematic procedu...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/science/evidence-processing-criminal-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/evidence-processing-criminal-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence processing in criminal investigations | ScienceEvidence processing in criminal investigations encompasses the systematic procedu...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...In general, “Roswell Incident” scenarios claim that a disabled alien craft momenta...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: universalclass.com  
-   Link: <a href="https://www.universalclass.com/articles/law/csi-scene-documentation.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalclass.com/articles/law/csi-scene-documentation.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSI: Scene DocumentationSuch a process involves photography, note taking and reports, sketches, measurements and recording names of peopl...</p></details>
+   Link:<a href="https://www.universalclass.com/articles/law/csi-scene-documentation.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalclass.com/articles/law/csi-scene-documentation.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSI: Scene DocumentationSuch a process involves photography, note taking and reports, sketches, measurements and recording names of peopl...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: law.berkeley.edu  
    Title: eduevidence collection chain of custody form EVIDENCE COLLECTION  
-   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2015/10/Kenya_PHR_Chain-of-Custody-Form.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2015/10/Kenya_PHR_Chain-of-Custody-Form.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHAIN OF CUSTODY FORM. Case #:. Exhibit Reference #:. Date Collected: Time Collected: Description: Location Where Found/Seized/Produced...</p></details>
+   Link:<a href="https://www.law.berkeley.edu/wp-content/uploads/2015/10/Kenya_PHR_Chain-of-Custody-Form.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2015/10/Kenya_PHR_Chain-of-Custody-Form.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHAIN OF CUSTODY FORM. Case #:. Exhibit Reference #:. Date Collected: Time Collected: Description: Location Where Found/Seized/Produced...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: amu.apus.edu  
    Title: how to maintain chain of custody for digital forensic evidence  
-   Link: <a href="https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Maintain Chain of Custody for Digital Forensic EvidenceSep 18, 2025 — Thorough custody documentation also ensures that evidence is pre...</p></details>
+   Link:<a href="https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.amu.apus.edu/area-of-study/criminal-justice/resources/how-to-maintain-chain-of-custody-for-digital-forensic-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Maintain Chain of Custody for Digital Forensic EvidenceSep 18, 2025 — Thorough custody documentation also ensures that evidence is pre...</p></details>

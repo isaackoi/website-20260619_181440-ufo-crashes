@@ -274,17 +274,17 @@ image: /assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_al
 
 ## Introduction
 
-One of the most persistent details in Roswell crash lore is the claim that pieces of debris carried mysterious purple symbols resembling alien writing. The story is influential because it appears to offer something more concrete than vague lights in the sky: markings that witnesses supposedly saw with their own eyes. Yet the historical record shows that the alleged “hieroglyphics” emerged gradually and became more exotic as the Roswell story evolved. Contemporary descriptions referred to decorative tape and unusual markings, while later retellings increasingly framed them as [evidence]({{ 'evidence/' | relative_url }}) of an extraterrestrial language. Examining the tape itself reveals how a small visual detail can shift meaning dramatically once it becomes part of a famous UFO narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+One of the most persistent details in Roswell crash lore is the claim that pieces of debris carried mysterious purple symbols resembling alien writing. The story is influential because it appears to offer something more concrete than vague lights in the sky: markings that witnesses supposedly saw with their own eyes. Yet the historical record shows that the alleged “hieroglyphics” emerged gradually and became more exotic as the Roswell story evolved. Contemporary descriptions referred to decorative tape and unusual markings, while later retellings increasingly framed them as [evidence]({{ 'evidence/' | relative_url }}) of an extraterrestrial language. Examining the tape itself reveals how a small visual detail can shift meaning dramatically once it becomes part of a famous UFO narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-1-dark.svg" | relative_url }}" alt="Tape Symbols illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Marked Tape Was Said to Look Like
 
-The earliest descriptions of the Roswell debris did not focus on alien symbols. Newspaper accounts from July 1947 described lightweight [wreckage]({{ 'wreckage/' | relative_url }}) consisting of foil, paper, sticks, rubber and tape. Rancher W. W. “Mac” Brazel specifically mentioned tape, and reports noted that some of it carried printed designs. One contemporary description referred to “tape with flowers printed upon it,” not unknown writing or coded messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The earliest descriptions of the Roswell debris did not focus on alien symbols. Newspaper accounts from July 1947 described lightweight [wreckage]({{ 'wreckage/' | relative_url }}) consisting of foil, paper, sticks, rubber and tape. Rancher W. W. “Mac” Brazel specifically mentioned tape, and reports noted that some of it carried printed designs. One contemporary description referred to “tape with flowers printed upon it,” not unknown writing or coded messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The idea of strange symbols became much more prominent decades later. A frequently cited account came from Jesse Marcel Jr., who recalled seeing debris as a child and described a small beam carrying “purple-hued hieroglyphics.” In UFO literature, these markings were often portrayed as non-human writing that could not be identified with any known alphabet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The idea of strange symbols became much more prominent decades later. A frequently cited account came from Jesse Marcel Jr., who recalled seeing debris as a child and described a small beam carrying “purple-hued hieroglyphics.” In UFO literature, these markings were often portrayed as non-human writing that could not be identified with any known alphabet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-However, later investigations into Project Mogul—the classified balloon programme that the US Air Force linked to the Roswell debris—produced a different explanation. The Air Force's Roswell report documented interviews with Project Mogul personnel and stated that some radar targets were assembled using purplish-pink tape bearing printed symbols. Researchers associated with the programme recalled that certain components were sourced from toy or novelty manufacturers and included decorative patterns such as flowers and hearts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[physics.smu.edu+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-title">According to the log</span><span class="citation-popover-snippet">USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</span><span class="citation-popover-meta">Published: February 6, 2001</span></span></span>
+However, later investigations into Project Mogul—the classified balloon programme that the US Air Force linked to the Roswell debris—produced a different explanation. The Air Force's Roswell report documented interviews with Project Mogul personnel and stated that some radar targets were assembled using purplish-pink tape bearing printed symbols. Researchers associated with the programme recalled that certain components were sourced from toy or novelty manufacturers and included decorative patterns such as flowers and hearts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[smu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-title">According to the log</span><span class="citation-popover-snippet">USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</span><span class="citation-popover-meta">Published: February 6, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8Mp7vDBvN4" title="Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer">Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 76.8K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8Mp7vDBvN4">Open on YouTube</a></p></div></div></div>
@@ -297,10 +297,10 @@ A person encountering scattered debris in a remote field may not know what a rad
 
 Several factors contributed to the transformation of decorative markings into alleged alien writing:
 
-* **Distance from the original event:** Most famous accounts of the symbols emerged decades after 1947 rather than in immediate reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+* **Distance from the original event:** Most famous accounts of the symbols emerged decades after 1947 rather than in immediate reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 * **Memory reconstruction:** Witnesses recalling events many years later may remember an impression rather than an exact visual detail. Historians and psychologists have long noted that memories often become reshaped by later discussions and cultural influences.
 * **Expectation effects:** Once Roswell became associated with extraterrestrial spacecraft, ambiguous symbols were more likely to be interpreted as an alien language rather than decorative printing.
-* **Visual ambiguity:** Stylised floral or geometric patterns can appear unfamiliar when viewed on torn fragments, especially if only partial pieces remain visible. Muller Lab+2History in 5 Minutes or less <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT... alien occupants which supposedly crashed near Roswell, New Mexico. When the... companies using a pu...</span></span></span>
+* **Visual ambiguity:** Stylised floral or geometric patterns can appear unfamiliar when viewed on torn fragments, especially if only partial pieces remain visible. Muller Lab+2History in 5 Minutes or less<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">Muller LabROSWELL INCIDENT REPORT... alien occupants which supposedly crashed near Roswell, New Mexico. When the... companies using a pu...</span></span></span>
 
 The result is that the same object can generate two very different descriptions: “flowered tape” in one account and “alien hieroglyphics” in another.
 
@@ -312,9 +312,9 @@ The tape markings became important not because they were prominent in the origin
 
 Many alleged UFO crash stories struggle with a basic problem: if the wreckage looked ordinary, why believe it came from an alien craft? The reported symbols offered a possible answer. They provided a detail that seemed difficult to explain through conventional materials and therefore appeared to support extraordinary interpretations.
 
-Yet the timeline matters. The emphasis on alien writing expanded after Roswell was revived in UFO culture during the late 1970s and 1980s. Books, interviews and television programmes increasingly highlighted unusual debris characteristics, including memory-metal claims, indestructible beams and mysterious markings. The tape symbols became part of a larger mythology in which each unusual feature reinforced the extraterrestrial interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2thespacereview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+Yet the timeline matters. The emphasis on alien writing expanded after Roswell was revived in UFO culture during the late 1970s and 1980s. Books, interviews and television programmes increasingly highlighted unusual debris characteristics, including memory-metal claims, indestructible beams and mysterious markings. The tape symbols became part of a larger mythology in which each unusual feature reinforced the extraterrestrial interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-At the same time, researchers investigating Project Mogul pointed to a more mundane explanation. Radar targets built from balsa wood, foil-backed materials and decorative tape could easily produce debris fragments that looked odd when separated from their original structure. The Air Force report specifically noted purplish-pink tape with symbols, matching the general description later associated with the alleged hieroglyphics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[physics.smu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-title">According to the log</span><span class="citation-popover-snippet">USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</span><span class="citation-popover-meta">Published: February 6, 2001</span></span></span>
+At the same time, researchers investigating Project Mogul pointed to a more mundane explanation. Radar targets built from balsa wood, foil-backed materials and decorative tape could easily produce debris fragments that looked odd when separated from their original structure. The Air Force report specifically noted purplish-pink tape with symbols, matching the general description later associated with the alleged hieroglyphics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.smu.edu">[physics.smu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.smu.edu</span><span class="citation-popover-title">According to the log</span><span class="citation-popover-snippet">USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</span><span class="citation-popover-meta">Published: February 6, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mBcYtSsPIuU" title="Project Mogul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer">Project Mogul</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 2.6K &middot; Uploaded: July 2014 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mBcYtSsPIuU">Open on YouTube</a></p></div></div></div>
@@ -326,202 +326,202 @@ At the same time, researchers investigating Project Mogul pointed to a more mund
 
 The historical record suggests that they did.
 
-The strongest contemporary evidence points to printed decorative tape being present among the debris. Later witnesses and authors increasingly described similar markings as mysterious symbols or hieroglyphics. The shift did not occur because new physical evidence appeared; it occurred because the meaning attached to the markings changed over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The strongest contemporary evidence points to printed decorative tape being present among the debris. Later witnesses and authors increasingly described similar markings as mysterious symbols or hieroglyphics. The shift did not occur because new physical evidence appeared; it occurred because the meaning attached to the markings changed over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-This makes the tape symbols one of the clearest examples of a broader pattern in UFO crash stories. Small, ambiguous details often acquire greater significance after a case becomes famous. Once a crash narrative is framed as an encounter with extraterrestrial technology, ordinary visual features can be reinterpreted as clues to an alien origin. In the Roswell case, decorative purplish tape became, for many believers, evidence of an unknown language—even though the available documentary evidence points toward a far more conventional source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[DAF History+2physics.smu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+This makes the tape symbols one of the clearest examples of a broader pattern in UFO crash stories. Small, ambiguous details often acquire greater significance after a case becomes famous. Once a crash narrative is framed as an encounter with extraterrestrial technology, ordinary visual features can be reinterpreted as clues to an alien origin. In the Roswell case, decorative purplish tape became, for many believers, evidence of an unknown language—even though the available documentary evidence points toward a far more conventional source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-3-dark.svg" | relative_url }}" alt="Tape Symbols illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_tape_symbols_alien_w_8fb9bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Tape Symbols Become Alien Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Tape Symbols Become Alien Writing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Directly relevant to how decorative tape markings became extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to how decorative tape markings became extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines disputed debris descriptions and later embellishments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines disputed debris descriptions and later embellishments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Helps explain how stories evolve and gain dramatic features.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how stories evolve and gain dramatic features.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Shows how symbolic details entered Roswell folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how symbolic details entered Roswell folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/3f686c5f20119197f478.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/3f686c5f20119197f478.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f634bef748ece0c7d6d.jpg' | relative_url }}" alt="Listing image for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f634bef748ece0c7d6d.jpg' | relative_url }}" alt="Listing image for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Resurrection Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/3d194df9691143f6fb53.jpg' | relative_url }}" alt="Listing image for Alien Resurrection Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Resurrection Movie Film Poster Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Resurrection Movie Film Poster Art Print"><img src="{{ '/assets/images/marketplace-covers/3d194df9691143f6fb53.jpg' | relative_url }}" alt="Listing image for Alien Resurrection Movie Film Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Resurrection Movie Film Poster Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="tape-symbols-did-tape-symbols-become-alien-writing-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,108 +727,108 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government cover-up. Today the incident near Roswell...</p></details>
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Jun 1997 — A mysterious crash, dead extraterrestrials littering the landscape, a government cover-up. Today the incident near Roswell...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: physics.smu.edu  
    Title: According to the log  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Roswell Report part 1February 6, 2001 — Some of these targets were also assembled with purplish-pink tape with symbols on it (see dr...</p></details>
    Published: February 6, 2001  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history-in-5.com  
    Title: the truth behind the roswell ufo myth  
-   Link: <a href="https://history-in-5.com/2026/04/27/the-truth-behind-the-roswell-ufo-myth/" target="_blank" rel="noopener noreferrer nofollow">https://history-in-5.com/2026/04/27/the-truth-behind-the-roswell-ufo-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The tape was manufactured by a toy company in New York that used floral and geometric patterns on its products during...Read more...</p></details>
+   Link:<a href="https://history-in-5.com/2026/04/27/the-truth-behind-the-roswell-ufo-myth/" target="_blank" rel="noopener noreferrer nofollow">https://history-in-5.com/2026/04/27/the-truth-behind-the-roswell-ufo-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The tape was manufactured by a toy company in New York that used floral and geometric patterns on its products during...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — Moore alleged that not only had the US government recovered debris from a flying saucer, but it may...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/5169/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/5169/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All&#x27;s well that&#x27;s Roswell2 Mar 2026 — Moore alleged that not only had the US government recovered debris from a flying saucer, but it may...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing The Biggest Government Coverup in UFO History | Roswell UFO Crash 1947...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT... alien occupants which supposedly crashed near Roswell, New Mexico. When the... companies using a pu...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabROSWELL INCIDENT REPORT... alien occupants which supposedly crashed near Roswell, New Mexico. When the... companies using a pu...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/the-roswell-legacy-the-untold-story-of-the-first-military-officer-at-the-1947-crash-site-1601630263-9781601630261.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-roswell-legacy-the-untold-story-of-the-first-military-officer-at-the-1947-crash-site-1601630263-9781601630261.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Story of the First Military Officer at the 1947...Jesse told me his story about his involvement in the recovery of strange wr...</p></details>
+   Link:<a href="https://dokumen.pub/download/the-roswell-legacy-the-untold-story-of-the-first-military-officer-at-the-1947-crash-site-1601630263-9781601630261.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-roswell-legacy-the-untold-story-of-the-first-military-officer-at-the-1947-crash-site-1601630263-9781601630261.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Story of the First Military Officer at the 1947...Jesse told me his story about his involvement in the recovery of strange wr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0</a>  
+   Link:<a href="https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9781503612129-010/pdf?licenseType=restricted&amp;srsltid=AfmBOoq3DonXPXWSRCzIe8MH28CJBdpoxnzArJOTaqJhZWpUdh7WllL0</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jhmovie.fandom.com  
    Title: JH Movie Fandom Roswell incident | JH Wiki Collection Wiki  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JH Movie FandomRoswell incident | JH Wiki Collection Wiki - FandomHowever, the symbols described as alien hieroglyphics matched the symbo...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JH Movie FandomRoswell incident | JH Wiki Collection Wiki - FandomHowever, the symbols described as alien hieroglyphics matched the symbo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ciphermysteries.com  
-   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying...15 Jan 2026 — Nice to know aliens use scotch tape – and pretty flowers...</p></details>
+   Link:<a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cipher MysteriesThe Roswell capsule: was it Tex Settle&#x27;s Flying...15 Jan 2026 — Nice to know aliens use scotch tape – and pretty flowers...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/o228kd/the_incessant_debunking_by_those_who_know_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o228kd/the_incessant_debunking_by_those_who_know_very/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ogether didn&#x27;t cause them to realize this might be something...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/o228kd/the_incessant_debunking_by_those_who_know_very/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o228kd/the_incessant_debunking_by_those_who_know_very/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ogether didn&#x27;t cause them to realize this might be something...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dummies.com  
    Title: the most famous ufo story roswell 294100  
-   Link: <a href="https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/" target="_blank" rel="noopener noreferrer nofollow">https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Famous UFO Story: Roswell24 Jun 2022 — The Roswell Incident is the most famous UFO story on record and is the cornerstone of an...</p></details>
+   Link:<a href="https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/" target="_blank" rel="noopener noreferrer nofollow">https://www.dummies.com/article/academics-the-arts/history/conspiracy-theories/the-most-famous-ufo-story-roswell-294100/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Famous UFO Story: Roswell24 Jun 2022 — The Roswell Incident is the most famous UFO story on record and is the cornerstone of an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo [strange metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;) mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
    Title: roswell aliens fermi paradox  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — At a 1978 UFO conference, Stringfield presented a paper called “...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy...14 Nov 2023 — At a 1978 UFO conference, Stringfield presented a paper called “...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/highlightmovieslive/posts/1326335062474665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/highlightmovieslive/posts/1326335062474665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO mystery is a modern mythThe &quot;Roswell incident&quot;, or simply &quot;Roswell&quot;, was the July 1947 recovery of metallic and rubber debris...</p></details>
+   Link:<a href="https://www.facebook.com/groups/highlightmovieslive/posts/1326335062474665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/highlightmovieslive/posts/1326335062474665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO mystery is a modern mythThe &quot;Roswell incident&quot;, or simply &quot;Roswell&quot;, was the July 1947 recovery of metallic and rubber debris...</p></details>
    Published: July 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Top Secret Project That Spawned the Roswell UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)...</p></details>

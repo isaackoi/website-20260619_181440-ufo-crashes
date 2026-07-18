@@ -274,38 +274,38 @@ image: /assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_6
 
 ## Introduction
 
-The yellow foam reported on the water at Shag Harbour is often presented as the strongest physical clue in the case. It mattered because searchers reached the scene expecting to find a crashed [aircraft]({{ 'aircraft/' | relative_url }}) or some other object, yet instead of wreckage they reportedly found a patch or trail of yellowish foam on the surface. However, the foam did not identify what entered the water, and it never became the kind of preserved, laboratory-tested [evidence]({{ 'evidence/' | relative_url }}) that could settle the question. The foam is therefore significant as a reported trace associated with the search area, but weak as proof of any specific explanation. It can support the claim that searchers observed something unusual on the water; it cannot by itself demonstrate that a UFO, aircraft, spacecraft, or any other particular object crashed there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+The yellow foam reported on the water at Shag Harbour is often presented as the strongest physical clue in the case. It mattered because searchers reached the scene expecting to find a crashed [aircraft]({{ 'aircraft/' | relative_url }}) or some other object, yet instead of wreckage they reportedly found a patch or trail of yellowish foam on the surface. However, the foam did not identify what entered the water, and it never became the kind of preserved, laboratory-tested [evidence]({{ 'evidence/' | relative_url }}) that could settle the question. The foam is therefore significant as a reported trace associated with the search area, but weak as proof of any specific explanation. It can support the claim that searchers observed something unusual on the water; it cannot by itself demonstrate that a UFO, aircraft, spacecraft, or any other particular object crashed there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-1-dark.svg" | relative_url }}" alt="Yellow Foam illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where the Foam Appears in the Accounts
 
-Accounts of the Shag [Harbour search]({{ 'harbour-search/' | relative_url }}) repeatedly mention a yellow or yellowish foam near the location where witnesses believed an object had entered the water. The detail appears across many retellings because it is one of the few reported physical effects connected to the event rather than a purely visual sighting. Searchers reportedly found the foam after moving toward the area where lights had been seen descending. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+Accounts of the Shag [Harbour search]({{ 'harbour-search/' | relative_url }}) repeatedly mention a yellow or yellowish foam near the location where witnesses believed an object had entered the water. The detail appears across many retellings because it is one of the few reported physical effects connected to the event rather than a purely visual sighting. Searchers reportedly found the foam after moving toward the area where lights had been seen descending.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
-The foam became memorable for a simple reason: it seemed to mark a location. Witnesses could disagree about distances, sizes, or speeds, but a visible patch of foam on the water gave investigators and rescuers something tangible to search around. In a case otherwise dominated by observations of lights at night, the foam looked like a possible aftermath rather than part of the sighting itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+The foam became memorable for a simple reason: it seemed to mark a location. Witnesses could disagree about distances, sizes, or speeds, but a visible patch of foam on the water gave investigators and rescuers something tangible to search around. In a case otherwise dominated by observations of lights at night, the foam looked like a possible aftermath rather than part of the sighting itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
-That does not mean all descriptions were identical. As with many historical UFO cases, later retellings vary in detail. Some accounts describe a streak or trail, while others simply refer to yellowish foam on the surface. The consistent element is not the precise appearance but the claim that an unusual foam was observed where searchers expected to find evidence of an impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+That does not mean all descriptions were identical. As with many historical UFO cases, later retellings vary in detail. Some accounts describe a streak or trail, while others simply refer to yellowish foam on the surface. The consistent element is not the precise appearance but the claim that an unusual foam was observed where searchers expected to find evidence of an impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZaMbXghrpM" title="The Shag Harbour UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Event</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 181.3K &middot; Uploaded: January 2024 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZaMbXghrpM">Open on YouTube</a></p></div></div></div>
 
 ## Why It Mattered to Searchers
 
-The foam mattered because it appeared to support the idea that something had disturbed the water. If rescuers had reached the area and found absolutely nothing, the event might have been easier to dismiss as a misperceived light in the distance. The reported foam suggested that the search area was not chosen arbitrarily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+The foam mattered because it appeared to support the idea that something had disturbed the water. If rescuers had reached the area and found absolutely nothing, the event might have been easier to dismiss as a misperceived light in the distance. The reported foam suggested that the search area was not chosen arbitrarily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
-In practical terms, a visible surface trace is exactly the sort of thing search crews look for after a suspected crash. Foam, fuel residue, debris, or disturbed water can help define a search zone. Even if the foam had an ordinary cause, its presence helped convince participants that they were investigating a real location rather than chasing a rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+In practical terms, a visible surface trace is exactly the sort of thing search crews look for after a suspected crash. Foam, fuel residue, debris, or disturbed water can help define a search zone. Even if the foam had an ordinary cause, its presence helped convince participants that they were investigating a real location rather than chasing a rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
-This is one reason the foam remains prominent in discussions of the case. It sits between eyewitness testimony and hard forensic evidence. It is more concrete than a witness's memory of lights in the sky, yet far less informative than an identifiable fragment, recovered [wreckage]({{ 'wreckage/' | relative_url }}), or laboratory sample. That middle position gives it enduring importance in the story while also limiting its evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+This is one reason the foam remains prominent in discussions of the case. It sits between eyewitness testimony and hard forensic evidence. It is more concrete than a witness's memory of lights in the sky, yet far less informative than an identifiable fragment, recovered [wreckage]({{ 'wreckage/' | relative_url }}), or laboratory sample. That middle position gives it enduring importance in the story while also limiting its evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-2-dark.svg" | relative_url }}" alt="Yellow Foam illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Foam Falls Short as Physical Evidence
 
-The central problem is that the foam did not establish origin. Yellow foam can be produced by multiple natural and human-made processes. Sea conditions, biological material, pollution, fuel residues, and other substances can create unusual surface appearances. Simply observing foam does not reveal what created it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+The central problem is that the foam did not establish origin. Yellow foam can be produced by multiple natural and human-made processes. Sea conditions, biological material, pollution, fuel residues, and other substances can create unusual surface appearances. Simply observing foam does not reveal what created it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
-More importantly, the reported foam was not preserved in a way that allows modern investigators to identify it. A genuine physical trace becomes powerful evidence when it can be sampled, documented, analysed, and independently verified. The Shag Harbour foam never reached that standard. Without a documented [chain of custody]({{ 'custody/' | relative_url }}), laboratory [records]({{ 'records/' | relative_url }}), or surviving samples, later researchers cannot determine its composition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
+More importantly, the reported foam was not preserved in a way that allows modern investigators to identify it. A genuine physical trace becomes powerful evidence when it can be sampled, documented, analysed, and independently verified. The Shag Harbour foam never reached that standard. Without a documented [chain of custody]({{ 'custody/' | relative_url }}), laboratory [records]({{ 'records/' | relative_url }}), or surviving samples, later researchers cannot determine its composition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
 
-The foam also failed to produce a direct link to any object. No verified wreckage was recovered from the reported impact area, no aircraft was matched to the incident, and no material associated with a specific vehicle emerged from the search. As a result, the foam remained an isolated observation rather than part of a larger evidential chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible+2DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
+The foam also failed to produce a direct link to any object. No verified wreckage was recovered from the reported impact area, no aircraft was matched to the incident, and no material associated with a specific vehicle emerged from the search. As a result, the foam remained an isolated observation rather than part of a larger evidential chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[tvi.show]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-wjgwP_N3oM" title="Shag Harbour&#x27;s UFO mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer">Shag Harbour&#x27;s UFO mystery</a></p><p class="youtube-embed-meta">Channel: CBC News Nova Scotia &middot; Views: 20.1K &middot; Uploaded: September 2017 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-wjgwP_N3oM">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The foam also failed to produce a direct link to any object. No verified wreckag
 
 ## What the Foam Could and Could Not Prove
 
-The strongest reasonable conclusion is that the foam could support a narrow claim: searchers reported seeing an unusual surface condition in the area where they believed something had entered the water. That observation is relevant because it formed part of the immediate search response rather than a story invented decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+The strongest reasonable conclusion is that the foam could support a narrow claim: searchers reported seeing an unusual surface condition in the area where they believed something had entered the water. That observation is relevant because it formed part of the immediate search response rather than a story invented decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
 The foam could not prove:
 
@@ -326,204 +326,204 @@ The foam could not prove:
 * That a conventional aircraft crashed.
 * That an object submerged and travelled underwater.
 * That the event involved extraterrestrial technology.
-* That any specific material or fuel was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
+* That any specific material or fuel was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1967 shag harbor ufo crash</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</span></span></span>
 
 </div>
 
-In other words, the foam is best understood as a clue rather than a conclusion. It is one of the most frequently repeated physical details in the Shag Harbour story because it appears to mark the search location. Yet by itself it never identified what, if anything, entered the water. The gap between those two points explains why the yellow foam remains intriguing more than half a century later: it hints at an event, but it does not solve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR+2unsolvedx.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
+In other words, the foam is best understood as a clue rather than a conclusion. It is one of the most frequently repeated physical details in the Shag Harbour story because it appears to mark the search location. Yet by itself it never identified what, if anything, entered the water. The gap between those two points explains why the yellow foam remains intriguing more than half a century later: it hints at an event, but it does not solve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[decur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Shag Harbour Incident</span><span class="citation-popover-snippet">Shag Harbour Incident - DECUROctober 4, 1967...</span><span class="citation-popover-meta">Published: October 4, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-3-dark.svg" | relative_url }}" alt="Yellow Foam illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_yellow_foam_trace_667411-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Yellow Foam Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Yellow Foam Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Impact to Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpmCngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Impact to Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Impact to Contact">Impact to Contact</a>
-        </h4>
-        <p class="fr-book-author">By Chris Styles, Graham Simms</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Impact to Contact on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpmCngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Impact to Contact" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Impact to Contact">Impact to Contact</a>
+</h4>
+<p class="fr-book-author">By Chris Styles, Graham Simms</p>
         
-        <p class="fr-book-desc">Directly examines the Shag Harbour incident, including reported physical traces and search operations associated with the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the Shag Harbour incident, including reported physical traces and search operations associated with the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Impact+to+Contact+by+Chris+Styles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
-        </h4>
-        <p class="fr-book-author">By Don Ledger, Chris Styles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
+</h4>
+<p class="fr-book-author">By Don Ledger, Chris Styles</p>
         
-        <p class="fr-book-desc">Explores interpretations of the Shag Harbour event and discusses the evidence claimed to support a crash scenario.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretations of the Shag Harbour event and discusses the evidence claimed to support a crash scenario.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reported physical evidence and official investigations of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reported physical evidence and official investigations of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps readers understand standards of evidence, investigation methods, and why isolated traces rarely prove extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand standards of evidence, investigation methods, and why isolated traces rarely prove extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Impact+to+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Impact to Contact</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Impact+to+Contact&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Impact to Contact</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor"><img src="https://i.ebayimg.com/images/g/ErsAAOSwRu1nbdI2/s-l225.jpg" alt="Listing image for Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO MOTEL Wall Art, Alien Abduction Sci-fi Poster, UAP Space Hotel Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality"><img src="https://i.ebayimg.com/images/g/0CMAAeSwr09pHZuz/s-l225.jpg" alt="Listing image for Retro UFO Wall Art Poster - The Truth is Out There Premium Quality" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Wall Art Poster - The Truth is Out There Premium Quality</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="yellow-foam-did-the-yellow-foam-prove-anything-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)"><img src="https://i.ebayimg.com/images/g/WFwAAeSwAxtp73ua/s-l225.jpg" alt="Listing image for &#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Flying UFO&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049939)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro UFO wall art poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro UFO wall art poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+UFO+wall+art+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro UFO wall art poster" data-ebay-reference="did-the-yellow-foam-prove-anything-retro-ufo-wall-art-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,52 +729,52 @@ In other words, the foam is best understood as a clue rather than a conclusion. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: decur.org  
    Title: Shag Harbour Incident  
-   Link: <a href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/cases/shag-harbour-1967</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident - DECUROctober 4, 1967...</p></details>
+   Link:<a href="https://decur.org/cases/shag-harbour-1967" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/cases/shag-harbour-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident - DECUROctober 4, 1967...</p></details>
    Published: October 4, 1967  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolvedx.com  
    Title: 1967 shag harbour ufo  
-   Link: <a href="https://www.unsolvedx.com/dor/1967-shag-harbour-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.unsolvedx.com/dor/1967-shag-harbour-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UnsolvedX...</p></details>
+   Link:<a href="https://www.unsolvedx.com/dor/1967-shag-harbour-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.unsolvedx.com/dor/1967-shag-harbour-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UnsolvedX...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tvi.show  
    Title: the 1967 shag harbor ufo crash  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1967-shag-harbor-ufo-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe 1967 Shag Harbor UFO Crash: Canada’s Most Mysterious Unexplained Incident...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107  
-   Link: <a href="https://www.youtube.com/watch?v=XTjhCp9-6QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XTjhCp9-6QQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XTjhCp9-6QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XTjhCp9-6QQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: NASA Found Aliens Under Oceans, Not Space  
-   Link: <a href="https://www.youtube.com/watch?v=e1EAAd5j_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1EAAd5j_ig</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e1EAAd5j_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1EAAd5j_ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Event...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Event  
-   Link: <a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour&#x27;s UFO mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour&#x27;s UFO mystery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Shag Harbour's UFO mystery  
-   Link: <a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wjgwP_N3oM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wjgwP_N3oM</a>  

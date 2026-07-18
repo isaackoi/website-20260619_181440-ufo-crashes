@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage
 
 ## Introduction
 
-An empty search does not prove a UFO crashed, but it does not disprove the possibility of a crash either. In cases where witnesses report an object descending, impacting the ground or water, and then vanishing without trace, the absence of wreckage becomes a focal point. The problem is that “nothing found” can support several competing explanations at once. There may have been no crash. Searchers may have looked in the wrong place. Debris may have drifted, sunk, scattered, or remained hidden. History shows that even well-funded [searches]({{ 'searches/' | relative_url }}) for known [aircraft]({{ 'aircraft/' | relative_url }}) have sometimes failed for months or years before locating wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[Project Euclid+2bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
+An empty search does not prove a UFO crashed, but it does not disprove the possibility of a crash either. In cases where witnesses report an object descending, impacting the ground or water, and then vanishing without trace, the absence of wreckage becomes a focal point. The problem is that “nothing found” can support several competing explanations at once. There may have been no crash. Searchers may have looked in the wrong place. Debris may have drifted, sunk, scattered, or remained hidden. History shows that even well-funded [searches]({{ 'searches/' | relative_url }}) for known [aircraft]({{ 'aircraft/' | relative_url }}) have sometimes failed for months or years before locating wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[projecteuclid.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-1-dark.svg" | relative_url }}" alt="No Wreckage illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ This matters for UFO crash stories because many begin as suspected aircraft acci
 
 The strongest argument drawn from an empty search is straightforward: if a large object crashed, there should be physical evidence. Aircraft accidents normally leave debris, fuel traces, impact marks, [bodies]({{ 'bodies/' | relative_url }}), electronic components, or some combination of these. When extensive searches find none of those things, confidence naturally declines that a conventional aircraft was involved.
 
-However, that is only one interpretation. An unsuccessful search establishes what was not found, not necessarily what happened. Search operations are exercises in probability rather than certainty. Investigators work from [witness reports]({{ 'witnesses/' | relative_url }}), radar data, environmental conditions, and estimates of where an object might have come down. If any of those inputs are wrong, searchers can miss the target entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[Project Euclid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
+However, that is only one interpretation. An unsuccessful search establishes what was not found, not necessarily what happened. Search operations are exercises in probability rather than certainty. Investigators work from [witness reports]({{ 'witnesses/' | relative_url }}), radar data, environmental conditions, and estimates of where an object might have come down. If any of those inputs are wrong, searchers can miss the target entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[Project Euclid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
 
 In UFO crash narratives, this distinction is often overlooked. Supporters may treat missing wreckage as proof that the object was unlike any aircraft. Skeptics may treat the same absence as proof that no crash occurred. The evidence itself supports neither claim conclusively.
 
@@ -317,10 +317,10 @@ The phrase “no wreckage was found” sounds definitive, yet search and rescue 
 Several factors can prevent debris from being discovered:
 
 * **The search area may be wrong.** A small error in estimating an impact point can translate into a vast search area, especially at sea.
-* **Debris can drift.** Ocean currents, wind, and waves can move floating material far from where an accident occurred. Drift modelling has become a specialised field precisely because debris rarely stays where it first enters the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBMH370: Aircraft Debris and Drift Modelling</span><span class="citation-popover-snippet">debris from MH370 may be found as far west of the search area as. La Réunion Island and is consistent with the currently defined Search a...</span><span class="citation-popover-meta">Published: August 4, 2015</span></span></span>
+* **Debris can drift.** Ocean currents, wind, and waves can move floating material far from where an accident occurred. Drift modelling has become a specialised field precisely because debris rarely stays where it first enters the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[ATSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ATSBMH370: Aircraft Debris and Drift Modelling</span><span class="citation-popover-snippet">debris from MH370 may be found as far west of the search area as. La Réunion Island and is consistent with the currently defined Search a...</span><span class="citation-popover-meta">Published: August 4, 2015</span></span></span>
 * **Objects can sink rapidly.** Heavy components may disappear into deep water before search teams arrive.
 * **Terrain can conceal wreckage.** Forests, mountains, swamps, and seabeds can hide surprisingly large objects.
-* **Search technology has limits.** Sonar, cameras, aircraft, and divers all operate under constraints imposed by depth, weather, visibility, and geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bea.aero">[bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bea.aero</span><span class="citation-popover-snippet">Search Analysis for the Location of the AF447 Underwater...20 Jan 2011 — The Phase II and III searches involved the use of side-looking...</span></span></span>
+* **Search technology has limits.** Sonar, cameras, aircraft, and divers all operate under constraints imposed by depth, weather, visibility, and geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bea.aero">[bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bea.aero</span><span class="citation-popover-snippet">Search Analysis for the Location of the AF447 Underwater...20 Jan 2011 — The Phase II and III searches involved the use of side-looking...</span></span></span>
 
 These mechanisms do not prove that a UFO crashed. They simply show why a failed search cannot be treated as a decisive result by itself.
 
@@ -330,19 +330,19 @@ These mechanisms do not prove that a UFO crashed. They simply show why a failed 
 
 The crash of Air France Flight 447 is one of the clearest reminders that missing wreckage does not necessarily mean there is no wreckage.
 
-The Airbus A330 disappeared over the Atlantic Ocean in June 2009. Investigators knew a real aircraft had crashed, yet locating the main wreckage and flight recorders proved extraordinarily difficult. Early searches recovered bodies and floating debris, but the principal wreck site on the ocean floor remained elusive despite major international efforts. Investigators eventually used sophisticated probability modelling, drift analysis, sonar searches, and deep-ocean technology before locating the wreckage field nearly two years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[The Guardian+3Project Euclid+3bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
+The Airbus A330 disappeared over the Atlantic Ocean in June 2009. Investigators knew a real aircraft had crashed, yet locating the main wreckage and flight recorders proved extraordinarily difficult. Early searches recovered bodies and floating debris, but the principal wreck site on the ocean floor remained elusive despite major international efforts. Investigators eventually used sophisticated probability modelling, drift analysis, sonar searches, and deep-ocean technology before locating the wreckage field nearly two years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[projecteuclid.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
 
-The lesson is not that UFO cases resemble Air France 447 in every respect. The lesson is methodological. Even when investigators know an aircraft crashed and possess extensive data, finding the wreckage can be far harder than intuition suggests. An unsuccessful search therefore has limited evidential value on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[Project Euclid+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
+The lesson is not that UFO cases resemble Air France 447 in every respect. The lesson is methodological. Even when investigators know an aircraft crashed and possess extensive data, finding the wreckage can be far harder than intuition suggests. An unsuccessful search therefore has limited evidential value on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projecteuclid.org">[projecteuclid.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projecteuclid.org</span><span class="citation-popover-title">13 STS420</span><span class="citation-popover-snippet">Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</span></span></span>
 
 ## Why Shag Harbour Remains Debated
 
 The 1967 Shag Harbour incident illustrates how an empty search can sustain multiple interpretations simultaneously.
 
-Witnesses reported a luminous object descending into the water. Rescue authorities initially treated the event as a possible aircraft accident and mounted a search. Investigators later determined that no civilian or military aircraft were missing. Search efforts reportedly found no bodies, aircraft wreckage, or identifiable debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Witnesses reported a luminous object descending into the water. Rescue authorities initially treated the event as a possible aircraft accident and mounted a search. Investigators later determined that no civilian or military aircraft were missing. Search efforts reportedly found no bodies, aircraft wreckage, or identifiable debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 For UFO proponents, the lack of aircraft debris supports the claim that the object was not a conventional plane. For skeptics, the same absence supports the possibility that no impact occurred where witnesses believed it had. The evidence leaves room for both interpretations because the search produced a negative result rather than a positive identification.
 
-That is why the case continues to attract attention decades later. The absence of wreckage removed one explanation without conclusively establishing another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
+That is why the case continues to attract attention decades later. The absence of wreckage removed one explanation without conclusively establishing another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XHm7KMRMTTE" title="The Canadian UFO Crash That Hasn’t Been Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer">The Canadian UFO Crash That Hasn’t Been Debunked</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 214.0K &middot; Uploaded: June 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XHm7KMRMTTE">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ An empty search can mean:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* There was no aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[barringtonmunicipality.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">shag harbour ufo incident</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsThey were told that there were no missing aircraft reported that evening, e...</span></span></span>
+* There was no aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[barringtonmunicipality.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">shag harbour ufo incident</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsThey were told that there were no missing aircraft reported that evening, e...</span></span></span>
 * There was no crash.
 * The impact location was misidentified.
 * Debris drifted or sank beyond the search area.
@@ -373,194 +373,194 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-3-dark.svg" | relative_url }}" alt="No Wreckage illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does No Wreckage Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does No Wreckage Really Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence standards, investigations, witness testimony, and how conclusions are drawn when physical evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards, investigations, witness testimony, and how conclusions are drawn when physical evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses reported crash-retrieval claims, disputed evidence, and competing interpretations of incomplete records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses reported crash-retrieval claims, disputed evidence, and competing interpretations of incomplete records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigative methods and the difficulty of reaching firm conclusions from uncertain data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigative methods and the difficulty of reaching firm conclusions from uncertain data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
         
-        <p class="fr-book-desc">Directly addresses claims involving recovered or missing wreckage and the interpretation of physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses claims involving recovered or missing wreckage and the interpretation of physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1383516a19caebfce044.jpg' | relative_url }}" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1383516a19caebfce044.jpg' | relative_url }}" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor"><img src="{{ '/assets/images/marketplace-covers/f1e40d474573eabbc2dc.jpg' | relative_url }}" alt="Listing image for Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO CRASH Wall Art, Alien City Skyscraper Poster, UAP Urban Sci-fi Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO A4 Watercolor Prints various"><img src="{{ '/assets/images/marketplace-covers/27e6e5a88655848ce1e8.jpg' | relative_url }}" alt="Listing image for UFO SHADO A4 Watercolor Prints various" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO A4 Watercolor Prints various</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="{{ '/assets/images/marketplace-covers/ec16160b47ff0584e663.jpg' | relative_url }}" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="no-wreckage-what-does-no-wreckage-really-mean-ufo-crashes-ufo-crash-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,139 +766,139 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bea.aero  
-   Link: <a href="https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Analysis for the Location of the AF447 Underwater...20 Jan 2011 — The Phase II and III searches involved the use of side-looking...</p></details>
+   Link:<a href="https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/fileadmin/uploads/tx_elyextendttnews/metron.search.analysis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search Analysis for the Location of the AF447 Underwater...20 Jan 2011 — The Phase II and III searches involved the use of side-looking...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Steve Fossett  
-   Link: <a href="https://en.wikipedia.org/wiki/Steve_Fossett" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steve_Fossett</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve FossettIn their quest to find missing aviator Steve Fossett, searchers have come across eight uncharted plane crash wreckage sit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Steve_Fossett" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steve_Fossett</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve FossettIn their quest to find missing aviator Steve Fossett, searchers have come across eight uncharted plane crash wreckage sit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Air France Flight 447  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_France_Flight_447</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air France Flight 447The Brazilian Navy recovered the first major wreckage and two bodies from the sea within five days of the crash...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_France_Flight_447</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air France Flight 447The Brazilian Navy recovered the first major wreckage and two bodies from the sea within five days of the crash...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Incidente di Shag Harbour  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Shag_Harbour" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Shag_Harbour</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di Shag HarbourL&#x27;incidente di Shag Harbour è un presunto caso di UFO crash avvenuto nel 1967 nel villaggio di Shag Harbour i...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Shag_Harbour" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Shag_Harbour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di Shag HarbourL&#x27;incidente di Shag Harbour è un presunto caso di UFO crash avvenuto nel 1967 nel villaggio di Shag Harbour i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: projecteuclid.org  
    Title: 13 STS420  
-   Link: <a href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</p></details>
+   Link:<a href="https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projecteuclid.org/journals/statistical-science/volume-29/issue-1/Search-for-the-Wreckage-of-Air-France-Flight-AF-447/10.1214/13-STS420.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project EuclidSearch for the Wreckage of Air France Flight AF 447by LD Stone · 2014 · Cited by 88 — Using these estimates, they performed...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: atsb.gov.au  
    Title: ATSBMH370: Aircraft Debris and Drift Modelling  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>debris from MH370 may be found as far west of the search area as. La Réunion Island and is consistent with the currently defined Search a...</p></details>
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/media/5323809/mh370_drift_analysis_fact_sheet_04aug2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>debris from MH370 may be found as far west of the search area as. La Réunion Island and is consistent with the currently defined Search a...</p></details>
    Published: August 4, 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Air France crash: black box recovered by search team  
-   Link: <a href="https://www.theguardian.com/world/2011/may/01/air-france-crash-black-box" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/may/01/air-france-crash-black-box</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air France crash: black box recovered by search teamMay 1, 2011 — A black box flight recorder from an Air France plane that crashed off t...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2011/may/01/air-france-crash-black-box" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/may/01/air-france-crash-black-box</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air France crash: black box recovered by search teamMay 1, 2011 — A black box flight recorder from an Air France plane that crashed off t...</p></details>
    Published: May 1, 2011  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: air france 447 search bodies  
-   Link: <a href="https://www.theguardian.com/world/2011/apr/04/air-france-447-search-bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/apr/04/air-france-447-search-bodies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air France 447 search finds bodies at bottom of Atlantic4 Apr 2011 — Underwater robots discover remains and debris but hunt continues for...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2011/apr/04/air-france-447-search-bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/apr/04/air-france-447-search-bodies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air France 447 search finds bodies at bottom of Atlantic4 Apr 2011 — Underwater robots discover remains and debris but hunt continues for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: barringtonmunicipality.com  
    Title: shag harbour ufo incident  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThey were told that there were [no missing aircraft](&amp;#123;&amp;#123; &#x27;no-missing-plane/&#x27; | relative_url &amp;#125;&amp;#125;) reported that evening, e...</p></details>
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThey were told that there were [no missing aircraft](&amp;#123;&amp;#123; &#x27;no-missing-plane/&#x27; | relative_url &amp;#125;&amp;#125;) reported that evening, e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</p></details>
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: Body recovered from sunken wreckage of Air France Airbus  
-   Link: <a href="https://www.theguardian.com/world/2011/may/05/body-recovered-french-airbus-atlantic" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/may/05/body-recovered-french-airbus-atlantic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2011 — Remains, which were discovered still strapped into seat, raised from Atlantic almost two years after 228 people died on fli...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2011/may/05/body-recovered-french-airbus-atlantic" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/may/05/body-recovered-french-airbus-atlantic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2011 — Remains, which were discovered still strapped into seat, raised from Atlantic almost two years after 228 people died on fli...</p></details>
    Published: May 5, 2011  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: air france plane crash victims found  
-   Link: <a href="https://www.theguardian.com/world/2011/apr/04/air-france-plane-crash-victims-found" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/apr/04/air-france-plane-crash-victims-found</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>after two-year search4 Apr 2011 — Robot submarines reveal wreckage with bodies of passengers who died when Flight AF477 went down on its...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2011/apr/04/air-france-plane-crash-victims-found" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/apr/04/air-france-plane-crash-victims-found</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>after two-year search4 Apr 2011 — Robot submarines reveal wreckage with bodies of passengers who died when Flight AF477 went down on its...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Travel/International/story?id=7781783&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Travel/International/story?id=7781783&amp;page=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Ocean of Debris&#x27; Found at Air France 447 Crash Site8 Jun 2009 — June 8, 2009 &amp;#151; -- An &quot;ocean of debris&quot; now surrounds divers recover...</p></details>
+   Link:<a href="https://abcnews.com/Travel/International/story?id=7781783&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Travel/International/story?id=7781783&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Ocean of Debris&#x27; Found at Air France 447 Crash Site8 Jun 2009 — June 8, 2009 &amp;#151; -- An &quot;ocean of debris&quot; now surrounds divers recover...</p></details>
    Published: June 8, 2009  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
    Title: black boxes from air france 447 crash intact  
-   Link: <a href="https://www.cbsnews.com/news/black-boxes-from-air-france-447-crash-intact/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/black-boxes-from-air-france-447-crash-intact/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 May 2011 — French officials say all info recovered from ill-fated flight&#x27;s recorders after mysterious plunge into Atlantic...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/black-boxes-from-air-france-447-crash-intact/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/black-boxes-from-air-france-447-crash-intact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 May 2011 — French officials say all info recovered from ill-fated flight&#x27;s recorders after mysterious plunge into Atlantic...</p></details>
    Published: May 2011  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: earthmagazine.org  
-   Link: <a href="https://www.earthmagazine.org/article/benchmarks-april-4-2011-air-france-flight-447-wreckage-found-using-modern-oceanography-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthmagazine.org/article/benchmarks-april-4-2011-air-france-flight-447-wreckage-found-using-modern-oceanography-tools/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2011: Air France Flight 447 wreckage...4 Apr 2011 — On April 4, 2011, after nearly two years of searching, the wreckage of the...</p></details>
+   Link:<a href="https://www.earthmagazine.org/article/benchmarks-april-4-2011-air-france-flight-447-wreckage-found-using-modern-oceanography-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthmagazine.org/article/benchmarks-april-4-2011-air-france-flight-447-wreckage-found-using-modern-oceanography-tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2011: Air France Flight 447 wreckage...4 Apr 2011 — On April 4, 2011, after nearly two years of searching, the wreckage of the...</p></details>
    Published: April 4, 2011  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: themacdonaldnotebook.ca  
    Title: machistory remembering the oct 4th 1967 celebrated ufo crash in shag harbour  
-   Link: <a href="https://www.themacdonaldnotebook.ca/2020/09/26/machistory-remembering-the-oct-4th-1967-celebrated-ufo-crash-in-shag-harbour/" target="_blank" rel="noopener noreferrer nofollow">https://www.themacdonaldnotebook.ca/2020/09/26/machistory-remembering-the-oct-4th-1967-celebrated-ufo-crash-in-shag-harbour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MacHistory: Remembering The Celebrated &#x27;UFO Crash...26 Sept 2020 — In UFO-oligist circles, the UFO crash in tiny Shag Harbour is as famo...</p></details>
+   Link:<a href="https://www.themacdonaldnotebook.ca/2020/09/26/machistory-remembering-the-oct-4th-1967-celebrated-ufo-crash-in-shag-harbour/" target="_blank" rel="noopener noreferrer nofollow">https://www.themacdonaldnotebook.ca/2020/09/26/machistory-remembering-the-oct-4th-1967-celebrated-ufo-crash-in-shag-harbour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MacHistory: Remembering The Celebrated &#x27;UFO Crash...26 Sept 2020 — In UFO-oligist circles, the UFO crash in tiny Shag Harbour is as famo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/12rpmos/in_october_of_1967_a_craft_was_witnessed_crashing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12rpmos/in_october_of_1967_a_craft_was_witnessed_crashing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• 3y ago. The Shag Harbour UFO crash and retrieval. 36. 30. A 1967 encounter in rural France became one of Europe&#x27;s most investigated...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/12rpmos/in_october_of_1967_a_craft_was_witnessed_crashing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12rpmos/in_october_of_1967_a_craft_was_witnessed_crashing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• 3y ago. The Shag Harbour UFO crash and retrieval. 36. 30. A 1967 encounter in rural France became one of Europe&#x27;s most investigated...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mWtFeutYddc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mWtFeutYddc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris Found From Air France CrashBodies and luggage found in Atlantic may help searchers locate black boxes. Debris Found From Air Franc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mWtFeutYddc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mWtFeutYddc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris Found From Air France CrashBodies and luggage found in Atlantic may help searchers locate black boxes. Debris Found From Air Franc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZZbA5JitHf0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZZbA5JitHf0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nto the unknown. This is the story of Air France Flight 447...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZZbA5JitHf0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZZbA5JitHf0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nto the unknown. This is the story of Air France Flight 447...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: TITANI C of the Skies!  
-   Link: <a href="https://www.youtube.com/watch?v=e5AGHEUxLME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e5AGHEUxLME</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TITANIC of the Skies! - The Air France 447 Accident ExplainedIt took just over 4 minutes for this aircraft to lose control and fall nearl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e5AGHEUxLME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e5AGHEUxLME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TITANIC of the Skies! - The Air France 447 Accident ExplainedIt took just over 4 minutes for this aircraft to lose control and fall nearl...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full DocumentaryThe Shag Harbour UFO Incident - Full Documentary. 530K views · 10... 1975 interview with a man who claims he was abducte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full DocumentaryThe Shag Harbour UFO Incident - Full Documentary. 530K views · 10... 1975 interview with a man who claims he was abducte...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_
 
 ## Introduction
 
-The reason Shag Harbour became an enduring UFO case is that witnesses did not initially report a UFO. They reported what looked like an [aircraft accident]({{ 'aircraft/' | relative_url }}). On the night of 4 October 1967, several observers saw a brightly lit object descending towards the water at a shallow angle, apparently ending its flight offshore. The sight was dramatic enough that local residents contacted police believing a plane had crashed and that survivors might be in the sea. That first interpretation shaped everything that followed: police mobilisation, search-and-rescue efforts, and later official investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The reason Shag Harbour became an enduring UFO case is that witnesses did not initially report a UFO. They reported what looked like an [aircraft accident]({{ 'aircraft/' | relative_url }}). On the night of 4 October 1967, several observers saw a brightly lit object descending towards the water at a shallow angle, apparently ending its flight offshore. The sight was dramatic enough that local residents contacted police believing a plane had crashed and that survivors might be in the sea. That first interpretation shaped everything that followed: police mobilisation, search-and-rescue efforts, and later official investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-1-dark.svg" | relative_url }}" alt="Crash Reports illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ The reason Shag Harbour became an enduring UFO case is that witnesses did not in
 
 Accounts from the first witnesses share several features that help explain why the event was treated as a crash rather than merely an unusual light in the sky.
 
-Witnesses described a low-flying object carrying several orange or amber lights arranged in a line. The lights appeared to move together and descend towards the water rather than remain stationary or drift away. Some observers also reported hearing sounds described as a whistle, a “whoosh”, or a loud bang as the object approached the harbour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Witnesses described a low-flying object carrying several orange or amber lights arranged in a line. The lights appeared to move together and descend towards the water rather than remain stationary or drift away. Some observers also reported hearing sounds described as a whistle, a “whoosh”, or a loud bang as the object approached the harbour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-A particularly important detail is that witnesses believed they saw the object reach the water. Laurie Wickens and others watched from a roadside vantage point and concluded that a large aircraft or small airliner had gone down offshore. After moving to obtain a better view, they reported seeing illuminated lights on the water where the object appeared to have come down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+A particularly important detail is that witnesses believed they saw the object reach the water. Laurie Wickens and others watched from a roadside vantage point and concluded that a large aircraft or small airliner had gone down offshore. After moving to obtain a better view, they reported seeing illuminated lights on the water where the object appeared to have come down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 The sequence matched what ordinary people might expect from an aviation emergency:
 
@@ -295,7 +295,7 @@ The sequence matched what ordinary people might expect from an aviation emergenc
 * A visible descent rather than level flight.
 * Sounds suggesting rapid movement or impact.
 * Lights appearing at the water surface afterwards.
-* An apparent impact location close enough to identify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+* An apparent impact location close enough to identify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 </div>
 
@@ -308,13 +308,13 @@ Nothing in those first moments required an extraordinary explanation. The simple
 
 The crash interpretation emerged because witnesses were trying to explain the event using familiar possibilities.
 
-In 1967, residents of coastal Nova Scotia were accustomed to seeing aircraft over the region. When observers saw lights descending towards the ocean, the most practical conclusion was that they were witnessing an aviation accident. The witnesses were not reporting strange lights at great distance; they believed they were watching a real object approaching the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+In 1967, residents of coastal Nova Scotia were accustomed to seeing aircraft over the region. When observers saw lights descending towards the ocean, the most practical conclusion was that they were witnessing an aviation accident. The witnesses were not reporting strange lights at great distance; they believed they were watching a real object approaching the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Another factor was the apparent location of the event. Witnesses estimated that the object came down relatively close to shore. Reports that lights remained visible on the water after impact reinforced the impression that something substantial had entered the harbour rather than simply vanished into the distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Another factor was the apparent location of the event. Witnesses estimated that the object came down relatively close to shore. Reports that lights remained visible on the water after impact reinforced the impression that something substantial had entered the harbour rather than simply vanished into the distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Searchers also reported a patch of yellowish foam at the location where the object was believed to have entered the water. Although the foam was never tied to any specific aircraft or object, its presence contributed to the impression that a recent impact or disturbance had occurred. For people arriving at the scene that night, it looked more like the aftermath of an accident than a routine sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">the 1967 shag harbour ufo splashdown canadas unsolved aerial mystery</span><span class="citation-popover-snippet">New Space EconomyThe 1967 Shag Harbour UFO Splashdown: Canadas Unsolved Aerial Mystery - New Space Economy...</span></span></span>
+Searchers also reported a patch of yellowish foam at the location where the object was believed to have entered the water. Although the foam was never tied to any specific aircraft or object, its presence contributed to the impression that a recent impact or disturbance had occurred. For people arriving at the scene that night, it looked more like the aftermath of an accident than a routine sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">the 1967 shag harbour ufo splashdown canadas unsolved aerial mystery</span><span class="citation-popover-snippet">New Space EconomyThe 1967 Shag Harbour UFO Splashdown: Canadas Unsolved Aerial Mystery - New Space Economy...</span></span></span>
 
-Crucially, the witnesses acted before any UFO narrative developed. Their first response was to notify authorities and seek help for possible victims, not to promote an unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Crucially, the witnesses acted before any UFO narrative developed. Their first response was to notify authorities and seek help for possible victims, not to promote an unexplained phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-2-dark.svg" | relative_url }}" alt="Crash Reports illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ Crucially, the witnesses acted before any UFO narrative developed. Their first r
 
 Because the event was reported as a possible crash, authorities treated it as a rescue situation.
 
-After receiving the report, RCMP officers arrived quickly and assessed the scene. Concerned that people could be in the water, they contacted the Rescue Coordination Centre in Halifax to determine whether an aircraft was missing and to begin a search effort. Local fishing boats headed to the reported impact area, followed by official search-and-rescue resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+After receiving the report, RCMP officers arrived quickly and assessed the scene. Concerned that people could be in the water, they contacted the Rescue Coordination Centre in Halifax to determine whether an aircraft was missing and to begin a search effort. Local fishing boats headed to the reported impact area, followed by official search-and-rescue resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-This response is significant because it shows that the authorities' initial concern matched the witnesses' interpretation. The event was not immediately categorised as a UFO report. It entered official channels as a possible aviation emergency. Only later, after checks failed to identify any missing civilian or military aircraft and [no wreckage]({{ 'no-wreckage/' | relative_url }}) or survivors were found, did investigators move beyond the aircraft-crash explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+This response is significant because it shows that the authorities' initial concern matched the witnesses' interpretation. The event was not immediately categorised as a UFO report. It entered official channels as a possible aviation emergency. Only later, after checks failed to identify any missing civilian or military aircraft and [no wreckage]({{ 'no-wreckage/' | relative_url }}) or survivors were found, did investigators move beyond the aircraft-crash explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The emergency framing therefore created a valuable evidential record. Witness statements were collected in the context of an urgent rescue effort rather than a retrospective mystery. The reports were generated before the incident acquired its later reputation as a famous UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The emergency framing therefore created a valuable evidential record. Witness statements were collected in the context of an urgent rescue effort rather than a retrospective mystery. The reports were generated before the incident acquired its later reputation as a famous UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-wjgwP_N3oM" title="Shag Harbour&#x27;s UFO mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer">Shag Harbour&#x27;s UFO mystery</a></p><p class="youtube-embed-meta">Channel: CBC News Nova Scotia &middot; Views: 20.1K &middot; Uploaded: September 2017 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-wjgwP_N3oM">Open on YouTube</a></p></div></div></div>
@@ -338,202 +338,202 @@ The emergency framing therefore created a valuable evidential record. Witness st
 
 For understanding the Shag Harbour incident, the most important point is not whether the object was ultimately identified. It is that multiple witnesses independently interpreted what they saw as a genuine crash.
 
-The reports mattered because they transformed a strange sighting into an actionable event. Residents believed a real object had entered the water. Police accepted that possibility. Search-and-rescue resources were deployed on that basis. The fact that no aircraft could later be matched to the incident is what turned an apparent emergency into an enduring mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The reports mattered because they transformed a strange sighting into an actionable event. Residents believed a real object had entered the water. Police accepted that possibility. Search-and-rescue resources were deployed on that basis. The fact that no aircraft could later be matched to the incident is what turned an apparent emergency into an enduring mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), Shag Harbour stands out because the first reports were grounded in an ordinary assumption: an aircraft had gone down and people might need saving. The later UFO interpretation emerged only after that straightforward explanation failed to fit the available [evidence]({{ 'evidence/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), Shag Harbour stands out because the first reports were grounded in an ordinary assumption: an aircraft had gone down and people might need saving. The later UFO interpretation emerged only after that straightforward explanation failed to fit the available [evidence]({{ 'evidence/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-3-dark.svg" | relative_url }}" alt="Crash Reports illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_shag_harbour_crash_r_4b19a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Shag Harbour Looked Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Shag Harbour Looked Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Readers interested in why witnesses interpreted unusual events as aircraft or UFO incidents will find comparable investigation and witnes...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in why witnesses interpreted unusual events as aircraft or UFO incidents will find comparable investigation and witnes...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores credible witness testimony and official responses, directly matching the Shag Harbour story&#x27;s emphasis on eyewitnesses and autho...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores credible witness testimony and official responses, directly matching the Shag Harbour story&#x27;s emphasis on eyewitnesses and autho...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports, misidentifications, and investigative methods relevant to understanding why events can initially appear to be a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, misidentifications, and investigative methods relevant to understanding why events can initially appear to be a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains coverage of major UFO incidents and provides historical context for cases such as Shag Harbour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains coverage of major UFO incidents and provides historical context for cases such as Shag Harbour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40"><img src="{{ '/assets/images/marketplace-covers/680c97145281fe8dd9f6.jpg' | relative_url }}" alt="Listing image for UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell . Here come the Discs again . Original Newspaper July 11 1947 B40</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed"><img src="{{ '/assets/images/marketplace-covers/a8bff4bc6adc777923ce.jpg' | relative_url }}" alt="Listing image for Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Model Crash I Beam Wreckage - Geek Gift / Sci Fi / 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift"><img src="{{ '/assets/images/marketplace-covers/5c7f71a427d151101571.jpg' | relative_url }}" alt="Listing image for Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Roswell I-Beam Desk Tidy – UFO/UAP Collectible – Sci-Fi Geek/Nerd Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1"><img src="{{ '/assets/images/marketplace-covers/d3eaaec8c4918077178f.jpg' | relative_url }}" alt="Listing image for UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Idaho Reports Landings of Discs . Maine Sightings July 10 1947 PW1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO collectible" data-ebay-reference="crash-reports-why-shag-harbour-looked-like-a-crash-ufo-crashes-roswell-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,73 +739,73 @@ Within the wider history of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident | 50 Years Later...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident | 50 Years Later...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newspaceeconomy.ca  
    Title: the 1967 shag harbour ufo splashdown canadas unsolved aerial mystery  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe 1967 Shag Harbour UFO Splashdown: Canadas Unsolved Aerial Mystery - New Space Economy...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/31/the-1967-shag-harbour-ufo-splashdown-canadas-unsolved-aerial-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyThe 1967 Shag Harbour UFO Splashdown: Canadas Unsolved Aerial Mystery - New Space Economy...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: disclosdex.com  
    Title: Shag Harbour Incident | Disclosdex  
-   Link: <a href="https://disclosdex.com/events/1967-shag-harbour-incident" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/1967-shag-harbour-incident</a>  
+   Link:<a href="https://disclosdex.com/events/1967-shag-harbour-incident" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/1967-shag-harbour-incident</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: www.reddit.com Shag Harbour UFO incident  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1c85gck" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1c85gck</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harbour UFO incident - one of the best documented cases of a UFO crash retrieval. Happened in 1967 in the small fishing village of Shag H...</p></details>
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1c85gck" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1c85gck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harbour UFO incident - one of the best documented cases of a UFO crash retrieval. Happened in 1967 in the small fishing village of Shag H...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vice.com  
    Title: www.vice.com Auf den Spuren der berühmtesten UFO-Sichtung Kanadas  
-   Link: <a href="https://www.vice.com/de/article/bjvan8/auf-den-spuren-der-beruehmtesten-ufo-sichtung-kanadas" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/de/article/bjvan8/auf-den-spuren-der-beruehmtesten-ufo-sichtung-kanadas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>den Spuren der berühmtesten UFO-Sichtung KanadasOctober 6, 2017...</p></details>
+   Link:<a href="https://www.vice.com/de/article/bjvan8/auf-den-spuren-der-beruehmtesten-ufo-sichtung-kanadas" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/de/article/bjvan8/auf-den-spuren-der-beruehmtesten-ufo-sichtung-kanadas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>den Spuren der berühmtesten UFO-Sichtung KanadasOctober 6, 2017...</p></details>
    Published: October 6, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sasquatchchronicles.com  
    Title: shag harbour ufo crash 1967  
-   Link: <a href="https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch ChroniclesShag Harbour UFO “Crash,” 1967 - Sasquatch Chronicles...</p></details>
+   Link:<a href="https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch ChroniclesShag Harbour UFO “Crash,” 1967 - Sasquatch Chronicles...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V_lqAxKyCQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_lqAxKyCQA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V_lqAxKyCQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_lqAxKyCQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Shag Harbour’s UFO mystery  
-   Link: <a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wjgwP_N3oM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour, Nova Scotia UFO Incident of 1967...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-wjgwP_N3oM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-wjgwP_N3oM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour, Nova Scotia UFO Incident of 1967...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rfqzru" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rfqzru</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbor UFO Incident (1967), underwater UAP travelDecember 13, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rfqzru" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rfqzru</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbor UFO Incident (1967), underwater UAP travelDecember 13, 2021...</p></details>
    Published: December 13, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lionsberg.wiki  
    Title: the shag harbour incident (1967)  
-   Link: <a href="https://lionsberg.wiki/li%C3%B8nsberg_wiki_books/the_cosmic_chronicles/the_shag_harbour_incident_%281967%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/li%C3%B8nsberg_wiki_books/the_cosmic_chronicles/the_shag_harbour_incident_%281967%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIØNSBERG Wiki...</p></details>
+   Link:<a href="https://lionsberg.wiki/li%C3%B8nsberg_wiki_books/the_cosmic_chronicles/the_shag_harbour_incident_%281967%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/li%C3%B8nsberg_wiki_books/the_cosmic_chronicles/the_shag_harbour_incident_%281967%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIØNSBERG Wiki...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Unsolved Air Force vs. UFO  
-   Link: <a href="https://www.youtube.com/watch?v=QlCDdzr11qc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QlCDdzr11qc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QlCDdzr11qc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QlCDdzr11qc</a>  

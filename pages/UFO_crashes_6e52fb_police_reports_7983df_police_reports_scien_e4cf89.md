@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_police_reports_sc
 
 ## Introduction
 
-In alleged UFO crash cases, [police reports]({{ 'police-reports/' | relative_url }}) and scientific crash evidence answer different questions. A police file can show that witnesses made reports, officers responded, a search was launched, and authorities treated an event seriously. What it usually cannot do is establish what the object actually was. Determining origin requires a different category of evidence: recoverable material, calibrated measurements, documented [chain of custody]({{ 'custody/' | relative_url }}), laboratory analysis, and independently verifiable data. Modern UAP (Unidentified Anomalous Phenomena) research has increasingly emphasised this distinction. Investigators may accept that an unusual event occurred while still concluding that the available evidence is insufficient to identify the object involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+In alleged UFO crash cases, [police reports]({{ 'police-reports/' | relative_url }}) and scientific crash evidence answer different questions. A police file can show that witnesses made reports, officers responded, a search was launched, and authorities treated an event seriously. What it usually cannot do is establish what the object actually was. Determining origin requires a different category of evidence: recoverable material, calibrated measurements, documented [chain of custody]({{ 'custody/' | relative_url }}), laboratory analysis, and independently verifiable data. Modern UAP (Unidentified Anomalous Phenomena) research has increasingly emphasised this distinction. Investigators may accept that an unusual event occurred while still concluding that the available evidence is insufficient to identify the object involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_police_reports_scien_e4cf89-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Limits illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_police_reports_scien_e4cf89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_police_reports_7983df_police_reports_scien_e4cf89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -307,7 +307,7 @@ When a police agency receives crash reports, dispatch logs, incident reports, of
 
 These records can therefore demonstrate that an incident was real in the sense that people genuinely observed something and authorities considered it important enough to investigate. They are particularly useful for testing later claims against contemporary documentation.
 
-The 1967 Shag Harbour incident in Nova Scotia illustrates this point. Witnesses reported an object descending into the water, the Royal Canadian Mounted Police responded, rescue authorities treated the event as a possible aircraft crash, and military and civilian agencies searched the area. The official response is well documented. However, despite searches, no conventional wreckage was recovered and the event remained [unidentified]({{ 'unidentified/' | relative_url }}). The records support the fact that authorities investigated an unusual incident; they do not independently establish the nature of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The 1967 Shag Harbour incident in Nova Scotia illustrates this point. Witnesses reported an object descending into the water, the Royal Canadian Mounted Police responded, rescue authorities treated the event as a possible aircraft crash, and military and civilian agencies searched the area. The official response is well documented. However, despite searches, no conventional wreckage was recovered and the event remained [unidentified]({{ 'unidentified/' | relative_url }}). The records support the fact that authorities investigated an unusual incident; they do not independently establish the nature of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 ### Why official paperwork is not identification evidence
 
@@ -338,7 +338,7 @@ Police reports frequently rely on eyewitness testimony, including the observatio
 
 Human perception is vulnerable to distance errors, lighting conditions, atmospheric effects, expectation bias, and incomplete viewing angles. Even trained observers can misjudge size, speed, altitude, or direction when reference points are limited.
 
-Modern UAP reviews have repeatedly highlighted this issue. NASA's independent UAP study concluded that eyewitness accounts and isolated observations are often insufficient for definitive conclusions because they typically lack calibration, contextual measurements, and supporting data from multiple instruments. The report stressed that reliable identification depends on well-characterised observations rather than testimony alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+Modern UAP reviews have repeatedly highlighted this issue. NASA's independent UAP study concluded that eyewitness accounts and isolated observations are often insufficient for definitive conclusions because they typically lack calibration, contextual measurements, and supporting data from multiple instruments. The report stressed that reliable identification depends on well-characterised observations rather than testimony alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 This does not mean witnesses are unreliable or dishonest. Rather, it reflects a basic principle of investigation: sincere observations and scientific identification are separate questions. A witness may accurately report seeing an object descend into a forest or body of water while remaining unable to determine whether it was an aircraft, meteor, drone, balloon, classified technology, or something else.
 
@@ -382,7 +382,7 @@ Modern scientific standards place heavy emphasis on [calibrated sensors]({{ 'sen
 
 </div>
 
-The key requirement is that these measurements be calibrated and accompanied by metadata showing when, where, and how they were collected. NASA's UAP study specifically identified poor sensor calibration, missing metadata, and a lack of multiple independent measurements as major barriers to reliable conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+The key requirement is that these measurements be calibrated and accompanied by metadata showing when, where, and how they were collected. NASA's UAP study specifically identified poor sensor calibration, missing metadata, and a lack of multiple independent measurements as major barriers to reliable conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XHm7KMRMTTE" title="The Canadian UFO Crash That Hasn’t Been Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer">The Canadian UFO Crash That Hasn’t Been Debunked</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 214.0K &middot; Uploaded: June 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XHm7KMRMTTE">Open on YouTube</a></p></div></div></div>
@@ -412,7 +412,7 @@ This chain of custody helps prevent contamination, substitution, or later disput
 
 Recent UAP research efforts increasingly distinguish between documentation and explanation. Documentation establishes that an event occurred. Explanation requires enough evidence to identify its cause.
 
-NASA's UAP study noted that the current evidence base is dominated by incomplete observations and lacks the consistent, curated datasets needed for firm scientific conclusions. Researchers associated with newer observational programmes have therefore focused on building systems that combine multiple sensor types, environmental monitoring, and cross-verification rather than relying primarily on witness reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
+NASA's UAP study noted that the current evidence base is dominated by incomplete observations and lacks the consistent, curated datasets needed for firm scientific conclusions. Researchers associated with newer observational programmes have therefore focused on building systems that combine multiple sensor types, environmental monitoring, and cross-verification rather than relying primarily on witness reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</span></span></span>
 
 This distinction is particularly important in alleged UFO crashes. A police report can be powerful evidence that authorities responded to an unusual event. It can support timelines, corroborate witness claims, and demonstrate that a search took place. What it cannot usually do is bridge the final gap between an unexplained incident and a scientifically established conclusion about the object's origin.
 
@@ -431,194 +431,194 @@ That is where police reports stop proving things and where scientific crash evid
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Police Reports Stop Proving Things. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Police Reports Stop Proving Things. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts official reports with deeper evidential questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts official reports with deeper evidential questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Explains the difference between reports and physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the difference between reports and physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
+</h4>
+<p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
         
-        <p class="fr-book-desc">Shows what stronger evidence standards require.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what stronger evidence standards require.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Crime Scene Processing and Investigation</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Crime Scene Processing and Investigation</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/RgIAAOSwQ-NnR4gW/s-l225.jpg" alt="Listing image for UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro flying saucer UFO art prints poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro flying saucer UFO art prints poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patent Earth Flying Saucer Ufo Poster Print Sci-Fi Gift Ufo Wall Art Alien"><img src="https://i.ebayimg.com/images/g/rYYAAeSwxYdqDjav/s-l225.jpg" alt="Listing image for Patent Earth Flying Saucer Ufo Poster Print Sci-Fi Gift Ufo Wall Art Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer">Patent Earth Flying Saucer Ufo Poster Print Sci-Fi Gift Ufo Wall Art Alien</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro flying saucer UFO art prints poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro flying saucer UFO art prints poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK"><img src="https://i.ebayimg.com/images/g/Ok0AAOSwliNkpBGY/s-l225.jpg" alt="Listing image for V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer">V1515 World War II German UFO Flying Saucer Art Decor WALL POSTER PRINT UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro flying saucer UFO art prints poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro flying saucer UFO art prints poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="evidence-limits-where-police-reports-stop-proving-things-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN LOVERS Wall Art, Retro UFO Sci-fi Poster, Flying Saucer Cryptid Flower Art"><img src="https://i.ebayimg.com/images/g/26cAAOSwfilnRhap/s-l225.jpg" alt="Listing image for ALIEN LOVERS Wall Art, Retro UFO Sci-fi Poster, Flying Saucer Cryptid Flower Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN LOVERS Wall Art, Retro UFO Sci-fi Poster, Flying Saucer Cryptid Flower Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retro flying saucer UFO art prints poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: retro flying saucer UFO art prints poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retro+flying+saucer+UFO+art+prints+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="retro flying saucer UFO art prints poster" data-ebay-reference="where-police-reports-stop-proving-things-retro-flying-saucer-ufo-art-prints-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ That is where police reports stop proving things and where scientific crash evid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ That is where police reports stop proving things and where scientific crash evid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ That is where police reports stop proving things and where scientific crash evid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ That is where police reports stop proving things and where scientific crash evid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ That is where police reports stop proving things and where scientific crash evid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,89 +824,89 @@ That is where police reports stop proving things and where scientific crash evid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...There are currently a limited number of high-quality observations of UAP, which ma...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>data,&quot; Spergel said. &quot;The current existing data and eyewitness reports alone are insufficient to provide conclusive evidence about the...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data,&quot; Spergel said. &quot;The current existing data and eyewitness reports alone are insufficient to provide conclusive evidence about the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe current existing data and eyewitness reports alone are insufficient to provide conc...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe current existing data and eyewitness reports alone are insufficient to provide conc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooAAA5xEp0fsbRXxqQGrQxz5nTV1ckBWNWzVFVHZPxEdHR-MxKt" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooAAA5xEp0fsbRXxqQGrQxz5nTV1ckBWNWzVFVHZPxEdHR-MxKt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident: Canada&#x27;s Undeniable UFO MysteryA mysterious object descended from the sky and crashed into the Atlantic Ocean near...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooAAA5xEp0fsbRXxqQGrQxz5nTV1ckBWNWzVFVHZPxEdHR-MxKt" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooAAA5xEp0fsbRXxqQGrQxz5nTV1ckBWNWzVFVHZPxEdHR-MxKt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident: Canada&#x27;s Undeniable UFO MysteryA mysterious object descended from the sky and crashed into the Atlantic Ocean near...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/nasa-[aaro" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-[aaro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The advantage of collecting new data with well-calibrated instrum...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/nasa-[aaro" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-[aaro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The advantage of collecting new data with well-calibrated instrum...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XHm7KMRMTTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XHm7KMRMTTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been DebunkedIn this episode, Payton dives into the case of the Shag Harbor UFO and how a small town i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: barringtonmunicipality.com  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This report stated that something had hit the water in Shag Harbor, but the object was...Read more...</p></details>
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This report stated that something had hit the water in Shag Harbor, but the object was...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set the tone: today&#x27;s ex...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set the tone: today&#x27;s ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newsweek.com  
    Title: nasa ufo report biggest revelations uaps 1827009  
-   Link: <a href="https://www.newsweek.com/nasa-ufo-report-biggest-revelations-uaps-1827009" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/nasa-ufo-report-biggest-revelations-uaps-1827009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO Report&#x27;s Biggest Revelations14 Sept 2023 — According to the report, currently, UAP reporting is difficult due to restrictions re...</p></details>
+   Link:<a href="https://www.newsweek.com/nasa-ufo-report-biggest-revelations-uaps-1827009" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/nasa-ufo-report-biggest-revelations-uaps-1827009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO Report&#x27;s Biggest Revelations14 Sept 2023 — According to the report, currently, UAP reporting is difficult due to restrictions re...</p></details>

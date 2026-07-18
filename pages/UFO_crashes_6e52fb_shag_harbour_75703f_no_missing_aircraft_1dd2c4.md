@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft
 
 ## Introduction
 
-One of the most important features of the 1967 Shag Harbour incident is not what witnesses claimed to have seen, but what investigators failed to find. Because the event was initially treated as a possible [aircraft accident]({{ 'aircraft/' | relative_url }}), Canadian authorities followed procedures designed to identify a downed civilian or military aircraft. Those checks produced an unexpected result: no airline, private operator, military unit, or air traffic authority reported a missing aircraft that matched the reported water impact. The absence of a missing plane did not solve the mystery. Instead, it removed the explanation that responders had expected to confirm and left investigators with an incident that appeared to involve a crash but lacked the normal administrative and [physical traces]({{ 'physical-traces/' | relative_url }}) of one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+One of the most important features of the 1967 Shag Harbour incident is not what witnesses claimed to have seen, but what investigators failed to find. Because the event was initially treated as a possible [aircraft accident]({{ 'aircraft/' | relative_url }}), Canadian authorities followed procedures designed to identify a downed civilian or military aircraft. Those checks produced an unexpected result: no airline, private operator, military unit, or air traffic authority reported a missing aircraft that matched the reported water impact. The absence of a missing plane did not solve the mystery. Instead, it removed the explanation that responders had expected to confirm and left investigators with an incident that appeared to involve a crash but lacked the normal administrative and [physical traces]({{ 'physical-traces/' | relative_url }}) of one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-1-dark.svg" | relative_url }}" alt="No Missing Plane illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ One of the most important features of the 1967 Shag Harbour incident is not what
 
 The reported object entered the water near Shag Harbour on the night of 4 October 1967. Witnesses and police initially assumed they were dealing with an aviation emergency rather than a UFO report. As a result, the first official response focused on search-and-rescue procedures.
 
-Royal Canadian Mounted Police officers contacted the Rescue Coordination Centre (RCC) in Halifax to determine whether any aircraft were overdue, missing, or known to be in distress. Accounts of the investigation state that checks were also made against military tracking and reporting systems. The purpose was straightforward: if an aircraft had crashed into the harbour, there should have been a corresponding report from an airline, private pilot, military unit, or air traffic authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+Royal Canadian Mounted Police officers contacted the Rescue Coordination Centre (RCC) in Halifax to determine whether any aircraft were overdue, missing, or known to be in distress. Accounts of the investigation state that checks were also made against military tracking and reporting systems. The purpose was straightforward: if an aircraft had crashed into the harbour, there should have been a corresponding report from an airline, private pilot, military unit, or air traffic authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
-By the following day, officials had reportedly checked civilian and military channels across the Atlantic region and neighbouring parts of the northeastern United States. No aircraft matching the incident had been reported missing. No emergency beacon signals were associated with the area, and no operator came forward seeking a lost aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+By the following day, officials had reportedly checked civilian and military channels across the Atlantic region and neighbouring parts of the northeastern United States. No aircraft matching the incident had been reported missing. No emergency beacon signals were associated with the area, and no operator came forward seeking a lost aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 This was a significant finding because aircraft accidents normally generate paperwork almost immediately. Even in the 1960s, operators knew when scheduled flights failed to arrive, military organisations tracked their aircraft, and private aviation disappearances generally triggered alerts once a pilot became overdue. The lack of any corresponding record was unusual enough that it became a central feature of the case.
 
@@ -309,11 +309,11 @@ Had investigators found a missing civilian aeroplane, the incident would likely 
 * Witnesses reported something descending into the water.
 * Searchers responded as if a crash had occurred.
 * No operator reported losing an aircraft.
-* No known flight could be matched to the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+* No known flight could be matched to the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 </div>
 
-In historical terms, this distinguishes Shag Harbour from many later UFO stories. The mystery was not created by a lack of official attention. Rather, it emerged after officials conducted the sort of checks expected in a genuine aviation emergency and still failed to identify a conventional aircraft. That sequence is one reason the incident continues to be discussed in both UFO literature and Canadian historical archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangerdimensions.com">[Stranger Dimensions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangerdimensions.com</span><span class="citation-popover-title">the shag harbour incident of 1967</span><span class="citation-popover-snippet">Stranger DimensionsThe Shag Harbour Incident Of 1967 - Stranger DimensionsJanuary 16, 2013...</span><span class="citation-popover-meta">Published: January 16, 2013</span></span></span>
+In historical terms, this distinguishes Shag Harbour from many later UFO stories. The mystery was not created by a lack of official attention. Rather, it emerged after officials conducted the sort of checks expected in a genuine aviation emergency and still failed to identify a conventional aircraft. That sequence is one reason the incident continues to be discussed in both UFO literature and Canadian historical archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangerdimensions.com">[Stranger Dimensions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangerdimensions.com</span><span class="citation-popover-title">the shag harbour incident of 1967</span><span class="citation-popover-snippet">Stranger DimensionsThe Shag Harbour Incident Of 1967 - Stranger DimensionsJanuary 16, 2013...</span><span class="citation-popover-meta">Published: January 16, 2013</span></span></span>
 
 The result also narrowed the range of conventional explanations. Investigators no longer had to ask only whether witnesses had seen an aircraft. They also had to explain why no aircraft owner, military command, airline, or aviation authority appeared to be missing one.
 
@@ -323,7 +323,7 @@ The result also narrowed the range of conventional explanations. Investigators n
 
 Finding no missing plane did not automatically prove that an unknown craft entered the water.
 
-Aircraft-record checks answer only one question: whether a reported object can be matched to a known aircraft. They do not establish what the object actually was. Investigators still faced several possibilities, including misidentification, an unreported aerial phenomenon, a mistaken estimate of where an object appeared to enter the water, or some other event that resembled a crash from shore. The record checks could rule out known aircraft more effectively than they could identify an alternative explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thestrangeunknown.com/report/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrangeunknown.com">[The Strange Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrangeunknown.com</span><span class="citation-popover-title">The Strange Unknown Shag Harbour UFO Incident: Canada’s Documented UFO Case</span><span class="citation-popover-snippet">The Strange Unknown Shag Harbour UFO Incident: Canada’s Documented UFO Case</span></span></span>
+Aircraft-record checks answer only one question: whether a reported object can be matched to a known aircraft. They do not establish what the object actually was. Investigators still faced several possibilities, including misidentification, an unreported aerial phenomenon, a mistaken estimate of where an object appeared to enter the water, or some other event that resembled a crash from shore. The record checks could rule out known aircraft more effectively than they could identify an alternative explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thestrangeunknown.com/report/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestrangeunknown.com">[The Strange Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestrangeunknown.com</span><span class="citation-popover-title">The Strange Unknown Shag Harbour UFO Incident: Canada’s Documented UFO Case</span><span class="citation-popover-snippet">The Strange Unknown Shag Harbour UFO Incident: Canada’s Documented UFO Case</span></span></span>
 
 This distinction is important. Within UFO investigations, the term "[unidentified]({{ 'unidentified/' | relative_url }})" often means only that available information failed to produce a confident identification. The inability to match the incident to a missing aircraft therefore removed one explanation without conclusively establishing another.
 
@@ -335,204 +335,204 @@ This distinction is important. Within UFO investigations, the term "[unidentifie
 
 ## What the Absence of Wreckage Does and Does Not Show
 
-The aircraft checks gained importance because they were reinforced by the search results. Search vessels, local fishermen, Coast Guard personnel and later military resources reportedly failed to locate aircraft debris, bodies, fuel slicks, or other material normally associated with a crash. Subsequent underwater [searches]({{ 'searches/' | relative_url }}) also failed to recover [evidence]({{ 'evidence/' | relative_url }}) of an aircraft wreck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News+2Stranger Dimensions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+The aircraft checks gained importance because they were reinforced by the search results. Search vessels, local fishermen, Coast Guard personnel and later military resources reportedly failed to locate aircraft debris, bodies, fuel slicks, or other material normally associated with a crash. Subsequent underwater [searches]({{ 'searches/' | relative_url }}) also failed to recover [evidence]({{ 'evidence/' | relative_url }}) of an aircraft wreck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[thescubanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 For supporters of an anomalous explanation, the combination of no missing aircraft and no recovered [wreckage]({{ 'wreckage/' | relative_url }}) suggests that the object was not a conventional aeroplane. For sceptics, the same facts may indicate that witnesses misinterpreted what they observed and that no actual crash occurred.
 
-What the evidence clearly shows is narrower. The official effort to identify a missing civilian or military aircraft did not produce a match, and the associated searches did not recover the kind of material expected from a documented aviation accident. Those two negative findings are not proof of a UFO crash, but they are the reason the Shag Harbour water impact remained unresolved after the normal investigative path had been exhausted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[The Scuba News+2The Strange Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
+What the evidence clearly shows is narrower. The official effort to identify a missing civilian or military aircraft did not produce a match, and the associated searches did not recover the kind of material expected from a documented aviation accident. Those two negative findings are not proof of a UFO crash, but they are the reason the Shag Harbour water impact remained unresolved after the normal investigative path had been exhausted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescubanews.com">[thescubanews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescubanews.com</span><span class="citation-popover-title">The Scuba News Shag Harbour, Nova Scotia UFO Incident</span><span class="citation-popover-snippet">The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</span><span class="citation-popover-meta">Published: October 16, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-3-dark.svg" | relative_url }}" alt="No Missing Plane illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_shag_harbour_75703f_no_missing_aircraft_1dd2c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why No Missing Plane Was Found. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why No Missing Plane Was Found. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
-        </h4>
-        <p class="fr-book-author">By Don Ledger, Chris Styles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cNBvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
+</h4>
+<p class="fr-book-author">By Don Ledger, Chris Styles</p>
         
-        <p class="fr-book-desc">Directly examines the Shag Harbour incident, the official aircraft checks, witness reports, and the absence of a confirmed crashed aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the Shag Harbour incident, the official aircraft checks, witness reports, and the absence of a confirmed crashed aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on well-documented cases and official investigations, matching the page&#x27;s emphasis on evidence, records, and government inquiries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on well-documented cases and official investigations, matching the page&#x27;s emphasis on evidence, records, and government inquiries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GVuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad. Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GVuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad. Steiger</p>
         
-        <p class="fr-book-desc">Explores how authorities investigated unexplained aerial reports, paralleling the official response discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how authorities investigated unexplained aerial reports, paralleling the official response discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings, evidence, and alternative explanations when conventional causes are ruled out.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings, evidence, and alternative explanations when conventional causes are ruled out.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USA Traffic Sign &quot;UFO CRASH SITE&quot; 46×76.5cm (Made in USA)"><img src="https://i.ebayimg.com/images/g/~40AAeSw7aZp6ZyN/s-l225.jpg" alt="Listing image for USA Traffic Sign &quot;UFO CRASH SITE&quot; 46×76.5cm (Made in USA)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">USA Traffic Sign &quot;UFO CRASH SITE&quot; 46×76.5cm (Made in USA)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Aluminium Metal Sign Wall Office Garage Kitchen"><img src="https://i.ebayimg.com/images/g/TDsAAeSwyUJokgC1/s-l225.jpg" alt="Listing image for UFO Crash Site Aluminium Metal Sign Wall Office Garage Kitchen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Aluminium Metal Sign Wall Office Garage Kitchen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Site Aluminium Metal Sign Plaque Man Cave Home Wall Funny"><img src="https://i.ebayimg.com/images/g/hVAAAOSwKvRku8a8/s-l225.jpg" alt="Listing image for UFO Crash Site Aluminium Metal Sign Plaque Man Cave Home Wall Funny" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Site Aluminium Metal Sign Plaque Man Cave Home Wall Funny</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="no-missing-plane-why-no-missing-plane-was-found-ufo-crashes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CRASH SITE MINI STREET SIGN! 3&quot;X12&quot; METAL USA MADE ALIEN FUNNY MAN CAVE BAR"><img src="https://i.ebayimg.com/images/g/D6UAAOSw69lbpqVj/s-l225.jpg" alt="Listing image for UFO CRASH SITE MINI STREET SIGN! 3&quot;X12&quot; METAL USA MADE ALIEN FUNNY MAN CAVE BAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO CRASH SITE MINI STREET SIGN! 3&quot;X12&quot; METAL USA MADE ALIEN FUNNY MAN CAVE BAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash site sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash site sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+site+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash site sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="why-no-missing-plane-was-found-ufo-crash-site-sign-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,84 +738,84 @@ What the evidence clearly shows is narrower. The official effort to identify a m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thescubanews.com  
    Title: The Scuba News Shag Harbour, Nova Scotia UFO Incident  
-   Link: <a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</p></details>
+   Link:<a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scuba NewsShag Harbour, Nova Scotia UFO Incident - The Scuba News CanadaOctober 16, 2025...</p></details>
    Published: October 16, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thestrangeunknown.com  
    Title: The Strange Unknown Shag Harbour UFO Incident: Canada’s Documented UFO Case  
-   Link: <a href="https://thestrangeunknown.com/report/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thestrangeunknown.com/report/shag-harbour-ufo-incident/</a>  
+   Link:<a href="https://thestrangeunknown.com/report/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thestrangeunknown.com/report/shag-harbour-ufo-incident/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: strangerdimensions.com  
    Title: the shag harbour incident of 1967  
-   Link: <a href="https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stranger DimensionsThe Shag Harbour Incident Of 1967 - Stranger DimensionsJanuary 16, 2013...</p></details>
+   Link:<a href="https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangerdimensions.com/2013/01/16/the-shag-harbour-incident-of-1967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stranger DimensionsThe Shag Harbour Incident Of 1967 - Stranger DimensionsJanuary 16, 2013...</p></details>
    Published: January 16, 2013  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: www.canada.ca Request military [records](&#123;&#123; 'records/' | relative_url &#125;&#125;) and service files  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military records and service files - Canada.caJanuary 29, 2026...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military records and service files - Canada.caJanuary 29, 2026...</p></details>
    Published: January 29, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107  
-   Link: <a href="https://www.youtube.com/watch?v=XTjhCp9-6QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XTjhCp9-6QQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XTjhCp9-6QQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XTjhCp9-6QQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sasquatchchronicles.com  
    Title: shag harbour ufo crash 1967  
-   Link: <a href="https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch ChroniclesShag Harbour UFO “Crash,” 1967 - Sasquatch Chronicles...</p></details>
+   Link:<a href="https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/shag-harbour-ufo-crash-1967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sasquatch ChroniclesShag Harbour UFO “Crash,” 1967 - Sasquatch Chronicles...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: NASA Found Aliens Under Oceans, Not Space  
-   Link: <a href="https://www.youtube.com/watch?v=e1EAAd5j_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1EAAd5j_ig</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e1EAAd5j_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1EAAd5j_ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing UFOs and Strange Lights That Defy Explanation | Close Encounters 107...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canada.ca  
    Title: www.canada.ca History archives and library  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/history-archives-library.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/history-archives-library.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archives and library - Canada.caMarch 14, 2023...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/history-archives-library.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/history-archives-library.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archives and library - Canada.caMarch 14, 2023...</p></details>
    Published: March 14, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Event  
-   Link: <a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - 3 - Exposing the Mystery (live in Halifax with Chris Styles)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - 3 - Exposing the Mystery (live in Halifax with Chris Styles)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=C4zxYPh4dVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C4zxYPh4dVw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=C4zxYPh4dVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C4zxYPh4dVw</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Event...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rr0.org  
    Title: Le crash de Shag Harbour  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/ShagHarbour/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/ShagHarbour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2025...</p></details>
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/ShagHarbour/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/ShagHarbour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2025...</p></details>
    Published: May 4, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/docs/shag/shagharbor671004.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/shag/shagharbor671004.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shag harbor Oct 4, 1967...</p></details>
+   Link:<a href="https://www.nicap.org/docs/shag/shagharbor671004.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/shag/shagharbor671004.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shag harbor Oct 4, 1967...</p></details>

@@ -274,11 +274,11 @@ image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_re
 
 ## Introduction
 
-One of the central arguments in the debate over alleged UFO crash-retrieval and alien reverse-engineering programmes is not whether witnesses are sincere, but whether the underlying information is genuinely independent. In its 2024 historical review, the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) argued that many claims about hidden retrieval and reverse-engineering efforts appeared to gain credibility through repetition within a connected community rather than through separate, verifiable lines of [evidence]({{ 'evidence/' | relative_url }}). AARO described this as a form of circular reporting: people cite one another's accounts, proposals, rumours, and interpretations until the story appears to be corroborated even when the information ultimately traces back to the same sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+One of the central arguments in the debate over alleged UFO crash-retrieval and alien reverse-engineering programmes is not whether witnesses are sincere, but whether the underlying information is genuinely independent. In its 2024 historical review, the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) argued that many claims about hidden retrieval and reverse-engineering efforts appeared to gain credibility through repetition within a connected community rather than through separate, verifiable lines of [evidence]({{ 'evidence/' | relative_url }}). AARO described this as a form of circular reporting: people cite one another's accounts, proposals, rumours, and interpretations until the story appears to be corroborated even when the information ultimately traces back to the same sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-1-dark.svg" | relative_url }}" alt="Circular Claims illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to evaluate UFO crash stories, this mechanism matters because repeated claims can look stronger than they really are. A network of witnesses, authors, researchers, former officials, podcasts, documentaries, and online discussions can create the appearance of multiple confirmations when the underlying evidence remains largely unchanged. AARO identified this dynamic as a major factor in the persistence of reverse-engineering narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+For readers trying to evaluate UFO crash stories, this mechanism matters because repeated claims can look stronger than they really are. A network of witnesses, authors, researchers, former officials, podcasts, documentaries, and online discussions can create the appearance of multiple confirmations when the underlying evidence remains largely unchanged. AARO identified this dynamic as a major factor in the persistence of reverse-engineering narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## How Repeated Claims Can Look Like Corroboration
 
@@ -302,9 +302,9 @@ In the context of alien reverse-engineering stories, the pattern can work like t
 
 The key problem is that quantity is mistaken for independence. Ten people repeating the same story are not equivalent to ten separate witnesses with direct knowledge.
 
-AARO explicitly argued that claims about secret reverse-engineering programmes were often reinforced through "circular reporting" and by online ecosystems that repeatedly amplified the same narratives. The office also pointed to social media and internet communities as accelerants that can transform rumours into apparently established facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO explicitly argued that claims about secret reverse-engineering programmes were often reinforced through "circular reporting" and by online ecosystems that repeatedly amplified the same narratives. The office also pointed to social media and internet communities as accelerants that can transform rumours into apparently established facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Former AARO director Sean Kirkpatrick later described what he saw as a small network of interconnected believers exchanging and validating the same stories. He characterised some prominent crash-retrieval allegations as a "textbook example of circular reporting", with many accounts ultimately tracing back to a limited pool of individuals rather than independent documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Former AARO director Sean Kirkpatrick later described what he saw as a small network of interconnected believers exchanging and validating the same stories. He characterised some prominent crash-retrieval allegations as a "textbook example of circular reporting", with many accounts ultimately tracing back to a limited pool of individuals rather than independent documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 This does not automatically prove that every reverse-engineering allegation is false. It does mean that repeated testimony alone cannot be treated as cumulative evidence unless investigators can demonstrate that the witnesses acquired their information independently.
 
@@ -315,9 +315,9 @@ This does not automatically prove that every reverse-engineering allegation is f
 
 AARO's discussion of the proposed [KONA BLUE programme]({{ 'kona-blue-3a4d45/' | relative_url }}) became one of its clearest examples of how circular reporting can develop around UFO [retrieval claims]({{ 'retrieval-claims/' | relative_url }}).
 
-KONA BLUE was a proposed special-access programme that advocates wanted established within the Department of Homeland Security. According to declassified [records]({{ 'records/' | relative_url }}) released by AARO, the proposal envisioned studying and reverse-engineering alleged recovered exotic technology. However, the programme was never approved and was never formally established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEKONA BLUE was a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but...</span></span></span>
+KONA BLUE was a proposed special-access programme that advocates wanted established within the Department of Homeland Security. According to declassified [records]({{ 'records/' | relative_url }}) released by AARO, the proposal envisioned studying and reverse-engineering alleged recovered exotic technology. However, the programme was never approved and was never formally established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEKONA BLUE was a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but...</span></span></span>
 
-The significance of KONA BLUE lies in what its existence demonstrates. The proposal was based on the assumption that recovered non-human craft and materials already existed somewhere within government possession. Yet AARO reported that no such material was ever transferred to the proposed programme because no approved programme existed and no recovered extraterrestrial hardware had been produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The significance of KONA BLUE lies in what its existence demonstrates. The proposal was based on the assumption that recovered non-human craft and materials already existed somewhere within government possession. Yet AARO reported that no such material was ever transferred to the proposed programme because no approved programme existed and no recovered extraterrestrial hardware had been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 According to AARO's account, some later narratives treated the existence of the proposal itself as evidence that the government must already have possessed alien technology. The logic became self-reinforcing:
 
@@ -331,7 +331,7 @@ According to AARO's account, some later narratives treated the existence of the 
 
 </div>
 
-AARO highlighted that KONA BLUE advocates assumed the existence of recovered craft rather than demonstrating it. The proposal therefore illustrates how plans, expectations, and beliefs can be reinterpreted over time as evidence of the very thing they were created to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO highlighted that KONA BLUE advocates assumed the existence of recovered craft rather than demonstrating it. The proposal therefore illustrates how plans, expectations, and beliefs can be reinterpreted over time as evidence of the very thing they were created to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The case is important because it shows how institutional paperwork can enter the UFO narrative. A proposal, draft plan, briefing, or exploratory discussion may later be cited as proof that a hidden programme was operating, even if the documents themselves only show that officials were discussing a possibility.
 
@@ -356,9 +356,9 @@ Several factors make the problem worse:
 
 </div>
 
-AARO's report argued that these dynamics helped sustain the belief that hidden reverse-engineering programmes existed despite the office's finding that it had not located empirical evidence supporting those claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikisource.org">[Wikisource+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">AARO ...Read more</span></span></span>
+AARO's report argued that these dynamics helped sustain the belief that hidden reverse-engineering programmes existed despite the office's finding that it had not located empirical evidence supporting those claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">AARO ...Read more</span></span></span>
 
-Critics of AARO dispute some of its conclusions and argue that the office did not interview every relevant witness or resolve every allegation. Nevertheless, even many critics acknowledge that tracing information chains is essential because UFO crash-retrieval stories often rely heavily on testimony rather than publicly available physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here are the key questions that remain unanswered</span><span class="citation-popover-snippet">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...11 Mar 2024 — The Pentagon says it&#x27;s not hiding aliens, but it stops nota...</span></span></span>
+Critics of AARO dispute some of its conclusions and argue that the office did not interview every relevant witness or resolve every allegation. Nevertheless, even many critics acknowledge that tracing information chains is essential because UFO crash-retrieval stories often rely heavily on testimony rather than publicly available physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here are the key questions that remain unanswered</span><span class="citation-popover-snippet">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...11 Mar 2024 — The Pentagon says it&#x27;s not hiding aliens, but it stops nota...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYNupwcaxNo" title="Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer">Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 44.8K &middot; Uploaded: April 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYNupwcaxNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYNupwcaxNo">Open on YouTube</a></p></div></div></div>
@@ -384,202 +384,202 @@ For crash-retrieval and reverse-engineering allegations, examples would include:
 
 What matters is not merely the number of people making a claim but whether their information originates from different sources.
 
-AARO's position has been that, after reviewing historical records, interviewing witnesses, and examining programme allegations, it found no verifiable evidence supporting the existence of a secret government or contractor effort to reverse-engineer extraterrestrial technology. The office argued that many prominent allegations gained apparent strength through repeated circulation rather than through new empirical findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikisource.org">[Wikisource+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">AARO ...Read more</span></span></span>
+AARO's position has been that, after reviewing historical records, interviewing witnesses, and examining programme allegations, it found no verifiable evidence supporting the existence of a secret government or contractor effort to reverse-engineer extraterrestrial technology. The office argued that many prominent allegations gained apparent strength through repeated circulation rather than through new empirical findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">AARO ...Read more</span></span></span>
 
-The broader lesson extends beyond UFOs. Any claim can appear stronger when proposals, rumours, witness accounts, media reports, and retellings are mistaken for separate confirmations. In the debate over alleged alien retrieval programmes, the central question is therefore not how often a story is repeated, but whether the evidence behind each repetition is genuinely independent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The broader lesson extends beyond UFOs. Any claim can appear stronger when proposals, rumours, witness accounts, media reports, and retellings are mistaken for separate confirmations. In the debate over alleged alien retrieval programmes, the central question is therefore not how often a story is repeated, but whether the evidence behind each repetition is genuinely independent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-3-dark.svg" | relative_url }}" alt="Circular Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Retrieval Stories Reinforce Themselves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Retrieval Stories Reinforce Themselves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrasting examples of evidence-based UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrasting examples of evidence-based UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Directly addresses feedback loops, rumor propagation, and intelligence influences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses feedback loops, rumor propagation, and intelligence influences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores social networks and belief structures around UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores social networks and belief structures around UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how unsupported claims can gain credibility through repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unsupported claims can gain credibility through repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="circular-claims-66f507-how-ufo-retrieval-stories-reinforce-themselves-ufo-crashes-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-retrieval-stories-reinforce-themselves-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,145 +785,145 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering narrative...</p></details>
    Published: May 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program... AARO assesses that t...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program... AARO assesses that t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEKONA BLUE was a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEKONA BLUE was a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft or bo...</p></details>
    Published: May 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe All-domain Anomaly Resolution Office (AARO) is an office within the United States Office of th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: Here are the key questions that remain unanswered  
-   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...11 Mar 2024 — The Pentagon says it&#x27;s not hiding aliens, but it stops nota...</p></details>
+   Link:<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails...11 Mar 2024 — The Pentagon says it&#x27;s not hiding aliens, but it stops nota...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — All DHS documents associated with the KONA BLUE PSAP are declassified and approved for public release. • The strike-out meth...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — All DHS documents associated with the KONA BLUE PSAP are declassified and approved for public release. • The strike-out meth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...AARO Investigating Unresolved Historical Nuclear-Related UAP Cases... KONA BLUE: A Proposed...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...AARO Investigating Unresolved Historical Nuclear-Related UAP Cases... KONA BLUE: A Proposed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — No Official UAP Nondisclosure Agreements Discovered...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — No Official UAP Nondisclosure Agreements Discovered...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsThe goal of this report is not to prove or disprove any particular belief set, but rather t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsThe goal of this report is not to prove or disprove any particular belief set, but rather t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: the declassified ufo files mention reports from the 1960s claiming witnesses saw  
-   Link: <a href="https://www.facebook.com/theinfomance/posts/the-declassified-ufo-files-mention-reports-from-the-1960s-claiming-witnesses-saw/954561600539778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theinfomance/posts/the-declassified-ufo-files-mention-reports-from-the-1960s-claiming-witnesses-saw/954561600539778/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The declassified UFO Files mention reports from the 1960s...The declassified UFO Files mention reports from the 1960s claiming witnesses...</p></details>
+   Link:<a href="https://www.facebook.com/theinfomance/posts/the-declassified-ufo-files-mention-reports-from-the-1960s-claiming-witnesses-saw/954561600539778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theinfomance/posts/the-declassified-ufo-files-mention-reports-from-the-1960s-claiming-witnesses-saw/954561600539778/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The declassified UFO Files mention reports from the 1960s...The declassified UFO Files mention reports from the 1960s claiming witnesses...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: washingtonspectator.org  
    Title: pentagon strikes back against claims of alien invaders  
-   Link: <a href="https://washingtonspectator.org/pentagon-strikes-back-against-claims-of-alien-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonspectator.org/pentagon-strikes-back-against-claims-of-alien-invaders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy stories demolished by the AARO report – including David Grusch&#x27;s reverse engineering and alien “biologics” claims. Coultha...</p></details>
+   Link:<a href="https://washingtonspectator.org/pentagon-strikes-back-against-claims-of-alien-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonspectator.org/pentagon-strikes-back-against-claims-of-alien-invaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy stories demolished by the AARO report – including David Grusch&#x27;s reverse engineering and alien “biologics” claims. Coultha...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon says...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US not hiding aliens or UFO technology from the public...8 Mar 2024 — US not hiding aliens or UFO technology from the public, Pentagon says...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
    Published: March 6, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — AARO did discover a program that was proposed to the Department of Homeland Security (DHS) named Kona Blue, to reverse-engi...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — AARO did discover a program that was proposed to the Department of Homeland Security (DHS) named Kona Blue, to reverse-engi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.com.au  
    Title: 'Black object': Pentagon's wild UFO revelation Dr  
-   Link: <a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/[news-story" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/[news-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/[news-story" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/[news-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="http://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO historical record report UFO circular reporting Greetings! Micah Hanks: AARO report, UAPSightings.org, and more...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lcrCMLVk614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO historical record report UFO circular reporting Greetings! Micah Hanks: AARO report, UAPSightings.org, and more...</p></details>

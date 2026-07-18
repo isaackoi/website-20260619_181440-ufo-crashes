@@ -274,7 +274,7 @@ image: /assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trai
 
 ## Introduction
 
-One reason Project Mogul remains central to the Roswell debate is that its balloon trains could produce a debris field that looked far stranger than an ordinary weather balloon crash. The key point is not that a single balloon fell from the sky. [Mogul flights]({{ 'flight-4/' | relative_url }}) often consisted of long chains of balloons, radar [reflectors]({{ 'reflectors/' | relative_url }}), lines, parachutes and instruments spread over hundreds of feet. When such a structure broke apart, drifted down or was dragged by wind, it could leave scattered lightweight fragments across a wide area without involving an aircraft or spacecraft crash. According to the U.S. Air Force's Roswell investigation, the materials described in early Roswell accounts were consistent with components of a Mogul balloon train rather than a conventional aircraft wreck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+One reason Project Mogul remains central to the Roswell debate is that its balloon trains could produce a debris field that looked far stranger than an ordinary weather balloon crash. The key point is not that a single balloon fell from the sky. [Mogul flights]({{ 'flight-4/' | relative_url }}) often consisted of long chains of balloons, radar [reflectors]({{ 'reflectors/' | relative_url }}), lines, parachutes and instruments spread over hundreds of feet. When such a structure broke apart, drifted down or was dragged by wind, it could leave scattered lightweight fragments across a wide area without involving an aircraft or spacecraft crash. According to the U.S. Air Force's Roswell investigation, the materials described in early Roswell accounts were consistent with components of a Mogul balloon train rather than a conventional aircraft wreck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Trains illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ One reason Project Mogul remains central to the Roswell debate is that its ballo
 
 The popular image of a balloon is a single envelope attached to a small instrument package. Mogul systems were much more complicated.
 
-A Mogul train could include numerous neoprene [balloons]({{ 'balloons/' | relative_url }}) linked together, multiple radar reflectors, parachutes, ballast tubes and electronic equipment. The entire assembly stretched over a considerable distance rather than existing as a single compact object. Engineers involved in the programme used multiple radar targets because tracking the balloons was difficult with available equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+A Mogul train could include numerous neoprene [balloons]({{ 'balloons/' | relative_url }}) linked together, multiple radar reflectors, parachutes, ballast tubes and electronic equipment. The entire assembly stretched over a considerable distance rather than existing as a single compact object. Engineers involved in the programme used multiple radar targets because tracking the balloons was difficult with available equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 From the perspective of someone encountering [wreckage]({{ 'wreckage/' | relative_url }}) on a remote ranch, the result would not necessarily resemble a balloon. Instead, they might find:
 
@@ -297,7 +297,7 @@ From the perspective of someone encountering [wreckage]({{ 'wreckage/' | relativ
 
 </div>
 
-A person expecting an [aircraft]({{ 'aircraft/' | relative_url }}) wreck would see something unusual. A person expecting a weather balloon might also be confused because the quantity and variety of components exceeded what most people associated with ordinary meteorological equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+A person expecting an [aircraft]({{ 'aircraft/' | relative_url }}) wreck would see something unusual. A person expecting a weather balloon might also be confused because the quantity and variety of components exceeded what most people associated with ordinary meteorological equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
@@ -306,7 +306,7 @@ A person expecting an [aircraft]({{ 'aircraft/' | relative_url }}) wreck would s
 
 The items most often cited in the Mogul explanation correspond closely to materials described in early Roswell reporting.
 
-Radar reflectors, sometimes called RAWIN targets, were constructed from lightweight reflective surfaces mounted on balsa-wood frameworks. Their purpose was to improve radar tracking. Contemporary descriptions compare them to box-kite-like structures made from metallicised paper and wood struts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+Radar reflectors, sometimes called RAWIN targets, were constructed from lightweight reflective surfaces mounted on balsa-wood frameworks. Their purpose was to improve radar tracking. Contemporary descriptions compare them to box-kite-like structures made from metallicised paper and wood struts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 The balloon train also incorporated:
 
@@ -317,11 +317,11 @@ The balloon train also incorporated:
 * Parchment or paper parachutes.
 * Plastic ballast components.
 * Acoustic or radio equipment associated with the classified detection mission.
-* Wiring and attachment hardware connecting the entire assembly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+* Wiring and attachment hardware connecting the entire assembly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 </div>
 
-Because the programme's objective was to detect distant Soviet nuclear tests, the equipment was assembled for maximum altitude and minimum weight. That design choice produced materials that were fragile, lightweight and easily dispersed once the system failed or descended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/intell/systems/mogul.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Project MOGUL</span><span class="citation-popover-snippet">Global Security Project MOGUL</span></span></span>
+Because the programme's objective was to detect distant Soviet nuclear tests, the equipment was assembled for maximum altitude and minimum weight. That design choice produced materials that were fragile, lightweight and easily dispersed once the system failed or descended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/intell/systems/mogul.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security Project MOGUL</span><span class="citation-popover-snippet">Global Security Project MOGUL</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Trains illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,11 +329,11 @@ Because the programme's objective was to detect distant Soviet nuclear tests, th
 
 The mechanism behind a broad debris field does not require a violent impact.
 
-The Air Force's reconstruction argued that after reaching the ground, radar reflectors and associated components could tear apart and spread over a large area. Some balloons might retain partial buoyancy, allowing wind to drag portions of the train across the landscape. Lightweight reflector material and wooden struts would then separate and disperse rather than remaining concentrated in a single pile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The Air Force's reconstruction argued that after reaching the ground, radar reflectors and associated components could tear apart and spread over a large area. Some balloons might retain partial buoyancy, allowing wind to drag portions of the train across the landscape. Lightweight reflector material and wooden struts would then separate and disperse rather than remaining concentrated in a single pile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
-This differs from an aircraft crash. Aircraft accidents generally produce heavy structural debris, engines, fuel-related damage and concentrated impact [evidence]({{ 'evidence/' | relative_url }}). A Mogul train contained very little mass but a great deal of surface area. The resulting debris pattern could appear extensive while consisting mainly of lightweight fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+This differs from an aircraft crash. Aircraft accidents generally produce heavy structural debris, engines, fuel-related damage and concentrated impact [evidence]({{ 'evidence/' | relative_url }}). A Mogul train contained very little mass but a great deal of surface area. The resulting debris pattern could appear extensive while consisting mainly of lightweight fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
-The distinction helps explain why witnesses could report a sizeable debris field without necessarily finding recognisable aircraft parts. A long balloon train breaking apart would leave many small pieces but few large, unmistakable components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The distinction helps explain why witnesses could report a sizeable debris field without necessarily finding recognisable aircraft parts. A long balloon train breaking apart would leave many small pieces but few large, unmistakable components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K3MlXHFm6m8" title="Project Mogul ปฏิบัติการลับเบื้องหลัง UFO ตกที่รอดเวลล์ !!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K3MlXHFm6m8" target="_blank" rel="noopener noreferrer">Project Mogul ปฏิบัติการลับเบื้องหลัง UFO ตกที่รอดเวลล์ !!!</a></p><p class="youtube-embed-meta">Channel: มิติที่ 6</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K3MlXHFm6m8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K3MlXHFm6m8">Open on YouTube</a></p></div></div></div>
@@ -345,204 +345,204 @@ The distinction helps explain why witnesses could report a sizeable debris field
 
 The Mogul explanation is strongest when addressing reports of unusual materials scattered over a ranch rather than reports of an intact craft.
 
-The Air Force's 1994 investigation concluded that descriptions from rancher W.W. Brazel, military personnel and surviving photographs were broadly consistent with Mogul-related materials, including neoprene balloons, radar reflectors and associated equipment. The report specifically argued that Roswell personnel encountered something far more elaborate than a routine weather balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
+The Air Force's 1994 investigation concluded that descriptions from rancher W.W. Brazel, military personnel and surviving photographs were broadly consistent with Mogul-related materials, including neoprene balloons, radar reflectors and associated equipment. The report specifically argued that Roswell personnel encountered something far more elaborate than a routine weather balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-title">Muller Lab Project Mogul</span><span class="citation-popover-snippet">Muller Lab Project Mogul</span></span></span>
 
-The Government Accountability Office later located 1947 records indicating that the recovered object had been identified as a radar-tracking balloon and that the military described it as resembling a high-altitude balloon with a radar reflector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Justia GAO Reports</span><span class="citation-popover-snippet">Justia GAO ReportsJustia GAO Reports - NSIAD-95-187 - Government Records - Department of Justice...</span></span></span>
+The Government Accountability Office later located 1947 records indicating that the recovered object had been identified as a radar-tracking balloon and that the military described it as resembling a high-altitude balloon with a radar reflector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports Justia GAO Reports</span><span class="citation-popover-snippet">Justia GAO ReportsJustia GAO Reports - NSIAD-95-187 - Government Records - Department of Justice...</span></span></span>
 
-Critics of the Mogul theory continue to argue that some witness descriptions involve quantities, properties or debris patterns that exceed what a balloon train should produce. Those objections remain part of the broader Roswell controversy. However, the specific mechanism proposed by Mogul supporters is straightforward: a long classified balloon array carrying numerous lightweight components could leave behind scattered, unfamiliar and apparently mysterious wreckage without requiring a crashed extraterrestrial vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[newspaceeconomy.ca+2Muller Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">January 4, 2026...</span><span class="citation-popover-meta">Published: January 4, 2026</span></span></span>
+Critics of the Mogul theory continue to argue that some witness descriptions involve quantities, properties or debris patterns that exceed what a balloon train should produce. Those objections remain part of the broader Roswell controversy. However, the specific mechanism proposed by Mogul supporters is straightforward: a long classified balloon array carrying numerous lightweight components could leave behind scattered, unfamiliar and apparently mysterious wreckage without requiring a crashed extraterrestrial vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[newspaceeconomy.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">January 4, 2026...</span><span class="citation-popover-meta">Published: January 4, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Trains illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_project_mogul_01e984_mogul_balloon_trains_e30edc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a Balloon Train Look Like a Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a Balloon Train Look Like a Crash?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Examines the Roswell evidence in detail and gives substantial attention to the Project Mogul explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Roswell evidence in detail and gives substantial attention to the Project Mogul explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Includes Charles B. Moore, a Project Mogul participant, making it highly relevant to balloon trains and debris interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes Charles B. Moore, a Project Mogul participant, making it highly relevant to balloon trains and debris interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores Cold War secrecy, Roswell-related claims and alternative explanations connected to classified military programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores Cold War secrecy, Roswell-related claims and alternative explanations connected to classified military programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Introduced the modern Roswell debate that Project Mogul explanations attempt to answer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced the modern Roswell debate that Project Mogul explanations attempt to answer.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015"><img src="{{ '/assets/images/marketplace-covers/d041ec962ca36b83ce0e.jpg' | relative_url }}" alt="Listing image for Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015"><img src="{{ '/assets/images/marketplace-covers/d041ec962ca36b83ce0e.jpg' | relative_url }}" alt="Listing image for Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo A1 The Great Ouse by Roswell Pits Ely/TL5480 Looking towards the c2015</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015"><img src="{{ '/assets/images/marketplace-covers/27ce4b40dc268292dd4d.jpg' | relative_url }}" alt="Listing image for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015"><img src="{{ '/assets/images/marketplace-covers/27ce4b40dc268292dd4d.jpg' | relative_url }}" alt="Listing image for Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo A1 Roswell Pits Ely/TL5480 Former clay pits now filled with water c2015</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Roswell Pits Ely/TL5480 c2015"><img src="{{ '/assets/images/marketplace-covers/65ace01ac5513d838096.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Roswell Pits Ely/TL5480 c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Roswell Pits Ely/TL5480 c2015</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo 6x4 Roswell Pits Ely/TL5480 c2015"><img src="{{ '/assets/images/marketplace-covers/65ace01ac5513d838096.jpg' | relative_url }}" alt="Listing image for Photo 6x4 Roswell Pits Ely/TL5480 c2015" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Photo 6x4 Roswell Pits Ely/TL5480 c2015</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO ROSWELL PITS 2007"><img src="{{ '/assets/images/marketplace-covers/ce0cf840b72d89b7928b.jpg' | relative_url }}" alt="Listing image for PHOTO ROSWELL PITS 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO ROSWELL PITS 2007</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO ROSWELL PITS 2007"><img src="{{ '/assets/images/marketplace-covers/ce0cf840b72d89b7928b.jpg' | relative_url }}" alt="Listing image for PHOTO ROSWELL PITS 2007" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO ROSWELL PITS 2007</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell memorabilia" data-ebay-reference="balloon-trains-e0f164-could-a-balloon-train-look-like-a-crash-ufo-crashes-roswell-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,100 +748,100 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.justia.com  
    Title: GAO Reports Justia GAO Reports  
-   Link: <a href="https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsJustia GAO Reports - NSIAD-95-187 - Government Records - Department of Justice...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-justice/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsJustia GAO Reports - NSIAD-95-187 - Government Records - Department of Justice...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2026...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2026/01/04/challenges-to-the-project-mogul-explanation-for-the-roswell-incident/?amp=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2026...</p></details>
    Published: January 4, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Project Mogul, the secret operation behind the UFO crash in Rodwell!!!  
-   Link: <a href="https://www.youtube.com/watch?v=K3MlXHFm6m8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3MlXHFm6m8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K3MlXHFm6m8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3MlXHFm6m8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Mogul  
-   Link: <a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved - YouTube The Roswell Incident Mystery Finally Solved - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mBcYtSsPIuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mBcYtSsPIuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved - YouTube The Roswell Incident Mystery Finally Solved - YouTube...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: muller.lbl.gov  
    Title: Muller Lab Project Mogul  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: globalsecurity.org  
    Title: Global Security Project MOGUL  
-   Link: <a href="https://www.globalsecurity.org/intell/systems/mogul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/intell/systems/mogul.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/intell/systems/mogul.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/intell/systems/mogul.htm</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/160434646/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434646/The-Roswell-Mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident: Government Cover-Up | PDF | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Object | Ufology...</p></details>
+   Link:<a href="https://www.scribd.com/document/160434646/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434646/The-Roswell-Mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident: Government Cover-Up | PDF | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Object | Ufology...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: real photograph from roswell 1947 of the us  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15jq35i/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15jq35i/real_photograph_from_roswell_1947_of_the_us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>photograph from Roswell 1947 of the us millitary spending tax money to lie to the tax payer.August 6, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15jq35i/real_photograph_from_roswell_1947_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15jq35i/real_photograph_from_roswell_1947_of_the_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>photograph from Roswell 1947 of the us millitary spending tax money to lie to the tax payer.August 6, 2023...</p></details>
    Published: August 6, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: www.archives.gov Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: www.reddit.com Document showing Roswell incident is real  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dwwkbc" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dwwkbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>showing Roswell incident is realJuly 6, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dwwkbc" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dwwkbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>showing Roswell incident is realJuly 6, 2024...</p></details>
    Published: July 6, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufouap.com  
    Title: roswell incident 1947  
-   Link: <a href="https://www.ufouap.com/articles/roswell-incident-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/roswell-incident-1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: What Crashed in New Mexico in 1947, and Why It Still Matters — UFOUAP...</p></details>
+   Link:<a href="https://www.ufouap.com/articles/roswell-incident-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/roswell-incident-1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: What Crashed in New Mexico in 1947, and Why It Still Matters — UFOUAP...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Were there actually ALIEN [bodies](&#123;&#123; 'bodies/' | relative_url &#125;&#125;) in Roswell?  
-   Link: <a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul, the secret operation behind the UFO crash in Rodwell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul, the secret operation behind the UFO crash in Rodwell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Top Secret Project That Spawned the Roswell UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN bodies in Roswell?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN bodies in Roswell?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Secret Project That Spawned the Roswell UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Secret Project That Spawned the Roswell UFO Incident...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.com  
    Title: www.history.com Roswell  
-   Link: <a href="https://www.history.com/topics/paranormal/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/paranormal/roswell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico, Alien &amp; UFOs | HISTORYNovember 9, 2009...</p></details>
+   Link:<a href="https://www.history.com/topics/paranormal/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/paranormal/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico, Alien &amp; UFOs | HISTORYNovember 9, 2009...</p></details>
    Published: November 9, 2009  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: realufo.org  
    Title: Roswell · Project Mogul — case file · NARA Archive · realufo.org  
-   Link: <a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  
+   Link:<a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  

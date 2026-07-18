@@ -284,7 +284,7 @@ UFO crash legends survive not only through stories but through objects people ca
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-1-dark.svg" | relative_url }}" alt="Souvenirs illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In UFO crash [tourism]({{ 'tourism/' | relative_url }}), photo spots and souvenirs often matter more than new [evidence]({{ 'evidence/' | relative_url }}). They transform a mystery into a repeatable experience. Whether visitors believe the story, doubt it or simply enjoy the spectacle, the physical artefacts keep the narrative circulating long after eyewitness accounts have faded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[Shag Harbour UFO Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
+In UFO crash [tourism]({{ 'tourism/' | relative_url }}), photo spots and souvenirs often matter more than new [evidence]({{ 'evidence/' | relative_url }}). They transform a mystery into a repeatable experience. Whether visitors believe the story, doubt it or simply enjoy the spectacle, the physical artefacts keep the narrative circulating long after eyewitness accounts have faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[Shag Harbour UFO Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oXc5g0vqnVI" title="Exploring ROSWELL 👽 | Alien Fun | UFO Museum | UFO Spacewalk | USA Road Trip 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer">Exploring ROSWELL 👽 | Alien Fun | UFO Museum | UFO Spacewalk | USA Road Trip 2025</a></p><p class="youtube-embed-meta">Channel: Kim And Dan Do Stuff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oXc5g0vqnVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oXc5g0vqnVI">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ In UFO crash [tourism]({{ 'tourism/' | relative_url }}), photo spots and souveni
 
 The most successful UFO crash destinations usually create a visual symbol that can stand in for the entire story. Rather than asking visitors to imagine a historical event, they provide a recognisable object that can be photographed in seconds.
 
-Kecksburg, Pennsylvania offers one of the clearest examples. The alleged crashed object was described by some witnesses as acorn-shaped. Over time, a large replica known as the “Space Acorn” became the town's defining landmark. Visitors photograph it, festivals use it in promotional material and local businesses incorporate it into merchandise. The monument functions as a shorthand for the entire mystery, regardless of whether visitors know the details of competing explanations involving [meteors]({{ 'meteors/' | relative_url }}), satellites or extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura+2Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
+Kecksburg, Pennsylvania offers one of the clearest examples. The alleged crashed object was described by some witnesses as acorn-shaped. Over time, a large replica known as the “Space Acorn” became the town's defining landmark. Visitors photograph it, festivals use it in promotional material and local businesses incorporate it into merchandise. The monument functions as a shorthand for the entire mystery, regardless of whether visitors know the details of competing explanations involving [meteors]({{ 'meteors/' | relative_url }}), satellites or extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[atlasobscura.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
 
-Roswell uses a broader approach. Alien-themed streetscapes, museum displays, shopfront figures and dedicated photo attractions provide countless opportunities for visitors to insert themselves into the legend. The International UFO Museum and Research Center complements exhibits with a substantial gift shop, while businesses such as Invasion Station explicitly market both souvenirs and photo opportunities as part of the visitor experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum+2Invasion Station]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift ShopCome and explore our exhibits, witness firsthand accounts, and le...</span></span></span>
+Roswell uses a broader approach. Alien-themed streetscapes, museum displays, shopfront figures and dedicated photo attractions provide countless opportunities for visitors to insert themselves into the legend. The International UFO Museum and Research Center complements exhibits with a substantial gift shop, while businesses such as Invasion Station explicitly market both souvenirs and photo opportunities as part of the visitor experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roswellufomuseum.com">[roswellufomuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roswellufomuseum.com</span><span class="citation-popover-snippet">International UFO Museum and Research Center &#124; Gift ShopCome and explore our exhibits, witness firsthand accounts, and le...</span></span></span>
 
-Shag Harbour, Nova Scotia demonstrates the same principle in a quieter form. The interpretive centre, waterfront setting and designated viewing locations allow visitors to stand where the alleged incident occurred and capture photographs that connect them to the story. The site effectively turns geography into a souvenir image. Shag Harbour UFO Society+2Tourism Nova Scotia <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[shagharbourincident.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
+Shag Harbour, Nova Scotia demonstrates the same principle in a quieter form. The interpretive centre, waterfront setting and designated viewing locations allow visitors to stand where the alleged incident occurred and capture photographs that connect them to the story. The site effectively turns geography into a souvenir image. Shag Harbour UFO Society+2Tourism Nova Scotia<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[shagharbourincident.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QDQSLYrTOP8" title="The Weirdest Gift Shop In The Galaxy - Roswell, NM Spacewalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QDQSLYrTOP8" target="_blank" rel="noopener noreferrer">The Weirdest Gift Shop In The Galaxy - Roswell, NM Spacewalk</a></p><p class="youtube-embed-meta">Channel: LiveFastDiePoor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QDQSLYrTOP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QDQSLYrTOP8">Open on YouTube</a></p></div></div></div>
@@ -308,9 +308,9 @@ A souvenir is more than a retail product. In folklore terms, it is a portable ve
 
 When someone buys an alien keyring, a T-shirt depicting a crashed saucer or a miniature Space Acorn, they carry the legend beyond its original location. The object becomes a conversation starter. Friends ask where it came from. Visitors retell the story. The narrative travels without requiring anyone to read witness testimony or historical archives.
 
-This helps explain why UFO-themed merchandise often favours memorable imagery over factual complexity. Roswell gift shops sell cartoon aliens, flying saucers and humorous designs because they are immediately recognisable. The merchandise does not need to prove anything. Its function is to keep the story visible and shareable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invasionstation.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invasionstation.com">[Invasion Station+2seeroswell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invasionstation.com</span><span class="citation-popover-snippet">Take a picture at our store with our Alien Spaceship or Giant Alien. We want people to have an...Read more...</span></span></span>
+This helps explain why UFO-themed merchandise often favours memorable imagery over factual complexity. Roswell gift shops sell cartoon aliens, flying saucers and humorous designs because they are immediately recognisable. The merchandise does not need to prove anything. Its function is to keep the story visible and shareable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.invasionstation.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invasionstation.com">[invasionstation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invasionstation.com</span><span class="citation-popover-snippet">Take a picture at our store with our Alien Spaceship or Giant Alien. We want people to have an...Read more...</span></span></span>
 
-Kecksburg merchandise follows the same pattern. Visitors can purchase items featuring the famous acorn shape, reinforcing the unique local version of the legend. The symbol becomes detached from debates over evidence and instead gains value as a marker of place and participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">kecksburg ufo crash pennsylvania</span><span class="citation-popover-snippet">Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In 1965, an acorn-shaped object crashed in a small town...</span></span></span>
+Kecksburg merchandise follows the same pattern. Visitors can purchase items featuring the famous acorn shape, reinforcing the unique local version of the legend. The symbol becomes detached from debates over evidence and instead gains value as a marker of place and participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadunraveled.com">[Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadunraveled.com</span><span class="citation-popover-title">kecksburg ufo crash pennsylvania</span><span class="citation-popover-snippet">Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In 1965, an acorn-shaped object crashed in a small town...</span></span></span>
 
 The most effective souvenirs are therefore not historical documents but simplified icons. They reduce a complicated and contested narrative into an image that can be recognised instantly.
 
@@ -322,9 +322,9 @@ Photo spots perform a different but equally important function. They allow peopl
 
 A photograph at a UFO museum entrance, beside a giant alien figure or in front of the Space Acorn is not merely a record of travel. It acts as proof of participation. The visitor can say, “I was there.” Social media amplifies this effect because every shared image introduces the legend to new audiences.
 
-Roswell's dedicated alien-photo attractions illustrate this mechanism particularly well. Many visitors arrive specifically looking for unusual images rather than historical investigation. Businesses encourage this behaviour by creating oversized alien models, spacecraft props and themed environments designed for photography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com+2Invasion Station]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Discover unique sci-fi photo ops, UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</span></span></span>
+Roswell's dedicated alien-photo attractions illustrate this mechanism particularly well. Many visitors arrive specifically looking for unusual images rather than historical investigation. Businesses encourage this behaviour by creating oversized alien models, spacecraft props and themed environments designed for photography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Discover unique sci-fi photo ops, UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</span></span></span>
 
-Shag Harbour offers a more landscape-oriented version. The UFO gazebo and waterfront viewpoints allow visitors to photograph the location associated with the 1967 incident. Even though the alleged object is absent, the act of standing at the reported crash site creates a personal connection to the narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://valleyfamilyfun.ca/shag-harbour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valleyfamilyfun.ca">[Valley Family Fun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valleyfamilyfun.ca</span><span class="citation-popover-title">shag harbour</span><span class="citation-popover-snippet">Valley Family FunA Family Visit to the Shag Harbour Incident Interpretive...10 Sept 2018 — The UFO Gazebo and picnic site can be found a...</span></span></span>
+Shag Harbour offers a more landscape-oriented version. The UFO gazebo and waterfront viewpoints allow visitors to photograph the location associated with the 1967 incident. Even though the alleged object is absent, the act of standing at the reported crash site creates a personal connection to the narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://valleyfamilyfun.ca/shag-harbour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: valleyfamilyfun.ca">[Valley Family Fun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">valleyfamilyfun.ca</span><span class="citation-popover-title">shag harbour</span><span class="citation-popover-snippet">Valley Family FunA Family Visit to the Shag Harbour Incident Interpretive...10 Sept 2018 — The UFO Gazebo and picnic site can be found a...</span></span></span>
 
 The key insight is that visitors do not require physical evidence of a crashed craft. They require a place where the story feels tangible enough to experience.
 
@@ -337,202 +337,202 @@ From a tourism perspective, the survival of a UFO crash legend depends less on v
 
 A witness account can be read once and forgotten. A giant roadside object can be photographed thousands of times. Every photograph, souvenir purchase and festival visit reproduces the legend in a new form. The story remains active because people continue performing it publicly.
 
-This helps explain why communities often invest in monuments, interpretive centres and themed retail spaces. Such features generate recurring encounters with the legend. The Space Acorn in Kecksburg continues attracting visitors decades after its installation. Roswell's alien-themed commercial landscape keeps the 1947 story visible to new generations. Shag Harbour's interpretive centre presents the mystery as an enduring part of local identity rather than a single historical report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[roswellufomuseum+3Atlas Obscura+3Road Unraveled]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
+This helps explain why communities often invest in monuments, interpretive centres and themed retail spaces. Such features generate recurring encounters with the legend. The Space Acorn in Kecksburg continues attracting visitors decades after its installation. Roswell's alien-themed commercial landscape keeps the 1947 story visible to new generations. Shag Harbour's interpretive centre presents the mystery as an enduring part of local identity rather than a single historical report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[atlasobscura.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Space Acorn in Kecksburg</span><span class="citation-popover-snippet">Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</span><span class="citation-popover-meta">Published: July 4, 2013</span></span></span>
 
-For UFO crash folklore, visibility is often more important than resolution. A mystery that can be photographed, shared and purchased has a practical advantage over one that exists only in archives. Landmarks and souvenirs give people a simple way to participate, and that participation keeps the legend alive long after the original event has passed into history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[Shag Harbour UFO Society+2roswellufomuseum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
+For UFO crash folklore, visibility is often more important than resolution. A mystery that can be photographed, shared and purchased has a practical advantage over one that exists only in archives. Landmarks and souvenirs give people a simple way to participate, and that participation keeps the legend alive long after the original event has passed into history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shagharbourincident.ca">[shagharbourincident.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shagharbourincident.ca</span><span class="citation-popover-snippet">Shag Harbour UFO SocietyShag Harbour UFO Incident Society &#124; Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-3-dark.svg" | relative_url }}" alt="Souvenirs illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_crash_folklore_touri_50ae99_ufo_souvenir_photo_s_1cfa59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Crash Stories Need Photo Spots. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Crash Stories Need Photo Spots. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how places, sightings, local identity, and visitor interest combine to sustain enduring paranormal folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A6Zzgix0H5gC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Shows how places, sightings, local identity, and visitor interest combine to sustain enduring paranormal folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+by+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connects UFO stories to folklore, making it highly relevant to how crash legends survive through cultural repetition and symbols.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO stories to folklore, making it highly relevant to how crash legends survive through cultural repetition and symbols.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives become meaningful cultural practices, paralleling tourism, pilgrimage, souvenirs, and shared experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives become meaningful cultural practices, paralleling tourism, pilgrimage, souvenirs, and shared experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Examines links between UFO reports, legends, and recurring folklore patterns that help keep stories alive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines links between UFO reports, legends, and recurring folklore patterns that help keep stories alive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/UYgAAeSwKLJpYBfr/s-l225.jpg" alt="Listing image for UFO Crash Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="https://i.ebayimg.com/images/g/wlkAAOSw3NRkl0vL/s-l225.jpg" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="souvenirs-why-ufo-crash-stories-need-photo-spots-ufo-crashes-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/iPkAAeSwCABpYAQ6/s-l225.jpg" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-ufo-crash-stories-need-photo-spots-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For UFO crash folklore, visibility is often more important than resolution. A my
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For UFO crash folklore, visibility is often more important than resolution. A my
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For UFO crash folklore, visibility is often more important than resolution. A my
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For UFO crash folklore, visibility is often more important than resolution. A my
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For UFO crash folklore, visibility is often more important than resolution. A my
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,111 +738,111 @@ For UFO crash folklore, visibility is often more important than resolution. A my
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: roswellufomuseum.com  
-   Link: <a href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | Gift ShopCome and explore our exhibits, witness firsthand accounts, and le...</p></details>
+   Link:<a href="https://www.roswellufomuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO Museum and Research Center | Gift ShopCome and explore our exhibits, witness firsthand accounts, and le...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seeroswell.com  
    Title: ufo shopping  
-   Link: <a href="https://seeroswell.com/blog/places_categories/ufo-shopping/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/blog/places_categories/ufo-shopping/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM22 Apr 2025 — Located in the heart of Roswell, New Mexico, Invasion Station is the go-to alien themed gift shop for those look...</p></details>
+   Link:<a href="https://seeroswell.com/blog/places_categories/ufo-shopping/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/blog/places_categories/ufo-shopping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NM22 Apr 2025 — Located in the heart of Roswell, New Mexico, Invasion Station is the go-to alien themed gift shop for those look...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover unique sci-fi photo ops, UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/roswell/alien-zone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover unique sci-fi photo ops, UFO exhibits, and the best space-themed souvenirs. Plan your out-of-this-world adventure...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shagharbourincident.ca  
-   Link: <a href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.shagharbourincident.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO SocietyShag Harbour UFO Incident Society | Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</p></details>
+   Link:<a href="https://www.shagharbourincident.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.shagharbourincident.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO SocietyShag Harbour UFO Incident Society | Official Site &amp; Visitor...Visit the Shag Harbour UFO Incident Society&#x27;s Visi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Space Acorn in Kecksburg  
-   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraSpace Acorn in KecksburgJuly 4, 2013 — 3 Jul 2013 — The Space Acorn continues to attract visitors to the small Pennsylvania...</p></details>
    Published: July 4, 2013  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: roadunraveled.com  
    Title: kecksburg ufo crash pennsylvania  
-   Link: <a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In 1965, an acorn-shaped object crashed in a small town...</p></details>
+   Link:<a href="https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadunraveled.com/blog/kecksburg-ufo-crash-pennsylvania/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road UnraveledThe Kecksburg UFO Crash and the Roswell of Pennsylvania1 Oct 2020 — In 1965, an acorn-shaped object crashed in a small town...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: invasionstation.com  
-   Link: <a href="https://www.invasionstation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.invasionstation.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a picture at our store with our Alien Spaceship or Giant Alien. We want people to have an...Read more...</p></details>
+   Link:<a href="https://www.invasionstation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.invasionstation.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take a picture at our store with our Alien Spaceship or Giant Alien. We want people to have an...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: novascotia.com  
-   Link: <a href="https://novascotia.com/listing/shag-harbour-ufo-centre/" target="_blank" rel="noopener noreferrer nofollow">https://novascotia.com/listing/shag-harbour-ufo-centre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism Nova ScotiaShag Harbour UFO CentreThe Shag Harbour Incident Interpretive Centre, located in the fishing village of Shag Harbour a...</p></details>
+   Link:<a href="https://novascotia.com/listing/shag-harbour-ufo-centre/" target="_blank" rel="noopener noreferrer nofollow">https://novascotia.com/listing/shag-harbour-ufo-centre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism Nova ScotiaShag Harbour UFO CentreThe Shag Harbour Incident Interpretive Centre, located in the fishing village of Shag Harbour a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: valleyfamilyfun.ca  
    Title: shag harbour  
-   Link: <a href="https://valleyfamilyfun.ca/shag-harbour/" target="_blank" rel="noopener noreferrer nofollow">https://valleyfamilyfun.ca/shag-harbour/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Valley Family FunA Family Visit to the Shag Harbour Incident Interpretive...10 Sept 2018 — The UFO Gazebo and picnic site can be found a...</p></details>
+   Link:<a href="https://valleyfamilyfun.ca/shag-harbour/" target="_blank" rel="noopener noreferrer nofollow">https://valleyfamilyfun.ca/shag-harbour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valley Family FunA Family Visit to the Shag Harbour Incident Interpretive...10 Sept 2018 — The UFO Gazebo and picnic site can be found a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g47182-d23594330-Reviews-Invasion_Station-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d23594330-Reviews-Invasion_Station-Roswell_New_Mexico.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion Station - All You SHOULD Know Before Going...It is a gift shop with a wide variety of souvenirs and collectibles, but it also h...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g47182-d23594330-Reviews-Invasion_Station-Roswell_New_Mexico.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g47182-d23594330-Reviews-Invasion_Station-Roswell_New_Mexico.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invasion Station - All You SHOULD Know Before Going...It is a gift shop with a wide variety of souvenirs and collectibles, but it also h...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkToday, a replica of the Kecksburg UFO is displayed near the fire station, which serves as t...</p></details>
+   Link:<a href="https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeanwhileinYork/posts/kecksburgs-space-acorn-is-one-of-those-wonderfully-weird-pennsylvania-landmarks-/1410030341163016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg&#x27;s UFO Acorn: A Pennsylvania LandmarkToday, a replica of the Kecksburg UFO is displayed near the fire station, which serves as t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1132887503758616/posts/2188298401550849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1132887503758616/posts/2188298401550849/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Interpretive Centre Visit in Nova ScotiaI recently visited the Shag Harbour UFO Interpretive Centre in Shag Harbour, Nov...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1132887503758616/posts/2188298401550849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1132887503758616/posts/2188298401550849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Interpretive Centre Visit in Nova ScotiaI recently visited the Shag Harbour UFO Interpretive Centre in Shag Harbour, Nov...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pabucketlist.com  
-   Link: <a href="https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/" target="_blank" rel="noopener noreferrer nofollow">https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The craft supposedly bore writing resembling Egyptian hieroglyphs; the witnesses...Read more...</p></details>
+   Link:<a href="https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/" target="_blank" rel="noopener noreferrer nofollow">https://pabucketlist.com/enjoying-the-kecksburg-ufo-festival-in-westmoreland-county/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The craft supposedly bore writing resembling Egyptian hieroglyphs; the witnesses...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: explorationamerica.com  
    Title: UFO Museum gift shop. 2. Alien Zone – Best Choice for Alien Photos!:Read more  
-   Link: <a href="https://explorationamerica.com/photos-with-aliens-in-roswell-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://explorationamerica.com/photos-with-aliens-in-roswell-new-mexico/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration AmericaBEST Places to Take Photos with Aliens in Roswell, New...In the back of the museum is also a few photo worthy spots t...</p></details>
+   Link:<a href="https://explorationamerica.com/photos-with-aliens-in-roswell-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://explorationamerica.com/photos-with-aliens-in-roswell-new-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration AmericaBEST Places to Take Photos with Aliens in Roswell, New...In the back of the museum is also a few photo worthy spots t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SeeRoswellNM/posts/as-youre-exploring-our-city-keep-an-eye-out-for-the-subtle-details-that-nod-to-o/768772612363614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeeRoswellNM/posts/as-youre-exploring-our-city-keep-an-eye-out-for-the-subtle-details-that-nod-to-o/768772612363614/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As you&#x27;re exploring our city, keep an eye out for the subtle...It shows photography&#x27;s of saucers, strange lights and literature about al...</p></details>
+   Link:<a href="https://www.facebook.com/SeeRoswellNM/posts/as-youre-exploring-our-city-keep-an-eye-out-for-the-subtle-details-that-nod-to-o/768772612363614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeeRoswellNM/posts/as-youre-exploring-our-city-keep-an-eye-out-for-the-subtle-details-that-nod-to-o/768772612363614/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As you&#x27;re exploring our city, keep an eye out for the subtle...It shows photography&#x27;s of saucers, strange lights and literature about al...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tripadvisor.in  
-   Link: <a href="https://www.tripadvisor.in/Attraction_Review-g3610895-d6994932-Reviews-Shag_Harbour_Incident_Interpretive_Centre-Shag_Harbour_Southwest_Nova_Scotia_Nov.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.in/Attraction_Review-g3610895-d6994932-Reviews-Shag_Harbour_Incident_Interpretive_Centre-Shag_Harbour_Southwest_Nova_Scotia_Nov.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The town has embraced this story and made an entire industry of it.Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.in/Attraction_Review-g3610895-d6994932-Reviews-Shag_Harbour_Incident_Interpretive_Centre-Shag_Harbour_Southwest_Nova_Scotia_Nov.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.in/Attraction_Review-g3610895-d6994932-Reviews-Shag_Harbour_Incident_Interpretive_Centre-Shag_Harbour_Southwest_Nova_Scotia_Nov.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The town has embraced this story and made an entire industry of it.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mindtrip.ai  
-   Link: <a href="https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8" target="_blank" rel="noopener noreferrer nofollow">https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the years, it has become a point of interest for tourists...Read more...</p></details>
+   Link:<a href="https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8" target="_blank" rel="noopener noreferrer nofollow">https://mindtrip.ai/attraction/mammoth-pennsylvania/kecksburg-space-acorn/at-572Evsw8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over the years, it has become a point of interest for tourists...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSsbS6MFHfL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSsbS6MFHfL/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et to shop at all of the alien themed stores to get a souvenirRead more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSsbS6MFHfL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSsbS6MFHfL/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et to shop at all of the alien themed stores to get a souvenirRead more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: davenkathy.blogspot.com  
    Title: investigating shag harbour incident  
-   Link: <a href="https://davenkathy.blogspot.com/2018/08/investigating-shag-harbour-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://davenkathy.blogspot.com/2018/08/investigating-shag-harbour-incident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Shag Harbour Incident14 Aug 2018 — The &quot;interpretive center&quot; was a ramshackle old shop on the side of the highway, mann...</p></details>
+   Link:<a href="https://davenkathy.blogspot.com/2018/08/investigating-shag-harbour-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://davenkathy.blogspot.com/2018/08/investigating-shag-harbour-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Shag Harbour Incident14 Aug 2018 — The &quot;interpretive center&quot; was a ramshackle old shop on the side of the highway, mann...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ve any of you visited any historic sites?Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cfg1p7/in_my_adventures_today_i_realized_i_was_close_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ve any of you visited any historic sites?Read more...</p></details>

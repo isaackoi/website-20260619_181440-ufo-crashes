@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_ballo
 
 ## Introduction
 
-Project Genetrix is one of the clearest examples of how a genuine Cold War intelligence operation could generate the kinds of debris recoveries that later fed UFO-crash speculation. Conducted in 1956, the programme launched hundreds of high-altitude reconnaissance [balloons]({{ 'balloons/' | relative_url }}) across the Soviet Union, Eastern Europe and China under the cover of scientific and meteorological research. Unlike an ordinary weather balloon, a Genetrix system carried sophisticated cameras, electronic equipment, parachutes and recovery hardware. When parts of these systems came down unexpectedly, witnesses could encounter real [wreckage]({{ 'wreckage/' | relative_url }}) that looked far more exotic than anything associated with routine weather observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
+Project Genetrix is one of the clearest examples of how a genuine Cold War intelligence operation could generate the kinds of debris recoveries that later fed UFO-crash speculation. Conducted in 1956, the programme launched hundreds of high-altitude reconnaissance [balloons]({{ 'balloons/' | relative_url }}) across the Soviet Union, Eastern Europe and China under the cover of scientific and meteorological research. Unlike an ordinary weather balloon, a Genetrix system carried sophisticated cameras, electronic equipment, parachutes and recovery hardware. When parts of these systems came down unexpectedly, witnesses could encounter real [wreckage]({{ 'wreckage/' | relative_url }}) that looked far more exotic than anything associated with routine weather observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-1-dark.svg" | relative_url }}" alt="Genetrix illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Within the broader story of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), 
 
 ## What Genetrix Balloons Were Built to Do
 
-Project Genetrix, also known as WS-119L, was authorised during the Eisenhower administration as a strategic reconnaissance programme. The plan called for large plastic balloons carrying photographic and electronic intelligence payloads to drift eastward over Communist territory at altitudes between roughly 40,000 and 80,000 feet. Launch sites were established in Norway, Scotland, West Germany and Turkey. The balloons relied on prevailing winds rather than propulsion, making them difficult to predict and difficult to stop completely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</span></span></span>
+Project Genetrix, also known as WS-119L, was authorised during the Eisenhower administration as a strategic reconnaissance programme. The plan called for large plastic balloons carrying photographic and electronic intelligence payloads to drift eastward over Communist territory at altitudes between roughly 40,000 and 80,000 feet. Launch sites were established in Norway, Scotland, West Germany and Turkey. The balloons relied on prevailing winds rather than propulsion, making them difficult to predict and difficult to stop completely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</span></span></span>
 
-The intended mission was straightforward: photograph military facilities, missile sites, industrial regions and other strategic targets deep inside territory that American [aircraft]({{ 'aircraft/' | relative_url }}) could not safely penetrate. The programme was conceived before satellite reconnaissance became practical and before the U-2 aircraft had fully assumed the intelligence role. Hundreds of balloons were launched in a short period during early 1956. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2stratocat.com.ar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
+The intended mission was straightforward: photograph military facilities, missile sites, industrial regions and other strategic targets deep inside territory that American [aircraft]({{ 'aircraft/' | relative_url }}) could not safely penetrate. The programme was conceived before satellite reconnaissance became practical and before the U-2 aircraft had fully assumed the intelligence role. Hundreds of balloons were launched in a short period during early 1956.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
 
-What made the system unusual was not merely the balloon itself but the entire reconnaissance package suspended beneath it. Genetrix payloads carried specialised cameras, film systems, telemetry equipment and recovery mechanisms. When the mission ended, the camera gondola could separate and descend by parachute for retrieval, sometimes through airborne capture techniques that later influenced satellite recovery programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[thespacereview.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</span></span></span>
+What made the system unusual was not merely the balloon itself but the entire reconnaissance package suspended beneath it. Genetrix payloads carried specialised cameras, film systems, telemetry equipment and recovery mechanisms. When the mission ended, the camera gondola could separate and descend by parachute for retrieval, sometimes through airborne capture techniques that later influenced satellite recovery programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[thespacereview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/obbA4XmfmG8" title="Project Moby Dick (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer">Project Moby Dick (1952)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 7.1K &middot; Uploaded: August 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=obbA4XmfmG8">Open on YouTube</a></p></div></div></div>
@@ -311,13 +311,13 @@ A conventional meteorological balloon generally leaves behind relatively simple 
 * Metal framework and instrument packages.
 * Batteries and electronic components.
 * Parachutes and suspension systems.
-* Specialised film containers and recovery hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[thespacereview.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</span></span></span>
+* Specialised film containers and recovery hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[thespacereview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</span></span></span>
 
 </div>
 
-The camera gondolas themselves were substantial devices rather than lightweight weather instruments. Recovery systems were sophisticated enough that the United States developed techniques to snag descending payloads in mid-air before they reached the ground. Such equipment would have appeared highly unusual to farmers, local police, soldiers or civilians encountering it unexpectedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mid-air_retrieval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mid-air retrieval</span><span class="citation-popover-snippet">Mid-air retrieval</span></span></span>
+The camera gondolas themselves were substantial devices rather than lightweight weather instruments. Recovery systems were sophisticated enough that the United States developed techniques to snag descending payloads in mid-air before they reached the ground. Such equipment would have appeared highly unusual to farmers, local police, soldiers or civilians encountering it unexpectedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mid-air_retrieval" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mid-air retrieval</span><span class="citation-popover-snippet">Mid-air retrieval</span></span></span>
 
-The programme also suffered from the basic limitation of all balloon operations: wind. Balloons frequently drifted away from planned routes, descended prematurely or landed far from intended recovery zones. Some were shot down. Others simply vanished and reappeared months or years later in unexpected locations. One payload reportedly turned up in Iceland long after the main operation had ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readtheline.ca/p/scott-van-wynsberghe-the-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readtheline.ca">[readtheline.ca+2GBH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readtheline.ca</span><span class="citation-popover-snippet">Scott Van Wynsberghe: The history of spy ballooning is...February 16, 2023 — 16 Feb 2023 — Genetrix is also important for showing the in...</span><span class="citation-popover-meta">Published: February 16, 2023</span></span></span>
+The programme also suffered from the basic limitation of all balloon operations: wind. Balloons frequently drifted away from planned routes, descended prematurely or landed far from intended recovery zones. Some were shot down. Others simply vanished and reappeared months or years later in unexpected locations. One payload reportedly turned up in Iceland long after the main operation had ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readtheline.ca/p/scott-van-wynsberghe-the-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readtheline.ca">[readtheline.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readtheline.ca</span><span class="citation-popover-snippet">Scott Van Wynsberghe: The history of spy ballooning is...February 16, 2023 — 16 Feb 2023 — Genetrix is also important for showing the in...</span><span class="citation-popover-meta">Published: February 16, 2023</span></span></span>
 
 From the perspective of a witness, finding unfamiliar electronics and optical equipment attached to strange balloon remnants could easily seem inconsistent with the public explanation of a harmless weather device.
 
@@ -327,11 +327,11 @@ From the perspective of a witness, finding unfamiliar electronics and optical eq
 
 One of the most revealing aspects of Genetrix is how often recoveries occurred outside the programme's planned narrative.
 
-American planners expected that some balloons would inevitably land in foreign territory. Diplomatic documents acknowledged that recoveries could occur well beyond intended collection areas and instructed officials to assist with retrieval whenever possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</span></span></span>
+American planners expected that some balloons would inevitably land in foreign territory. Diplomatic documents acknowledged that recoveries could occur well beyond intended collection areas and instructed officials to assist with retrieval whenever possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</span></span></span>
 
-The Soviet Union recovered multiple Genetrix systems and publicly protested the incursions. At least one recovered camera payload was later displayed, providing physical proof that the balloons were conducting reconnaissance rather than merely collecting atmospheric data. Soviet officials specifically cited recovered equipment when accusing the United States of violating their airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[CAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
+The Soviet Union recovered multiple Genetrix systems and publicly protested the incursions. At least one recovered camera payload was later displayed, providing physical proof that the balloons were conducting reconnaissance rather than merely collecting atmospheric data. Soviet officials specifically cited recovered equipment when accusing the United States of violating their airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[CAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
 
-The numbers themselves illustrate how many opportunities existed for mysterious discoveries. More than 500 balloons were launched, yet only a small fraction of payloads were successfully recovered by the United States. Many others were lost, destroyed, intercepted or recovered by foreign governments. This left a significant amount of sophisticated hardware scattered across vast geographic areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2c-and-e-museum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">observation balloons andOnly 44 payloads were recovered initially from among the 516 GENETRIX balloons launched and just 32 of these h...</span></span></span>
+The numbers themselves illustrate how many opportunities existed for mysterious discoveries. More than 500 balloons were launched, yet only a small fraction of payloads were successfully recovered by the United States. Many others were lost, destroyed, intercepted or recovered by foreign governments. This left a significant amount of sophisticated hardware scattered across vast geographic areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">observation balloons andOnly 44 payloads were recovered initially from among the 516 GENETRIX balloons launched and just 32 of these h...</span></span></span>
 
 For local observers, a recovery often appeared without any visible launch, mission or context. A strange object simply arrived from the sky carrying unfamiliar technology.
 
@@ -342,11 +342,11 @@ For local observers, a recovery often appeared without any visible launch, missi
 
 The most important lesson from Genetrix is not that witnesses were necessarily mistaken about seeing unusual debris. In many cases, the debris genuinely was unusual.
 
-The problem was that governments had strong incentives to conceal the true purpose of the programme. Publicly, American officials described the balloons as scientific or meteorological projects and linked them to broader atmospheric research efforts. Privately, the operation was a classified intelligence mission aimed at photographing adversary territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[CAFE+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
+The problem was that governments had strong incentives to conceal the true purpose of the programme. Publicly, American officials described the balloons as scientific or meteorological projects and linked them to broader atmospheric research efforts. Privately, the operation was a classified intelligence mission aimed at photographing adversary territory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[cafe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
 
 This gap between public explanation and operational reality created a credibility problem. When officials said a recovered object was related to weather research, they were not necessarily telling the full story. The object might indeed have been balloon-borne, yet it could also contain sophisticated reconnaissance technology that officials preferred not to discuss.
 
-That distinction is crucial for understanding later UFO-crash claims. Witnesses who encountered strange materials and concluded that the official explanation was incomplete were sometimes correct. What they often lacked was access to the classified context that explained why the explanation was incomplete. Genetrix demonstrates how a recovery could involve authentic [secrecy]({{ 'secrecy/' | relative_url }}), advanced technology and confusing debris without requiring an extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://steveblank.com/2010/01/28/balloon-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveblank.com">[Steve Blank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveblank.com</span><span class="citation-popover-title">Balloon sightings were dismissed with cover story: they were</span><span class="citation-popover-snippet">Steve BlankBalloon Wars: Part 16 of the Secret History of Silicon ValleyJanuary 28, 2010 — 28 Jan 2010 — GENETRIX programs were the CIA/m...</span><span class="citation-popover-meta">Published: January 28, 2010</span></span></span>
+That distinction is crucial for understanding later UFO-crash claims. Witnesses who encountered strange materials and concluded that the official explanation was incomplete were sometimes correct. What they often lacked was access to the classified context that explained why the explanation was incomplete. Genetrix demonstrates how a recovery could involve authentic [secrecy]({{ 'secrecy/' | relative_url }}), advanced technology and confusing debris without requiring an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://steveblank.com/2010/01/28/balloon-wars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveblank.com">[Steve Blank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveblank.com</span><span class="citation-popover-title">Balloon sightings were dismissed with cover story: they were</span><span class="citation-popover-snippet">Steve BlankBalloon Wars: Part 16 of the Secret History of Silicon ValleyJanuary 28, 2010 — 28 Jan 2010 — GENETRIX programs were the CIA/m...</span><span class="citation-popover-meta">Published: January 28, 2010</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-3-dark.svg" | relative_url }}" alt="Genetrix illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,203 +354,203 @@ That distinction is crucial for understanding later UFO-crash claims. Witnesses 
 
 Genetrix occupies an important middle ground between mundane explanations and extraordinary claims. The balloons were real. Their payloads were technologically impressive for the period. Their missions were secret. Their recoveries could occur unexpectedly and leave behind hardware that looked unfamiliar even to trained observers.
 
-Those characteristics mirror several ingredients that repeatedly appear in UFO-crash stories: strange wreckage, military involvement, contradictory public statements, missing information and long-term speculation about what was actually recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[CAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
+Those characteristics mirror several ingredients that repeatedly appear in UFO-crash stories: strange wreckage, military involvement, contradictory public statements, missing information and long-term speculation about what was actually recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cafe.com">[CAFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cafe.com</span><span class="citation-popover-snippet">Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</span><span class="citation-popover-meta">Published: February 23, 2023</span></span></span>
 
-The historical significance of Genetrix is therefore not that it explains every crash report. Rather, it shows that Cold War intelligence programmes could produce exactly the sort of suspicious recoveries that encouraged people to question official accounts. In an era when governments routinely disguised reconnaissance operations as scientific projects, a recovered balloon payload could look simultaneously ordinary, secret and mysterious—a combination that has fuelled UFO crash interpretations ever since. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
+The historical significance of Genetrix is therefore not that it explains every crash report. Rather, it shows that Cold War intelligence programmes could produce exactly the sort of suspicious recoveries that encouraged people to question official accounts. In an era when governments routinely disguised reconnaissance operations as scientific projects, a recovered balloon payload could look simultaneously ordinary, secret and mysterious—a combination that has fuelled UFO crash interpretations ever since.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Genetrix</span><span class="citation-popover-snippet">Project Genetrix</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJLenNyx1FA" title="The Bizarre Flying Objects That Terrorized the Soviet Union" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJLenNyx1FA" target="_blank" rel="noopener noreferrer">The Bizarre Flying Objects That Terrorized the Soviet Union</a></p><p class="youtube-embed-meta">Channel: Dark Skies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJLenNyx1FA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJLenNyx1FA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Spy Balloons Fell Back to Earth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Spy Balloons Fell Back to Earth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for classified projects that could be mistaken for UFO debris.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for classified projects that could be mistaken for UFO debris.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spycraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h8rMqZofTLgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spycraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
-        </h4>
-        <p class="fr-book-author">By Harold Keith Melton, Robert Wallace et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spycraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h8rMqZofTLgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spycraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
+</h4>
+<p class="fr-book-author">By Harold Keith Melton, Robert Wallace et al.</p>
         
-        <p class="fr-book-desc">Explains reconnaissance technology and covert collection methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reconnaissance technology and covert collection methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spycraft+by+Harold+Keith+Melton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the U-2 Program 1954-1974 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u883zM7_QYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The CIA and the U-2 Program 1954-1974" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the U-2 Program 1954-1974">The CIA and the U-2 Program 1954-1974</a>
-        </h4>
-        <p class="fr-book-author">By Gregory W. Pedlow, Donald E. Welzenbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the U-2 Program 1954-1974 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u883zM7_QYMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The CIA and the U-2 Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the U-2 Program">The CIA and the U-2 Program</a>
+</h4>
+<p class="fr-book-author">By Gregory W. Pedlow, Donald E. Welzenbach</p>
         
-        <p class="fr-book-desc">Illustrates how secret surveillance projects created public confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how secret surveillance projects created public confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+U-2+Program+1954-1974+by+Gregory+W.+Pedlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Places balloon and reconnaissance incidents within wider UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places balloon and reconnaissance incidents within wider UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spycraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spycraft</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+U+2+Program+1954+1974&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the U 2 Program 1954 1974</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spycraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spycraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+U+2+Program+1954+1974&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the U 2 Program</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 9 cm Patch Yuri Gagarin Vostok Rocket NASA UFO OVNI Cold War Astronauts Badge"><img src="https://i.ebayimg.com/images/g/W5EAAOSw3YNmEYFZ/s-l225.jpg" alt="Listing image for 9 cm Patch Yuri Gagarin Vostok Rocket NASA UFO OVNI Cold War Astronauts Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer">9 cm Patch Yuri Gagarin Vostok Rocket NASA UFO OVNI Cold War Astronauts Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War UFO posters">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War UFO posters</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Survival Nuclear Attack Sign Civil Defense Prepper Cold War Metal 8x12"><img src="https://i.ebayimg.com/images/g/~14AAeSwwkppvuZV/s-l225.jpg" alt="Listing image for Survival Nuclear Attack Sign Civil Defense Prepper Cold War Metal 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer">Survival Nuclear Attack Sign Civil Defense Prepper Cold War Metal 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War UFO posters">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War UFO posters</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed"><img src="https://i.ebayimg.com/images/g/2~QAAeSwUONoS2fo/s-l225.jpg" alt="Listing image for Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer">Die Glocke German UFO Model World War 2 - Retro/SciFi/Geek Gift - 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War UFO posters">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War UFO posters</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="genetrix-when-spy-balloons-fell-back-to-earth-ufo-crashes-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radioactive Fallout Farm Sign Nuclear Prepper Cold War Metal Tin 8x12"><img src="https://i.ebayimg.com/images/g/X2sAAeSwoSJpvuIB/s-l225.jpg" alt="Listing image for Radioactive Fallout Farm Sign Nuclear Prepper Cold War Metal Tin 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer">Radioactive Fallout Farm Sign Nuclear Prepper Cold War Metal Tin 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War UFO posters">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War UFO posters</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+UFO+posters&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War UFO posters" data-ebay-reference="when-spy-balloons-fell-back-to-earth-cold-war-ufo-posters" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ The historical significance of Genetrix is therefore not that it explains every 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ The historical significance of Genetrix is therefore not that it explains every 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ The historical significance of Genetrix is therefore not that it explains every 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ The historical significance of Genetrix is therefore not that it explains every 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ The historical significance of Genetrix is therefore not that it explains every 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,120 +756,120 @@ The historical significance of Genetrix is therefore not that it explains every 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Genetrix  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Genetrix</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Genetrix" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Genetrix</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stratocat.com.ar  
    Title: GENETRI X (Program)  
-   Link: <a href="https://stratocat.com.ar/stratopedia/28.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/stratopedia/28.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://stratocat.com.ar/stratopedia/28.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/stratopedia/28.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thespacereview.com  
-   Link: <a href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4568/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</p></details>
+   Link:<a href="https://www.thespacereview.com/article/4568/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4568/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American spy balloons during the Cold War r17 Apr 2023 — GENETRIX had developed the air-catch recovery system for the balloon payloads th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mid-air retrieval  
-   Link: <a href="https://en.wikipedia.org/wiki/Mid-air_retrieval" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mid-air_retrieval</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mid-air_retrieval" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mid-air_retrieval</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readtheline.ca  
-   Link: <a href="https://www.readtheline.ca/p/scott-van-wynsberghe-the-history" target="_blank" rel="noopener noreferrer nofollow">https://www.readtheline.ca/p/scott-van-wynsberghe-the-history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Van Wynsberghe: The history of spy ballooning is...February 16, 2023 — 16 Feb 2023 — Genetrix is also important for showing the in...</p></details>
+   Link:<a href="https://www.readtheline.ca/p/scott-van-wynsberghe-the-history" target="_blank" rel="noopener noreferrer nofollow">https://www.readtheline.ca/p/scott-van-wynsberghe-the-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Van Wynsberghe: The history of spy ballooning is...February 16, 2023 — 16 Feb 2023 — Genetrix is also important for showing the in...</p></details>
    Published: February 16, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wgbh.org  
-   Link: <a href="https://www.wgbh.org/news/2023-02-17/militaries-have-sought-to-use-spy-balloons-for-centuries-the-real-enemy-is-the-wind" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/2023-02-17/militaries-have-sought-to-use-spy-balloons-for-centuries-the-real-enemy-is-the-wind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Militaries have sought to use spy balloons for centuries....17 Feb 2023 — The U.S. government is increasingly convinced that an alleged...</p></details>
+   Link:<a href="https://www.wgbh.org/news/2023-02-17/militaries-have-sought-to-use-spy-balloons-for-centuries-the-real-enemy-is-the-wind" target="_blank" rel="noopener noreferrer nofollow">https://www.wgbh.org/news/2023-02-17/militaries-have-sought-to-use-spy-balloons-for-centuries-the-real-enemy-is-the-wind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Militaries have sought to use spy balloons for centuries....17 Feb 2023 — The U.S. government is increasingly convinced that an alleged...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cafe.com  
-   Link: <a href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</p></details>
+   Link:<a href="https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://cafe.com/article/the-ownership-of-the-upper-air-project-genetrix-and-the-debate-over-cold-war-spy-balloons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Genetrix and the Debate Over Cold War Spy BalloonsFebruary 23, 2023 — 23 Feb 2023 — Of the 516 balloons launched, the camera...</p></details>
    Published: February 23, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>observation balloons andOnly 44 payloads were recovered initially from among the 516 GENETRIX balloons launched and just 32 of these h...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000253109.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>observation balloons andOnly 44 payloads were recovered initially from among the 516 GENETRIX balloons launched and just 32 of these h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: c-and-e-museum.org  
-   Link: <a href="https://www.c-and-e-museum.org/Pinetreeline/giebelstadt/gieb-other/other/ogieb-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.c-and-e-museum.org/Pinetreeline/giebelstadt/gieb-other/other/ogieb-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1956 - Project Genetrix - Assorted Sources29 Sept 2003 — Project GENETRIX involved the use of camera-carrying balloons to obtain high-alt...</p></details>
+   Link:<a href="https://www.c-and-e-museum.org/Pinetreeline/giebelstadt/gieb-other/other/ogieb-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.c-and-e-museum.org/Pinetreeline/giebelstadt/gieb-other/other/ogieb-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1956 - Project Genetrix - Assorted Sources29 Sept 2003 — Project GENETRIX involved the use of camera-carrying balloons to obtain high-alt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: us navy collecting surveillance balloon debris  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3290090/us-navy-collecting-surveillance-balloon-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3290090/us-navy-collecting-surveillance-balloon-debris/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Collecting Surveillance Balloon Debris6 Feb 2023 — The U.S. military today began collecting the remnants of a Chinese high-altitude...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3290090/us-navy-collecting-surveillance-balloon-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3290090/us-navy-collecting-surveillance-balloon-debris/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Collecting Surveillance Balloon Debris6 Feb 2023 — The U.S. military today began collecting the remnants of a Chinese high-altitude...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1955-57v24/d15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1955-57v24/d15" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1955-57v24/d15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The plan provides for the launching of approximately 2700 plastic, gondola-carrying...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: steveblank.com  
    Title: Balloon sightings were dismissed with [cover story](&#123;&#123; 'cover-story/' | relative_url &#125;&#125;): they were  
-   Link: <a href="https://steveblank.com/2010/01/28/balloon-wars/" target="_blank" rel="noopener noreferrer nofollow">https://steveblank.com/2010/01/28/balloon-wars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve BlankBalloon Wars: Part 16 of the Secret History of Silicon ValleyJanuary 28, 2010 — 28 Jan 2010 — GENETRIX programs were the CIA/m...</p></details>
+   Link:<a href="https://steveblank.com/2010/01/28/balloon-wars/" target="_blank" rel="noopener noreferrer nofollow">https://steveblank.com/2010/01/28/balloon-wars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve BlankBalloon Wars: Part 16 of the Secret History of Silicon ValleyJanuary 28, 2010 — 28 Jan 2010 — GENETRIX programs were the CIA/m...</p></details>
    Published: January 28, 2010  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nro.gov  
-   Link: <a href="https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reconnaissance OfficeCORONA Star CatchersSince all nine Discoverer pilots were participants in the Genetrix program, aerial reco...</p></details>
+   Link:<a href="https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Reconnaissance OfficeCORONA Star CatchersSince all nine Discoverer pilots were participants in the Genetrix program, aerial reco...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pJLenNyx1FA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJLenNyx1FA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Flying Objects That Terrorized the Soviet UnionSome of the intrusive balloons managed to penetrate deep into Soviet territory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pJLenNyx1FA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJLenNyx1FA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Flying Objects That Terrorized the Soviet UnionSome of the intrusive balloons managed to penetrate deep into Soviet territory...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/6123239791054186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/6123239791054186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Russia. While such surveillance is often conducted by...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/6123239791054186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/6123239791054186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Russia. While such surveillance is often conducted by...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: This week's spy balloon has been interesting  
-   Link: <a href="https://www.facebook.com/ThorntondBarnes/photos/this-weeks-spy-balloon-has-been-interesting-for-those-who-dont-know-the-us-also-/10224853034685544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThorntondBarnes/photos/this-weeks-spy-balloon-has-been-interesting-for-those-who-dont-know-the-us-also-/10224853034685544/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For those...5 Feb 2023 — GENETRIX Balloons over USSR While the CIA... One fortuitous development coming from Project GENETRIX had nothi...</p></details>
+   Link:<a href="https://www.facebook.com/ThorntondBarnes/photos/this-weeks-spy-balloon-has-been-interesting-for-those-who-dont-know-the-us-also-/10224853034685544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThorntondBarnes/photos/this-weeks-spy-balloon-has-been-interesting-for-those-who-dont-know-the-us-also-/10224853034685544/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For those...5 Feb 2023 — GENETRIX Balloons over USSR While the CIA... One fortuitous development coming from Project GENETRIX had nothi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Spy Balloons: The Untold Truth  
-   Link: <a href="https://www.youtube.com/watch?v=gZkMv44z_cM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZkMv44z_cM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZkMv44z_cM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZkMv44z_cM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Spy Balloons  
-   Link: <a href="https://www.youtube.com/watch?v=sBNDu_2e-2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sBNDu_2e-2k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moby Dick (1952)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sBNDu_2e-2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sBNDu_2e-2k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moby Dick (1952)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obbA4XmfmG8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spy Balloons: The Untold Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=obbA4XmfmG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obbA4XmfmG8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spy Balloons: The Untold Truth...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  

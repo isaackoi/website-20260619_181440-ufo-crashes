@@ -456,9 +456,9 @@ The important point is not that every failed aircraft search supports a UFO cras
 
 ## Why the first question is “has an aircraft gone down?”
 
-A suspected crash is handled differently from an ordinary strange-light report. Search and rescue systems are designed to act before certainty arrives. International aviation practice uses emergency phases such as uncertainty, alert and distress; the distress phase applies when there is reasonable certainty that an aircraft and its occupants face grave and imminent danger and need immediate assistance. That structure makes caution rational: responders do not wait for a complete explanation if a forced landing, ditching or crash is plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/icao-emergency-phases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">ICAO Emergency PhasesAnnex 12 to the ICAO Chicago Convention defines three emergency phases which are referred to as the Uncertai...</span></span></span>
+A suspected crash is handled differently from an ordinary strange-light report. Search and rescue systems are designed to act before certainty arrives. International aviation practice uses emergency phases such as uncertainty, alert and distress; the distress phase applies when there is reasonable certainty that an aircraft and its occupants face grave and imminent danger and need immediate assistance. That structure makes caution rational: responders do not wait for a complete explanation if a forced landing, ditching or crash is plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/icao-emergency-phases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">ICAO Emergency PhasesAnnex 12 to the ICAO Chicago Convention defines three emergency phases which are referred to as the Uncertai...</span></span></span>
 
-In practical terms, a “UFO crash” alarm can therefore begin as a rescue problem. Someone reports lights descending, an impact noise, wreckage-like material or an object in the sea. Police or local authorities contact an aviation rescue coordination centre, check whether aircraft are overdue, and dispatch nearby vessels or crews if survivors may be in the water. The United States Federal Aviation Administration gives the same basic logic for overdue or missing aircraft: when an aircraft is overdue, missing or sends a distress call, the national search and rescue system can be activated, with aviation and maritime responsibilities divided among relevant agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Airman Education Programs &#124; Federal Aviation Administration16 Dec 2024 — When an aircraft is overdue, missing, or sends a radio distre...</span></span></span>
+In practical terms, a “UFO crash” alarm can therefore begin as a rescue problem. Someone reports lights descending, an impact noise, wreckage-like material or an object in the sea. Police or local authorities contact an aviation rescue coordination centre, check whether aircraft are overdue, and dispatch nearby vessels or crews if survivors may be in the water. The United States Federal Aviation Administration gives the same basic logic for overdue or missing aircraft: when an aircraft is overdue, missing or sends a distress call, the national search and rescue system can be activated, with aviation and maritime responsibilities divided among relevant agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Airman Education Programs &#124; Federal Aviation Administration16 Dec 2024 — When an aircraft is overdue, missing, or sends a radio distre...</span></span></span>
 
 That matters for UFO crash interpretation because the first report may be framed in aircraft language even when the witnesses are uncertain. “Plane crash” can be the safest immediate description, not the final identification. A witness who says “it looked like an aircraft went down” may be reporting motion, lights and danger rather than claiming to have identified wings, engines or a fuselage.
 
@@ -466,11 +466,11 @@ That matters for UFO crash interpretation because the first report may be framed
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Shag Harbour shows the mechanism clearly
 
-The 1967 Shag Harbour incident in Nova Scotia is the clearest example of a UFO crash alarm beginning as a possible air crash. Witnesses saw a lit object descend towards the water near Shag Harbour on 4 October 1967. The local account preserved by the Municipality of Barrington says the Royal Canadian Mounted Police checked with the Rescue Coordination Centre in Halifax and NORAD radar at Baccaro, Nova Scotia, and were told there were no missing civilian or military aircraft that evening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Open source on barringtonmunicipality.com.</span></span></span>
+The 1967 Shag Harbour incident in Nova Scotia is the clearest example of a UFO crash alarm beginning as a possible air crash. Witnesses saw a lit object descend towards the water near Shag Harbour on 4 October 1967. The local account preserved by the Municipality of Barrington says the Royal Canadian Mounted Police checked with the Rescue Coordination Centre in Halifax and NORAD radar at Baccaro, Nova Scotia, and were told there were no missing civilian or military aircraft that evening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Open source on barringtonmunicipality.com.</span></span></span>
 
-Library and Archives Canada describes Shag Harbour as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces. That archival framing is important: whatever the ultimate explanation, this was not merely a campfire story. It entered official channels because a possible crash at sea raised an immediate rescue concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+Library and Archives Canada describes Shag Harbour as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces. That archival framing is important: whatever the ultimate explanation, this was not merely a campfire story. It entered official channels because a possible crash at sea raised an immediate rescue concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
-The later significance of Shag Harbour comes from the negative result. Contemporary and later summaries describe searches that found no conventional aircraft, no bodies and no decisive debris. Global News, reviewing the case at its fiftieth anniversary, reported that searches turned up “[No wreckage]({{ 'no-wreckage/' | relative_url }}). No bodies. No clues,” while also stressing that Shag Harbour has an unusually strong [paper trail]({{ 'paper-trail/' | relative_url }}) compared with ordinary UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Canada&#x27;s best-documented UFO sighting still intrigues, 50</span><span class="citation-popover-snippet">Global News Canada&#x27;s best-documented UFO sighting still intrigues, 50</span></span></span>
+The later significance of Shag Harbour comes from the negative result. Contemporary and later summaries describe searches that found no conventional aircraft, no bodies and no decisive debris. Global News, reviewing the case at its fiftieth anniversary, reported that searches turned up “[No wreckage]({{ 'no-wreckage/' | relative_url }}). No bodies. No clues,” while also stressing that Shag Harbour has an unusually strong [paper trail]({{ 'paper-trail/' | relative_url }}) compared with ordinary UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Canada&#x27;s best-documented UFO sighting still intrigues, 50</span><span class="citation-popover-snippet">Global News Canada&#x27;s best-documented UFO sighting still intrigues, 50</span></span></span>
 
 That combination gives the case its staying power. If responders had found a missing aircraft, the UFO story would likely have ended quickly. If there had been no emergency response, it would be easier to dismiss as a sighting tale. Instead, Shag Harbour occupies the middle ground: a public-safety search was reasonable, aircraft checks reportedly came back negative, and the physical search failed to produce the sort of wreckage expected from a normal crash.
 
@@ -481,7 +481,7 @@ That combination gives the case its staying power. If responders had found a mis
 
 A search that finds nothing does not automatically prove that something exotic crashed. It does, however, change the question. In an ordinary air accident, investigators expect a trail: radar data, flight-plan information, distress calls, wreckage, oil, floating debris, underwater remains, missing-person reports, maintenance [records]({{ 'records/' | relative_url }}), or eventually an accident file. When none of those materialise, the “aircraft accident” explanation weakens unless another reason for the absence can be shown.
 
-Shag Harbour illustrates several checks that matter in this kind of case: <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[hangar1publishing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">shag harbour incident</span><span class="citation-popover-snippet">shag harbour incident</span></span></span>
+Shag Harbour illustrates several checks that matter in this kind of case:<span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[hangar1publishing.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">shag harbour incident</span><span class="citation-popover-snippet">shag harbour incident</span></span></span>
 
 * **Traffic accounting:** Were any civilian, military or private aircraft missing or overdue in the region?
 * **Surface search:** Did boats, coastguard vessels or patrols find floating wreckage, oil, [bodies]({{ 'bodies/' | relative_url }}), luggage or survival equipment?
@@ -494,7 +494,7 @@ Shag Harbour illustrates several checks that matter in this kind of case: <span 
 
 </div>
 
-The absence of a missing aircraft is especially important, but it is not the same as proof of a non-human craft. Aviation searches can fail for ordinary reasons. The long search for Air France Flight 447 shows that even a known modern airliner, lost in 2009 with 228 people aboard, required years of effort before the main wreckage was located in the Atlantic; later search planning used Bayesian probability methods to reassess previous search failures and guide the successful undersea search. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1405.4720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The absence of a missing aircraft is especially important, but it is not the same as proof of a non-human craft. Aviation searches can fail for ordinary reasons. The long search for Air France Flight 447 shows that even a known modern airliner, lost in 2009 with 228 people aboard, required years of effort before the main wreckage was located in the Atlantic; later search planning used Bayesian probability methods to reassess previous search failures and guide the successful undersea search.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1405.4720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 That example does not make Shag Harbour an aircraft accident. It shows why “no wreckage found” must be handled carefully. A failed search can mean there was no aircraft; it can also mean the search was too small, too early, too late, too shallow, too deep, or centred on the wrong datum. UFO crash claims gain strength only when the ordinary failure modes have been examined rather than assumed away.
 
@@ -506,7 +506,7 @@ Once an incident begins as a possible aircraft crash, the early vocabulary can s
 
 That structure can be useful, but it can also mislead. Emergency language is provisional. A police officer or witness may say “aircraft” because aircraft are the relevant rescue category, not because the object was positively identified. A coastguard search may be evidence of prudent public service, not evidence that a craft was recovered. Military involvement may mean jurisdiction, available divers, radar checks or maritime coordination, not necessarily secrecy.
 
-The Roswell record shows a different but related problem: later UFO crash narratives can absorb memories of real military aviation and accident activity. The US Air Force’s later Roswell review argued that some “alien body” claims were likely influenced by memories of Air Force personnel killed or injured in the line of duty, as well as by later high-altitude dummy tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+The Roswell record shows a different but related problem: later UFO crash narratives can absorb memories of real military aviation and accident activity. The US Air Force’s later Roswell review argued that some “alien body” claims were likely influenced by memories of Air Force personnel killed or injured in the line of duty, as well as by later high-altitude dummy tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 That explanation remains contested by Roswell believers, partly because some dummy tests took place years after 1947. Even so, the mechanism is relevant: real aircraft mishaps, casualty recovery procedures, stretchers, body bags, crash trucks, restricted sites and military silence can become raw material for later alien-crash interpretation. In other words, aircraft accidents can sit behind UFO crash alarms in two ways: as the initial feared emergency, and as later memory material folded into a more extraordinary story.
 
@@ -525,7 +525,7 @@ No wreckage is not a single fact with a single meaning. It is a fork in the inte
 
 **It may mean the report was of something genuinely unidentified.** This is the narrow but important category. If aircraft traffic checks are negative, the search area is credible, multiple witnesses agree, and conventional explanations do not fit, the case may remain unidentified without needing to jump straight to extraterrestrial recovery.
 
-NASA’s 2023 independent UAP study is useful here because it separates unidentified status from extraordinary conclusion. It emphasised that many UAP reports suffer from limited data and missing metadata, and stated that there is no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin. That caution applies strongly to crash alarms: a failed aircraft search may preserve a mystery, but it does not by itself supply a spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
+NASA’s 2023 independent UAP study is useful here because it separates unidentified status from extraordinary conclusion. It emphasised that many UAP reports suffer from limited data and missing metadata, and stated that there is no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin. That caution applies strongly to crash alarms: a failed aircraft search may preserve a mystery, but it does not by itself supply a spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -533,9 +533,9 @@ NASA’s 2023 independent UAP study is useful here because it separates unidenti
 
 The best way to assess this branch of UFO crash lore is to keep the emergency sequence separate from the later interpretation. The sequence asks what responders did and why. The interpretation asks what the unresolved facts can support.
 
-A strong case will usually have contemporary records: police logs, rescue coordination messages, coastguard reports, military tasking orders, diver logs, aviation traffic checks, newspaper accounts close to the event, and witness statements made before the story became famous. Shag Harbour is notable because Library and Archives Canada identifies records from the RCMP, Canadian Forces and other federal sources in its UFO holdings, giving researchers more than retrospective testimony to work with. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+A strong case will usually have contemporary records: police logs, rescue coordination messages, coastguard reports, military tasking orders, diver logs, aviation traffic checks, newspaper accounts close to the event, and witness statements made before the story became famous. Shag Harbour is notable because Library and Archives Canada identifies records from the RCMP, Canadian Forces and other federal sources in its UFO holdings, giving researchers more than retrospective testimony to work with.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Recherche]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
-A weaker case leans mainly on late recollections, anonymous sources, missing paperwork or escalating claims that grow far beyond the first report. Roswell demonstrates that pattern: the Government Accountability Office found two 1947 records directly concerning the Roswell event, including a unit history saying the recovered “flying disc” was later determined to be a radar-tracking balloon and an FBI teletype describing an object resembling a high-altitude weather balloon with a radar reflector. The GAO also noted destroyed records, which helped sustain suspicion, but it did not identify contemporary records proving a recovered extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records</span></span></span>
+A weaker case leans mainly on late recollections, anonymous sources, missing paperwork or escalating claims that grow far beyond the first report. Roswell demonstrates that pattern: the Government Accountability Office found two 1947 records directly concerning the Roswell event, including a unit history saying the recovered “flying disc” was later determined to be a radar-tracking balloon and an FBI teletype describing an object resembling a high-altitude weather balloon with a radar reflector. The GAO also noted destroyed records, which helped sustain suspicion, but it did not identify contemporary records proving a recovered extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government Records</span></span></span>
 
 The practical reading is therefore cautious but not dismissive. Aircraft-crash alarms are among the more interesting UFO crash pathways because they can produce official records and real searches. They are also among the easiest to overread, because the machinery of rescue can make an ambiguous sighting look more solid than it is.
 
@@ -551,194 +551,194 @@ That pathway gives UFO crash research a useful discipline. It asks for the thing
 The enduring value of this subtopic is that it keeps UFO crash discussion grounded in implementation rather than mythology. The first responders were not trying to solve a cosmic mystery; they were trying to find survivors. That is exactly why their actions matter. They show when a UFO crash story began as a real-world emergency — and where the evidence stopped short of a conventional aircraft accident.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO Crash Starts as an Air Crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO Crash Starts as an Air Crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores methods of evaluating unusual aerial reports rather than assuming conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores methods of evaluating unusual aerial reports rather than assuming conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how official investigations handle unexplained aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how official investigations handle unexplained aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official reports, pilots and investigations, matching the article&#x27;s emphasis on aviation and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official reports, pilots and investigations, matching the article&#x27;s emphasis on aviation and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern cases, investigations and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern cases, investigations and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="aircraft-when-a-ufo-crash-starts-as-an-air-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -754,7 +754,7 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -774,7 +774,7 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -806,7 +806,7 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -858,7 +858,7 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -903,7 +903,7 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -944,133 +944,133 @@ The enduring value of this subtopic is that it keeps UFO crash discussion ground
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/icao-emergency-phases" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/icao-emergency-phases</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO Emergency PhasesAnnex 12 to the ICAO Chicago Convention defines three emergency phases which are referred to as the Uncertai...</p></details>
+   Link:<a href="https://skybrary.aero/articles/icao-emergency-phases" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/icao-emergency-phases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO Emergency PhasesAnnex 12 to the ICAO Chicago Convention defines three emergency phases which are referred to as the Uncertai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airman Education Programs | Federal Aviation Administration16 Dec 2024 — When an aircraft is overdue, missing, or sends a radio distre...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airman Education Programs | Federal Aviation Administration16 Dec 2024 — When an aircraft is overdue, missing, or sends a radio distre...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1405.4720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1405.4720</a>  
+   Link:<a href="https://arxiv.org/abs/1405.4720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1405.4720</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gao.gov  
    Title: NSIAD-95-187 Government Records  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap10_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap10_section_6.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap10_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap10_section_6.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_5.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_5.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_4.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/fs_html/chap3_section_4.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: barringtonmunicipality.com  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: globalnews.ca  
    Title: Global News Canada's best-documented UFO sighting still intrigues, 50  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hangar1publishing.com  
    Title: shag harbour incident  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOorohqaXi9qIjFOJfl2oEmdcyV_r4ChfP0OULaGZC0xMBCYqcH0x</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: calgary.citynews.ca  
-   Link: <a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: icao.int  
    Title: AHWG Report on Aircraft Tracking Concept of Operations V5 Final  
-   Link: <a href="https://www.icao.int/sites/default/files/safety/OPS/AHWG-Report-on-Aircraft-Tracking-Concept-of-Operations-V5-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/OPS/AHWG-Report-on-Aircraft-Tracking-Concept-of-Operations-V5-Final.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/safety/OPS/AHWG-Report-on-Aircraft-Tracking-Concept-of-Operations-V5-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/OPS/AHWG-Report-on-Aircraft-Tracking-Concept-of-Operations-V5-Final.pdf</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caaf.org.fj  
    Title: Civil Aviation Authority Of Fiji STANDARDS DOCUMENT  
-   Link: <a href="https://www.caaf.org.fj/wp-content/uploads/2024/10/SD-Search-and-Rescue_Draft_July-2024_Clean_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caaf.org.fj/wp-content/uploads/2024/10/SD-Search-and-Rescue_Draft_July-2024_Clean_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency phase. A generic term meaning, as the case may be, uncertainty phase, alert phase or distress phase.Read more...</p></details>
+   Link:<a href="https://www.caaf.org.fj/wp-content/uploads/2024/10/SD-Search-and-Rescue_Draft_July-2024_Clean_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caaf.org.fj/wp-content/uploads/2024/10/SD-Search-and-Rescue_Draft_July-2024_Clean_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency phase. A generic term meaning, as the case may be, uncertainty phase, alert phase or distress phase.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The UFO Crash at Ramstein Airbase  
-   Link: <a href="https://www.youtube.com/watch?v=hhnRiPJOWIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhnRiPJOWIU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Pistyll Rhaeadr &amp; The Mystery of the Welsh Roswell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hhnRiPJOWIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhnRiPJOWIU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Pistyll Rhaeadr &amp; The Mystery of the Welsh Roswell...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aviationemergencyresponseplan.com  
-   Link: <a href="https://aviationemergencyresponseplan.com/wp-content/uploads/Information-SAR-Phases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationemergencyresponseplan.com/wp-content/uploads/Information-SAR-Phases.pdf</a>  
+   Link:<a href="https://aviationemergencyresponseplan.com/wp-content/uploads/Information-SAR-Phases.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aviationemergencyresponseplan.com/wp-content/uploads/Information-SAR-Phases.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/658029579/Alerting-Service" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/658029579/Alerting-Service</a>  
+   Link:<a href="https://www.scribd.com/document/658029579/Alerting-Service" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/658029579/Alerting-Service</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/area51/comments/1oaeb1p/debris_unearthed_at_the_unidentified_uav_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/1oaeb1p/debris_unearthed_at_the_unidentified_uav_crash/</a>  
+   Link:<a href="https://www.reddit.com/r/area51/comments/1oaeb1p/debris_unearthed_at_the_unidentified_uav_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/1oaeb1p/debris_unearthed_at_the_unidentified_uav_crash/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
+   Link:<a href="https://www.facebook.com/groups/301761279672585/posts/854668611048513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/301761279672585/posts/854668611048513/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pilot18.com  
-   Link: <a href="https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOoo98ffvQeYdVY0IL54_fm3M2P21-3GXYVYd401nVb1kTeuRbg9u" target="_blank" rel="noopener noreferrer nofollow">https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOoo98ffvQeYdVY0IL54_fm3M2P21-3GXYVYd401nVb1kTeuRbg9u</a>  
+   Link:<a href="https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOoo98ffvQeYdVY0IL54_fm3M2P21-3GXYVYd401nVb1kTeuRbg9u" target="_blank" rel="noopener noreferrer nofollow">https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOoo98ffvQeYdVY0IL54_fm3M2P21-3GXYVYd401nVb1kTeuRbg9u</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pilot18.com  
-   Link: <a href="https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOooPMDVW-GWCHaG5Bwq2gwWUwtvqv-7juwABXtUVANBhfc0z7e2N" target="_blank" rel="noopener noreferrer nofollow">https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOooPMDVW-GWCHaG5Bwq2gwWUwtvqv-7juwABXtUVANBhfc0z7e2N</a>  
+   Link:<a href="https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOooPMDVW-GWCHaG5Bwq2gwWUwtvqv-7juwABXtUVANBhfc0z7e2N" target="_blank" rel="noopener noreferrer nofollow">https://www.pilot18.com/wp-content/uploads/2017/10/Pilot18.com-ICAO-Annex-12-Search-and-Rescue.pdf?srsltid=AfmBOooPMDVW-GWCHaG5Bwq2gwWUwtvqv-7juwABXtUVANBhfc0z7e2N</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html</a>  
+   Link:<a href="https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html</a>  

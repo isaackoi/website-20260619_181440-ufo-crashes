@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-crashes-vs/
 description: Focused pages that expand on Crashes vs Sightings.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_crashes_vs_sightings_102ba4
 parent_title: Crashes vs Sightings
@@ -16,7 +16,7 @@ parent_permalink: /crashes-vs-sightings/
 
 # Explore Topics in Crashes vs Sightings
 
-The following pages expand on the main **[Crashes vs Sightings]({{ '/crashes-vs-sightings/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Crashes vs Sightings]({{ '/crashes-vs-sightings/' | relative_url }})** page and cover its key branches in.
 
 - [Aguadilla]({{ '/aguadilla/' | relative_url }})
 - [Records]({{ '/records/' | relative_url }})

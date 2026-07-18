@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_
 
 ## Introduction
 
-Among the most common sources of “crashed UFO” debris are the remains of radiosonde flights. A radiosonde is a small meteorological instrument carried aloft beneath a weather balloon. By the time its flight ends, the original balloon has usually burst at high altitude, leaving a scattered collection of shredded latex, string, a parachute and a battered electronics package on the ground. Found out of context, these remnants can look far stranger than ordinary litter and have repeatedly been mistaken for [evidence]({{ 'evidence/' | relative_url }}) of a mysterious craft. Weather agencies explicitly warn that recovered radiosondes are often found with cotton twine, orange parachutes and balloon fragments attached, because these components survive the descent and may land far from their launch point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
+Among the most common sources of “crashed UFO” debris are the remains of radiosonde flights. A radiosonde is a small meteorological instrument carried aloft beneath a weather balloon. By the time its flight ends, the original balloon has usually burst at high altitude, leaving a scattered collection of shredded latex, string, a parachute and a battered electronics package on the ground. Found out of context, these remnants can look far stranger than ordinary litter and have repeatedly been mistaken for [evidence]({{ 'evidence/' | relative_url }}) of a mysterious craft. Weather agencies explicitly warn that recovered radiosondes are often found with cotton twine, orange parachutes and balloon fragments attached, because these components survive the descent and may land far from their launch point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-1-dark.svg" | relative_url }}" alt="Radiosondes illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the history of UFO crash claims, radiosonde debris matters because it cre
 
 ## What a Radiosonde Flight Train Leaves Behind
 
-A radiosonde system consists of several lightweight components suspended beneath a large balloon. During ascent, the balloon expands dramatically as atmospheric pressure decreases. Eventually it bursts, and the remaining equipment descends by parachute. The instrument package may travel many kilometres from its launch site before landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffmass.blogspot.com">[Cliff Mass Weather Blog+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffmass.blogspot.com</span><span class="citation-popover-title">Cliff Mass Weather Blog What Goes Up, Must Come Down</span><span class="citation-popover-snippet">What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</span></span></span>
+A radiosonde system consists of several lightweight components suspended beneath a large balloon. During ascent, the balloon expands dramatically as atmospheric pressure decreases. Eventually it bursts, and the remaining equipment descends by parachute. The instrument package may travel many kilometres from its launch site before landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffmass.blogspot.com">[blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffmass.blogspot.com</span><span class="citation-popover-title">Cliff Mass Weather Blog What Goes Up, Must Come Down</span><span class="citation-popover-snippet">What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</span></span></span>
 
 A typical recovery site may contain:
 
@@ -296,7 +296,7 @@ A typical recovery site may contain:
 * Cotton twine or suspension lines.
 * A brightly coloured parachute, frequently orange.
 * A small electronics package containing [sensors]({{ 'sensors/' | relative_url }}), batteries and radio equipment.
-* Labels identifying the device as a weather instrument, though these may be damaged or missing after exposure to the elements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
+* Labels identifying the device as a weather instrument, though these may be damaged or missing after exposure to the elements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
 
 Because these parts can separate during descent or after landing, a finder may encounter only fragments rather than a complete, recognisable system. The result can resemble a debris field rather than a single intact object.
 
@@ -305,7 +305,7 @@ Because these parts can separate during descent or after landing, a finder may e
 
 ### Why the Pieces Often End Up Scattered
 
-A radiosonde does not necessarily land gently in one place. Winds at different altitudes can drag the parachute and instrument package across a wide area. Rain, sunlight, livestock, wildlife and agricultural equipment may further damage or redistribute the remains before anyone discovers them. A person finding only the parachute or only the electronics box may never realise they belonged to the same device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffmass.blogspot.com">[Cliff Mass Weather Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffmass.blogspot.com</span><span class="citation-popover-title">Cliff Mass Weather Blog What Goes Up, Must Come Down</span><span class="citation-popover-snippet">What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</span></span></span>
+A radiosonde does not necessarily land gently in one place. Winds at different altitudes can drag the parachute and instrument package across a wide area. Rain, sunlight, livestock, wildlife and agricultural equipment may further damage or redistribute the remains before anyone discovers them. A person finding only the parachute or only the electronics box may never realise they belonged to the same device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffmass.blogspot.com">[Cliff Mass Weather Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffmass.blogspot.com</span><span class="citation-popover-title">Cliff Mass Weather Blog What Goes Up, Must Come Down</span><span class="citation-popover-snippet">What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</span></span></span>
 
 This fragmentation is important because many crash narratives begin with partial discoveries. Witnesses often reconstruct the original object from isolated pieces, and unusual fragments can appear more mysterious when the overall structure is missing.
 
@@ -313,25 +313,25 @@ This fragmentation is important because many crash narratives begin with partial
 
 The strongest false crash clues come from the mismatch between what people expect [aircraft]({{ 'aircraft/' | relative_url }}) [wreckage]({{ 'wreckage/' | relative_url }}) to look like and what a weather-balloon system actually leaves behind.
 
-A damaged radiosonde package contains wires, circuit boards, batteries and sensors. To someone unfamiliar with meteorological equipment, it can resemble specialised military hardware or an unknown electronic device. After weeks outdoors, weathering can make identifying marks difficult to read, removing the most obvious clue to its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</span></span></span>
+A damaged radiosonde package contains wires, circuit boards, batteries and sensors. To someone unfamiliar with meteorological equipment, it can resemble specialised military hardware or an unknown electronic device. After weeks outdoors, weathering can make identifying marks difficult to read, removing the most obvious clue to its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</span></span></span>
 
-The balloon material itself can be equally misleading. Once burst, latex does not resemble a balloon. Instead it becomes torn strips of rubber-like material scattered across the ground. Combined with cords and parachute fabric, the remains can suggest that something larger and more complex broke apart overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
+The balloon material itself can be equally misleading. Once burst, latex does not resemble a balloon. Instead it becomes torn strips of rubber-like material scattered across the ground. Combined with cords and parachute fabric, the remains can suggest that something larger and more complex broke apart overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-2-dark.svg" | relative_url }}" alt="Radiosondes illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Radar Reflector Problem
 
-Historically, some balloon systems carried radar [reflectors]({{ 'reflectors/' | relative_url }}) designed to make them easier to track. These structures often used lightweight frames combined with reflective foil surfaces. When damaged, they produced angular fragments, metallic-looking material and unusual geometric shapes that looked unfamiliar to people expecting conventional aircraft components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
+Historically, some balloon systems carried radar [reflectors]({{ 'reflectors/' | relative_url }}) designed to make them easier to track. These structures often used lightweight frames combined with reflective foil surfaces. When damaged, they produced angular fragments, metallic-looking material and unusual geometric shapes that looked unfamiliar to people expecting conventional aircraft components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
 
-This feature became especially significant in discussions of UFO crashes because witnesses frequently described foil, sticks, tape and oddly shaped reflective material. Such descriptions closely match known balloon-tracking equipment rather than propulsion systems, engines or structural components from a vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
+This feature became especially significant in discussions of UFO crashes because witnesses frequently described foil, sticks, tape and oddly shaped reflective material. Such descriptions closely match known balloon-tracking equipment rather than propulsion systems, engines or structural components from a vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
 
 ## Roswell and the Importance of Debris Interpretation
 
 The most famous example of balloon debris being interpreted as something extraordinary is the 1947 Roswell incident.
 
-Contemporary descriptions of the recovered material referred to rubber, foil-like material, paper, tape and lightweight structural pieces rather than heavy machinery or aircraft components. Later investigations by the U.S. Air Force and other government reviews concluded that the debris was most likely associated with Project Mogul, a classified balloon programme that used long balloon trains, radar reflectors and scientific equipment. FAS Project on Government Secrecy+2National Security Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that somethi...</span></span></span>
+Contemporary descriptions of the recovered material referred to rubber, foil-like material, paper, tape and lightweight structural pieces rather than heavy machinery or aircraft components. Later investigations by the U.S. Air Force and other government reviews concluded that the debris was most likely associated with Project Mogul, a classified balloon programme that used long balloon trains, radar reflectors and scientific equipment. FAS Project on Government Secrecy+2National Security Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that somethi...</span></span></span>
 
-What makes Roswell particularly relevant to radiosonde-style recoveries is not the broader debate about the case, but the way apparently strange debris acquired extraordinary interpretations. Researchers examining the recovered materials noted that features often described as unusual—reflective foil, lightweight sticks, eyelets and balloon remnants—corresponded closely to balloon and radar-target construction methods of the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
+What makes Roswell particularly relevant to radiosonde-style recoveries is not the broader debate about the case, but the way apparently strange debris acquired extraordinary interpretations. Researchers examining the recovered materials noted that features often described as unusual—reflective foil, lightweight sticks, eyelets and balloon remnants—corresponded closely to balloon and radar-target construction methods of the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more</span><span class="citation-popover-snippet">Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</span></span></span>
 
 The episode demonstrates how unfamiliar balloon hardware can appear highly anomalous when viewed without knowledge of its original purpose.
 
@@ -342,21 +342,21 @@ The episode demonstrates how unfamiliar balloon hardware can appear highly anoma
 
 When investigators evaluate a suspected crash site, several indicators point towards a radiosonde rather than a crashed vehicle.
 
-**Lightweight materials.** Radiosonde systems are designed to minimise weight. Most recovered components are surprisingly light and fragile compared with aircraft wreckage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weather balloon</span><span class="citation-popover-snippet">Weather balloon</span></span></span>
+**Lightweight materials.** Radiosonde systems are designed to minimise weight. Most recovered components are surprisingly light and fragile compared with aircraft wreckage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weather balloon</span><span class="citation-popover-snippet">Weather balloon</span></span></span>
 
-**Parachutes and suspension lines.** The presence of an orange parachute, cotton twine or attachment cords strongly suggests a balloon-borne instrument package. Weather agencies specifically identify these items as common recovery features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
+**Parachutes and suspension lines.** The presence of an orange parachute, cotton twine or attachment cords strongly suggests a balloon-borne instrument package. Weather agencies specifically identify these items as common recovery features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
 
-**Absence of propulsion components.** Radiosonde debris contains no engines, fuel systems, turbines or heavy structural elements. Reports describing only foil, rubber, string and lightweight electronics align poorly with a powered craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+**Absence of propulsion components.** Radiosonde debris contains no engines, fuel systems, turbines or heavy structural elements. Reports describing only foil, rubber, string and lightweight electronics align poorly with a powered craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-**Electronics designed for measurement.** Recovered instrument packages typically contain sensors, batteries, antennas and radio transmitters rather than navigation systems or cockpit equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</span></span></span>
+**Electronics designed for measurement.** Recovered instrument packages typically contain sensors, batteries, antennas and radio transmitters rather than navigation systems or cockpit equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</span></span></span>
 
-**Known recovery patterns.** Weather [balloons]({{ 'balloons/' | relative_url }}) are launched worldwide every day, and their payloads routinely descend far from launch locations. Finding one in an unexpected place is unusual for the finder but entirely normal for the meteorological system that produced it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIIntegrated Global Radiosonde Archive (IGRA</span><span class="citation-popover-snippet">May 25, 2021 — The Integrated Global Radiosonde Archive (IGRA) consists of radiosonde and pilot balloon observations from more than 2,800...</span><span class="citation-popover-meta">Published: May 25, 2021</span></span></span>
+**Known recovery patterns.** Weather [balloons]({{ 'balloons/' | relative_url }}) are launched worldwide every day, and their payloads routinely descend far from launch locations. Finding one in an unexpected place is unusual for the finder but entirely normal for the meteorological system that produced it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIIntegrated Global Radiosonde Archive (IGRA</span><span class="citation-popover-snippet">May 25, 2021 — The Integrated Global Radiosonde Archive (IGRA) consists of radiosonde and pilot balloon observations from more than 2,800...</span><span class="citation-popover-meta">Published: May 25, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-3-dark.svg" | relative_url }}" alt="Radiosondes illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_balloon_misidentific_7c5cdb_radiosonde_debris_c9d8da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why False Crash Clues Persist
 
-Radiosonde recoveries create a perfect recipe for misunderstanding. The debris is real, it falls from the sky, it often lands in remote places, and it can look unfamiliar even to technically minded observers. Most people never see a weather balloon flight train intact, so they encounter only the damaged remains. Once the original context is lost, shredded balloon skin, tangled cords, parachute fabric and small electronics can appear far more mysterious than they really are. National Weather Service+2Carnegie Museum of Natural History <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
+Radiosonde recoveries create a perfect recipe for misunderstanding. The debris is real, it falls from the sky, it often lands in remote places, and it can look unfamiliar even to technically minded observers. Most people never see a weather balloon flight train intact, so they encounter only the damaged remains. Once the original context is lost, shredded balloon skin, tangled cords, parachute fabric and small electronics can appear far more mysterious than they really are. National Weather Service+2Carnegie Museum of Natural History<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">discard the remaining items. This helps...</span></span></span>
 
 For that reason, recovered radiosonde debris occupies an important place in the history of UFO crash reports. It demonstrates how ordinary atmospheric research equipment can generate convincing crash clues without producing evidence of an unknown craft. The key lesson is that debris alone does not establish the nature of what fell; the identification depends on whether the recovered materials match the known signatures of balloon systems or something genuinely outside established technology.
 
@@ -365,194 +365,194 @@ For that reason, recovered radiosonde debris occupies an important place in the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Radiosonde Debris Can Look Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Radiosonde Debris Can Look Like a Crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fBMgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Benson Saler, Charles A. Ziegler et al.</p>
         
-        <p class="fr-book-desc">Addresses how ordinary recovered materials became extraordinary stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how ordinary recovered materials became extraordinary stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Benson+Saler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Covers balloon hardware and evidence-based explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers balloon hardware and evidence-based explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides context for modern UFO identification efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for modern UFO identification efforts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains investigative methods relevant to debris recoveries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative methods relevant to debris recoveries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art"><img src="https://i.ebayimg.com/images/g/yygAAeSw2FppvR8m/s-l225.jpg" alt="Listing image for Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro Pin Up Alien Poster, UFO Crash Sci-Fi Girl Vintage Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE"><img src="https://i.ebayimg.com/images/g/VSkAAeSwBXRp68Hp/s-l225.jpg" alt="Listing image for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene"><img src="https://i.ebayimg.com/images/g/gswAAeSwQ6lpvRt7/s-l225.jpg" alt="Listing image for Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Crash Pin-Up Poster – Retro Alien Encounter Scene</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="radiosondes-why-radiosonde-debris-can-look-like-a-crash-ufo-crashes-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE"><img src="https://i.ebayimg.com/images/g/gV8AAeSwdOFqJyo-/s-l225.jpg" alt="Listing image for ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">ROSWEL TV SHOW CAST 8.5X11 SIGNED PHOTO AUTOGRAPH 1947 UFO CRASH POSTER PICTURE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO crash poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO crash poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+crash+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO crash poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="why-radiosonde-debris-can-look-like-a-crash-ufo-crash-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,151 +758,151 @@ For that reason, recovered radiosonde debris occupies an important place in the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>discard the remaining items. This helps...</p></details>
+   Link:<a href="https://www.weather.gov/upperair/radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/radiosonde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>discard the remaining items. This helps...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric...16 Sept 2025 — If found, radiosondes are safe to handle, as long as the balloon is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonRadiosondes are attached to cotton twine which may also be attached to an orange parachute and/or shredde...</p></details>
+   Link:<a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonRadiosondes are attached to cotton twine which may also be attached to an orange parachute and/or shredde...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that somethi...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe Air Force report concluded that there was no dispute that somethi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: CHANNEL ITALIARoswell  
-   Link: <a href="https://www.history.com/articles/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOsNov 9, 2009 — It was the remains of a 700-foot-long string of neoprene balloons...</p></details>
+   Link:<a href="https://www.history.com/articles/roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIARoswell - New Mexico, Alien &amp; UFOsNov 9, 2009 — It was the remains of a 700-foot-long string of neoprene balloons...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncei.noaa.gov  
    Title: NCEIIntegrated Global Radiosonde Archive (IGRA)  
-   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2021 — The Integrated Global Radiosonde Archive (IGRA) consists of radiosonde and pilot balloon observations from more than 2,800...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2021 — The Integrated Global Radiosonde Archive (IGRA) consists of radiosonde and pilot balloon observations from more than 2,800...</p></details>
    Published: May 25, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1995, the US Government released a report concluding that the Roswell Incident stemmed from a Project MOGUL b...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1995, the US Government released a report concluding that the Roswell Incident stemmed from a Project MOGUL b...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cliffmass.blogspot.com  
    Title: Cliff Mass Weather Blog What Goes Up, Must Come Down  
-   Link: <a href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow">https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</p></details>
+   Link:<a href="https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html" target="_blank" rel="noopener noreferrer nofollow">https://cliffmass.blogspot.com/2022/01/what-goes-up-must-come-down-what-do-you.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Do You Do When...30 Jan 2022 — radiosonde, a balloon-launched weather station that rises to around 110,000 feet before the balloon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: carnegiemnh.org  
-   Link: <a href="https://carnegiemnh.org/weather-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://carnegiemnh.org/weather-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One man&#x27;s trash is another man&#x27;s weather instrumentAfter the balloon pops, an orange parachute carries the spent instrument slowly to the...</p></details>
+   Link:<a href="https://carnegiemnh.org/weather-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://carnegiemnh.org/weather-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One man&#x27;s trash is another man&#x27;s weather instrumentAfter the balloon pops, an orange parachute carries the spent instrument slowly to the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalinquirer.org  
    Title: NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — These balloons were made of polyethylene—Mylar being a trademark—that had been “aluminiz...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — These balloons were made of polyethylene—Mylar being a trademark—that had been “aluminiz...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recovered material was in real...</p></details>
+   Link:<a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident | Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — In 1994 the air force admitted that the recovered material was in real...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulHe then summoned the base weather officer, who identified the debris as the remnants of a weather balloon and its...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muller LabProject MogulHe then summoned the base weather officer, who identified the debris as the remnants of a weather balloon and its...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mildlyinteresting/comments/13vy3gk/i_found_a_weather_balloon_in_our_driveway_today/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildlyinteresting/comments/13vy3gk/i_found_a_weather_balloon_in_our_driveway_today/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I found a weather balloon in our driveway todayThis is a radiosonde, a balloon-borne instrument used by the NOAA National Weather Service...</p></details>
+   Link:<a href="https://www.reddit.com/r/mildlyinteresting/comments/13vy3gk/i_found_a_weather_balloon_in_our_driveway_today/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mildlyinteresting/comments/13vy3gk/i_found_a_weather_balloon_in_our_driveway_today/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I found a weather balloon in our driveway todayThis is a radiosonde, a balloon-borne instrument used by the NOAA National Weather Service...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — It was, in Brazel&#x27;s words, “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — It was, in Brazel&#x27;s words, “a large area of bright wreckage made up of rubber strips, tinfoil, and rather tough paper, and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nasw.org  
-   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse Marcel, to check out the report...</p></details>
+   Link:<a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse Marcel, to check out the report...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alloons, was part of Project MOGUL - a [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alloons, was part of Project MOGUL - a [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/thedullclub/posts/3492973750907719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedullclub/posts/3492973750907719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oon-borne insturment used by NOAA to obtain data aloft for weather...</p></details>
+   Link:<a href="https://www.facebook.com/groups/thedullclub/posts/3492973750907719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thedullclub/posts/3492973750907719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oon-borne insturment used by NOAA to obtain data aloft for weather...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sciencefriday.com  
    Title: the real roswell cover up spying on air  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Roswell Cover-Up? Spying On AirJul 21, 2017 — The radar reflectors glinted eerily in the moonlight as well, and when the columns...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Roswell Cover-Up? Spying On AirJul 21, 2017 — The radar reflectors glinted eerily in the moonlight as well, and when the columns...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Basement: James Fox | UFO Disclosure, Varginha, and the Captured Creature  
-   Link: <a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: World-changing confession: Doctor describes studying live alien | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Zit-08rtkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: James Fox | UFO Disclosure, Varginha, and the Captured Creature...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5Zit-08rtkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Zit-08rtkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: James Fox | UFO Disclosure, Varginha, and the Captured Creature...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-crash-folklore/
 description: Focused pages that expand on Tourism.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_crash_folklore_touri_50ae99
 parent_title: Tourism
@@ -16,7 +16,7 @@ parent_permalink: /tourism/
 
 # Explore Topics in Tourism
 
-The following pages expand on the main **[Tourism]({{ '/tourism/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Tourism]({{ '/tourism/' | relative_url }})** page and cover its key branches in.
 
 - [Aurora Legend]({{ '/aurora-legend/' | relative_url }})
 - [Space Acorn]({{ '/space-acorn-f6d321/' | relative_url }})

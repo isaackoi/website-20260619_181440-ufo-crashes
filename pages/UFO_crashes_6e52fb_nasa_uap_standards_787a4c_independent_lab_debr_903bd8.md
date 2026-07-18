@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_l
 
 ## Introduction
 
-For any claimed UFO crash fragment, the most persuasive [evidence]({{ 'evidence/' | relative_url }}) is not that a material looks unusual, but that independent laboratories can repeatedly measure unusual properties while ruling out known terrestrial explanations. NASA’s broader UAP standards emphasise calibrated data, repeatability and transparency. Applied to alleged crash debris, that means a sample should survive scrutiny from multiple laboratories using different instruments, with results that can be independently reproduced and compared against known aerospace, industrial, military and meteoritic materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+For any claimed UFO crash fragment, the most persuasive [evidence]({{ 'evidence/' | relative_url }}) is not that a material looks unusual, but that independent laboratories can repeatedly measure unusual properties while ruling out known terrestrial explanations. NASA’s broader UAP standards emphasise calibrated data, repeatability and transparency. Applied to alleged crash debris, that means a sample should survive scrutiny from multiple laboratories using different instruments, with results that can be independently reproduced and compared against known aerospace, industrial, military and meteoritic materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-1-dark.svg" | relative_url }}" alt="Lab Tests illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ Second, multiple accredited laboratories would need to analyse the material inde
 
 Third, the findings would need to be reproducible. If one laboratory reports an unusual isotopic ratio, crystal structure or elemental composition, other laboratories using different equipment should obtain essentially the same result.
 
-Finally, researchers would need to demonstrate that ordinary explanations have been systematically excluded. A surprising result is not automatically evidence of non-human technology; it may reflect a rare industrial process, contamination, an unusual geological source or an overlooked manufacturing technique. NASA's UAP study stressed that scientific progress depends on high-quality data and repeatable measurements rather than isolated observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+Finally, researchers would need to demonstrate that ordinary explanations have been systematically excluded. A surprising result is not automatically evidence of non-human technology; it may reflect a rare industrial process, contamination, an unusual geological source or an overlooked manufacturing technique. NASA's UAP study stressed that scientific progress depends on high-quality data and repeatable measurements rather than isolated observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 ## Tests That Could Be Repeated
 
@@ -317,7 +317,7 @@ One of the most discussed categories of testing involves isotopes. Isotopes are 
 
 If a fragment displayed isotope ratios that could not be explained by known terrestrial processes, investigators would have a potentially significant anomaly. However, such a claim would require confirmation by multiple laboratories using independent methods. A single laboratory result would not be sufficient.
 
-The often-cited [Ubatuba magnesium]({{ 'ubatuba-c1b7c1/' | relative_url }}) fragment from Brazil illustrates both the appeal and the difficulty of isotopic evidence. Modern analyses reported highly pure magnesium and examined isotopic ratios in the sample, generating discussion about whether the material was unusual. Yet even supporters of further investigation acknowledge that questions about [provenance]({{ 'provenance/' | relative_url }}) and chain of custody limit the strength of any conclusions drawn from the fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org+2journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Isotope Ratios and Chemical Analysis of the 1957 Brazilian...May 24, 2022 — 22 May 2022 — A sample from the Ubatuba fragment collected i...</span><span class="citation-popover-meta">Published: May 24, 2022</span></span></span>
+The often-cited [Ubatuba magnesium]({{ 'ubatuba-c1b7c1/' | relative_url }}) fragment from Brazil illustrates both the appeal and the difficulty of isotopic evidence. Modern analyses reported highly pure magnesium and examined isotopic ratios in the sample, generating discussion about whether the material was unusual. Yet even supporters of further investigation acknowledge that questions about [provenance]({{ 'provenance/' | relative_url }}) and chain of custody limit the strength of any conclusions drawn from the fragment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Isotope Ratios and Chemical Analysis of the 1957 Brazilian...May 24, 2022 — 22 May 2022 — A sample from the Ubatuba fragment collected i...</span><span class="citation-popover-meta">Published: May 24, 2022</span></span></span>
 
 ### Microstructure and manufacturing signatures
 
@@ -348,7 +348,7 @@ When a laboratory encounters an unusual specimen, researchers do not begin by as
 
 This baseline work is essential because human observers are poor judges of material rarity. A fragment that appears unique to a witness may closely resemble specialised industrial products familiar to metallurgists.
 
-The history of UFO investigations contains numerous examples in which apparently exotic debris was later identified as conventional material. The U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has described cases in which alleged extraterrestrial fragments subjected to analysis were ultimately determined to be ordinary terrestrial alloys. Metabunk+3U.S. Department of War+3AARO <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: The Project BEAR report was based on a statistical analysis...</span></span></span>
+The history of UFO investigations contains numerous examples in which apparently exotic debris was later identified as conventional material. The U.S. Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) has described cases in which alleged extraterrestrial fragments subjected to analysis were ultimately determined to be ordinary terrestrial alloys. Metabunk+3U.S. Department of War+3AARO<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: The Project BEAR report was based on a statistical analysis...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EBsUIj_UBBE" title="UFO explosion fragments from Ubatuba, Brazil | Garry Nolan and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EBsUIj_UBBE" target="_blank" rel="noopener noreferrer">UFO explosion fragments from Ubatuba, Brazil | Garry Nolan and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 1.1M &middot; Uploaded: February 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EBsUIj_UBBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EBsUIj_UBBE">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ An isolated anomaly can arise from:
 
 For this reason, laboratories treat extraordinary results as starting points rather than conclusions. Replication is the critical test.
 
-NASA's UAP study repeatedly emphasised that poor-quality data, incomplete [records]({{ 'records/' | relative_url }}) and insufficient measurements make definitive conclusions difficult. The same principle applies to crash debris. One laboratory reporting an unusual isotope ratio or uncommon alloy composition may justify further investigation, but it does not establish the existence of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's UAP study repeatedly emphasised that poor-quality data, incomplete [records]({{ 'records/' | relative_url }}) and insufficient measurements make definitive conclusions difficult. The same principle applies to crash debris. One laboratory reporting an unusual isotope ratio or uncommon alloy composition may justify further investigation, but it does not establish the existence of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 The strongest evidence would emerge only if multiple independent teams repeatedly observed the same anomaly while ruling out all known terrestrial sources. Until that threshold is reached, unusual results remain precisely that: unusual results.
 
@@ -381,7 +381,7 @@ The strongest evidence would emerge only if multiple independent teams repeatedl
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-3-dark.svg" | relative_url }}" alt="Lab Tests illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Evidence Standard Implied by NASA's Approach
 
-NASA's public position on UAP is notable for what it does not do. The agency has stated that it has found no evidence that UAP are extraterrestrial in origin, while also acknowledging that some observations remain unexplained because of insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's public position on UAP is notable for what it does not do. The agency has stated that it has found no evidence that UAP are extraterrestrial in origin, while also acknowledging that some observations remain unexplained because of insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 Applied to alleged crash debris, this framework points toward a straightforward evidentiary standard. A fragment would become genuinely compelling if independent laboratories could repeatedly demonstrate unusual physical properties, document an unbroken chain of custody, compare the material against all plausible terrestrial sources and publish methods that other researchers could verify. Until then, claims of exotic debris remain hypotheses rather than established evidence.
 
@@ -392,194 +392,194 @@ The distinction is important. A fragment can look strange, test strangely or eve
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Make Exotic Debris Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Make Exotic Debris Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Matches NASA-style emphasis on evidence, data quality and skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Matches NASA-style emphasis on evidence, data quality and skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Covers repeatability, laboratory methods, and evidence validation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers repeatability, laboratory methods, and evidence validation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides prominent cases where evidence quality is debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides prominent cases where evidence quality is debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
+</h4>
+<p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
         
-        <p class="fr-book-desc">Shows how reliable samples reach independent laboratories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reliable samples reach independent laboratories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="lab-tests-what-would-make-exotic-debris-convincing-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,114 +785,114 @@ The distinction is important. A fragment can look strange, test strangely or eve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsWithout access to an extensive set of data, it is nearly impossible to verify or explain any observation, thus the fo...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsWithout access to an extensive set of data, it is nearly impossible to verify or explain any observation, thus the fo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...May 24, 2022 — 22 May 2022 — A sample from the Ubatuba fragment collected i...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...May 24, 2022 — 22 May 2022 — A sample from the Ubatuba fragment collected i...</p></details>
    Published: May 24, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...22 May 2022 — A sample from the Ubatuba fragment collected in Brazil in 195...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...22 May 2022 — A sample from the Ubatuba fragment collected in Brazil in 195...</p></details>
    Published: May 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: The Project BEAR report was based on a statistical analysis...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: The Project BEAR report was based on a statistical analysis...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Alloy AARO learned through an interviewee that...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Alloy AARO learned through an interviewee that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19680000293" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19680000293</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Serverby NR Chellew · 1968 — Apparatus is used to prepare isotopically pure magnesium isotope-24, suitable for use...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19680000293" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19680000293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Serverby NR Chellew · 1968 — Apparatus is used to prepare isotopically pure magnesium isotope-24, suitable for use...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: But we don't know what these UAP are.Read more  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...Sep 14, 2023 — &quot;The NASA independent study team did not find any eviden...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNASA UAP report finds no evidence of &quot;extraterrestrial...Sep 14, 2023 — &quot;The NASA independent study team did not find any eviden...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Report on the Historical Record of US Government...What information has been gathered via face-to-face interviews with whistleblo...</p></details>
+   Link:<a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Report on the Historical Record of US Government...What information has been gathered via face-to-face interviews with whistleblo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the &quot;Ubatuba&quot; material by Robert Powell: r/ufoThe fragment is allegedly from Ubatuba, Brazil. The man who found it is unknow...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the &quot;Ubatuba&quot; material by Robert Powell: r/ufoThe fragment is allegedly from Ubatuba, Brazil. The man who found it is unknow...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Events Possibly Related to the &#x27;&#x27;Brazil MagnesiumInquiries in the Ubatuba area have yielded evidence of three aerial events that may b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237309319_On_Events_Possibly_Related_to_the_%27%27Brazil_Magnesium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Events Possibly Related to the &#x27;&#x27;Brazil MagnesiumInquiries in the Ubatuba area have yielded evidence of three aerial events that may b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and NASA: There is No Reliable Data, But We Still...UFOs and NASA: There is No Reliable Data, But We Still Want to Investigate Them...</p></details>
+   Link:<a href="https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107167561/UFOs_and_NASA_There_is_No_Reliable_Data_But_We_Still_Want_to_Investigate_Them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and NASA: There is No Reliable Data, But We Still...UFOs and NASA: There is No Reliable Data, But We Still Want to Investigate Them...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Composition-Analysis-of-the-Brazil-Magnesium-Sturrock-Sturrock/c1f8a88ed69cf2a6dcccacebe992db42df814bef" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Composition-Analysis-of-the-Brazil-Magnesium-Sturrock-Sturrock/c1f8a88ed69cf2a6dcccacebe992db42df814bef</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Composition-Analysis-of-the-Brazil-Magnesium-Sturrock-Sturrock/c1f8a88ed69cf2a6dcccacebe992db42df814bef" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Composition-Analysis-of-the-Brazil-Magnesium-Sturrock-Sturrock/c1f8a88ed69cf2a6dcccacebe992db42df814bef</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...24 May 2026 — A sample from the Ubatuba fragment collected in Brazil in 195...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...24 May 2026 — A sample from the Ubatuba fragment collected in Brazil in 195...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA Administrator Bill Nelson said on Thursday that after a yearlong stud...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA Administrator Bill Nelson said on Thursday that after a yearlong stud...</p></details>

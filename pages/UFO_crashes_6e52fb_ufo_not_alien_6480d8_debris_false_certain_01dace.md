@@ -293,9 +293,9 @@ Within the broader question of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}
 
 Descriptions of unusual [wreckage]({{ 'wreckage/' | relative_url }}) often sound persuasive because they focus on properties that appear extraordinary. Witnesses may describe metal that could not be bent, fragments that seemed unusually light, markings that resembled unknown writing, or materials unlike anything they had previously seen.
 
-The problem is that descriptions are not the same as documented measurements. Human memory is reconstructive rather than photographic. Accounts recorded decades after an event are especially vulnerable to contamination from media coverage, books, documentaries, and discussions with other witnesses. Researchers studying the evolution of the Roswell story have noted that later claims about exotic debris and unusual symbols appeared long after the original 1947 reports, which described far more mundane materials. Historical reviews of witness testimony have found that the most dramatic features often emerged as the narrative expanded over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The problem is that descriptions are not the same as documented measurements. Human memory is reconstructive rather than photographic. Accounts recorded decades after an event are especially vulnerable to contamination from media coverage, books, documentaries, and discussions with other witnesses. Researchers studying the evolution of the Roswell story have noted that later claims about exotic debris and unusual symbols appeared long after the original 1947 reports, which described far more mundane materials. Historical reviews of witness testimony have found that the most dramatic features often emerged as the narrative expanded over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-Another difficulty is that unfamiliar does not mean alien. Military programmes, experimental materials, weather equipment, aerospace components, and industrial alloys can appear highly unusual to people who encounter them outside their normal context. Investigations of alleged UFO fragments have repeatedly found terrestrial explanations after laboratory analysis. For example, a recently publicised metal sample promoted in UFO circles was identified as a magnesium-zinc alloy containing trace elements rather than evidence of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">It also contains bismuth, lead, and other</span><span class="citation-popover-snippet">Popular MechanicsUFO Hunters Believe a Mysterious Metal Shard Could Have Alien...March 23, 2026 — It turned out that the object was a ma...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+Another difficulty is that unfamiliar does not mean alien. Military programmes, experimental materials, weather equipment, aerospace components, and industrial alloys can appear highly unusual to people who encounter them outside their normal context. Investigations of alleged UFO fragments have repeatedly found terrestrial explanations after laboratory analysis. For example, a recently publicised metal sample promoted in UFO circles was identified as a magnesium-zinc alloy containing trace elements rather than evidence of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">It also contains bismuth, lead, and other</span><span class="citation-popover-snippet">Popular MechanicsUFO Hunters Believe a Mysterious Metal Shard Could Have Alien...March 23, 2026 — It turned out that the object was a ma...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 A debris story can therefore become convincing not because the evidence is strong, but because the description is vivid. The more memorable the description, the easier it is for listeners to assume that scientific verification already exists.
 
@@ -337,7 +337,7 @@ When military activities are classified, information gaps naturally emerge. Peop
 
 A common pattern in UFO crash stories is the gradual transformation of unknown debris into extraordinary debris. Early reports describe [unidentified]({{ 'unidentified/' | relative_url }}) fragments. Later retellings add unusual properties. Still later accounts introduce claims of impossible materials, exotic symbols, or recovered craft. Over time, the story can become detached from the original evidence.
 
-The Roswell case is frequently cited as an example of this process. Historical analyses have documented how witness accounts evolved over decades, with increasingly dramatic descriptions becoming attached to the narrative. Researchers examining the development of the story have argued that elements from different UFO legends, rumours, and second-hand accounts became intertwined with the original debris reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+The Roswell case is frequently cited as an example of this process. Historical analyses have documented how witness accounts evolved over decades, with increasingly dramatic descriptions becoming attached to the narrative. Researchers examining the development of the story have argued that elements from different UFO legends, rumours, and second-hand accounts became intertwined with the original debris reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 Rumour can also benefit from a self-reinforcing logic. If evidence is unavailable, believers may attribute the absence to a cover-up. If evidence appears mundane, it may be dismissed as part of the cover-up. In such situations, secrecy itself becomes treated as evidence, even though secrecy can arise from many unrelated reasons, including national security, classified technology, or simple bureaucratic caution.
 
@@ -350,7 +350,7 @@ Physical wreckage is often described as the "smoking gun" of UFO crash claims be
 
 A physical object allows testing, measurement, and replication. That is an advantage only if researchers can demonstrate where the object came from and how it was handled. Otherwise, the object becomes another unidentified item attached to an unidentified story.
 
-Modern official reviews of historical UFO claims have repeatedly concluded that there is no verified evidence that recovered debris represents extraterrestrial technology. The Pentagon's All-domain Anomaly Resolution Office stated in its historical review that it found no evidence that government investigations had confirmed extraterrestrial technology or recovered alien craft, and that many longstanding claims lacked supporting documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/war-gov-ufo-department-of-war-releases-uap-files-2026-release-1.14870/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">War.gov/UFO</span><span class="citation-popover-snippet">Department of War Releases UAP Files8 May 2026 — The problem is that the UFO crowd, a relatively small but very vocal group, steadfastly...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) The office's public statements continue to report no evidence of extraterrestrial technology despite ongoing examination of UAP reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
+Modern official reviews of historical UFO claims have repeatedly concluded that there is no verified evidence that recovered debris represents extraterrestrial technology. The Pentagon's All-domain Anomaly Resolution Office stated in its historical review that it found no evidence that government investigations had confirmed extraterrestrial technology or recovered alien craft, and that many longstanding claims lacked supporting documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/war-gov-ufo-department-of-war-releases-uap-files-2026-release-1.14870/page-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">War.gov/UFO</span><span class="citation-popover-snippet">Department of War Releases UAP Files8 May 2026 — The problem is that the UFO crowd, a relatively small but very vocal group, steadfastly...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) The office's public statements continue to report no evidence of extraterrestrial technology despite ongoing examination of UAP reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
 That conclusion does not prove that every UFO crash story is false. It does show why debris claims require rigorous scrutiny. The presence of alleged wreckage may make a story feel settled, but certainty should come from verified provenance, transparent testing, and independent confirmation—not from the mere existence of an unusual object or a compelling anecdote about one.
 
@@ -358,194 +358,194 @@ That conclusion does not prove that every UFO crash story is false. It does show
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_debris_false_certain_01dace-Illustration-3-dark.svg" | relative_url }}" alt="Debris Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_debris_false_certain_01dace-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_ufo_not_alien_6480d8_debris_false_certain_01dace-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Debris Stories Sound Too Certain. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Debris Stories Sound Too Certain. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses evidence standards and investigative challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence standards and investigative challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how reports remain unresolved without adequate data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reports remain unresolved without adequate data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Highlights documentation and chain-of-evidence issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights documentation and chain-of-evidence issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why evidence quality matters more than anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why evidence quality matters more than anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/3f686c5f20119197f478.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/3f686c5f20119197f478.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f634bef748ece0c7d6d.jpg' | relative_url }}" alt="Listing image for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f634bef748ece0c7d6d.jpg' | relative_url }}" alt="Listing image for Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute One Eyed Alien Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="debris-claims-when-debris-stories-sound-too-certain-ufo-crashes-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,105 +751,105 @@ That conclusion does not prove that every UFO crash story is false. It does show
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;[AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;[AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has found no verifiable evidence that the U.S...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office&quot;Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report&quot;. Space.com...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office&quot;Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report&quot;. Space.com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: popularmechanics.com  
    Title: It also contains bismuth, lead, and other  
-   Link: <a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsUFO Hunters Believe a Mysterious Metal Shard Could Have Alien...March 23, 2026 — It turned out that the object was a ma...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsUFO Hunters Believe a Mysterious Metal Shard Could Have Alien...March 23, 2026 — It turned out that the object was a ma...</p></details>
    Published: March 23, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial... operation to conceal the f...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial... operation to conceal the f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=48061938" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=48061938</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government releases first batch of UAP documents and...9 May 2026 — [https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re](https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re)... http...</p></details>
+   Link:<a href="https://news.ycombinator.com/item?id=48061938" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=48061938</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government releases first batch of UAP documents and...9 May 2026 — [https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re](https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re)... http...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO found no evidence to suggest that the USAF had a policy intended to cover up the evide...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO found no evidence to suggest that the USAF had a policy intended to cover up the evide...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakThe report argued that witnesses recalling these events decades later simply misremembered the timeframe, conflati...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/roswell-witnesses?srsltid=AfmBOopeVbWr0Bi998T_sfxBOgqgu4nzbRBj7MMtJnBJJ3rvrZ2S7Ah2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Witnesses SpeakThe report argued that witnesses recalling these events decades later simply misremembered the timeframe, conflati...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: The Pentagon released the first batch of &quot;never...Trump Orders Pentagon to Start Releasing &#x27;Alien/UFO&#x27; Files — But Watch the Timi...</p></details>
+   Link:<a href="https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCAXTV/posts/watch-the-pentagon-released-the-first-batch-of-never-before-seen-ufo-files-and-m/1413692967453118/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: The Pentagon released the first batch of &quot;never...Trump Orders Pentagon to Start Releasing &#x27;Alien/UFO&#x27; Files — But Watch the Timi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... recovered alien materials from the public and attempted to... NASA Repor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... recovered alien materials from the public and attempted to... NASA Repor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z0mnVRoYVoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z0mnVRoYVoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Hearing LIVE | Ex-UFO Investigator Alleges US...UFO Files Hearing LIVE | Ex-UFO Investigator Alleges US Recovered Multiple Ali...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z0mnVRoYVoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z0mnVRoYVoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Hearing LIVE | Ex-UFO Investigator Alleges US...UFO Files Hearing LIVE | Ex-UFO Investigator Alleges US Recovered Multiple Ali...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 395734150 Ramey Memo An In Depth Scientifically Based Deep Research Study  
-   Link: <a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army and military underwent reorganization for peacetime. Two years later, in 1947, when the Roswell (UFO)/(UAP) crash...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395734150_Ramey_Memo-An_In_Depth_Scientifically_Based_Deep_Research_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army and military underwent reorganization for peacetime. Two years later, in 1947, when the Roswell (UFO)/(UAP) crash...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... claim-alien-ufo-communication-progr am/. (PUBLIC DOMAIN) - 13 January...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... claim-alien-ufo-communication-progr am/. (PUBLIC DOMAIN) - 13 January...</p></details>

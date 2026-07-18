@@ -280,7 +280,7 @@ image: /assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance
 
 ## Introduction
 
-In alleged UFO crash cases, a laboratory can determine what a fragment is made of, but it cannot establish where that fragment came from. That second question depends on provenance: the documented history linking a sample to a specific recovery event. When provenance fails, even sophisticated chemical, isotopic or microscopic testing becomes difficult to interpret. A metal fragment may be unusual, highly engineered or initially [unidentified]({{ 'unidentified/' | relative_url }}), yet still remain inconclusive if investigators cannot demonstrate where it was found, who handled it, whether it was contaminated, and what ordinary sources were excluded. In practice, provenance failures are one of the most common reasons that [debris claims]({{ 'debris-claims/' | relative_url }}) remain unresolved rather than confirmed or disproved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
+In alleged UFO crash cases, a laboratory can determine what a fragment is made of, but it cannot establish where that fragment came from. That second question depends on provenance: the documented history linking a sample to a specific recovery event. When provenance fails, even sophisticated chemical, isotopic or microscopic testing becomes difficult to interpret. A metal fragment may be unusual, highly engineered or initially [unidentified]({{ 'unidentified/' | relative_url }}), yet still remain inconclusive if investigators cannot demonstrate where it was found, who handled it, whether it was contaminated, and what ordinary sources were excluded. In practice, provenance failures are one of the most common reasons that [debris claims]({{ 'debris-claims/' | relative_url }}) remain unresolved rather than confirmed or disproved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance_fa_ae406c-Illustration-1-dark.svg" | relative_url }}" alt="Provenance illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance_fa_ae406c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_debris_provenance_fa_ae406c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ For that reason, [evidence]({{ 'evidence/' | relative_url }}) assessment depends
 1. The analytical chain, showing what the material is.
 2. The provenance chain, showing how the material became associated with a specific event.
 
-Forensic disciplines treat [chain of custody]({{ 'custody/' | relative_url }}) as a core requirement because evidence loses reliability when its handling history cannot be reconstructed. The purpose is not merely administrative. Documentation helps prevent substitution, accidental mixing, contamination, mistaken identification and deliberate tampering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
+Forensic disciplines treat [chain of custody]({{ 'custody/' | relative_url }}) as a core requirement because evidence loses reliability when its handling history cannot be reconstructed. The purpose is not merely administrative. Documentation helps prevent substitution, accidental mixing, contamination, mistaken identification and deliberate tampering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
 
 In UFO debris cases, the same logic applies. If a fragment appears decades after an alleged crash, with no continuous documentation linking it to the original site, laboratory findings alone cannot bridge that gap.
 
@@ -319,7 +319,7 @@ Most historical UFO crash stories lack some or all of these elements. Instead, f
 
 This creates a basic evidential problem. Once a scene is disturbed, investigators can no longer determine whether a fragment originated there, arrived later through ordinary processes, or was introduced unintentionally. Even honest witnesses may misremember locations, dates and circumstances years or decades after an event.
 
-The Roswell case illustrates the importance of this issue. Decades of debate have centred on fragments allegedly recovered in 1947, yet the documentary record available to investigators primarily consists of military and government records created at the time. Reviews by the Government Accountability Office identified contemporaneous records describing recovered material as a balloon-related object with a radar reflector, while finding no contemporaneous records documenting examination of extraordinary crash debris at Wright Field. The dispute is not simply about material composition; it is about whether a documented chain exists connecting any surviving fragments to an extraordinary recovery event. FAS Project on Government Secrecy+2Justia GAO Reports <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object rese...</span></span></span>
+The Roswell case illustrates the importance of this issue. Decades of debate have centred on fragments allegedly recovered in 1947, yet the documentary record available to investigators primarily consists of military and government records created at the time. Reviews by the Government Accountability Office identified contemporaneous records describing recovered material as a balloon-related object with a radar reflector, while finding no contemporaneous records documenting examination of extraordinary crash debris at Wright Field. The dispute is not simply about material composition; it is about whether a documented chain exists connecting any surviving fragments to an extraordinary recovery event. FAS Project on Government Secrecy+2Justia GAO Reports<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object rese...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vimQuaC3RYM" title="🚔 Understanding Chain of Custody in Digital Forensics 🔍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer">🚔 Understanding Chain of Custody in Digital Forensics 🔍</a></p><p class="youtube-embed-meta">Channel: Cybersecurity &amp; AI Insights &middot; Views: 4.8K &middot; Uploaded: February 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vimQuaC3RYM">Open on YouTube</a></p></div></div></div>
@@ -344,7 +344,7 @@ Every undocumented transfer introduces uncertainty. Investigators can no longer 
 
 </div>
 
-Forensic standards emphasise continuous documentation precisely because evidence can become unaccounted for during handling. Once a custody gap appears, later investigators cannot reliably reconstruct what occurred during the missing period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
+Forensic standards emphasise continuous documentation precisely because evidence can become unaccounted for during handling. Once a custody gap appears, later investigators cannot reliably reconstruct what occurred during the missing period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIChain of Custody</span><span class="citation-popover-snippet">It is necessary to assure the court of law that the evidence is authentic, ie...</span></span></span>
 
 ### Contamination can mimic significance
 
@@ -392,7 +392,7 @@ To evaluate a fragment properly, investigators need comparison samples from plau
 
 Without those comparisons, a laboratory can determine that a material is uncommon without determining whether it is extraordinary.
 
-This distinction has appeared repeatedly in official reviews of recovered-material claims. The Pentagon's All-domain Anomaly Resolution Office (AARO) reported finding no verified evidence that recovered materials represented extraterrestrial technology and described examined examples as consistent with ordinary terrestrial materials or unsupported by documentation linking them to extraordinary origins. Reuters+3U.S. Department of War+3AARO <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+This distinction has appeared repeatedly in official reviews of recovered-material claims. The Pentagon's All-domain Anomaly Resolution Office (AARO) reported finding no verified evidence that recovered materials represented extraterrestrial technology and described examined examples as consistent with ordinary terrestrial materials or unsupported by documentation linking them to extraordinary origins. Reuters+3U.S. Department of War+3AARO<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
 The key issue is not simply whether a fragment has unusual properties. It is whether investigators can demonstrate that known terrestrial sources have been systematically excluded.
 
@@ -453,194 +453,194 @@ The central lesson of provenance failures is straightforward: debris evidence de
 In alleged UFO recoveries, the question is rarely whether a metal fragment can be analysed. The harder question is whether anyone can demonstrate, step by step, how that fragment became connected to the event it is claimed to represent. When that chain breaks, the scientific significance of even the strangest material becomes uncertain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why strange metal needs a paper trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why strange metal needs a paper trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Directly applicable to provenance, custody, and contamination issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly applicable to provenance, custody, and contamination issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Discusses the importance of documented evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the importance of documented evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages evidence-first evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-first evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Crime Scene Processing and Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QEzOBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Crime Scene Processing and Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Crime Scene Processing and Investigation">Practical Crime Scene Processing and Investigation</a>
+</h4>
+<p class="fr-book-author">By Ross M. Gardner, Donna Krouskup</p>
         
-        <p class="fr-book-desc">Covers recovery, documentation, and traceability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers recovery, documentation, and traceability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Crime+Scene+Processing+and+Investigation+by+Ross+M.+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter"><img src="{{ '/assets/images/marketplace-covers/4afcc3969049e307c781.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOG... by Brookesmith, Peter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF"><img src="{{ '/assets/images/marketplace-covers/734d09c36ffacb3702b5.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="provenance-why-strange-metal-needs-a-paper-trail-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -760,7 +760,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -805,7 +805,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -846,179 +846,179 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIChain of Custody  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is necessary to assure the court of law that the evidence is authentic, ie...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK551677/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK551677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is necessary to assure the court of law that the evidence is authentic, ie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object rese...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashAccording to the Eighth Air Force official, the recovered object rese...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — Roswell history report mentioning the recovery of the &quot;flying disc&quot; and...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — Roswell history report mentioning the recovery of the &quot;flying disc&quot; and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This specimen has been publicly alleged to be a component recovered from a crashed extraterrestrial vehi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mass.gov  
    Title: Chain of Custody Protocol (M.G.L  
-   Link: <a href="https://www.mass.gov/doc/fsob-chain-of-custody-report/download" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/doc/fsob-chain-of-custody-report/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>c. 6 sec. 184A (i)Pursuant to M.G.L c. 6 sec. 184A (i), the Forensic Science Oversight Board (“FSOB”) “shall develop protocols to ensure...</p></details>
+   Link:<a href="https://www.mass.gov/doc/fsob-chain-of-custody-report/download" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/doc/fsob-chain-of-custody-report/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c. 6 sec. 184A (i)Pursuant to M.G.L c. 6 sec. 184A (i), the Forensic Science Oversight Board (“FSOB”) “shall develop protocols to ensure...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Understanding Chain of Custody in Digital Forensics  
-   Link: <a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vimQuaC3RYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vimQuaC3RYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Chain of Custody  
-   Link: <a href="https://www.youtube.com/watch?v=BlW6AwZ6r-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlW6AwZ6r-s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Collection Techniques in Forensic Science (8 Minutes)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BlW6AwZ6r-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlW6AwZ6r-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Collection Techniques in Forensic Science (8 Minutes)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Evidence Collection Techniques in Forensic Science (8 Minutes)  
-   Link: <a href="https://www.youtube.com/watch?v=IHHGnkDGCIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IHHGnkDGCIQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Chain of Custody - What Is It and Why is it Important?[https://www.youtube.com/watch?v=NMjI77zy_r0...&quot;](https://www.youtube.com/watch?v=NMjI77zy_r0...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IHHGnkDGCIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IHHGnkDGCIQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Chain of Custody - What Is It and Why is it Important?[https://www.youtube.com/watch?v=NMjI77zy_r0...&quot;](https://www.youtube.com/watch?v=NMjI77zy_r0...&quot;)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/what-every-law-enforcement-officer-should-know-about-dna/officer-responsibilities/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeChain of Custody of Evidence | National Institute of Justice7 Jun 2023 — The chain of custody of evidence is...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nij.ojp.gov  
    Title: chain custody  
-   Link: <a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of Custody22 Aug 2023 — The chain of custody is a recor...</p></details>
+   Link:<a href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert | Chain of Custody22 Aug 2023 — The chain of custody is a recor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Chain of custody  
-   Link: <a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyThis prevents police officers and other law officials from contaminating the evidence or taking the piece of evidence...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyThis prevents police officers and other law officials from contaminating the evidence or taking the piece of evidence...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: law.cornell.edu  
    Title: government accountability office  
-   Link: <a href="https://www.law.cornell.edu/wex/government_accountability_office" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/government_accountability_office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accountability Office | Wex - Cornell Law SchoolThe Government Accountability Office (GAO), previously called the Government Accounting O...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/government_accountability_office" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/government_accountability_office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accountability Office | Wex - Cornell Law SchoolThe Government Accountability Office (GAO), previously called the Government Accounting O...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 60 — The purpose of this work is to renew the interest...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 60 — The purpose of this work is to renew the interest...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 206 FSR SOC contamination consultation  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ee761e5274a2e8ab48ef5/206_FSR_SOC_contamination_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ee761e5274a2e8ab48ef5/206_FSR_SOC_contamination_consultation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ee761e5274a2e8ab48ef5/206_FSR_SOC_contamination_consultation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ee761e5274a2e8ab48ef5/206_FSR_SOC_contamination_consultation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/forensic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/forensic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FORENSIC definition: 1. related to scientific methods of solving crimes, involving e...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/forensic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/forensic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FORENSIC definition: 1. related to scientific methods of solving crimes, involving e...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: house.gov  
-   Link: <a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
+   Link:<a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Contamination is a significant issue when collecting DNA evid...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369940913_Maintaining_the_chain_of_custody_Anti-contamination_measures_for_trace_DNA_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Maintaining the chain of custody: Anti-contamination...11 Apr 2023 — Contamination is a significant issue when collecting DNA evid...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/forensic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/forensic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FORENSIC Definition &amp; Meaning6 days ago — 1. belonging to, used in, or suitable to courts of judicature or to public discussion and debat...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/forensic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/forensic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FORENSIC Definition &amp; Meaning6 days ago — 1. belonging to, used in, or suitable to courts of judicature or to public discussion and debat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ijeais.org  
-   Link: <a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe Chain of Custody (CoC) process is a critical component of forensic evidence man...</p></details>
+   Link:<a href="https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijeais.org/wp-content/uploads/2025/6/IJAAFMR250624.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Evidence Management: Chain Of Custody ProcessThe Chain of Custody (CoC) process is a critical component of forensic evidence man...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dfs.nic.in  
-   Link: <a href="https://dfs.nic.in/pdfs/IO%20-Forensic%20evidence-Guidelines%20for%20%20IO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfs.nic.in/pdfs/IO%20-Forensic%20evidence-Guidelines%20for%20%20IO.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic evidence-Guidelines for IO.pdfChain of custody is a process used to maintain and document the chronological history of the evide...</p></details>
+   Link:<a href="https://dfs.nic.in/pdfs/IO%20-Forensic%20evidence-Guidelines%20for%20%20IO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfs.nic.in/pdfs/IO%20-Forensic%20evidence-Guidelines%20for%20%20IO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic evidence-Guidelines for IO.pdfChain of custody is a process used to maintain and document the chronological history of the evide...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cyfor.co.uk  
-   Link: <a href="https://cyfor.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cyfor.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Digital Forensics Experts | CYFOR ForensicsCYFOR are UK based digital forensic specialists, providing expertise in computer foren...</p></details>
+   Link:<a href="https://cyfor.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cyfor.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Digital Forensics Experts | CYFOR ForensicsCYFOR are UK based digital forensic specialists, providing expertise in computer foren...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: evidencemanagement.com  
-   Link: <a href="https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/" target="_blank" rel="noopener noreferrer nofollow">https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Crucial Role of Chain of Custody: Ensuring...21 May 2024 — Techniques may include wearing gloves to prevent contamination, using app...</p></details>
+   Link:<a href="https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/" target="_blank" rel="noopener noreferrer nofollow">https://evidencemanagement.com/the-crucial-role-of-chain-of-custody-ensuring-evidence-integrity-and-quality-assurance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Crucial Role of Chain of Custody: Ensuring...21 May 2024 — Techniques may include wearing gloves to prevent contamination, using app...</p></details>
    Published: May 2024  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... recovered alien materials from the public and attempted to... NASA Repor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 —... recovered alien materials from the public and attempted to... NASA Repor...</p></details>

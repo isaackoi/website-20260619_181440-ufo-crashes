@@ -274,7 +274,7 @@ image: /assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_evaluate_ufo_debr
 
 ## Introduction
 
-Claims of UFO crash debris often sound persuasive because they involve something tangible: a metal fragment, foil-like material, layered alloy, or unusual object said to have been recovered from a crash site. Yet the central lesson from decades of investigation is that a fragment is only as convincing as the evidence connecting it to the claimed event. A laboratory can determine what a sample is made of, but it cannot automatically prove where it came from, when it arrived there, or whether it originated from a crashed craft rather than an ordinary terrestrial source. The most reliable way to assess alleged UFO debris is therefore to evaluate [provenance]({{ 'provenance/' | relative_url }}), custody, comparison testing, and the match between laboratory findings and the crash narrative itself. [Official reviews]({{ 'official-reviews/' | relative_url }}) and historical investigations repeatedly emphasise that extraordinary material claims require more than unusual chemistry or metallurgy. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
+Claims of UFO crash debris often sound persuasive because they involve something tangible: a metal fragment, foil-like material, layered alloy, or unusual object said to have been recovered from a crash site. Yet the central lesson from decades of investigation is that a fragment is only as convincing as the evidence connecting it to the claimed event. A laboratory can determine what a sample is made of, but it cannot automatically prove where it came from, when it arrived there, or whether it originated from a crashed craft rather than an ordinary terrestrial source. The most reliable way to assess alleged UFO debris is therefore to evaluate [provenance]({{ 'provenance/' | relative_url }}), custody, comparison testing, and the match between laboratory findings and the crash narrative itself. [Official reviews]({{ 'official-reviews/' | relative_url }}) and historical investigations repeatedly emphasise that extraordinary material claims require more than unusual chemistry or metallurgy. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_evaluate_ufo_debris_5ad550-Illustration-1-dark.svg" | relative_url }}" alt="Evaluation illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_evaluate_ufo_debris_5ad550-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_evaluate_ufo_debris_5ad550-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ A strong debris claim should answer a series of basic questions that would also 
 
 **Can the object be connected to the alleged incident rather than merely the location?** Many claimed UFO fragments are found in areas with military testing, aviation activity, industrial waste, or naturally occurring materials. The burden is to establish a specific connection, not merely geographical proximity.
 
-Roswell remains a useful example because it illustrates how provenance can outweigh later speculation. Government record searches found contemporary documents describing the recovered object as a radar-tracking balloon or an object resembling a balloon with a radar reflector. Investigators also found no contemporary records showing examination of exotic crash debris at Wright Field. Whatever one concludes about later witness accounts, those documented records provide a competing explanation that any debris claim must overcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — The 509th-RAAF report noted the recovery of a “flying disc” that was late...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
+Roswell remains a useful example because it illustrates how provenance can outweigh later speculation. Government record searches found contemporary documents describing the recovered object as a radar-tracking balloon or an object resembling a balloon with a radar reflector. Investigators also found no contemporary records showing examination of exotic crash debris at Wright Field. Whatever one concludes about later witness accounts, those documented records provide a competing explanation that any debris claim must overcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">NSIAD-95-187 Government Records</span><span class="citation-popover-snippet">NSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — The 509th-RAAF report noted the recovery of a “flying disc” that was late...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
 ## Why chain of custody matters more than unusual composition
 
@@ -386,7 +386,7 @@ One of the most discussed modern [debris claims]({{ 'debris-claims/' | relative_
 
 The significance of the case is not that it proved a UFO origin. Rather, it demonstrates how a careful evaluation process works.
 
-In 2024, the All-domain Anomaly Resolution Office (AARO) released supplementary findings based on testing conducted by Oak Ridge National Laboratory. The analysis identified the specimen as a manufactured material composed primarily of magnesium-zinc alloy layers with bismuth-containing layers and other trace constituents. Investigators concluded that the sample did not provide evidence of extraterrestrial technology and was consistent with experimental terrestrial metallurgy rather than an unknown non-human material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak...</span></span></span>
+In 2024, the All-domain Anomaly Resolution Office (AARO) released supplementary findings based on testing conducted by Oak Ridge National Laboratory. The analysis identified the specimen as a manufactured material composed primarily of magnesium-zinc alloy layers with bismuth-containing layers and other trace constituents. Investigators concluded that the sample did not provide evidence of extraterrestrial technology and was consistent with experimental terrestrial metallurgy rather than an unknown non-human material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak...</span></span></span>
 
 The broader lesson is methodological. The material was unusual enough to merit sophisticated analysis, yet the investigation focused on manufacturing history, composition, and plausible terrestrial origins rather than assuming that unusual structure implied extraordinary provenance.
 
@@ -420,7 +420,7 @@ When confronted with an alleged UFO debris claim, a useful sequence is:
 6. **Look for independent corroboration.** Are there multiple evidence streams pointing to the same conclusion?
 7. **Distinguish unexplained from extraordinary.** An [unidentified]({{ 'unidentified/' | relative_url }}) material is not automatically evidence of non-human technology.
 
-This framework mirrors the approach increasingly used by official reviews. AARO's historical assessment concluded that it found no empirical evidence that government investigations, academic research, or official review panels had confirmed extraterrestrial technology, recovered off-world craft, or reverse-engineering programmes. That conclusion does not mean every reported object has been identified; rather, it reflects the difference between unresolved questions and demonstrated evidence. Reuters+3U.S. Department of War+3AARO <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
+This framework mirrors the approach increasingly used by official reviews. AARO's historical assessment concluded that it found no empirical evidence that government investigations, academic research, or official review panels had confirmed extraterrestrial technology, recovered off-world craft, or reverse-engineering programmes. That conclusion does not mean every reported object has been identified; rather, it reflects the difference between unresolved questions and demonstrated evidence. Reuters+3U.S. Department of War+3AARO<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4HWxOel7zw" title="UFO Crash Debris! (Art&#x27;s Parts) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4HWxOel7zw" target="_blank" rel="noopener noreferrer">UFO Crash Debris! (Art&#x27;s Parts) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 11.1K &middot; Uploaded: May 2022 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4HWxOel7zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4HWxOel7zw">Open on YouTube</a></p></div></div></div>
@@ -432,194 +432,194 @@ The most credible debris case is not necessarily the one with the strangest labo
 A fragment with remarkable composition but uncertain provenance remains an intriguing object. A fragment with ordinary composition but impeccable documentation may provide stronger evidence about what actually happened at a recovery site. For evaluating alleged UFO debris, provenance is not a secondary issue. It is the foundation on which every laboratory result must rest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The checklist every debris claim should face. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The checklist every debris claim should face. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a checklist-style framework for evaluating claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a checklist-style framework for evaluating claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
-        </h4>
-        <p class="fr-book-author">By Richard Saferstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Science: From the Crime Scene to the Crime Lab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f0-pBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensic Science: From the Crime Scene to the Crime Lab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Science: From the Crime Scene to the Crime Lab">Forensic Science: From the Crime Scene to the Crime Lab</a>
+</h4>
+<p class="fr-book-author">By Richard Saferstein</p>
         
-        <p class="fr-book-desc">Useful for assessing custody, contamination, and testing claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing custody, contamination, and testing claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab+by+Richard+Saferstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines how evidence is weighed in official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how evidence is weighed in official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights documentation and corroboration standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights documentation and corroboration standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Science%3A+From+the+Crime+Scene+to+the+Crime+Lab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Science: From the Crime Scene to the Crime Lab</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH"><img src="{{ '/assets/images/marketplace-covers/7a68e69a6be446d62579.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WITH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI."><img src="{{ '/assets/images/marketplace-covers/77f2c39e61e39405b66e.jpg' | relative_url }}" alt="Listing image for THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK STARTLING CASES AND ASTONISHING PHOTOGRAPHS OF ENCOUNTERS WI.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz"><img src="{{ '/assets/images/marketplace-covers/78bc57bca1379283a9b7.jpg' | relative_url }}" alt="Listing image for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz"><img src="{{ '/assets/images/marketplace-covers/78bc57bca1379283a9b7.jpg' | relative_url }}" alt="Listing image for VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">VTG The Roswell Incident 1st Edition , 1st Print Hardcover Book Charles Berlitz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future"><img src="{{ '/assets/images/marketplace-covers/13c6be72d5f9fb640fc2.jpg' | relative_url }}" alt="Listing image for RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">RARE UFO/SUPPRESSED Science Library Borderland Sciences 14 Books Loom of Future</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="evaluation-the-checklist-every-debris-claim-should-face-ufo-crashes-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ A fragment with remarkable composition but uncertain provenance remains an intri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ A fragment with remarkable composition but uncertain provenance remains an intri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ A fragment with remarkable composition but uncertain provenance remains an intri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ A fragment with remarkable composition but uncertain provenance remains an intri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -784,7 +784,7 @@ A fragment with remarkable composition but uncertain provenance remains an intri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -825,177 +825,177 @@ A fragment with remarkable composition but uncertain provenance remains an intri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.gov  
    Title: NSIAD-95-187 Government Records  
-   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — The 509th-RAAF report noted the recovery of a “flying disc” that was late...</p></details>
+   Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government RecordsJuly 28, 1995 — 28 Jul 1995 — The 509th-RAAF report noted the recovery of a “flying disc” that was late...</p></details>
    Published: July 28, 1995  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>justia.comNSIAD-95-187 - Government Records28 Jul 1995 —... reported that an object resembling a high-altitude weather balloon with a ra...</p></details>
+   Link:<a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>justia.comNSIAD-95-187 - Government Records28 Jul 1995 —... reported that an object resembling a high-altitude weather balloon with a ra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg)  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gizmodo.com  
    Title: pentagon publishes report on material from a reported alien aircraft 2000469433  
-   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
+   Link:<a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Conduct open-source research on claims. USG investigations of, contact with, and recovery of...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Conduct open-source research on claims. USG investigations of, contact with, and recovery of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air Fie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In 2024, the All-domain Anomaly Resolution Office (AARO) contracted Oak Ridge National Laboratory (ORNL)...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In 2024, the All-domain Anomaly Resolution Office (AARO) contracted Oak Ridge National Laboratory (ORNL)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
    Published: May 1, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
+   Link:<a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Oak" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OakAn oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed e...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Oak" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OakAn oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air Field, New Mexico, focusing on...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air Field, New Mexico, focusing on...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/plant/oak" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/plant/oak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Description, Characteristics, Types, &amp; Facts18 May 2026 — Oak, (genus Quercus), genus of about 450 species of ornamental and timber trees...</p></details>
+   Link:<a href="https://www.britannica.com/plant/oak" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/plant/oak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Description, Characteristics, Types, &amp; Facts18 May 2026 — Oak, (genus Quercus), genus of about 450 species of ornamental and timber trees...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;The oddly constructed radar targets were found by a New Mexico rancher during the height of t...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The Roswell Report: Case Closed&quot;The oddly constructed radar targets were found by a New Mexico rancher during the height of t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T, in coordination with ORNL, wrote a report from the materials analysis...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T, in coordination with ORNL, wrote a report from the materials analysis...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jhmovie.fandom.com  
    Title: Roswell incident  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki | FandomThe Roswell incident is a conspiracy theory which alleges that the 1947 crash of a United Stat...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: house.gov  
-   Link: <a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
+   Link:<a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen. The material exhibited r...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen. The material exhibited r...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: roswellfiles.com  
-   Link: <a href="https://www.roswellfiles.com/Articles/TheGAOReport.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellfiles.com/Articles/TheGAOReport.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO report on the Roswell UFO IncidentDocuments revealed by the report include an FBI teletype and reference in a newsletter style in...</p></details>
+   Link:<a href="https://www.roswellfiles.com/Articles/TheGAOReport.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellfiles.com/Articles/TheGAOReport.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO report on the Roswell UFO IncidentDocuments revealed by the report include an FBI teletype and reference in a newsletter style in...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkp6rg/the_team_publicly_analyzing_the_roswell_arts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkp6rg/the_team_publicly_analyzing_the_roswell_arts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The team publicly analyzing the Roswell &#x27;Art&#x27;s Parts...FOUR days later, Sean Kirkpatrick and his Oak Ridge National Labs team via AARO t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mkp6rg/the_team_publicly_analyzing_the_roswell_arts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkp6rg/the_team_publicly_analyzing_the_roswell_arts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The team publicly analyzing the Roswell &#x27;Art&#x27;s Parts...FOUR days later, Sean Kirkpatrick and his Oak Ridge National Labs team via AARO t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/[strange-metal" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/[strange-metal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Metal Shard Probably Isn&#x27;t Evidence Of Alien...18 Sept 2024 — The shard, so the story goes, was supposedly part of an unidentifi...</p></details>
+   Link:<a href="https://www.iflscience.com/[strange-metal" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/[strange-metal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Metal Shard Probably Isn&#x27;t Evidence Of Alien...18 Sept 2024 — The shard, so the story goes, was supposedly part of an unidentifi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: indiandefencereview.com  
-   Link: <a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
+   Link:<a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportThis report represents a joint effort by Col. Richard L. Weaver and 1st Lt. James. McAndrew to address the request made by...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>

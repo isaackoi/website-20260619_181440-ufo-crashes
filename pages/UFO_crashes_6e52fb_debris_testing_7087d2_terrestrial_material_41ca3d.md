@@ -284,7 +284,7 @@ In debates over alleged UFO crash debris, some of the most persistent controvers
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-1-dark.svg" | relative_url }}" alt="Terrestrial metal illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central question in many debris disputes is not whether a material is unusual, but whether it is impossible to explain through known industrial, military, aerospace, or research activities. Repeatedly, investigations have shown that materials initially promoted as exotic can turn out to be products of specialised terrestrial manufacturing, particularly when they originate from periods of rapid experimentation in aviation, electronics, or defence research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+The central question in many debris disputes is not whether a material is unusual, but whether it is impossible to explain through known industrial, military, aerospace, or research activities. Repeatedly, investigations have shown that materials initially promoted as exotic can turn out to be products of specialised terrestrial manufacturing, particularly when they originate from periods of rapid experimentation in aviation, electronics, or defence research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 ## Why Manufactured Structure Can Look Exotic
 
@@ -296,7 +296,7 @@ Several characteristics commonly cited as [evidence]({{ 'evidence/' | relative_u
 * **High purity metals** may reflect industrial refining techniques rather than exotic origins.
 * **Unusual combinations of elements** can emerge from experimental metallurgy, especially in military or aerospace research.
 * **Microscopic stress patterns** often indicate exposure to heat, pressure, machining, rolling, or impact during manufacture and use.
-* **Rare alloys** may be uncommon in consumer products while remaining entirely consistent with specialised industrial applications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+* **Rare alloys** may be uncommon in consumer products while remaining entirely consistent with specialised industrial applications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 A recurring problem is that investigators sometimes compare a specimen against everyday expectations rather than against the full history of advanced materials research. Something can be rare, difficult to identify, or absent from standard engineering catalogues without being evidence of a non-human technology.
 
@@ -309,7 +309,7 @@ Many alleged UFO debris cases involve materials supposedly recovered decades ago
 
 The comparison challenge is significant because researchers today may encounter a fragment produced by an obscure experimental programme whose documentation is incomplete, classified at the time, or simply forgotten. In such circumstances, a material can appear mysterious even though it originated from a terrestrial laboratory.
 
-A useful example comes from the magnesium-zinc-bismuth specimen sometimes called “Art's Parts”, a material long discussed within UFO research circles. The sample attracted attention because of its repeating layers of magnesium alloy and bismuth, a structure that appeared highly unusual. However, analysis performed for the U.S. government's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) and Oak Ridge National Laboratory found isotope compositions consistent with terrestrial manufacture. Investigators concluded that the material was manufactured on Earth and that its features were consistent with industrial processes and later mechanical and thermal stress, even though the precise purpose of the specimen remains uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+A useful example comes from the magnesium-zinc-bismuth specimen sometimes called “Art's Parts”, a material long discussed within UFO research circles. The sample attracted attention because of its repeating layers of magnesium alloy and bismuth, a structure that appeared highly unusual. However, analysis performed for the U.S. government's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) and Oak Ridge National Laboratory found isotope compositions consistent with terrestrial manufacture. Investigators concluded that the material was manufactured on Earth and that its features were consistent with industrial processes and later mechanical and thermal stress, even though the precise purpose of the specimen remains uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 This illustrates an important distinction. A material can be genuinely unusual and still be terrestrial. Laboratory confirmation that a specimen is difficult to explain is not the same as confirmation that it is extraterrestrial.
 
@@ -319,7 +319,7 @@ Research materials can become more mysterious over time rather than less.
 
 When a project ends, documentation may be discarded, personnel retire, and manufacturing methods disappear. Decades later, investigators may encounter a fragment with no clear [provenance]({{ 'provenance/' | relative_url }}) and discover that it does not match common commercial products. The resulting uncertainty can create a false impression that the object lies outside known technology.
 
-This is especially true for materials developed during periods of intense government-funded experimentation, when engineers routinely tested unconventional alloys, composites, laminates, coatings, and lightweight structural materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</span></span></span>
+This is especially true for materials developed during periods of intense government-funded experimentation, when engineers routinely tested unconventional alloys, composites, laminates, coatings, and lightweight structural materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-2-dark.svg" | relative_url }}" alt="Terrestrial metal illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,9 +327,9 @@ This is especially true for materials developed during periods of intense govern
 
 The Roswell case remains the most influential example of ordinary manufactured materials acquiring an extraordinary reputation.
 
-Contemporary and later descriptions of the debris often emphasised foil-like metal, lightweight structural elements, rubber, tape, and other components that witnesses regarded as unusual. Subsequent investigations linked the debris to Project Mogul, a classified balloon programme designed to detect Soviet nuclear tests. [Official reviews]({{ 'official-reviews/' | relative_url }}) and historical research identified materials consistent with balloon trains, radar [reflectors]({{ 'reflectors/' | relative_url }}), tape, paper, rubber, and related equipment rather than an extraterrestrial vehicle. FAS Project on Government Secrecy+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Contemporary and later descriptions of the debris often emphasised foil-like metal, lightweight structural elements, rubber, tape, and other components that witnesses regarded as unusual. Subsequent investigations linked the debris to Project Mogul, a classified balloon programme designed to detect Soviet nuclear tests. [Official reviews]({{ 'official-reviews/' | relative_url }}) and historical research identified materials consistent with balloon trains, radar [reflectors]({{ 'reflectors/' | relative_url }}), tape, paper, rubber, and related equipment rather than an extraterrestrial vehicle. FAS Project on Government Secrecy+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s FOIA material and identified the July 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-Part of the confusion stemmed from unfamiliarity. Radar reflectors used metallic surfaces, lightweight structural components, adhesives, and other materials that were not widely recognised by the public in 1947. Witnesses encountering scattered fragments without context could reasonably perceive them as unusual. Later retellings sometimes transformed unfamiliarity into evidence of impossibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[Science Friday+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
+Part of the confusion stemmed from unfamiliarity. Radar reflectors used metallic surfaces, lightweight structural components, adhesives, and other materials that were not widely recognised by the public in 1947. Witnesses encountering scattered fragments without context could reasonably perceive them as unusual. Later retellings sometimes transformed unfamiliarity into evidence of impossibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefriday.com">[sciencefriday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefriday.com</span><span class="citation-popover-title">the real roswell cover up spying on air</span><span class="citation-popover-snippet">Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</span></span></span>
 
 The Roswell debate demonstrates how a classified or little-known terrestrial technology can generate decades of speculation when observers lack information about its original purpose.
 
@@ -351,7 +351,7 @@ These are different questions:
 
 A laboratory may answer the first two questions while leaving the last two unresolved. That gap often becomes fertile ground for speculation.
 
-The magnesium-zinc-bismuth specimen again provides a useful example. Analysts were able to identify the material composition, manufacturing characteristics, and terrestrial isotopic signatures. What remained uncertain was the exact application or programme that produced it. That uncertainty does not increase the probability of an extraterrestrial origin; it simply reflects incomplete historical knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+The magnesium-zinc-bismuth specimen again provides a useful example. Analysts were able to identify the material composition, manufacturing characteristics, and terrestrial isotopic signatures. What remained uncertain was the exact application or programme that produced it. That uncertainty does not increase the probability of an extraterrestrial origin; it simply reflects incomplete historical knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 In scientific investigation, “unknown” is not a placeholder for “alien”. It is a statement about the limits of current evidence.
 
@@ -375,7 +375,7 @@ Particularly important indicators include:
 
 </div>
 
-The absence of such indicators has repeatedly weakened claims surrounding purported UFO fragments. In several high-profile cases, closer examination has revealed that the materials are unusual examples of human manufacturing rather than evidence of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+The absence of such indicators has repeatedly weakened claims surrounding purported UFO fragments. In several high-profile cases, closer examination has revealed that the materials are unusual examples of human manufacturing rather than evidence of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-3-dark.svg" | relative_url }}" alt="Terrestrial metal illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_crashes_6e52fb_debris_testing_7087d2_terrestrial_material_41ca3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -383,201 +383,201 @@ The absence of such indicators has repeatedly weakened claims surrounding purpor
 
 The history of UFO debris investigations shows that appearance, rarity, and even sophisticated structure are poor indicators of origin. Manufactured terrestrial materials can look astonishingly exotic when viewed outside their technological context. [Layered metals]({{ 'layered-metal/' | relative_url }}), specialised alloys, unusual purity levels, and unfamiliar stress patterns may signal advanced engineering, but not necessarily alien engineering.
 
-For investigators, the critical distinction is between a material that is unusual and a material that is impossible to explain through known terrestrial manufacturing. To date, many celebrated debris specimens have fallen into the first category rather than the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+For investigators, the critical distinction is between a material that is unusual and a material that is impossible to explain through known terrestrial manufacturing. To date, many celebrated debris specimens have fallen into the first category rather than the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aUBQPDUF91o" title="Geologist Discovers Confirmed UFO Fragments At Roswell | Alien Encounters: Fact Or Fiction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aUBQPDUF91o" target="_blank" rel="noopener noreferrer">Geologist Discovers Confirmed UFO Fragments At Roswell | Alien Encounters: Fact Or Fiction</a></p><p class="youtube-embed-meta">Channel: Discovery UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aUBQPDUF91o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aUBQPDUF91o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When unusual debris is still made on Earth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When unusual debris is still made on Earth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Addresses how physical traces can be investigated scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how physical traces can be investigated scientifically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how advanced terrestrial technology can appear mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how advanced terrestrial technology can appear mysterious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how classified projects create UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how classified projects create UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for distinguishing unusual materials from extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for distinguishing unusual materials from extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Fiction Hardcover Lot Free Ship, BCE HC DJ Lot Of 3*** Requests Allowed"><img src="https://i.ebayimg.com/images/g/eAUAAOSwkjdnnifb/s-l225.jpg" alt="Listing image for Science Fiction Hardcover Lot Free Ship, BCE HC DJ Lot Of 3*** Requests Allowed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">Science Fiction Hardcover Lot Free Ship, BCE HC DJ Lot Of 3*** Requests Allowed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE UFO CASEBOOK Startling Cases and Astonishing Photographs of E"><img src="https://i.ebayimg.com/images/g/5SoAAeSwWslpTMq~/s-l225.jpg" alt="Listing image for THE UFO CASEBOOK Startling Cases and Astonishing Photographs of E" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">THE UFO CASEBOOK Startling Cases and Astonishing Photographs of E</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 UFO Wreckage &amp; Debris Clean Up Crew Alien Conspiracy 100% Cotton T-Shirt"><img src="https://i.ebayimg.com/images/g/ixMAAOSwfedeJfuN/s-l225.jpg" alt="Listing image for Area 51 UFO Wreckage &amp; Debris Clean Up Crew Alien Conspiracy 100% Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 UFO Wreckage &amp; Debris Clean Up Crew Alien Conspiracy 100% Cotton T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="terrestrial-metal-when-unusual-debris-is-still-made-on-earth-ufo-crashes-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounters Golden Press 1978 Vintage Softcover Graphic Novel Comic Book"><img src="https://i.ebayimg.com/images/g/2kAAAeSwoB1pzlPD/s-l225.jpg" alt="Listing image for UFO Encounters Golden Press 1978 Vintage Softcover Graphic Novel Comic Book" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Encounters Golden Press 1978 Vintage Softcover Graphic Novel Comic Book</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO debris collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO debris collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+debris+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO debris collectible" data-ebay-reference="when-unusual-debris-is-still-made-on-earth-ufo-debris-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ For investigators, the critical distinction is between a material that is unusua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ For investigators, the critical distinction is between a material that is unusua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ For investigators, the critical distinction is between a material that is unusua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ For investigators, the critical distinction is between a material that is unusua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ For investigators, the critical distinction is between a material that is unusua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,108 +783,108 @@ For investigators, the critical distinction is between a material that is unusua
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Synopsis: Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — Bismuth is most concentrated at the top but is present in many...</p></details>
    Published: July 10, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947...</p></details>
    Published: July 8, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;The reports that existed contain only descriptions of mundane materials...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popularmechanics.com  
    Title: The magnesium's isotopic signature had  
-   Link: <a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThis Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — Analysis showed that the isotopic signatures of ma...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThis Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — Analysis showed that the isotopic signatures of ma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencefriday.com  
    Title: the real roswell cover up spying on air  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science FridayThe Real Roswell Cover-Up? Spying On Air21 Jul 2017 — They also added radar reflectors to the balloon column, metal surface...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
    Title: roswell ufo strange metal mystery  
-   Link: <a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — In brief, the foil originally found among the “crashed saucer” debris by “Mac” Brazel wa...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — In brief, the foil originally found among the “crashed saucer” debris by “Mac” Brazel wa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, w...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known as “Art...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known as “Art...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOor1CdTdXFdsWyYUqrRYg6tz3r1Zn2m1hOr5NPsgYkVOG8Aif8ZZ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOor1CdTdXFdsWyYUqrRYg6tz3r1Zn2m1hOr5NPsgYkVOG8Aif8ZZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Material of Interest: Magnesium-Zinc-BismuthUnusual chemical combinations or alloys · Isotope ratios that indicate the material was creat...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOor1CdTdXFdsWyYUqrRYg6tz3r1Zn2m1hOr5NPsgYkVOG8Aif8ZZ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOor1CdTdXFdsWyYUqrRYg6tz3r1Zn2m1hOr5NPsgYkVOG8Aif8ZZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Material of Interest: Magnesium-Zinc-BismuthUnusual chemical combinations or alloys · Isotope ratios that indicate the material was creat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/lrpsoh/biggest_reveal_us_govt_admitted_testing_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/lrpsoh/biggest_reveal_us_govt_admitted_testing_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Govt Admitted Testing Roswell UFO Debris To Create...76 votes, 20 comments. My grandmother is a flat earther because of these sensati...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/lrpsoh/biggest_reveal_us_govt_admitted_testing_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/lrpsoh/biggest_reveal_us_govt_admitted_testing_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Govt Admitted Testing Roswell UFO Debris To Create...76 votes, 20 comments. My grandmother is a flat earther because of these sensati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: havingfaith.medium.com  
-   Link: <a href="https://havingfaith.medium.com/is-this-anomalous-piece-of-metal-alien-how-to-prove-or-disprove-your-assumption-c391cee866cb" target="_blank" rel="noopener noreferrer nofollow">https://havingfaith.medium.com/is-this-anomalous-piece-of-metal-alien-how-to-prove-or-disprove-your-assumption-c391cee866cb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this anomalous piece of metal alien? How to prove or...The melting point of bismuth is 271 °C. The meting point of magnesium and bismuth...</p></details>
+   Link:<a href="https://havingfaith.medium.com/is-this-anomalous-piece-of-metal-alien-how-to-prove-or-disprove-your-assumption-c391cee866cb" target="_blank" rel="noopener noreferrer nofollow">https://havingfaith.medium.com/is-this-anomalous-piece-of-metal-alien-how-to-prove-or-disprove-your-assumption-c391cee866cb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this anomalous piece of metal alien? How to prove or...The melting point of bismuth is 271 °C. The meting point of magnesium and bismuth...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wsmrmuseum.com  
-   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
+   Link:<a href="https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2020/12/2012-05.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/NamnxaADugo" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/NamnxaADugo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;• American Alchemy interview with Garry Nolan: [https://youtu.be/dzTZbSNsKV8](https://youtu.be/dzTZbSNsKV8) • Lex Fridman interview with Garry Nolan: [https://www.youtube...&quot;](https://www.youtube...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/NamnxaADugo" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/NamnxaADugo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;• American Alchemy interview with Garry Nolan: [https://youtu.be/dzTZbSNsKV8](https://youtu.be/dzTZbSNsKV8) • Lex Fridman interview with Garry Nolan: [https://www.youtube...&quot;](https://www.youtube...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although it mostly contains magnesium and zinc, the specimen also contains bismuth, lead and...</p></details>
+   Link:<a href="https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although it mostly contains magnesium and zinc, the specimen also contains bismuth, lead and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtu.be  
    Title: iQOibpIDx 4  
-   Link: <a href="https://youtu.be/iQOibpIDx-4?t=3410" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/iQOibpIDx-4?t=3410</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mysterious Headlines: (Science Theme) • Hybrid Matter-Antimatter Atoms: [https://www.quantamagazine.org/icy-antimatter-experiment-surprise...&quot;](https://www.quantamagazine.org/icy-antimatter-experiment-surprise...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/iQOibpIDx-4?t=3410" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/iQOibpIDx-4?t=3410</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mysterious Headlines: (Science Theme) • Hybrid Matter-Antimatter Atoms: [https://www.quantamagazine.org/icy-antimatter-experiment-surprise...&quot;](https://www.quantamagazine.org/icy-antimatter-experiment-surprise...&quot;)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/dzTZbSNsKV8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/dzTZbSNsKV8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;• Lex Fridman interview with Garry Nolan: [https://www.youtube.com/watch?v=uTCc2-1tbBQ](https://www.youtube.com/watch?v=uTCc2-1tbBQ) • Vice.com interview with Garry Nolan: [https://www...&quot;](https://www...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/dzTZbSNsKV8" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/dzTZbSNsKV8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;• Lex Fridman interview with Garry Nolan: [https://www.youtube.com/watch?v=uTCc2-1tbBQ](https://www.youtube.com/watch?v=uTCc2-1tbBQ) • Vice.com interview with Garry Nolan: [https://www...&quot;](https://www...&quot;)...</p></details>

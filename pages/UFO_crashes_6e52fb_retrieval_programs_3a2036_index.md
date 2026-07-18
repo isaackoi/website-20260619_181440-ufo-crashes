@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-retrieval-programs/
 description: Focused pages that expand on Retrieval Claims.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_retrieval_programs_3a2036
 parent_title: Retrieval Claims
@@ -16,7 +16,7 @@ parent_permalink: /retrieval-claims/
 
 # Explore Topics in Retrieval Claims
 
-The following pages expand on the main **[Retrieval Claims]({{ '/retrieval-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Retrieval Claims]({{ '/retrieval-claims/' | relative_url }})** page and cover its key branches in.
 
 - [Circular Claims]({{ '/circular-claims/' | relative_url }})
 - [Grusch Claim]({{ '/grusch-claim/' | relative_url }})
