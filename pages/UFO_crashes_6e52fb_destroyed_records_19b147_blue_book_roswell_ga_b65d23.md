@@ -744,7 +744,7 @@ For the study of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), thi
 1.<a id="endnote-1"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe National Archives has been unable to locate any documentation among t...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
@@ -769,7 +769,7 @@ For the study of alleged [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), thi
 6.<a id="endnote-6"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe found [no records](&amp;#123;&amp;#123; &#x27;no-records/&#x27; | relative_url &amp;#125;&amp;#125;) mentioning the Roswell crash or the examination by...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe found [no records]({{ 'no-records/' | relative_url }}) mentioning the Roswell crash or the examination by...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  

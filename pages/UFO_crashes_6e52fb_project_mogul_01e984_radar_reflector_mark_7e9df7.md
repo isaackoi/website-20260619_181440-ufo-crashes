@@ -753,7 +753,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
 
 2.<a id="endnote-2"></a>
    Source: skepticalinquirer.org  
-   Title: Skeptical Inquirer Roswell UFO ‘[Strange Metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;)’ Mystery | Skeptical Inquirer  
+   Title: Skeptical Inquirer Roswell UFO ‘[Strange Metal]({{ 'strange-metal/' | relative_url }})’ Mystery | Skeptical Inquirer  
    Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
 
 3.<a id="endnote-3"></a>
@@ -795,7 +795,7 @@ For supporters of the Mogul explanation, the tape account helps bridge the gap b
    Source: youtube.com  
    Title: UFO Roswell Incident (Full Episode) | National Geographic  
    Link:<a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: Evidence for Extraterrestrial Life or Project [Mogul Cover](&amp;#123;&amp;#123; &#x27;mogul-cover/&#x27; | relative_url &amp;#125;&amp;#125;)-Up?...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: Evidence for Extraterrestrial Life or Project [Mogul Cover]({{ 'mogul-cover/' | relative_url }})-Up?...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  

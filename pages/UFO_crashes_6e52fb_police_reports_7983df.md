@@ -956,7 +956,7 @@ That is the balanced value of police reports in alleged UFO crashes. They can ra
 
 2.<a id="endnote-2"></a>
    Source: science.gc.ca  
-   Title: Management of Public Reporting of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerial  
+   Title: Management of Public Reporting of [Unidentified]({{ 'unidentified/' | relative_url }}) Aerial  
    Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
 3.<a id="endnote-3"></a>

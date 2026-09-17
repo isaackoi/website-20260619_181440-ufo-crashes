@@ -995,7 +995,7 @@ Roswell therefore remains important not because it proves a spacecraft crashed n
 
 12.<a id="endnote-12"></a>
    Source: media.defense.gov  
-   Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Title: DOPSR 2024 0263 [AARO]({{ 'aaro/' | relative_url }}) HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 13.<a id="endnote-13"></a>
@@ -1079,7 +1079,7 @@ Roswell therefore remains important not because it proves a spacecraft crashed n
    Source: youtube.com  
    Title: Was Project Mogul The Real Roswell UFO Cover-up?  
    Link:<a href="http://www.youtube.com/watch?v=vS1-xy_C5Lo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vS1-xy_C5Lo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theory Declassified | Roswell 1947: Project [Mogul Cover](&amp;#123;&amp;#123; &#x27;mogul-cover/&#x27; | relative_url &amp;#125;&amp;#125;)‑Up or UFO Crash?...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theory Declassified | Roswell 1947: Project [Mogul Cover]({{ 'mogul-cover/' | relative_url }})‑Up or UFO Crash?...</p></details>
 
 30.<a id="endnote-30"></a>
    Source: house.gov  

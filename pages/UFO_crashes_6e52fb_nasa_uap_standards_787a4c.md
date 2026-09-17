@@ -959,7 +959,7 @@ The result is a stricter but clearer way to think about UFO crashes. NASA does n
 
 8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Title: nasa to release discuss [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena report  
+   Title: nasa to release discuss [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena report  
    Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 9.<a id="endnote-9"></a>

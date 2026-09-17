@@ -810,7 +810,7 @@ For UFO crash researchers, the most useful conclusion is a modest one. A transpa
    Source: fox29.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
    Link:<a href="https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...Nov 16, 2024 — The Department of Defense said UAPs were mainly [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;), birds, dron...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...Nov 16, 2024 — The Department of Defense said UAPs were mainly [balloons]({{ 'balloons/' | relative_url }}), birds, dron...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: archives.gov  

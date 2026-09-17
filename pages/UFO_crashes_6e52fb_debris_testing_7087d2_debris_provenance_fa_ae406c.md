@@ -865,7 +865,7 @@ In alleged UFO recoveries, the question is rarely whether a metal fragment can b
 
 4.<a id="endnote-4"></a>
    Source: media.defense.gov  
-   Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Title: DOPSR 2024 0263 [AARO]({{ 'aaro/' | relative_url }}) HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 

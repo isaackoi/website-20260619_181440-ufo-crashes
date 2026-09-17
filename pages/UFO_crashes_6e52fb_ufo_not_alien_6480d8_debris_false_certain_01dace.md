@@ -760,7 +760,7 @@ That conclusion does not prove that every UFO crash story is false. It does show
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
    Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;[AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has found no verifiable evidence that the U.S...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;[AARO]({{ 'aaro/' | relative_url }}) has found no verifiable evidence that the U.S...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: aaro.mil  

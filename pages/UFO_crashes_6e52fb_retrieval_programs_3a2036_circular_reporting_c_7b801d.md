@@ -813,7 +813,7 @@ The practical lesson is straightforward: the strongest evidence comes from genui
    Source: aaro.mil  
    Title: Official UAP Imagery  
    Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phenomenon to the All-domain Anomaly...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomenon to the All-domain Anomaly...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: nasa.gov  

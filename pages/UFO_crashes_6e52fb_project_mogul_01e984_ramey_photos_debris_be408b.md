@@ -767,7 +767,7 @@ For that reason, the Ramey photographs remain significant but not decisive. To s
 
 8.<a id="endnote-8"></a>
    Source: thesun.co.uk  
-   Title: ufo debris alien [bodies](&#123;&#123; 'bodies/' | relative_url &#125;&#125;) roswell incident video new mexico  
+   Title: ufo debris alien [bodies]({{ 'bodies/' | relative_url }}) roswell incident video new mexico  
    Link:<a href="https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/36780882/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Air Forces initially described as a &quot;flying disc,&quot; before retracting the statement and attributing the material to a weather balloon...</p></details>
 

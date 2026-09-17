@@ -802,7 +802,7 @@ For that reason, late testimony is usually most valuable when read alongside con
 2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall [timing]({{ 'timing/' | relative_url }}) on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
@@ -848,7 +848,7 @@ For that reason, late testimony is usually most valuable when read alongside con
    Source: dafhistory.af.mil  
    Title: AFD 101201 038  
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) that occurred in the state in 1947. This publication duplic...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF HistoryThe Roswell Report... crash of an [unidentified]({{ 'unidentified/' | relative_url }}) flying object (UFO) that occurred in the state in 1947. This publication duplic...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  

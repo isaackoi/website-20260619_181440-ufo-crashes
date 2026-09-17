@@ -846,7 +846,7 @@ The history of UFO [crash reports]({{ 'crash-reports/' | relative_url }}) repeat
 
 5.<a id="endnote-5"></a>
    Source: war.gov  
-   Title: dod examining [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena  
+   Title: dod examining [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena  
    Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
 
@@ -881,7 +881,7 @@ The history of UFO [crash reports]({{ 'crash-reports/' | relative_url }}) repeat
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
    Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>kuow... &quot;Congress doubles down on explosive claims of illegal UFO [retrieval programs](&amp;#123;&amp;#123; &#x27;retrieval-claims/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kuow... &quot;Congress doubles down on explosive claims of illegal UFO [retrieval programs]({{ 'retrieval-claims/' | relative_url }})&quot;.Read more...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: Wikipedia  

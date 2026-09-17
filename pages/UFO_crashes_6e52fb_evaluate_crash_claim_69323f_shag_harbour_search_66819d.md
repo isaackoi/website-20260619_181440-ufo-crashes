@@ -790,7 +790,7 @@ At the same time, the case illustrates a central lesson in evaluating crash clai
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
    Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP officers, no RCMP files regarding the [Shag Harbour crash](&amp;#123;&amp;#123; &#x27;crash-reports/&#x27; | relative_url &amp;#125;&amp;#125;) have survived in the archives. All available documentation, which amounts t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP officers, no RCMP files regarding the [Shag Harbour crash]({{ 'crash-reports/' | relative_url }}) have survived in the archives. All available documentation, which amounts t...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: recherche-research.bac-lac.gc.ca  
@@ -829,7 +829,7 @@ At the same time, the case illustrates a central lesson in evaluating crash clai
 14.<a id="endnote-14"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardDivers scoured the seabed while the military conducted aerial [searches](&amp;#123;&amp;#123; &#x27;searches/&#x27; | relative_url &amp;#125;&amp;#125;), but no physical evidence was ever recovered...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardDivers scoured the seabed while the military conducted aerial [searches]({{ 'searches/' | relative_url }}), but no physical evidence was ever recovered...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: aol.com  

@@ -835,7 +835,7 @@ That combination helps explain the tourism afterlife of UFO crashes. The officia
    Source: newmexicomagazine.org  
    Title: roswell crash explained  
    Link:<a href="https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexicomagazine.org/blog/post/roswell-crash-explained/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) to UFO cl...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Roswell Crash19 Nov 2025 — Explore three leading explanations for the 1947 Roswell incident, from weather [balloons]({{ 'balloons/' | relative_url }}) to UFO cl...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: muller.lbl.gov  

@@ -865,7 +865,7 @@ That does not settle every question about what happened near Roswell in 1947. It
    Source: dvidshub.net  
    Title: intelligence agents investigate ufos roswell 7 jul 1947  
    Link:<a href="https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/475677/intelligence-agents-investigate-ufos-roswell-7-jul-1947</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jesse A. Marcel investigated reports of an [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Object (UFO) that crash landed in Roswell, New Mexico.Read more...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: reddit.com  

@@ -951,4 +951,4 @@ Without that chain, the most defensible conclusion is usually narrower: somethin
    Source: rollcall.com  
    Title: no evidence of extraterrestrial technology report finds  
    Link:<a href="https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/" target="_blank" rel="noopener noreferrer nofollow">https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence of extraterrestrial technology, report finds8 Mar 2024 — The [AARO review](&amp;#123;&amp;#123; &#x27;aaro-review/&#x27; | relative_url &amp;#125;&amp;#125;) also found no evidence that U.S. government or priva...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence of extraterrestrial technology, report finds8 Mar 2024 — The [AARO review]({{ 'aaro-review/' | relative_url }}) also found no evidence that U.S. government or priva...</p></details>

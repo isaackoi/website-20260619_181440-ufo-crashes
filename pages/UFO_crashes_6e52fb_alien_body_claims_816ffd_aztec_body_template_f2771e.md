@@ -742,7 +742,7 @@ For historians of UFO culture, that is why Aztec matters. It was one of the earl
 
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Title: Aztec crashed [saucer hoax](&#123;&#123; 'saucer-hoax/' | relative_url &#125;&#125;)  
+   Title: Aztec crashed [saucer hoax]({{ 'saucer-hoax/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — The Aztec crashed saucer hoax was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico. The story was f...</p></details>
    Published: May 5, 2026  

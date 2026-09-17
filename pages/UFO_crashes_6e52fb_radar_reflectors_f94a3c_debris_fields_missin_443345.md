@@ -860,7 +860,7 @@ The significance of the missing engines, missing crater, and missing heavy struc
 11.<a id="endnote-11"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash... project [MOGUL balloon trains](&amp;#123;&amp;#123; &#x27;balloon-trains-e0f164/&#x27; | relative_url &amp;#125;&amp;#125;). At the time of the Roswell crash, project MOGUL was a highly classified...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO Crash... project [MOGUL balloon trains]({{ 'balloon-trains-e0f164/' | relative_url }}). At the time of the Roswell crash, project MOGUL was a highly classified...</p></details>
 
 ### Additional References
 
@@ -916,4 +916,4 @@ The significance of the missing engines, missing crater, and missing heavy struc
 21.<a id="endnote-21"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60Minutes9/posts/its-one-of-historys-most-famous-conspiracies-did-aliens-really-crash-land-at-ros/1162372379256952/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ctors and [sensors](&amp;#123;&amp;#123; &#x27;sensors/&#x27; | relative_url &amp;#125;&amp;#125;). ✅ These materials—thin foil, rubber, and sticks—were...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctors and [sensors]({{ 'sensors/' | relative_url }}). ✅ These materials—thin foil, rubber, and sticks—were...</p></details>

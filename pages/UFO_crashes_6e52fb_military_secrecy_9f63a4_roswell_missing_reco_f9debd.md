@@ -775,7 +775,7 @@ That gap helps explain why Roswell continues to attract attention decades later.
    Source: archives.gov  
    Title: Project BLUE BOOK  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsJun 25, 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsJun 25, 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK r...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: govinfo.gov  
@@ -839,7 +839,7 @@ That gap helps explain why Roswell continues to attract attention decades later.
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Title: The Basement: James Fox | UFO Disclosure, [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;), and the Captured Creature  
+   Title: The Basement: James Fox | UFO Disclosure, [Varginha]({{ 'varginha/' | relative_url }}), and the Captured Creature  
    Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
 

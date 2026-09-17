@@ -852,7 +852,7 @@ In UFO crash narratives, that makes underwater searches unusually valuable. They
 9.<a id="endnote-9"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO crashes](&amp;#123;&amp;#123; &#x27;ufo-crashes/&#x27; | relative_url &amp;#125;&amp;#125;) in Shag Harbour, Nova ScotiaThe final report said no trace of an object was found. The Mysterious Shag Harbour UFO Crash Inci...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO crashes]({{ 'ufo-crashes/' | relative_url }}) in Shag Harbour, Nova ScotiaThe final report said no trace of an object was found. The Mysterious Shag Harbour UFO Crash Inci...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: facebook.com  

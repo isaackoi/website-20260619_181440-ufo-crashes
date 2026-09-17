@@ -768,7 +768,7 @@ For understanding military secrecy and crash-story suspicion, the U-2 remains on
 
 1.<a id="endnote-1"></a>
    Source: media.defense.gov  
-   Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Title: DOPSR 2024 0263 [AARO]({{ 'aaro/' | relative_url }}) HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — More than half of the UFO reports investigated in the 1950s and...</p></details>
 
@@ -850,7 +850,7 @@ For understanding military secrecy and crash-story suspicion, the U-2 remains on
 16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: aaro.mil  

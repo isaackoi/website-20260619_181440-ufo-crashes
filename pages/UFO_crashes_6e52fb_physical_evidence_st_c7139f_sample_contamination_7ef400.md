@@ -817,7 +817,7 @@ Without those safeguards, extraordinary claims remain vulnerable to ordinary exp
 
 3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: PMCThe [Chain of Custody](&#123;&#123; 'custody/' | relative_url &#125;&#125;) in the Era of Modern Forensics  
+   Title: PMCThe [Chain of Custody]({{ 'custody/' | relative_url }}) in the Era of Modern Forensics  
    Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 67 — The purpose of this work is to renew the interest...</p></details>
 

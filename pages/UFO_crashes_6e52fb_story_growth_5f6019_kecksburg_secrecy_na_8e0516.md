@@ -797,7 +797,7 @@ That transition helps explain the case's longevity. Physical evidence remained e
 
 11.<a id="endnote-11"></a>
    Source: rcfp.org  
-   Title: judge forces nasa take giant leap [foia](&#123;&#123; 'foia/' | relative_url &#125;&#125;) suit  
+   Title: judge forces nasa take giant leap [foia]({{ 'foia/' | relative_url }}) suit  
    Link:<a href="https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcfp.org/judge-forces-nasa-take-giant-leap-foia-suit/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters CommitteeJudge forces NASA to take a giant leap in FOIA suitDec 10, 2007 — After four years of foot dragging, NASA must conduct...</p></details>
 

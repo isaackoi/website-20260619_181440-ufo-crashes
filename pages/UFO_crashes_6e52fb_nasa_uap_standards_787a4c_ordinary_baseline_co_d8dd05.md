@@ -839,7 +839,7 @@ Only after these comparisons fail would investigators have reason to treat the e
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
    Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is hampered b...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[NASA UAP]({{ 'nasa-uap/' | relative_url }}) report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is hampered b...</p></details>
 
 ### Additional References
 

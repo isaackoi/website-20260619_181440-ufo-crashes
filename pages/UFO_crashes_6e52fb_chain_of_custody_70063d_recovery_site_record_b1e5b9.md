@@ -789,7 +789,7 @@ For alleged UFO wreckage, recovery-site records are therefore not administrative
    Source: gao.gov  
    Title: nsiad 95 187  
    Link:<a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — We found [no records](&amp;#123;&amp;#123; &#x27;no-records/&#x27; | relative_url &amp;#125;&amp;#125;) mentioning the Roswell crash or the examination by Air Materiel Command...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSIAD-95-187 Government Records28 Jul 1995 — We found [no records]({{ 'no-records/' | relative_url }}) mentioning the Roswell crash or the examination by Air Materiel Command...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: nij.ojp.gov  

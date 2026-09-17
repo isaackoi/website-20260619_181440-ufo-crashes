@@ -762,7 +762,7 @@ For historians, the value of these search trails lies not in proving extraterres
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe Air Force research did not locate or develop any information that the...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe Air Force research did not locate or develop any information that the...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: sgp.fas.org  

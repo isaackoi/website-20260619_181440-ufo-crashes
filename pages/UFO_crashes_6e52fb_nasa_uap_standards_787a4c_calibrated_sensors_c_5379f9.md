@@ -821,7 +821,7 @@ That is the central mechanism behind NASA’s approach to UAP crash evidence. Dr
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Vehicle Speed and Length Estimation Errors Using...5 Nov 2019 — This paper focuses on a self-developed system equipped with four a...</p></details>
 
 10.<a id="endnote-10"></a>
-   Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
+   Source: [aaro]({{ 'aaro/' | relative_url }}). mil  
    Title: Go Fast Case Resolution Card Methodology Final  
    Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — Figure 22: With the F/A-18 flying into the wind, the UAP apparent high speed due to parallax (rig...</p></details>

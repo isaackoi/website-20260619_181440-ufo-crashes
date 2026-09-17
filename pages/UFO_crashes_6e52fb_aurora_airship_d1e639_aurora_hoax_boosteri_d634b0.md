@@ -764,7 +764,7 @@ The result is a nuanced conclusion. The civic-decline model remains the most per
 8.<a id="endnote-8"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-early-on-saturday-morning-apri/1512068613613276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-early-on-saturday-morning-apri/1512068613613276/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 1897, a [fireball](&amp;#123;&amp;#123; &#x27;fireball/&#x27; | relative_url &amp;#125;&amp;#125;) crashed near a farm, resulting in a gruesome scene, with some witnesses...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 1897, a [fireball]({{ 'fireball/' | relative_url }}) crashed near a farm, resulting in a gruesome scene, with some witnesses...</p></details>
    Published: April 17, 1897  
 
 9.<a id="endnote-9"></a>

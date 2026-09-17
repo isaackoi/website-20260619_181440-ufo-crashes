@@ -905,7 +905,7 @@ The programme's 701 unidentified reports remain historically important because t
 23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office ([AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)), the investigation reviewed historical data and conducted interviews with of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
 24.<a id="endnote-24"></a>
    Source: facebook.com  
@@ -928,7 +928,7 @@ The programme's 701 unidentified reports remain historically important because t
 27.<a id="endnote-27"></a>
    Source: instagram.com  
    Link:<a href="https://www.instagram.com/reel/DWcs8aJES0u/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWcs8aJES0u/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>weather [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;). Not aircraft. Not swamp gas. Simply: unknown. No...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather [balloons]({{ 'balloons/' | relative_url }}). Not aircraft. Not swamp gas. Simply: unknown. No...</p></details>
 
 28.<a id="endnote-28"></a>
    Source: medium.com  

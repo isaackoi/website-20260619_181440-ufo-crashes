@@ -825,7 +825,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
 
 15.<a id="endnote-15"></a>
    Source: gizmodo.com  
-   Title: pentagon publishes report on material from a reported alien [aircraft](&#123;&#123; 'aircraft/' | relative_url &#125;&#125;) 2000469433  
+   Title: pentagon publishes report on material from a reported alien [aircraft]({{ 'aircraft/' | relative_url }}) 2000469433  
    Link:<a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
 
@@ -837,7 +837,7 @@ What remained after the analysis was a more ordinary, though still somewhat unus
 17.<a id="endnote-17"></a>
    Source: medium.com  
    Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical examination of physical specimens associated with [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) aerial phenomena.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical examination of physical specimens associated with [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena.Read more...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: tothestars.media  

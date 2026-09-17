@@ -844,7 +844,7 @@ For researchers, the enduring value of Kecksburg lies in the interaction between
 14.<a id="endnote-14"></a>
    Source: positivelypittsburgh.com  
    Link:<a href="https://positivelypittsburgh.com/the-kecksburg-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://positivelypittsburgh.com/the-kecksburg-ufo-incident/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentOn the evening of December 9, 1965, in the small town of Kecksburg, PA, a [fireball](&amp;#123;&amp;#123; &#x27;fireball/&#x27; | relative_url &amp;#125;&amp;#125;) tore through the sky and cra...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO IncidentOn the evening of December 9, 1965, in the small town of Kecksburg, PA, a [fireball]({{ 'fireball/' | relative_url }}) tore through the sky and cra...</p></details>
    Published: December 9, 1965  
 
 15.<a id="endnote-15"></a>

@@ -815,7 +815,7 @@ In that sense, the strongest crash sample is not necessarily the most exotic-loo
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
    Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>military [aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;). Analysis of this data is “hampered by poor sensor...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military [aircraft]({{ 'aircraft/' | relative_url }}). Analysis of this data is “hampered by poor sensor...Read more...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: nist.gov  
@@ -922,7 +922,7 @@ In that sense, the strongest crash sample is not necessarily the most exotic-loo
    Source: Wikipedia  
    Title: Chain of custody  
    Link:<a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyChain of custody (CoC), in legal contexts, is the chronological documentation or [paper trail](&amp;#123;&amp;#123; &#x27;paper-trail/&#x27; | relative_url &amp;#125;&amp;#125;) that records the sequence...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyChain of custody (CoC), in legal contexts, is the chronological documentation or [paper trail]({{ 'paper-trail/' | relative_url }}) that records the sequence...</p></details>
 
 24.<a id="endnote-24"></a>
    Source: nij.ojp.gov  

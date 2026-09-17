@@ -841,13 +841,13 @@ For that reason, the Barnett narrative is frequently cited less as proof of reco
 17.<a id="endnote-17"></a>
    Source: sacred-texts.com  
    Link:<a href="https://sacred-texts.com/ufo/roswel01.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/roswel01.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell New Mexico UFO Crash Incident, 1947Witnesses discovered the [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) of a metallic disc resting on the ground with bodies spewed...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell New Mexico UFO Crash Incident, 1947Witnesses discovered the [wreckage]({{ 'wreckage/' | relative_url }}) of a metallic disc resting on the ground with bodies spewed...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: ww2aircraft.net  
    Title: Forums History's conspiracies  
    Link:<a href="https://ww2aircraft.net/forum/threads/historys-conspiracies.9125/page-2" target="_blank" rel="noopener noreferrer nofollow">https://ww2aircraft.net/forum/threads/historys-conspiracies.9125/page-2</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 | [Aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;) of World War II12 Aug 2007 — Roswell in 1994 &quot;resolved&quot; the Barnett problem by simply ignoring him and citing a new l...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 | [Aircraft]({{ 'aircraft/' | relative_url }}) of World War II12 Aug 2007 — Roswell in 1994 &quot;resolved&quot; the Barnett problem by simply ignoring him and citing a new l...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: esd.whs.mil  

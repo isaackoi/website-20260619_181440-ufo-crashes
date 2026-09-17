@@ -828,7 +828,7 @@ Within the broader debate over UFO crashes, NASA's standard offers a simple prin
 12.<a id="endnote-12"></a>
    Source: space.com  
    Link:<a href="https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs worth investigating without &#x27;real evidence,&#x27; Scott...2 Jun 2023 — Related: UFOs will remain mysterious without [better data](&amp;#123;&amp;#123; &#x27;better-data/&#x27; | relative_url &amp;#125;&amp;#125;), NASA st...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs worth investigating without &#x27;real evidence,&#x27; Scott...2 Jun 2023 — Related: UFOs will remain mysterious without [better data]({{ 'better-data/' | relative_url }}), NASA st...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: en.wikisource.org  

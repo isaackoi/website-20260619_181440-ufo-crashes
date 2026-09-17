@@ -818,7 +818,7 @@ The historical significance of Genetrix is therefore not that it explains every 
 
 12.<a id="endnote-12"></a>
    Source: steveblank.com  
-   Title: Balloon sightings were dismissed with [cover story](&#123;&#123; 'cover-story/' | relative_url &#125;&#125;): they were  
+   Title: Balloon sightings were dismissed with [cover story]({{ 'cover-story/' | relative_url }}): they were  
    Link:<a href="https://steveblank.com/2010/01/28/balloon-wars/" target="_blank" rel="noopener noreferrer nofollow">https://steveblank.com/2010/01/28/balloon-wars/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve BlankBalloon Wars: Part 16 of the Secret History of Silicon ValleyJanuary 28, 2010 — 28 Jan 2010 — GENETRIX programs were the CIA/m...</p></details>
    Published: January 28, 2010  

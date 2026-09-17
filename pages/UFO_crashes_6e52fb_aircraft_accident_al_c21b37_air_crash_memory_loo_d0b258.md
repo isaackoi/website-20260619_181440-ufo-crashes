@@ -791,7 +791,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
    Source: dafhistory.af.mil  
    Title: AFD 101201 038  
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report... crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) that occurred in the state in 1947. This publication duplica...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report... crash of an [unidentified]({{ 'unidentified/' | relative_url }}) flying object (UFO) that occurred in the state in 1947. This publication duplica...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
@@ -879,7 +879,7 @@ In that way, aircraft accident memories can become raw material for alien crash 
 17.<a id="endnote-17"></a>
    Source: instagram.com  
    Link:<a href="https://www.instagram.com/p/DYPkxsIjVTd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPkxsIjVTd/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>But decades later, the US government said it wasn&#x27;t aliens, just high-tech spy [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) from a...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But decades later, the US government said it wasn&#x27;t aliens, just high-tech spy [balloons]({{ 'balloons/' | relative_url }}) from a...Read more...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: psychologyinaction.org  

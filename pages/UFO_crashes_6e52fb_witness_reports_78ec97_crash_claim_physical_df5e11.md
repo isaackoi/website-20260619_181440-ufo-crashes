@@ -862,7 +862,7 @@ For this reason, the central question in any alleged UFO crash is not simply wha
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;) UFO incident  
+   Title: [Varginha]({{ 'varginha/' | relative_url }}) UFO incident  
    Link:<a href="https://en.wikipedia.org/wiki/Varginha_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Varginha_UFO_incident</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Varginha UFO incidentRumors afterward began to spread through the area, with some people claiming to have observed UFOs in the days pr...</p></details>
 

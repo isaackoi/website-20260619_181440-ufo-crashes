@@ -805,7 +805,7 @@ For that reason, Ubatuba remains one of the most discussed debris cases in UFO h
 
 6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Title: 388920799 The New Science of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerospace Undersea Phenomena UAP  
+   Title: 388920799 The New Science of [Unidentified]({{ 'unidentified/' | relative_url }}) Aerospace Undersea Phenomena UAP  
    Link:<a href="https://www.researchgate.net/publication/388920799_The_New_Science_of_Unidentified_Aerospace-Undersea_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388920799_The_New_Science_of_Unidentified_Aerospace-Undersea_Phenomena_UAP</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...31 Mar 2026 — In this paper, we review and summarize approximately 20 historical go...</p></details>
 

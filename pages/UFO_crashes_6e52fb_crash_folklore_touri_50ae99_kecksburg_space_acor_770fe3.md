@@ -841,7 +841,7 @@ That transformation explains why the acorn remains central to Kecksburg’s iden
 20.<a id="endnote-20"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) object up close before US military officials were able to...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the [unidentified]({{ 'unidentified/' | relative_url }}) object up close before US military officials were able to...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: yahoo.com  

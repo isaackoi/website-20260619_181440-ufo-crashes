@@ -861,7 +861,7 @@ For the history of UFO crash and retrieval stories, this remains one of the most
 9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: en.wikisource.org  

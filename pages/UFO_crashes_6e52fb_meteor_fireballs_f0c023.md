@@ -1051,7 +1051,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
 
 22.<a id="endnote-22"></a>
    Source: war.gov  
-   Title: dod examining [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena  
+   Title: dod examining [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena  
    Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 23.<a id="endnote-23"></a>
@@ -1132,7 +1132,7 @@ That is why fireballs matter in the broader subject of UFO crashes. They show ho
 
 41.<a id="endnote-41"></a>
    Source: media.defense.gov  
-   Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Title: DOPSR 2024 0263 [AARO]({{ 'aaro/' | relative_url }}) HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 42.<a id="endnote-42"></a>

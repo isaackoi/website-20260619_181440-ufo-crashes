@@ -1119,7 +1119,7 @@ For a crash claim to overturn that record, the evidential burden would be high b
    Source: youtube.com  
    Title: UFO Cover-Up Exposed: Navy Pilot Forces Government To Admit UFOs Are Real  
    Link:<a href="https://www.youtube.com/watch?v=l6F-TWyrbyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l6F-TWyrbyU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO Crashes](&amp;#123;&amp;#123; &#x27;ufo-crashes/&#x27; | relative_url &amp;#125;&amp;#125;) &#x27;Recovered Four Alien Species,&#x27; Ex CIA-Funded Scientist Claims | WATCH...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO Crashes]({{ 'ufo-crashes/' | relative_url }}) &#x27;Recovered Four Alien Species,&#x27; Ex CIA-Funded Scientist Claims | WATCH...</p></details>
 
 41.<a id="endnote-41"></a>
    Source: govinfo.gov  

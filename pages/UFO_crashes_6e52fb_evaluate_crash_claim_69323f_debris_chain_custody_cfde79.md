@@ -841,7 +841,7 @@ Most alleged UFO debris struggles not because the material is obviously ordinary
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
 
 10.<a id="endnote-10"></a>
-   Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
+   Source: [aaro]({{ 'aaro/' | relative_url }}). mil  
    Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 

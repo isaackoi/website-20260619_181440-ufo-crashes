@@ -787,7 +787,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
 7.<a id="endnote-7"></a>
    Source: scribd.com  
    Link:<a href="https://www.scribd.com/document/160434646/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434646/The-Roswell-Mystery</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident: Government Cover-Up | PDF | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Object | Ufology...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident: Government Cover-Up | PDF | [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Object | Ufology...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: reddit.com  
@@ -818,7 +818,7 @@ Critics of the Mogul theory continue to argue that some witness descriptions inv
 
 12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Title: Were there actually ALIEN [bodies](&#123;&#123; 'bodies/' | relative_url &#125;&#125;) in Roswell?  
+   Title: Were there actually ALIEN [bodies]({{ 'bodies/' | relative_url }}) in Roswell?  
    Link:<a href="https://www.youtube.com/watch?v=X45PXkFBtAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X45PXkFBtAA</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul, the secret operation behind the UFO crash in Rodwell...</p></details>
 

@@ -827,7 +827,7 @@ That outcome does not validate extraordinary claims. What it does establish is t
    Source: thescubanews.com  
    Title: shag harbour nova scotia ufo incident  
    Link:<a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scuba NewsShag Harbour, Nova Scotia UFO Incident16 Oct 2025 — Despite a thorough search, [no wreckage](&amp;#123;&amp;#123; &#x27;no-wreckage/&#x27; | relative_url &amp;#125;&amp;#125;), bodies, or survivors were found...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scuba NewsShag Harbour, Nova Scotia UFO Incident16 Oct 2025 — Despite a thorough search, [no wreckage]({{ 'no-wreckage/' | relative_url }}), bodies, or survivors were found...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: safetycompass.wordpress.com  

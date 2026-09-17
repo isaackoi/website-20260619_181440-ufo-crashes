@@ -864,7 +864,7 @@ The strongest crash narratives are not necessarily the most spectacular ones. Th
 13.<a id="endnote-13"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/6fll4h/today_i_learned_of_the_kecksburg_pa_ufo_incident/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) object up close before US military officials were able to...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the [unidentified]({{ 'unidentified/' | relative_url }}) object up close before US military officials were able to...Read more...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: media.defense.gov  

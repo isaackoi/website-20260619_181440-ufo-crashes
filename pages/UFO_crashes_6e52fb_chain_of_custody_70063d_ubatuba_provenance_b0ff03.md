@@ -770,7 +770,7 @@ As a result, the Ubatuba fragments occupy an unusual position in UFO crash liter
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) flying object  
+   Title: [Unidentified]({{ 'unidentified/' | relative_url }}) flying object  
    Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object... alien abductees and people who credulously reported stories about UFOs. In the 1980s and 1990s, UFO sto...</p></details>
 

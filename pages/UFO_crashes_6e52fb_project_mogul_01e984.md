@@ -994,7 +994,7 @@ That is why Mogul remains central to [official explanations]({{ 'afterlife/' | r
    Source: youtube.com  
    Title: Roswell UFO: What Really Happened? Conspiracy Theory Section I  
    Link:<a href="https://www.youtube.com/watch?v=8ua33uwRTMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ua33uwRTMM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) in Roswell?...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies]({{ 'bodies/' | relative_url }}) in Roswell?...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: youtube.com  

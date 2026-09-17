@@ -761,7 +761,7 @@ For readers interested in crash-retrieval evidence, the lesson is straightforwar
 5.<a id="endnote-5"></a>
    Source: scribd.com  
    Link:<a href="https://www.scribd.com/document/293042073/GROSS-Mystery-of-UFOs-a-Prelude" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/293042073/GROSS-Mystery-of-UFOs-a-Prelude</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>GROSS Mystery of UFOs A Prelude | PDFThe metal fragments removed for analysis were dug up from the well site and yard. The [Aurora](&amp;#123;&amp;#123; &#x27;aurora/&#x27; | relative_url &amp;#125;&amp;#125;) cemeter...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GROSS Mystery of UFOs A Prelude | PDFThe metal fragments removed for analysis were dug up from the well site and yard. The [Aurora]({{ 'aurora/' | relative_url }}) cemeter...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  

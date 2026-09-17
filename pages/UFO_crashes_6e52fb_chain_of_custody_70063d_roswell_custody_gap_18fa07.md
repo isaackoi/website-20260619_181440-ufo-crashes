@@ -814,7 +814,7 @@ For debates about crash retrievals, that distinction is crucial. Roswell's endur
 6.<a id="endnote-6"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe National Archives has been unable to locate any documentation among t...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: gao.justia.com  

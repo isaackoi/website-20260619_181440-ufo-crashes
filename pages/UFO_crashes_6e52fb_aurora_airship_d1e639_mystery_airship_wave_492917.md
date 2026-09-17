@@ -805,7 +805,7 @@ The result was one of the earliest examples of a crash legend built upon an exis
 5.<a id="endnote-5"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/14um50p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14um50p</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897. Crazy to think there was a reported &#x27;incident&#x27; 50 years [before Roswell](&amp;#123;&amp;#123; &#x27;before-roswell/&#x27; | relative_url &amp;#125;&amp;#125;). July 9, 2023...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897. Crazy to think there was a reported &#x27;incident&#x27; 50 years [before Roswell]({{ 'before-roswell/' | relative_url }}). July 9, 2023...</p></details>
    Published: April 19, 1897  
 
 6.<a id="endnote-6"></a>

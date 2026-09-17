@@ -918,7 +918,7 @@ For that reason, investigators typically begin with the earliest available repor
    Source: georgehbalazs.com  
    Title: He also said he saw the bodies of alien beings. Page  
    Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/08/1994-1996-ROSWELL-UFO-LITERATURE-AND-LETTERS.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Recollections of Roswell--Part II&quot; - Summary of Witness...Before his death, he told her he was the pilot who flew the [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) of the U...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Recollections of Roswell--Part II&quot; - Summary of Witness...Before his death, he told her he was the pilot who flew the [wreckage]({{ 'wreckage/' | relative_url }}) of the U...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: ciphermysteries.com  

@@ -743,7 +743,7 @@ That gap between what was said publicly and what was known privately is the reas
    Source: gao.gov  
    Title: nsiad 95 187  
    Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Government [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;): Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico | U.S. GAOJuly 28, 1995...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government [Records]({{ 'records/' | relative_url }}): Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico | U.S. GAOJuly 28, 1995...</p></details>
    Published: July 28, 1995  
 
 2.<a id="endnote-2"></a>

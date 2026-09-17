@@ -846,7 +846,7 @@ That is why discussions of alien bodies ultimately return to the same issue. The
 4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: aaro.mil  
