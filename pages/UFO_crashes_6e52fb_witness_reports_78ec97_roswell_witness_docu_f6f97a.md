@@ -824,7 +824,7 @@ For that reason, Roswell is less a simple question of whether witnesses were tru
    Source: Wikipedia  
    Title: 1947 flying disc craze  
    Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 9, Roswell Daily Record reported that the debris consisted of &quot;large area of bright [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) made up of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeOn July 9, Roswell Daily Record reported that the debris consisted of &quot;large area of bright [wreckage]({{ 'wreckage/' | relative_url }}) made up of...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: Wikipedia  

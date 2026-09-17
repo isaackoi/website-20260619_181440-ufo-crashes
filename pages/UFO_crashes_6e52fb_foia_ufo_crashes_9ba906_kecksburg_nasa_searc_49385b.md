@@ -767,7 +767,7 @@ In Kecksburg, the lawsuit moved the investigation forward by transforming a simp
    Source: archives.gov  
    Title: presidential libraries  
    Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: theguardian.com  

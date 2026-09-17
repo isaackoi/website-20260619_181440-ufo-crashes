@@ -774,7 +774,7 @@ For investigators assessing crash claims, the key lesson is straightforward: a f
 2.<a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
    Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>following chart shows fireball events reported by U.S. Government [sensors](&amp;#123;&amp;#123; &#x27;sensors/&#x27; | relative_url &amp;#125;&amp;#125;) for which geographic location data are provided. Each event&#x27;s c...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>following chart shows fireball events reported by U.S. Government [sensors]({{ 'sensors/' | relative_url }}) for which geographic location data are provided. Each event&#x27;s c...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: space.com  
@@ -852,7 +852,7 @@ For investigators assessing crash claims, the key lesson is straightforward: a f
    Source: amsmeteors.org  
    Title: ams q1 2026 fireball analysis  
    Link:<a href="https://amsmeteors.org/ams-q1-2026-fireball-analysis.html" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/ams-q1-2026-fireball-analysis.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The maps below show all Q1 2026 fireball events with 25+ [witness reports](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) and valid trajectory solutions.Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The maps below show all Q1 2026 fireball events with 25+ [witness reports]({{ 'witnesses/' | relative_url }}) and valid trajectory solutions.Read more...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: theguardian.com  

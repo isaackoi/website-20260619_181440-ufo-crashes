@@ -906,7 +906,7 @@ When those questions are answered, a no-records response can meaningfully narrow
    Source: archives.gov  
    Title: Project BLUE BOOK  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects25 Jun 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK re...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects25 Jun 2024 — The National Archives has been unable to locate any documentation among the Project BLUE BOOK re...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: jpost.com  

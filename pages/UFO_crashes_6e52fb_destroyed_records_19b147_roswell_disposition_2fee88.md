@@ -801,7 +801,7 @@ The Roswell destruction problem therefore remains less a mystery about what was 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  

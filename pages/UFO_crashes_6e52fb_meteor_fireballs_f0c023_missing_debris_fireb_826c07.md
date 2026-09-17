@@ -818,7 +818,7 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
 9.<a id="endnote-9"></a>
    Source: ukfall.org.uk  
    Link:<a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;), while accurate strew...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe ScienceIn some cases, it is possible to directly link meteorites to their parent [bodies]({{ 'bodies/' | relative_url }}), while accurate strew...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: pubs.geoscienceworld.org  

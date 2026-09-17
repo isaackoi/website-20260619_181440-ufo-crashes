@@ -1023,7 +1023,7 @@ The most careful reading is therefore neither blanket dismissal nor automatic be
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Title: The Basement: James Fox | UFO Disclosure, [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;), and the Captured Creature  
+   Title: The Basement: James Fox | UFO Disclosure, [Varginha]({{ 'varginha/' | relative_url }}), and the Captured Creature  
    Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
 

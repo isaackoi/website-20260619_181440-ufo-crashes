@@ -834,7 +834,7 @@ In UFO crash investigations, balloons are most convincing not because they are o
 9.<a id="endnote-9"></a>
    Source: weather.gov  
    Link:<a href="https://www.weather.gov/upperair/reqdahdr" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/reqdahdr</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of Upper-air ObservationsTo supplement the kite and [aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;) data, Weather Bureau stations in 1909 began to track small...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief History of Upper-air ObservationsTo supplement the kite and [aircraft]({{ 'aircraft/' | relative_url }}) data, Weather Bureau stations in 1909 began to track small...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: muller.lbl.gov  

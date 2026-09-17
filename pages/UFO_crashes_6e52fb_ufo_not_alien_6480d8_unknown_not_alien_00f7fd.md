@@ -810,7 +810,7 @@ An unidentified report tells us that something has not yet been explained. It do
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
    Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;) has...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, [AARO]({{ 'aaro/' | relative_url }}) has...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
@@ -914,7 +914,7 @@ An unidentified report tells us that something has not yet been explained. It do
 22.<a id="endnote-22"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP]({{ 'nasa-uap/' | relative_url }}) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
 23.<a id="endnote-23"></a>
    Source: waru.edu  

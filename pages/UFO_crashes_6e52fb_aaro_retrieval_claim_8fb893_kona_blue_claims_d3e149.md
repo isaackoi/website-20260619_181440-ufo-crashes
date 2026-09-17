@@ -851,7 +851,7 @@ As a result, KONA BLUE occupies an unusual place in the history of UFO retrieval
 
 14.<a id="endnote-14"></a>
    Source: dhs.gov  
-   Title: 25 0723 [foia](&#123;&#123; 'foia/' | relative_url &#125;&#125;) dhs st foia log fy2024  
+   Title: 25 0723 [foia]({{ 'foia/' | relative_url }}) dhs st foia log fy2024  
    Link:<a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology Directorate FOIA Logs- FY 202428 Nov 2023 — The proposed KONA BLUE lines of effort closely mirrored those conducte...</p></details>
 

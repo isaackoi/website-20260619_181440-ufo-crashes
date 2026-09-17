@@ -834,7 +834,7 @@ For investigators, however, the practical issue is straightforward. A fragment b
    Source: dafhistory.af.mil  
    Title: AFD 101201 038  
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Reportinformation regarding an alleged crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) that occurred in the state in 1947. the R...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Reportinformation regarding an alleged crash of an [unidentified]({{ 'unidentified/' | relative_url }}) flying object (UFO) that occurred in the state in 1947. the R...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: altpropulsion.com  

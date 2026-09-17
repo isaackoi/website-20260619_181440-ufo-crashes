@@ -783,7 +783,7 @@ Whether those signs reflected the protection of classified technology or somethi
    Source: news.sky.com  
    Title: Many sightings of UFOs  
    Link:<a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program]({{ 'classified-rumors/' | relative_url }})...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
@@ -824,7 +824,7 @@ Whether those signs reflected the protection of classified technology or somethi
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT... [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) of the recovery of any &quot;alien&quot; bodies or extraterrestrial materials. INTRODUCTION. Air Force involvement in th...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORT... [records]({{ 'records/' | relative_url }}) of the recovery of any &quot;alien&quot; bodies or extraterrestrial materials. INTRODUCTION. Air Force involvement in th...</p></details>
 
 ### Additional References
 

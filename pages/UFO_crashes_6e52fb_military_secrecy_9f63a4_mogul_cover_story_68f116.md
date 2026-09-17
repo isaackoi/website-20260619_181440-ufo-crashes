@@ -839,7 +839,7 @@ This is the core lesson of Roswell's cover-story problem. A genuine government s
    Source: skepticalinquirer.org  
    Title: The Roswell Incident at 70: Facts, Not Myths Figure 2  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagram of balloon train from NYU Flight 2, similar to that of [Flight 4](&amp;#123;&amp;#123; &#x27;flight-4/&#x27; | relative_url &amp;#125;&amp;#125;), debris from which seems to have stimulated the original Roswell...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagram of balloon train from NYU Flight 2, similar to that of [Flight 4]({{ 'flight-4/' | relative_url }}), debris from which seems to have stimulated the original Roswell...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: blogs.library.unt.edu  
@@ -874,6 +874,6 @@ This is the core lesson of Roswell's cover-story problem. A genuine government s
 
 24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Title: The Basement: James Fox | UFO Disclosure, [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;), and the Captured Creature  
+   Title: The Basement: James Fox | UFO Disclosure, [Varginha]({{ 'varginha/' | relative_url }}), and the Captured Creature  
    Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>

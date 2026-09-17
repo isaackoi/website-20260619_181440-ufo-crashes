@@ -804,7 +804,7 @@ In the broader study of balloons mistaken for crashed craft, that may be Mogul's
    Source: news.sky.com  
    Title: Many sightings of UFOs  
    Link:<a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsRoswell UFO sightings can be explained by classified...8 Mar 2024 — Roswell UFO sightings can be explained by [classified program]({{ 'classified-rumors/' | relative_url }})...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
@@ -854,7 +854,7 @@ In the broader study of balloons mistaken for crashed craft, that may be Mogul's
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Roswell Incident at 70: Facts, Not Myths Figure 2  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagram of balloon train from NYU Flight 2, similar to that of [Flight 4](&amp;#123;&amp;#123; &#x27;flight-4/&#x27; | relative_url &amp;#125;&amp;#125;), debris from which seems to have stimulated the original Roswell...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diagram of balloon train from NYU Flight 2, similar to that of [Flight 4]({{ 'flight-4/' | relative_url }}), debris from which seems to have stimulated the original Roswell...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
@@ -882,7 +882,7 @@ In the broader study of balloons mistaken for crashed craft, that may be Mogul's
 21.<a id="endnote-21"></a>
    Source: scribd.com  
    Link:<a href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434858/The-Roswell-Mystery</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these [reflectors](&amp;#123;&amp;#123; &#x27;reflectors/&#x27; | relative_url &amp;#125;&amp;#125;) and before being...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these [reflectors]({{ 'reflectors/' | relative_url }}) and before being...</p></details>
 
 22.<a id="endnote-22"></a>
    Source: reddit.com  

@@ -797,7 +797,7 @@ The mechanism does not require hoaxes, exaggeration or dishonesty. Witnesses may
 3.<a id="endnote-3"></a>
    Source: cneos.jpl.nasa.gov  
    Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe following chart shows fireball events reported by U.S. Government [sensors](&amp;#123;&amp;#123; &#x27;sensors/&#x27; | relative_url &amp;#125;&amp;#125;) for which geographic location data are provided...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe following chart shows fireball events reported by U.S. Government [sensors]({{ 'sensors/' | relative_url }}) for which geographic location data are provided...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: arxiv.org  

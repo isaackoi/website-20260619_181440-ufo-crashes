@@ -817,7 +817,7 @@ For that reason, lost records occupy a unique place in UFO crash lore. They are 
 7.<a id="endnote-7"></a>
    Source: muller.lbl.gov  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL INCIDENT REPORT... records of the recovery of any &quot;alien&quot; [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) or extraterrestrial materials. INTRODUCTION. Air Force involveme...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL INCIDENT REPORT... records of the recovery of any &quot;alien&quot; [bodies]({{ 'bodies/' | relative_url }}) or extraterrestrial materials. INTRODUCTION. Air Force involveme...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
@@ -842,7 +842,7 @@ For that reason, lost records occupy a unique place in UFO crash lore. They are 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: archives.gov  
@@ -874,7 +874,7 @@ For that reason, lost records occupy a unique place in UFO crash lore. They are 
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
    Link:<a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2013 —... reported that the FBI had posted proof of a UFO crash at Roswell, New Mexico and the recovery of [wreckage](&amp;#123;&amp;#123; &#x27;wreckage/&#x27; | relative_url &amp;#125;&amp;#125;) and alien cor...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2013 —... reported that the FBI had posted proof of a UFO crash at Roswell, New Mexico and the recovery of [wreckage]({{ 'wreckage/' | relative_url }}) and alien cor...</p></details>
 
 19.<a id="endnote-19"></a>
    Source: gao.justia.com  
@@ -954,7 +954,7 @@ For that reason, lost records occupy a unique place in UFO crash lore. They are 
    Source: reddit.com  
    Title: is case finally closed on 1965 ufo mysteryleslie  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ekj9ip/is_case_finally_closed_on_1965_ufo_mysteryleslie/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA hit with UFO cover-up claim as lawmaker says [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;) fear &#x27;being...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is case finally closed on 1965 UFO mystery?--Leslie Keane...NASA hit with UFO cover-up claim as lawmaker says [whistleblowers]({{ 'whistleblowers/' | relative_url }}) fear &#x27;being...</p></details>
 
 33.<a id="endnote-33"></a>
    Source: mg.co.za  

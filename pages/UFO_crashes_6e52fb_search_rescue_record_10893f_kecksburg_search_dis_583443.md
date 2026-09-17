@@ -740,13 +740,13 @@ Kecksburg remains influential because it demonstrates how a documented search ca
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
    Link:<a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) lawsuit filed against. NASA had stonewalled and was wit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Case Finally Closed on 1965 Pennsylvania &#x27;UFO Mystery&#x27;?24 Nov 2009 — [FOIA]({{ 'foia/' | relative_url }}) lawsuit filed against. NASA had stonewalled and was wit...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: abcnews.com  

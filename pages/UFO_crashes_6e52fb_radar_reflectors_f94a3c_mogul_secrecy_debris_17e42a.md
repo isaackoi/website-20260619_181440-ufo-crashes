@@ -771,7 +771,7 @@ In the specific context of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), t
 7.<a id="endnote-7"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA]({{ 'foia/' | relative_url }}) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
    Published: July 8, 1947  
 
 8.<a id="endnote-8"></a>
@@ -791,7 +791,7 @@ In the specific context of [UFO crashes]({{ 'ufo-crashes/' | relative_url }}), t
 
 12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Title: roswell ufo [strange metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;) mystery  
+   Title: roswell ufo [strange metal]({{ 'strange-metal/' | relative_url }}) mystery  
    Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 

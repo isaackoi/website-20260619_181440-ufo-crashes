@@ -888,4 +888,4 @@ Within the broader history of [UFO crashes]({{ 'ufo-crashes/' | relative_url }})
    Source: twz.com  
    Title: china seen using radar reflector balloons to defend key targets  
    Link:<a href="https://www.twz.com/china-seen-using-radar-reflector-balloons-to-defend-key-targets" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/china-seen-using-radar-reflector-balloons-to-defend-key-targets</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>China Is Using Radar Reflector Balloons To Defend Critical...5 Dec 2022 — The balloons are meant to confuse [sensors](&amp;#123;&amp;#123; &#x27;sensors/&#x27; | relative_url &amp;#125;&amp;#125;) and weapons from sur...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>China Is Using Radar Reflector Balloons To Defend Critical...5 Dec 2022 — The balloons are meant to confuse [sensors]({{ 'sensors/' | relative_url }}) and weapons from sur...</p></details>

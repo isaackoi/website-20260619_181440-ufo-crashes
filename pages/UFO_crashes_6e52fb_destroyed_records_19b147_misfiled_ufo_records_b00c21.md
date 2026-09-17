@@ -823,7 +823,7 @@ For that reason, serious historical research treats misfiling as a search proble
 10.<a id="endnote-10"></a>
    Source: cia.gov  
    Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) (foia.cia.gov)There has been physical evidence in the shape of unidentified flying objects (UFOs) t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA [FOIA]({{ 'foia/' | relative_url }}) (foia.cia.gov)There has been physical evidence in the shape of unidentified flying objects (UFOs) t...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: centerforinquiry.s3.amazonaws.com  

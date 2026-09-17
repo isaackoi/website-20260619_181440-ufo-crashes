@@ -859,7 +859,7 @@ That is why NASA's search became the story. The most consequential evidence prod
 16.<a id="endnote-16"></a>
    Source: zanotowane.pl  
    Link:<a href="https://zanotowane.pl/1130/4035" target="_blank" rel="noopener noreferrer nofollow">https://zanotowane.pl/1130/4035</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Forty Years Of [Secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) NASA, The Military, And The 1965 Kecksburg Crash...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forty Years Of [Secrecy]({{ 'secrecy/' | relative_url }}) NASA, The Military, And The 1965 Kecksburg Crash...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: retractionwatch.com  

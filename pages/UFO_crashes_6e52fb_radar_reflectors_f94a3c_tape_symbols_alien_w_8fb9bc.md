@@ -811,7 +811,7 @@ This makes the tape symbols one of the clearest examples of a broader pattern in
 
 16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Title: roswell ufo [strange metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;) mystery  
+   Title: roswell ufo [strange metal]({{ 'strange-metal/' | relative_url }}) mystery  
    Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 

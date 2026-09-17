@@ -864,7 +864,7 @@ Conversely, a crash claim becomes more difficult to explain conventionally only 
 4.<a id="endnote-4"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA]({{ 'foia/' | relative_url }}) material and identified the July 8, 1947, FBI teletype message discussing t...</p></details>
    Published: July 8, 1947  
 
 5.<a id="endnote-5"></a>

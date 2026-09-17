@@ -950,7 +950,7 @@ That does not make debris testing pointless. It makes it one of the most useful 
 
 2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Title: Project on Government [Secrecy](&#123;&#123; 'secrecy/' | relative_url &#125;&#125;) GAO Report on Roswell, NM UFO Crash  
+   Title: Project on Government [Secrecy]({{ 'secrecy/' | relative_url }}) GAO Report on Roswell, NM UFO Crash  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 3.<a id="endnote-3"></a>
@@ -1062,7 +1062,7 @@ That does not make debris testing pointless. It makes it one of the most useful 
 
 24.<a id="endnote-24"></a>
    Source: war.gov  
-   Title: department of war releases [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena files in historic t  
+   Title: department of war releases [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena files in historic t  
    Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 25.<a id="endnote-25"></a>

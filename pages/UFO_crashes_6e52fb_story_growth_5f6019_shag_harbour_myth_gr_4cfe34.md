@@ -825,7 +825,7 @@ The result is a useful case study in the growth of UFO crash mythology. A docume
 14.<a id="endnote-14"></a>
    Source: popularmechanics.com  
    Link:<a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only [yellow foam](&amp;#123;&amp;#123; &#x27;yellow-foam/&#x27; | relative_url &amp;#125;&amp;#125;) at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only [yellow foam]({{ 'yellow-foam/' | relative_url }}) at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: globalnews.ca  
@@ -879,7 +879,7 @@ The result is a useful case study in the growth of UFO crash mythology. A docume
 24.<a id="endnote-24"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO crashes](&amp;#123;&amp;#123; &#x27;ufo-crashes/&#x27; | relative_url &amp;#125;&amp;#125;) in Shag Harbour, Nova ScotiaOn October 4, 1967, an amber bowl-shaped object with four flashing lights crashed and sank to the...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[UFO crashes]({{ 'ufo-crashes/' | relative_url }}) in Shag Harbour, Nova ScotiaOn October 4, 1967, an amber bowl-shaped object with four flashing lights crashed and sank to the...</p></details>
    Published: October 4, 1967  
 
 25.<a id="endnote-25"></a>

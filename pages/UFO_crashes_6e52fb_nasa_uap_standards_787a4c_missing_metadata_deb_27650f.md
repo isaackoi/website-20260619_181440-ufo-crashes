@@ -901,7 +901,7 @@ A fragment with a complete recovery history can be examined, tested, challenged,
    Source: Wikipedia  
    Title: Chain of custody  
    Link:<a href="https://en.wikipedia.org/wiki/Chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chain_of_custody</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyChain of custody (CoC), in legal contexts, is the chronological documentation or [paper trail](&amp;#123;&amp;#123; &#x27;paper-trail/&#x27; | relative_url &amp;#125;&amp;#125;) that records the sequence...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of custodyChain of custody (CoC), in legal contexts, is the chronological documentation or [paper trail]({{ 'paper-trail/' | relative_url }}) that records the sequence...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: GOV.UK  
@@ -944,7 +944,7 @@ A fragment with a complete recovery history can be examined, tested, challenged,
 20.<a id="endnote-20"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP]({{ 'nasa-uap/' | relative_url }}) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: reddit.com  

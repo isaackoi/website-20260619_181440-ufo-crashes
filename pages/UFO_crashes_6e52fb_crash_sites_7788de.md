@@ -1006,7 +1006,7 @@ The best crash-site question is therefore not “Is there a marker?” but “Wh
 
 14.<a id="endnote-14"></a>
    Source: space.com  
-   Title: pentagon ufo office [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) historical report no emprical evidence alien technology  
+   Title: pentagon ufo office [aaro]({{ 'aaro/' | relative_url }}) historical report no emprical evidence alien technology  
    Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 15.<a id="endnote-15"></a>

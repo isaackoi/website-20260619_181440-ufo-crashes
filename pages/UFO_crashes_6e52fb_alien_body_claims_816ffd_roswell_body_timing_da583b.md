@@ -822,7 +822,7 @@ For that reason, the [timing]({{ 'timing/' | relative_url }}) of the body claims
    Source: muller.lbl.gov  
    Title: Roswell Incident  
    Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMarcel, had recovered a &quot;flying disc&quot; from the range lands of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) rancher in the vicinity of Roswell and that...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTMarcel, had recovered a &quot;flying disc&quot; from the range lands of an [unidentified]({{ 'unidentified/' | relative_url }}) rancher in the vicinity of Roswell and that...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: frieze.com  

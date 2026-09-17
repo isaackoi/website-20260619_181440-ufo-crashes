@@ -926,7 +926,7 @@ That approach does not guarantee dramatic discoveries. It does, however, maximis
    Source: ckan.publishing.service.gov.uk  
    Title: publishing.service.gov.uk The National Archives  
    Link:<a href="https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3" target="_blank" rel="noopener noreferrer nofollow">https://ckan.publishing.service.gov.uk/organization/the-national-archives?_res_format_limit=0&amp;page=3</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives - Publishers - data.gov.ukThe file shows the data provided by those 21 [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) that transfer 90% of the records sent to...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives - Publishers - data.gov.ukThe file shows the data provided by those 21 [bodies]({{ 'bodies/' | relative_url }}) that transfer 90% of the records sent to...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: opengovernment.ny.gov  

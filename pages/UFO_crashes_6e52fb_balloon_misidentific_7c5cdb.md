@@ -1035,7 +1035,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
 
 13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Title: nasa to release discuss [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena report  
+   Title: nasa to release discuss [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena report  
    Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 14.<a id="endnote-14"></a>
@@ -1102,7 +1102,7 @@ The fairest reading is not that balloons explain every UFO crash claim. It is th
 
 27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Title: The Basement: James Fox | UFO Disclosure, [Varginha](&#123;&#123; 'varginha/' | relative_url &#125;&#125;), and the Captured Creature  
+   Title: The Basement: James Fox | UFO Disclosure, [Varginha]({{ 'varginha/' | relative_url }}), and the Captured Creature  
    Link:<a href="https://www.youtube.com/watch?v=XFxnFHhqtts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFxnFHhqtts</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart Q&amp;A: Alien hybrids, &#x27;Disclosure Day&#x27; and a secret that changed things...</p></details>
 

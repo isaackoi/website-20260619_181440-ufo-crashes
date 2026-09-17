@@ -1135,7 +1135,7 @@ This approach keeps the question open where the evidence is genuinely incomplete
 
 36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Title: UFO files: Congressional hearings, [crash reports](&#123;&#123; 'crash-reports/' | relative_url &#125;&#125;) & intelligence revelations  
+   Title: UFO files: Congressional hearings, [crash reports]({{ 'crash-reports/' | relative_url }}) & intelligence revelations  
    Link:<a href="https://www.youtube.com/watch?v=j5ob3xQRltI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j5ob3xQRltI</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell: The World&#x27;s Biggest Alien Cover-Up Finally Exposed...</p></details>
 

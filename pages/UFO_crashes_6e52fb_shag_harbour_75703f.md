@@ -1006,7 +1006,7 @@ For readers assessing UFO crash claims, Shag Harbour is useful because it shows 
 
 21.<a id="endnote-21"></a>
    Source: archive.org  
-   Title: Canada [FOIA](&#123;&#123; 'foia/' | relative_url &#125;&#125;) Part 17 Pages 4801 5100 djvu.txt  
+   Title: Canada [FOIA]({{ 'foia/' | relative_url }}) Part 17 Pages 4801 5100 djvu.txt  
    Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt</a>  
 
 22.<a id="endnote-22"></a>

@@ -854,7 +854,7 @@ That does not end every dispute about Roswell. Witness testimony, memory, and in
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Title: Roswell Revisited: Witnesses, [Secrecy](&#123;&#123; 'secrecy/' | relative_url &#125;&#125;) & the Official Story That Keeps Changing  
+   Title: Roswell Revisited: Witnesses, [Secrecy]({{ 'secrecy/' | relative_url }}) & the Official Story That Keeps Changing  
    Link:<a href="https://www.youtube.com/watch?v=YJWlJeX6F2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YJWlJeX6F2k</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident 1947 GAO report debris records Metal Piece From 1947 Roswell Incident Analyzed By a Government Lab Anton Petrov...</p></details>
 

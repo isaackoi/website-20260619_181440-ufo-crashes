@@ -934,7 +934,7 @@ For readers evaluating UFO crash claims, that conclusion serves as a reminder th
    Source: elitefasion.com  
    Title: Readers should compare every major crash-retrieval  
    Link:<a href="https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/aaro-historical-record-report-reverse-engineering</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report and Reverse-Engineering ClaimsMay 12, 2026 — The report argues that real [classified programs](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;) were sometimes...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report and Reverse-Engineering ClaimsMay 12, 2026 — The report argues that real [classified programs]({{ 'classified-rumors/' | relative_url }}) were sometimes...</p></details>
    Published: May 12, 2026  
 
 35.<a id="endnote-35"></a>

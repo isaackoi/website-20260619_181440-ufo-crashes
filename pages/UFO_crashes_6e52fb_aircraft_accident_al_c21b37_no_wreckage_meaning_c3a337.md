@@ -824,7 +824,7 @@ In UFO crash debates, the most cautious conclusion is often the most accurate: a
    Source: barringtonmunicipality.com  
    Title: shag harbour ufo incident  
    Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThey were told that there were [no missing aircraft](&amp;#123;&amp;#123; &#x27;no-missing-plane/&#x27; | relative_url &amp;#125;&amp;#125;) reported that evening, e...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsThey were told that there were [no missing aircraft]({{ 'no-missing-plane/' | relative_url }}) reported that evening, e...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: globalnews.ca  

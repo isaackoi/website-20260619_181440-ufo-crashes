@@ -877,7 +877,7 @@ That ambiguity became fertile ground for UFO crash narratives. Once people learn
    Source: gutenberg.org  
    Title: The Roswell Report: Case Closed, by James Mc Andrew—  
    Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul.... Air Force high altitude [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) were responsible...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul.... Air Force high altitude [balloons]({{ 'balloons/' | relative_url }}) were responsible...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: britannica.com  

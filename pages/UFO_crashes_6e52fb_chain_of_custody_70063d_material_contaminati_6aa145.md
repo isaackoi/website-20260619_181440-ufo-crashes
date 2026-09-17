@@ -807,7 +807,7 @@ For alleged UFO crash materials, contamination does not automatically mean a sam
    Published: January 13, 2023  
 
 8.<a id="endnote-8"></a>
-   Source: [aaro](&#123;&#123; 'aaro/' | relative_url &#125;&#125;). mil  
+   Source: [aaro]({{ 'aaro/' | relative_url }}). mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
    Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROSynopsis: Analysis of a Metallic Specimen10 Jul 2024 — Although the origin, chain of custody, and ultimate purpose of this specimen r...</p></details>
@@ -815,7 +815,7 @@ For alleged UFO crash materials, contamination does not automatically mean a sam
 9.<a id="endnote-9"></a>
    Source: envisioning.com  
    Link:<a href="https://www.envisioning.com/research/xenotech/nolan-honeycomb-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nolan-honeycomb-materials</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Metamaterial Honeycomb Structures | XenotechMaterial [provenance](&amp;#123;&amp;#123; &#x27;provenance/&#x27; | relative_url &amp;#125;&amp;#125;) remains contentious—samples reportedly originate from alleged landing sit...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metamaterial Honeycomb Structures | XenotechMaterial [provenance]({{ 'provenance/' | relative_url }}) remains contentious—samples reportedly originate from alleged landing sit...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: nist.gov  

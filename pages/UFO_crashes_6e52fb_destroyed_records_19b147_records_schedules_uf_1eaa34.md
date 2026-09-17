@@ -805,7 +805,7 @@ That is why the most cautious interpretation of missing UFO-related files is als
 10.<a id="endnote-10"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE B...</p></details>
 
 11.<a id="endnote-11"></a>
    Source: ed.gov  

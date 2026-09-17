@@ -830,7 +830,7 @@ For that reason, the MgZn/Bi specimen is often cited less as evidence for a reco
    Source: facebook.com  
    Title: News Nation special correspondent Ross Coulthart joins “  
    Link:<a href="https://www.facebook.com/NewsNationNow/posts/newsnation-special-correspondent-ross-coulthart-joins-morning-in-america-to-disc/722803980126622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/newsnation-special-correspondent-ross-coulthart-joins-morning-in-america-to-disc/722803980126622/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-related material for release to the public. The conversation also touches on recovered alien bodies, government [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;), Pentagon...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-related material for release to the public. The conversation also touches on recovered alien bodies, government [secrecy]({{ 'secrecy/' | relative_url }}), Pentagon...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: instagram.com  

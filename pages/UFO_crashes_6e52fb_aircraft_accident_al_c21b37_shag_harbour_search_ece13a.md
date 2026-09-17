@@ -821,7 +821,7 @@ For researchers comparing UFO crash reports linked to suspected aviation acciden
 
 14.<a id="endnote-14"></a>
    Source: science.gc.ca  
-   Title: Management of Public Reporting of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerial  
+   Title: Management of Public Reporting of [Unidentified]({{ 'unidentified/' | relative_url }}) Aerial  
    Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada.... Archived webpages from Library and Archives Canada, Canada&#x27;s...</p></details>
 

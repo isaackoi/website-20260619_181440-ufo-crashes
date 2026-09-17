@@ -761,7 +761,7 @@ What the evidence clearly shows is narrower. The official effort to identify a m
 
 4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Title: www.canada.ca Request military [records](&#123;&#123; 'records/' | relative_url &#125;&#125;) and service files  
+   Title: www.canada.ca Request military [records]({{ 'records/' | relative_url }}) and service files  
    Link:<a href="https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/contact-us/military-records.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>military records and service files - Canada.caJanuary 29, 2026...</p></details>
    Published: January 29, 2026  

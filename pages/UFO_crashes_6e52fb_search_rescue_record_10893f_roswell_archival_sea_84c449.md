@@ -763,7 +763,7 @@ As a case study in UFO crash investigations, Roswell demonstrates how later reco
 2.<a id="endnote-2"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe GAO audit was completed and the results were published by the Headqua...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe GAO audit was completed and the results were published by the Headqua...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: vault.fbi.gov  

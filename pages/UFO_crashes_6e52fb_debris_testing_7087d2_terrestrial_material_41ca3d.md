@@ -793,7 +793,7 @@ For investigators, the critical distinction is between a material that is unusua
 2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
    Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA](&amp;#123;&amp;#123; &#x27;foia/&#x27; | relative_url &amp;#125;&amp;#125;) material and identified the July 8, 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyGAO Report on Roswell, NM UFO CrashWe reviewed the FBI&#x27;s [FOIA]({{ 'foia/' | relative_url }}) material and identified the July 8, 1947...</p></details>
    Published: July 8, 1947  
 
 3.<a id="endnote-3"></a>
@@ -822,7 +822,7 @@ For investigators, the critical distinction is between a material that is unusua
 7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
    Link:<a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) used to carry equipment aloft...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rubber Brazel noted was similar to the neoprene [balloons]({{ 'balloons/' | relative_url }}) used to carry equipment aloft...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  

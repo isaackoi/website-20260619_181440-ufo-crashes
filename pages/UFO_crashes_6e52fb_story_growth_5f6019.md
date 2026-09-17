@@ -974,7 +974,7 @@ UFO crash stories grow because they sit at the intersection of secrecy, uncertai
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Aztec crashed [saucer hoax](&#123;&#123; 'saucer-hoax/' | relative_url &#125;&#125;)  
+   Title: Aztec crashed [saucer hoax]({{ 'saucer-hoax/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 
 8.<a id="endnote-8"></a>
@@ -1041,7 +1041,7 @@ UFO crash stories grow because they sit at the intersection of secrecy, uncertai
 
 21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Title: NASA [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena Independent Study Team  
+   Title: NASA [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena Independent Study Team  
    Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 22.<a id="endnote-22"></a>

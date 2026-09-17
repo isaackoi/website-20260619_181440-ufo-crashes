@@ -782,7 +782,7 @@ Within the broader history of UFO crash claims, the appearance of alien bodies o
 7.<a id="endnote-7"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zfj0nd/these_are_the_dummy_types_the_air_force_claims/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude [balloons](&amp;#123;&amp;#123; &#x27;balloons/&#x27; | relative_url &amp;#125;&amp;#125;) for...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ies that were carried aloft by US Air Force high altitude [balloons]({{ 'balloons/' | relative_url }}) for...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: time.com  
@@ -832,7 +832,7 @@ Within the broader history of UFO crash claims, the appearance of alien bodies o
 16.<a id="endnote-16"></a>
    Source: dafhistory.af.mil  
    Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort information regarding an alleged crash of an [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying object (UFO) tha...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThis report represents a joint effort information regarding an alleged crash of an [unidentified]({{ 'unidentified/' | relative_url }}) flying object (UFO) tha...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: hangar1publishing.com  

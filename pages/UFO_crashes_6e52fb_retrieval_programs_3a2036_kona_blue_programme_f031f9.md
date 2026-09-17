@@ -833,7 +833,7 @@ For readers evaluating military retrieval stories, KONA BLUE provides a useful c
 
 13.<a id="endnote-13"></a>
    Source: dhs.gov  
-   Title: 25 0723 [foia](&#123;&#123; 'foia/' | relative_url &#125;&#125;) dhs st foia log fy2024  
+   Title: 25 0723 [foia]({{ 'foia/' | relative_url }}) dhs st foia log fy2024  
    Link:<a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE, would restart UAP investigations, paranormal research (including alleged &quot;human consciousness anomalies”)...Read more...</p></details>
 
@@ -857,7 +857,7 @@ For readers evaluating military retrieval stories, KONA BLUE provides a useful c
 17.<a id="endnote-17"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=PJk5cmxaCWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJk5cmxaCWQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Government [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;), nuclear weapons, public investigation | UFO Mysteries...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Government [secrecy]({{ 'secrecy/' | relative_url }}), nuclear weapons, public investigation | UFO Mysteries...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
@@ -874,4 +874,4 @@ For readers evaluating military retrieval stories, KONA BLUE provides a useful c
    Source: youtube.com  
    Title: UFO research: Scientists, spies and push for disclosure | UFO Mysteries  
    Link:<a href="https://www.youtube.com/watch?v=ahTxgnexVjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahTxgnexVjM</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) craft claims &amp; secret studies into aerial phenomena | UFO Mysteries...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: [Unidentified]({{ 'unidentified/' | relative_url }}) craft claims &amp; secret studies into aerial phenomena | UFO Mysteries...</p></details>

@@ -842,7 +842,7 @@ In the context of official reviews of UFO crash allegations, NASA's position is 
 
 16.<a id="endnote-16"></a>
    Source: popsci.com  
-   Title: [nasa uap](&#123;&#123; 'nasa-uap/' | relative_url &#125;&#125;) report findings  
+   Title: [nasa uap]({{ 'nasa-uap/' | relative_url }}) report findings  
    Link:<a href="https://www.popsci.com/technology/nasa-uap-report-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/nasa-uap-report-findings/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNASA wants to use AI to study unidentified aerial...14 Sept 2023 — “Existing data and eyewitness reports alone are insuff...</p></details>
 

@@ -832,7 +832,7 @@ The distinction is important. A fragment can look strange, test strangely or eve
 9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  

@@ -767,7 +767,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
    Source: youtube.com  
    Title: The Roswell Incident  
    Link:<a href="https://www.youtube.com/watch?v=wWTCJY24b3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wWTCJY24b3o</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies](&amp;#123;&amp;#123; &#x27;bodies/&#x27; | relative_url &amp;#125;&amp;#125;) in Roswell?...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were there actually ALIEN [bodies]({{ 'bodies/' | relative_url }}) in Roswell?...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: youtube.com  
@@ -794,7 +794,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
 
 12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Title: roswell ufo [strange metal](&#123;&#123; 'strange-metal/' | relative_url &#125;&#125;) mystery  
+   Title: roswell ufo [strange metal]({{ 'strange-metal/' | relative_url }}) mystery  
    Link:<a href="https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/roswell-ufo-strange-metal-mystery/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO &#x27;Strange Metal&#x27; Mystery22 Nov 2017 — It was soon identified as a weather balloon, although, in fact, as we now know, it was a...</p></details>
 
@@ -814,7 +814,7 @@ For the history of UFO crashes, the significance lies in the physical evidence. 
    Source: reddit.com  
    Title: Roswell Incident?  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tfzswq/roswell_incident_after_reading_the_declassified/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>After reading the declassified documents...They used aluminum [foil and balsa](&amp;#123;&amp;#123; &#x27;foil-and-balsa/&#x27; | relative_url &amp;#125;&amp;#125;) wood connected by tape that was obtained from a local toy s...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After reading the declassified documents...They used aluminum [foil and balsa]({{ 'foil-and-balsa/' | relative_url }}) wood connected by tape that was obtained from a local toy s...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  

@@ -859,7 +859,7 @@ Viewed through the broader NASA framework for UAP evidence, this is precisely wh
 19.<a id="endnote-19"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/aliens/comments/1sdp1ib/serious_found_something_in_how_ai_handles_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sdp1ib/serious_found_something_in_how_ai_handles_uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>nd [whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;) asserting non-human craft, extraterrestrial...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd [whistleblowers]({{ 'whistleblowers/' | relative_url }}) asserting non-human craft, extraterrestrial...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: aaro.org  

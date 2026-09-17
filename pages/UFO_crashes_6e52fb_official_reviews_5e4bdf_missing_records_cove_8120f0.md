@@ -775,7 +775,7 @@ The central lesson from official reviews is that uncertainty is not evidence. A 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO and UAP-related Records24 Apr 2025 — NARA has records related to [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects (UFO) and unidentified...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO and UAP-related Records24 Apr 2025 — NARA has records related to [unidentified]({{ 'unidentified/' | relative_url }}) flying objects (UFO) and unidentified...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: sgp.fas.org  
@@ -832,7 +832,7 @@ The central lesson from official reviews is that uncertainty is not evidence. A 
 
 15.<a id="endnote-15"></a>
    Source: media.defense.gov  
-   Title: DOPSR 2024 0263 [AARO](&#123;&#123; 'aaro/' | relative_url &#125;&#125;) HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Title: DOPSR 2024 0263 [AARO]({{ 'aaro/' | relative_url }}) HISTORICAL RECORD REPORT VOLUME 1 2024  
    Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 

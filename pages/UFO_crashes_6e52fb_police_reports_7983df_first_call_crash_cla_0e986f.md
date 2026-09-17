@@ -808,7 +808,7 @@ For that reason, the strongest role of first-call records is not proving a UFO c
 3.<a id="endnote-3"></a>
    Source: openskiesproject.org  
    Link:<a href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.openskiesproject.org/news/kinross-incident</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kinross IncidentSome say the [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) aircraft was first spotted near the Soo Locks, some say the F-89 Scorpion actually chased t...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kinross IncidentSome say the [unidentified]({{ 'unidentified/' | relative_url }}) aircraft was first spotted near the Soo Locks, some say the F-89 Scorpion actually chased t...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: police1.com  
@@ -878,4 +878,4 @@ For that reason, the strongest role of first-call records is not proving a UFO c
    Source: aol.com  
    Title: military divers claimed found ufo 220800901  
    Link:<a href="https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>pier sticks out into water on right. Are These Two [UFO Crashes](&amp;#123;&amp;#123; &#x27;ufo-crashes/&#x27; | relative_url &amp;#125;&amp;#125;) Secretly Linked? Getty Images. (...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pier sticks out into water on right. Are These Two [UFO Crashes]({{ 'ufo-crashes/' | relative_url }}) Secretly Linked? Getty Images. (...Read more...</p></details>

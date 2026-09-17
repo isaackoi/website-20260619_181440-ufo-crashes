@@ -990,7 +990,7 @@ This is one reason official reviews of UFO and UAP claims continue to distinguis
 
 25.<a id="endnote-25"></a>
    Source: avi-loeb.medium.com  
-   Title: a new calculation on the fly to the [nasa uap](&#123;&#123; 'nasa-uap/' | relative_url &#125;&#125;) study 2dacaf860cac  
+   Title: a new calculation on the fly to the [nasa uap]({{ 'nasa-uap/' | relative_url }}) study 2dacaf860cac  
    Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe NASA Study will examine unclassified data on UAP in an attempt to separate...</p></details>
 

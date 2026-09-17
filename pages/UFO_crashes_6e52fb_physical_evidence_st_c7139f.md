@@ -1138,7 +1138,7 @@ For UFO crashes, the decisive evidence would not be a rumour of a hidden hangar 
 38.<a id="endnote-38"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=EEMJoZvN-dQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EEMJoZvN-dQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>How Military [Sensors](&amp;#123;&amp;#123; &#x27;sensors/&#x27; | relative_url &amp;#125;&amp;#125;) Proved UFO Craft Were Physically Real | WION Podcast...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Military [Sensors]({{ 'sensors/' | relative_url }}) Proved UFO Craft Were Physically Real | WION Podcast...</p></details>
 
 39.<a id="endnote-39"></a>
    Source: arxiv.org  

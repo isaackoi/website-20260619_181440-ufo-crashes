@@ -1086,7 +1086,7 @@ The strongest UFO crash claim would be one in which the material, the site recor
 
 26.<a id="endnote-26"></a>
    Source: war.gov  
-   Title: department of war releases [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena files in historic t  
+   Title: department of war releases [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena files in historic t  
    Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 27.<a id="endnote-27"></a>

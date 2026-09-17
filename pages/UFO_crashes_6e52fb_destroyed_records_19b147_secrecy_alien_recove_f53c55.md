@@ -811,7 +811,7 @@ Cold War history shows a more complicated reality. Governments genuinely conceal
 6.<a id="endnote-6"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying ObjectsThe GAO audit was completed and the results were published by the Headquarters, U.S...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying ObjectsThe GAO audit was completed and the results were published by the Headquarters, U.S...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: war.gov  

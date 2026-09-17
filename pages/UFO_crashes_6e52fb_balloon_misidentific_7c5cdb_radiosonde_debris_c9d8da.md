@@ -838,7 +838,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
    Source: nsa.gov  
    Title: report af roswell  
    Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — [Records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) were located and thoroughly explored concerning a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agencyreport of air force research regarding the21 Jul 1994 — [Records]({{ 'records/' | relative_url }}) were located and thoroughly explored concerning a...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
@@ -882,7 +882,7 @@ For that reason, recovered radiosonde debris occupies an important place in the 
 23.<a id="endnote-23"></a>
    Source: facebook.com  
    Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>alloons, was part of Project MOGUL - a [classified program](&amp;#123;&amp;#123; &#x27;classified-rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alloons, was part of Project MOGUL - a [classified program]({{ 'classified-rumors/' | relative_url }})...Read more...</p></details>
 
 24.<a id="endnote-24"></a>
    Source: facebook.com  

@@ -993,7 +993,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Aztec crashed [saucer hoax](&#123;&#123; 'saucer-hoax/' | relative_url &#125;&#125;)  
+   Title: Aztec crashed [saucer hoax]({{ 'saucer-hoax/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 
 6.<a id="endnote-6"></a>
@@ -1053,7 +1053,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
 
 17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Title: NASA [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena Independent Study Team  
+   Title: NASA [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena Independent Study Team  
    Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 18.<a id="endnote-18"></a>
@@ -1186,7 +1186,7 @@ The central lesson is simple: in crash narratives, bodies are not just an added 
    Source: youtube.com  
    Title: Project Blue Book: Alien Autopsy Hoax Uncovered (Season 2) | History  
    Link:<a href="http://www.youtube.com/watch?v=x4-hGxSJhjI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=x4-hGxSJhjI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report crash dummies anthropomorphic dummies explained &#x27;Non-human&#x27; remains found at UFO [crash sites](&amp;#123;&amp;#123; &#x27;crash-sites/&#x27; | relative_url &amp;#125;&amp;#125;) - whistleblower Channel 4 News...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report crash dummies anthropomorphic dummies explained &#x27;Non-human&#x27; remains found at UFO [crash sites]({{ 'crash-sites/' | relative_url }}) - whistleblower Channel 4 News...</p></details>
 
 45.<a id="endnote-45"></a>
    Source: youtube.com  
