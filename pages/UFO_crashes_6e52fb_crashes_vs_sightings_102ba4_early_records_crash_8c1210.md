@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:32:44'
 level: 3
 basename: UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_early_records_crash_8c1210
 parent_basename: UFO_crashes_6e52fb_crashes_vs_sightings_102ba4

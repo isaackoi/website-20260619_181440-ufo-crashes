@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:32:44'
 level: 3
 basename: UFO_crashes_6e52fb_physical_evidence_st_c7139f_crash_debris_chain_c_5b4b0a
 parent_basename: UFO_crashes_6e52fb_physical_evidence_st_c7139f
